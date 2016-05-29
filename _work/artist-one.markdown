@@ -12,6 +12,7 @@ research_links:
   Press Link Two: www.artforum.com
 catalog_link:
   Catalog: www.google.com
+layout: artist
 ---
 
 This is the artists bio.
