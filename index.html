@@ -4,20 +4,33 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Space</h1>
 
   <ul class="post-list">
-    {% for space in site.space %}
+    {% for exhibition in site.space %}
       <li>
-        <span class="post-meta">{{ space.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ exhibition.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ space.url | prepend: site.baseurl }}">{{ space.title }}</a>
+          <a class="post-link" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
         </h2>
       </li>
     {% endfor %}
   </ul>
 
+  <h1 class="page-heading">Work</h1>
+
+  <ul class="post-list">
+    {% for artist in site.work %}
+      <li>
+        <span class="post-meta">{{ artist.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ artist.url | prepend: site.baseurl }}">{{ artist.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
