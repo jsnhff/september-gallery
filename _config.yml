@@ -11,8 +11,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-  word:
-    title: Word
+  work:
+    title: Work
     output: true
 email: your-email@domain.com
 description: |
