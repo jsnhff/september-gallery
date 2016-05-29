@@ -24,7 +24,9 @@ layout: default
           </li>
           {% endfor %}
       </ul>
-      <a href="{{ page.catalog_link[1] }}" title="{{ page.catalog_link[0] }}">{{ page.catalog_link[0] }}</a>
+      {% for catalog in page.catalog_link %}
+          <a href="{{ catalog[1] }}" title="{{ catalog[0] }}">{{ catalog[0] }}</a>
+      {% endfor %}
   </div>
 
 </article>
