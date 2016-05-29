@@ -22,6 +22,16 @@ defaults:
     layout: artist
     title: Artist Name
     is_represented: false
+    key_image: ''
+    exhibition_links:
+      Link Title One: www.link.com
+      Link Title Two: www.link.com
+    images: ''
+    research_links:
+      Link One: www.link.com
+      Link Two: www.link.com
+    catalog_link:
+      Catalog: www.link.com
 - scope:
     path: ''
     type: space
@@ -36,29 +46,3 @@ url: http://yourdomain.com
 twitter_username: jsnhff
 github_username: jsnhff
 markdown: kramdown
-defaults:
-    -
-        scope:
-            path: ""
-            type: "work"
-        values:
-            layout: "artist"
-            title: "Artist Name"
-            is_represented: false
-            key_image: ""
-            exhibition_links:
-                Link Title One: "www.link.com"
-                Link Title Two: "www.link.com"
-            images: ""
-            research_links:
-                Link One: "www.link.com"
-                Link Two: "www.link.com"
-            catalog_link:
-                Catalog: "www.link.com"
-    -
-        scope:
-            path: ""
-            type: "space"
-        values:
-            layout: "exhibition"
-            title: "Exhibition Name"
