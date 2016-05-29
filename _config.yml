@@ -20,5 +20,5 @@ description: |
 baseurl: 
 url: http://yourdomain.com
 twitter_username: jekyllrb
-github_username: jekyll
+github_username: jsnhff
 markdown: kramdown
