@@ -2,9 +2,6 @@
 title: Your awesome title
 timezone: America/New_York
 collections:
-  posts:
-    title: Posts
-    output: true
   space:
     title: Space
     output: true
