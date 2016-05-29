@@ -5,6 +5,7 @@ is_represented: true
 key_image: 
 exhibition_links:
   Show Title: www.google.com
+  Show: www.google.com
 images: 
 research_links:
   Interview: www.google.com
