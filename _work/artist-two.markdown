@@ -1,5 +1,5 @@
 ---
-title: Artist One
+title: Artist Two
 date: 2016-05-29 16:05:00 -04:00
 is_represented: true
 key_image: "/uploads/lindsay-dog.png"
