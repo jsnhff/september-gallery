@@ -8,22 +8,23 @@ layout: default
   </header>
 
   <div class="">
-      <ul>
-          {% for exhibition in page.exhibition_links %}
-          <li>
-              <a href="{{ exhibition[1] }}" title="{{ exhibition[0]">{{ exhibition[0] }}</a>
-          </li>
-          {% endfor %}
-      </ul>
-      <a href="{{ page.images }}" title="Images">Images</a>
-
+      {% for exhibition in page.exhibition_links %}
+            {% if forloop.first == true %}
+            <a href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{{ exhibition[0] }}</a>
+            {% else %}
+            , <a href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{{ exhibition[0] }}</a>
+            {% endif %}
+            {% endfor %}
+            <br><br>
+      <a href="{{ page.images }}" title="Images">Images &#8599;</a>
+      <br><br>
       <!-- Artist bio -->
       {{ content }}
 
       <ul>
           {% for link in page.research_links %}
           <li>
-              <a href="{{ link[1] }}" title="{{ link[0]">{{ link[0] }}</a>
+          <a href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
           </li>
           {% endfor %}
       </ul>
