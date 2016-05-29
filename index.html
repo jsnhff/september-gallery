@@ -23,7 +23,7 @@ layout: default
   <ul class="post-list">
     {% for artist in site.work %}
       <li>
-        <span class="post-meta">{{ artist.date | date: "%b %-d, %Y" }}</span>
+      <span class="post-meta">{{ artist.is_represented | capitalize }}</span>
 
         <h2>
           <a class="post-link" href="{{ artist.url | prepend: site.baseurl }}">{{ artist.title }}</a>

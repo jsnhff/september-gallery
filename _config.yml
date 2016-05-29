@@ -22,3 +22,19 @@ url: http://yourdomain.com
 twitter_username: jsnhff
 github_username: jsnhff
 markdown: kramdown
+defaults:
+    -
+        scope:
+            path: ""
+            type: "work"
+        values:
+            layout: "artist"
+            title: "Artist Name"
+            is_represented: false
+    -
+        scope:
+            path: ""
+            type: "space"
+        values:
+            layout: "exhibition"
+            title: "Exhibition Name"
