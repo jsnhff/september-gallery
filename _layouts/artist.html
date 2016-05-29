@@ -9,12 +9,8 @@ layout: default
 
   <div class="">
       {% for exhibition in page.exhibition_links %}
-            {% if forloop.first == true %}
-            <a href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{{ exhibition[0] }}</a>
-            {% else %}
-            , <a href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{{ exhibition[0] }}</a>
-            {% endif %}
-            {% endfor %}
+      <a href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ exhibition[0] }}</a>
+    {% endfor %}
             <br><br>
       <a href="{{ page.images }}" title="Images">Images &#8599;</a>
       <br><br>
@@ -28,6 +24,7 @@ layout: default
           </li>
           {% endfor %}
       </ul>
+      <a href="{{ page.catalog_link[1] }}" title="{{ page.catalog_link[0] }}">{{ page.catalog_link[0] }}</a>
   </div>
 
 </article>
