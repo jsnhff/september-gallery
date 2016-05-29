@@ -14,6 +14,20 @@ collections:
   work:
     title: Work
     output: true
+defaults:
+- scope:
+    path: ''
+    type: work
+  values:
+    layout: artist
+    title: Artist Name
+    is_represented: false
+- scope:
+    path: ''
+    type: space
+  values:
+    layout: exhibition
+    title: Exhibition Name
 email: jsnhff@gmail.com
 description: |
   September Gallery.
