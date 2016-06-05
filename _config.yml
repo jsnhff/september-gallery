@@ -41,8 +41,8 @@ defaults:
 email: jsnhff@gmail.com
 description: |
   September Gallery.
-physical_address: "449 Warren Street Hudson, NY 12534"
-hours_of_operation: "Friday through Monday 12 to Six"
+physical_address: 449 Warren Street Hudson, NY 12534
+hours_of_operation: Friday through Monday 12 to Six
 baseurl: 
 url: http://yourdomain.com
 twitter_username: jsnhff
