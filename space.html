@@ -2,37 +2,44 @@
 layout: default
 ---
 
-<h1 class="">Space</h1>
+<div class="col col-2">
+    Navigation
+    Now
+    After
+    Before
+</div>
 
-<ul class="list-reset">
+<ul class="list-reset col col-10">
     {% for exhibition in site.space %}
-    <li>
-    <div class="">
-        <img src="{{ exhibition.key_image }}" title="{{ exhibition.title }}"/>
+    <li class="block clearfix mb4">
+    <div class="col col-5 mr2">
+        <img class="fit" src="{{ exhibition.key_image }}" title="{{ exhibition.title }}"/>
     </div>
-    <header class="">
-    <h1 class="">{{ exhibition.title }}</h1>
-    </header>
+    <div class="col col-t">
+        <header class="">
+        <h1 class="">{{ exhibition.title }}</h1>
+        </header>
 
-    <div class="">
-        {% for exhibition in exhibition.artist_links %}
-        <a href="{{ artist[1] }}" title="{{ artist[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ artist[0] }}</a>
-        {% endfor %}
-        <br><br>
-        <a href="{{ exhibition.images }}" title="Images">Images &#8599;</a>
-        <br><br>
-        <!-- Exhibition statement -->
-        {{ content }}
-
-        <ul>
-            {% for link in exhibition.research_links %}
-            <li>
-            <a href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
-            </li>
+        <div class="">
+            {% for exhibition in exhibition.artist_links %}
+            <a href="{{ artist[1] }}" title="{{ artist[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ artist[0] }}</a>
             {% endfor %}
-        </ul>
+            <br><br>
+            <a href="{{ exhibition.images }}" title="Images">Images &#8599;</a>
+            <br><br>
+            <!-- Exhibition statement -->
+            {{ content }}
+
+            <ul>
+                {% for link in exhibition.research_links %}
+                <li>
+                <a href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <a class="" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
     </div>
-    <a class="" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
     </li>
     {% endfor %}
 </ul>
