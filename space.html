@@ -21,6 +21,7 @@ layout: default
         </header>
 
         <div class="">
+            <h4 class="">{{ exhibition.start_date | date: '%B %d, %Y' }} to {{ exhibition.end_date | date: '%B %d, %Y' }}</h4>
             {% for artist in exhibition.artist_links %}
             <a href="{{ artist[1] }}" title="{{ artist[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ artist[0] }}</a>
             {% endfor %}
