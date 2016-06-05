@@ -27,7 +27,7 @@ layout: default
             <a href="{{ artist.images }}" title="Images">Images &#8599;</a>
             <br><br>
             <!-- Artist bio -->
-            {{ content }}
+            {{ artist.content }}
 
         <a class="" href="{{ artist.url | prepend: site.baseurl }}">{{ artist.title }}</a>
     </div>
