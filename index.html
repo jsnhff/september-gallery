@@ -2,35 +2,23 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Space</h1>
-
-  <ul class="post-list">
-    {% for exhibition in site.space %}
-      <li>
-        <span class="post-meta">{{ exhibition.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <h1 class="page-heading">Work</h1>
-
-  <ul class="post-list">
-    {% for artist in site.work %}
-      <li>
-      <span class="post-meta">{{ artist.is_represented | capitalize }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ artist.url | prepend: site.baseurl }}">{{ artist.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="clearfix">
+    <div class="col col-6 left-align">
+        <a href="" title="Work">Work</a>
+    </div>
+    <div class="col col-6 right-align">
+        <a href="" title="Space">Space</a>
+    </div>
+</div>
+<div class="clearfix">
+    <div class="col col-4 left-align">
+        <a href="" title="Address: {{ site.physical_address }}">{{ site.physical_address }}</a>
+    </div>
+    <div class="col col-4 center">
+        <!-- TODO: Make this dynamic based on gallery hours -->
+        <a href="" title="Work">Open</a>
+    </div>
+    <div class="col col-4 right-align">
+        <a href="" title="Hours: {{ site.hours_of_operation }}">{{ site.hours_of_operation }}</a>
+    </div>
 </div>

@@ -1,38 +1,19 @@
-<footer class="site-footer">
+<footer class="max-width-4 mx-auto">
 
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+{% if page.url == "/" %}
+  <div class="clearfix">
+      <div class="col col-4 left-align">
+          <p>{{ site.physical_address }}</p>
       </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
+      <div class="col col-4 center">
+          <h4 class="">{{ site.title }}</h4>
       </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+      <div class="col col-4 right-align">
+          <p>{{ site.hours_of_operation }}</p>
       </div>
-    </div>
 
   </div>
+  {% else %}
+  {% endif %}
 
 </footer>
