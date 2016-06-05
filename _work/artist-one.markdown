@@ -1,8 +1,8 @@
 ---
 title: Artist One
 date: 2016-05-29 16:05:00 -04:00
+key_image: "/uploads/placeholder_image.png"
 is_represented: true
-key_image: "/uploads/Screen Shot 2016-05-07 at 9.06.24 AM.png"
 exhibition_links:
   Show Title: www.show-one.com
   Show: www.show-two.com
