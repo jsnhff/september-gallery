@@ -15,4 +15,4 @@ catalog_link:
 layout: artist
 ---
 
-This is the artists bio.
+This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio.
