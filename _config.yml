@@ -21,8 +21,8 @@ defaults:
   values:
     layout: artist
     title: Artist Name
-    is_represented: false
     key_image: ''
+    is_represented: false
     exhibition_links:
       Link Title One: www.link.com
       Link Title Two: www.link.com
@@ -38,6 +38,18 @@ defaults:
   values:
     layout: exhibition
     title: Exhibition Name
+    key_image: ''
+    start_date: ''
+    end_date: ''
+    artist_links:
+      Artist Name One: www.link.com
+      Artist Namte Two: www.link.com
+    images: ''
+    research_links:
+      Link One: www.link.com
+      Link Two: www.link.com
+    catalog_link:
+      Catalog: www.link.com
 email: jsnhff@gmail.com
 description: |
   September Gallery.
