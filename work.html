@@ -4,11 +4,9 @@ layout: default
 
 <h1 class="">Work</h1>
 
-<ul class="">
+<ul class="list-reset">
     {% for artist in site.work %}
     <li>
-    <span class="">{{ artist.date | date: "%b %-d, %Y" }}</span>
-
     <h2>
         <a class="" href="{{ artist.url | prepend: site.baseurl }}">{{ artist.title }}</a>
     </h2>
