@@ -1,19 +1,19 @@
 <footer class="max-width-4 mx-auto">
 
 {% if page.url == "/" %}
-  <div class="clearfix">
-      <div class="col col-4 left-align">
-          <p>{{ site.physical_address }}</p>
-      </div>
-      <div class="col col-4 center">
-          <h4 class="">{{ site.title }}</h4>
-      </div>
-      <div class="col col-4 right-align">
-          <p>{{ site.hours_of_operation }}</p>
-      </div>
-
-  </div>
-  {% else %}
-  {% endif %}
+<!-- TODO: Add anything here that needs to appear on the homepage -->
+{% else %}
+<div class="clearfix">
+    <div class="col col-4 left-align">
+        <p>{{ site.physical_address }}</p>
+    </div>
+    <div class="col col-4 center">
+        <h4 class="">{{ site.title }}</h4>
+    </div>
+    <div class="col col-4 right-align">
+        <p>{{ site.hours_of_operation }}</p>
+    </div>
+</div>
+{% endif %}
 
 </footer>
