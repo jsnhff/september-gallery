@@ -4,14 +4,35 @@ layout: default
 
 <h1 class="">Space</h1>
 
-<ul class="">
+<ul class="list-reset">
     {% for exhibition in site.space %}
     <li>
-    <span class="">{{ exhibition.date | date: "%b %-d, %Y" }}</span>
+    <div class="">
+        <img src="{{ exhibition.key_image }}" title="{{ exhibition.title }}"/>
+    </div>
+    <header class="">
+    <h1 class="">{{ exhibition.title }}</h1>
+    </header>
 
-    <h2>
-        <a class="" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
-    </h2>
+    <div class="">
+        {% for exhibition in exhibition.artist_links %}
+        <a href="{{ artist[1] }}" title="{{ artist[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ artist[0] }}</a>
+        {% endfor %}
+        <br><br>
+        <a href="{{ exhibition.images }}" title="Images">Images &#8599;</a>
+        <br><br>
+        <!-- Exhibition statement -->
+        {{ content }}
+
+        <ul>
+            {% for link in exhibition.research_links %}
+            <li>
+            <a href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <a class="" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
     </li>
     {% endfor %}
 </ul>
