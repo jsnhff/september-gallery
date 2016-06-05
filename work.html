@@ -7,9 +7,35 @@ layout: default
 <ul class="list-reset">
     {% for artist in site.work %}
     <li>
-    <h2>
-        <a class="" href="{{ artist.url | prepend: site.baseurl }}">{{ artist.title }}</a>
-    </h2>
+    <div class="">
+        <img src="{{ artist.key_image }}" title="{{ artist.title }}"/>
+    </div>
+    <header class="">
+    <h1 class="">{{ artist.title }}</h1>
+    </header>
+
+    <div class="">
+        {% for exhibition in artist.exhibition_links %}
+        <a href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ exhibition[0] }}</a>
+        {% endfor %}
+        <br><br>
+        <a href="{{ artist.images }}" title="Images">Images &#8599;</a>
+        <br><br>
+        <!-- Artist bio -->
+        {{ content }}
+
+        <ul>
+            {% for link in artist.research_links %}
+            <li>
+            <a href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+            </li>
+            {% endfor %}
+        </ul>
+        {% for catalog in artist.catalog_link %}
+        <a href="{{ catalog[1] }}" title="{{ catalog[0] }}">{{ catalog[0] }}</a>
+        {% endfor %}
+    </div>
+    <a class="" href="{{ artist.url | prepend: site.baseurl }}">{{ artist.title }}</a>
     </li>
     {% endfor %}
 </ul>
