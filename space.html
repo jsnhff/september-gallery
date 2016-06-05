@@ -21,7 +21,7 @@ layout: default
         </header>
 
         <div class="">
-            {% for exhibition in exhibition.artist_links %}
+            {% for artist in exhibition.artist_links %}
             <a href="{{ artist[1] }}" title="{{ artist[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ artist[0] }}</a>
             {% endfor %}
             <br><br>
