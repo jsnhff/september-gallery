@@ -2,6 +2,16 @@
 layout: default
 ---
 
-<div class="">
-    SPACE
-</div>
+<h1 class="">Space</h1>
+
+<ul class="">
+    {% for exhibition in site.space %}
+    <li>
+    <span class="">{{ exhibition.date | date: "%b %-d, %Y" }}</span>
+
+    <h2>
+        <a class="" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
+    </h2>
+    </li>
+    {% endfor %}
+</ul>
