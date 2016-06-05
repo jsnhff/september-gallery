@@ -2,11 +2,10 @@
 title: Artist Two
 date: 2016-05-29 16:05:00 -04:00
 is_represented: false
-key_image: "/uploads/lindsay-dog.png"
+key_image: "/uploads/Screen Shot 2016-05-07 at 9.06.24 AM.png"
 exhibition_links:
   Show Title: www.google.com
   Show: www.google.com
-images: 
 research_links:
   Interview: www.google.com
   Press Link One: www.artinamerica.com
