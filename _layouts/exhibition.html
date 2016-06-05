@@ -11,13 +11,13 @@ layout: default
   </header>
 
   <div class="">
-      {% for exhibition in page.exhibition_links %}
-      <a href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ exhibition[0] }}</a>
-    {% endfor %}
-            <br><br>
+      {% for exhibition in page.artist_links %}
+      <a href="{{ artist[1] }}" title="{{ artist[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ artist[0] }}</a>
+      {% endfor %}
+      <br><br>
       <a href="{{ page.images }}" title="Images">Images &#8599;</a>
       <br><br>
-      <!-- Artist bio -->
+      <!-- Exhibition statement -->
       {{ content }}
 
       <ul>
@@ -27,9 +27,6 @@ layout: default
           </li>
           {% endfor %}
       </ul>
-      {% for catalog in page.catalog_link %}
-          <a href="{{ catalog[1] }}" title="{{ catalog[0] }}">{{ catalog[0] }}</a>
-      {% endfor %}
   </div>
 
 </article>
