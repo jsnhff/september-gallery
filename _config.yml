@@ -61,17 +61,6 @@ facebook_username: jsnhff
 instagram_username: jsnhff
 markdown: kramdown
 gallery_hours:
-  sunday-open: 10:00am
-  sunday-close: 3:30pm
-  monday-open: 0
-  monday-close: 0
-  Tuesday Open: 0
-  Tuesday Close: 0
-  Wednesday Open: 0
-  Wednesday Close: 0
-  Thursday Open: 0
-  Thursday Close: 0
-  Friday Open: 11:00am
-  Friday Close: 5:00pm
-  Saturday Open: 12:00pm
-  Saturday Close: 6:30pm
+  sunday:
+  - 10:00am
+  - 3:30pm
