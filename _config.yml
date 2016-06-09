@@ -1,3 +1,4 @@
+---
 title: September
 timezone: America/New_York
 collections:
@@ -59,7 +60,7 @@ url: http://yourdomain.com
 twitter_username: jsnhff
 github_username: jsnhff
 markdown: kramdown
-gallery_hours: 
+gallery_hours:
   sunday-open: 10:00am
   sunday-close: 3:30pm
   monday-open: 0
