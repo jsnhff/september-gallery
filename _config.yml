@@ -61,6 +61,6 @@ facebook_username: jsnhff
 instagram_username: jsnhff
 markdown: kramdown
 gallery_hours:
-  sunday:
+  sunday: Sunday
   - open: 10:00am
   - close: 3:30pm
