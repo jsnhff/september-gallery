@@ -2,7 +2,7 @@
 title: Gallery Hours
 date: 2016-06-08 20:11:00 -04:00
 published: false
-Field name:
+gallery_hours:
   sunday-open: 10:00am
   sunday-close: 3:30pm
   monday-open: 0
