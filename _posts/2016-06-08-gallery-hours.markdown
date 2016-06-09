@@ -3,10 +3,10 @@ title: Gallery Hours
 date: 2016-06-08 20:11:00 -04:00
 published: false
 Field name:
-  Sunday Open: 10:00am
-  Sunday Close: 3:30pm
-  Monday Open: 0
-  Monday Close: 0
+  sunday-open: 10:00am
+  sunday-close: 3:30pm
+  monday-open: 0
+  monday-close: 0
   Tuesday Open: 0
   Tuesday Close: 0
   Wednesday Open: 0
