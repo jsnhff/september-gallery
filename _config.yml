@@ -57,8 +57,8 @@ physical_address: 449 Warren Street Hudson, NY 12534
 hours_of_operation: Friday through Monday 12 to Six
 baseurl: 
 url: http://yourdomain.com
-twitter_username: jsnhff
-github_username: jsnhff
+facebook_username: jsnhff
+instagram_username: jsnhff
 markdown: kramdown
 gallery_hours:
   sunday-open: 10:00am
