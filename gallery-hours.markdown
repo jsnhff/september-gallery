@@ -5,3 +5,6 @@ published: false
 Field name: 
 ---
 
+This is a hidden file that stores the gallery's open hours.
+
+Instructions:
