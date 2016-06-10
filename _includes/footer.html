@@ -1,5 +1,4 @@
 <footer class="max-width-4 mx-auto">
-
 {% if page.url == "/" %}
 <!-- TODO: Add anything here that needs to appear on the homepage -->
 {% else %}
@@ -9,7 +8,7 @@
     </div>
     <div class="col col-4 center">
         <!-- TODO: Make this dynamic based on gallery hours -->
-        <p>Open</p>
+        <p id="js-gallery-hours" class="white">Open</p>
     </div>
     <div class="col col-4 right-align">
         <p>{{ site.hours_of_operation }}</p>
@@ -17,6 +16,10 @@
 </div>
 {% endif %}
 
+<!-- Gallery hours. Only used by robots, but also readable by humans. Hi! -->
+<!-- currently garbage and only need this if we get the logic working -->
+
 <!-- Script magic -->
+<script src="{{ "/scripts/vendor/jquery-2.2.4.min.js" | prepend: site.baseurl }}" type="text/javascript" defer="defer"></script>
 <script src="{{ "/scripts/main.js" | prepend: site.baseurl }}" type="text/javascript" defer="defer"></script>
 </footer>
