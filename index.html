@@ -1,26 +1,27 @@
 ---
 layout: default
+title: September
 ---
 
 <div class="fixed bottom-0 right-0 left-0">
 <div class="clearfix max-width-4 mx-auto">
     <div class="col col-6 left-align">
-        <a href="{{ site.base_url }}/work.html" title="Work">Work</a>
+        <a class="h1 text-decoration-none" href="{{ site.base_url }}/work.html" title="Work">Work⇢</a>
     </div>
     <div class="col col-6 right-align">
-        <a href="{{ site.base_url }}/space.html" title="Space">Space</a>
+        <a class="h1 text-decoration-none" href="{{ site.base_url }}/space.html" title="Space">⇠Space</a>
     </div>
 </div>
 <div class="clearfix max-width-4 mx-auto">
     <div class="col col-4 left-align">
-        <p title="Address: {{ site.physical_address }}">{{ site.physical_address }}</p>
+        <p class="h3 my2" title="Address: {{ site.physical_address }}">{{ site.physical_address }}</p>
     </div>
     <div class="col col-4 center">
         <!-- TODO: Make this dynamic based on gallery hours -->
-        <p>Open</p>
+        <p id="js-gallery-hours" class="h3 bold white my2">Closed</p>
     </div>
     <div class="col col-4 right-align">
-        <p title="Hours: {{ site.hours_of_operation }}">{{ site.hours_of_operation }}</p>
+        <p class="h3 my2" title="Hours: {{ site.hours_of_operation }}">{{ site.hours_of_operation }}</p>
     </div>
 </div>
 </div>
