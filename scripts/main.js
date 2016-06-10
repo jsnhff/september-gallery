@@ -1,7 +1,5 @@
 // Base JS file
 // Author: Jason Huff
-//
-
 
 // Calculate the time zone for NYC
 function calcTime(city, offset) {
@@ -17,19 +15,39 @@ function calcTime(city, offset) {
     // using supplied offset
     var nd = new Date(utc + (3600000*offset));
 
-    // return time as a string
-    return "The local time for city"+ city +" is "+ nd.toLocaleString()+ " day num "+ nd.getDay();
+    // return time
+    var day = nd.getDay();
+    var hour = nd.getHours();
+    var t = {day:day, hour:hour};
+    return t 
 }
 
-alert(calcTime('New York', '+4'));
+//alert(calcTime('New York', '+4'));
+var currentNYCTime = calcTime('New York', '+4');
 
 // for each open time entry
 // if day of the week equals day x and time is less than x and greater than y
 // show open sign
 // if not show nothing
 
+var galleryHours = [];
+
+var entry1 = {day:4, open_time:"12", close_time:"18"};
+var entry2 = {day:5, open_time:"12", close_time:"18"};
+var entry3 = {day:6, open_time:"12", close_time:"18"};
+var entry4 = {day:7, open_time:"12", close_time:"18"};
+
+galleryHours.push(entry1);
+galleryHours.push(entry2);
+galleryHours.push(entry3);
+galleryHours.push(entry4);
+
 for (i = 0; i < galleryHours.length; i++) {
-    console.log(i);
+    if ( currentNYCTime.day == galleryHours[i].day &&
+            galleryHours[i].open_time <= currentNYCTime.hour &&
+            galleryHours[i].close_time >= currentNYCTime.hour ){
+        $("#js-gallery-hours").removeClass("white").text("Open");
+    };
 }
 
 // Hours assumption:
