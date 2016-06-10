@@ -10,11 +10,16 @@
 {% else %}
 <div class="clearfix">
     <div class="col col-3 left-align">
-        <a class="" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <a class="h2" href="{{ site.baseurl }}/">{{ site.title }}</a>
     </div>
     <div class="col col-9 right-align">
-        <a class="inline-block" href="{{ site.base_url }}/work.html" title="Work">Work</a>
-        <a class="inline-block ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
+        {% if page.title == 'work' %}
+        <a class="h2 inline-block" href="{{ site.base_url }}/work.html" title="Work">Work </a>
+        <a class="h2 inline-block text-decoration-none ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
+        {% elsif page.title == 'space' %}
+        <a class="h2 inline-block text-decoration-none" href="{{ site.base_url }}/work.html" title="Work">Work </a>
+        <a class="h2 inline-block ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
+        {% endif %}
     </div>
 </div>
 {% endif %}
