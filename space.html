@@ -63,30 +63,27 @@ layout: default
         <img class="fit" src="{{ exhibition.key_image }}" title="{{ exhibition.title }}"/>
     </div>
     <div class="col col-5">
-        <header class="">
-        <h1 class="">{{ exhibition.title }}</h1>
-        </header>
+        <h1 class="h4 my0">
+            <a class="text-decoration-none black" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
+        </h1>
 
         <div class="">
-            <h4 class="">{{ exhibition.start_date | date: '%B %d, %Y' }} to {{ exhibition.end_date | date: '%B %d, %Y' }}</h4>
+            <p class="h4 gray my0">{{ exhibition.start_date | date: '%B %d, %Y' }} to {{ exhibition.end_date | date: '%B %d, %Y' }}</p>
             {% for artist in exhibition.artist_links %}
-            <a href="{{ artist[1] }}" title="{{ artist[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ artist[0] }}</a>
+            <a class="text-decoration-none black" href="{{ artist[1] }}" title="{{ artist[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ artist[0] }}</a>
             {% endfor %}
-            <br><br>
-            <a href="{{ exhibition.images }}" title="Images">Images &#8599;</a>
-            <br><br>
+            <a class="block text-decoration-none black mb2" href="{{ exhibition.images }}" title="Images">Images &#8599;</a>
             <!-- Exhibition statement -->
             {{ exhibition.content }}
 
-            <ul>
+            <ul class="list-reset">
                 {% for link in exhibition.research_links %}
                 <li>
-                <a href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+                <a class="text-decoration-none black" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
                 </li>
                 {% endfor %}
             </ul>
         </div>
-        <a class="" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
     </div>
     </li>
     {% endfor %}
