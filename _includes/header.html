@@ -7,10 +7,12 @@
 </div>
 {% else %}
 <div class="clearfix">
-    <div class="col col-3 left-align">
-        <a class="h2" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <div class="col col-2 left-align relative">
+    <a class="block" href="{{ site.base_url }}/">
+        {% include logo_home.html %}
+    </a>    
     </div>
-    <div class="col col-9 right-align">
+    <div class="col col-10 right-align">
         {% if page.title == 'work' %}
         <a class="h2 inline-block" href="{{ site.base_url }}/work.html" title="Work">Work </a>
         <a class="h2 inline-block text-decoration-none ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
