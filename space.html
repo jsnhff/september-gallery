@@ -4,13 +4,35 @@ layout: default
 ---
 
 <!-- Space navigation -->
-<div class="xs-hide sm-hide">
+<div class="sm-col md-col-2 lg-col-2 xs-hide sm-hide mt3">
     {% include space_nav.html %}
 </div>
 
-<ul class="list-reset sm-col sm-col-12 md-col-10 lg-col-10 mt0">
+<ul class="list-reset sm-col sm-col-12 md-col-10 lg-col-10 mt3">
     {% for exhibition in site.space %}
-    <li class="block clearfix mb4">
+    {% assign start = exhibition.start_date | date: "%j" %}
+    {% assign end = exhibition.end_date | date: "%j" %}
+    {% assign now = 'now' | date: "%j" %}
+        {% if now > start and now < end %}
+            {% assign page_counter1 = page_counter1 | plus: 1 %}
+            {% if page_counter1 <= 1 %}
+            <h3 class="h6 regular caps gray m0 center">Now</h3>
+            <hr class="mb3">
+            {% endif %}
+        {% elsif now < start %}
+            {% assign page_counter2 = page_counter2 | plus: 1 %}
+            {% if page_counter2 <= 1 %}
+            <h3 class="h6 regular caps gray m0 center">After</h3>
+            <hr class="mb3">
+            {% endif %}
+        {% elsif now > end%}
+            {% assign page_counter3 = page_counter3 | plus: 1 %}
+            {% if page_counter3 <= 1 %}
+            <h3 class="h6 regular caps gray m0 center">Before</h3>
+            <hr class="mb3">
+            {% endif %}
+        {% endif %}
+    <li id="{{ exhibition.title | url_encode | downcase }}" class="block clearfix mb4">
     <div class="col-12 sm-col sm-col-5 md-col-5 lg-col-5 mr2">
         <img class="fit" src="{{ exhibition.key_image }}" title="{{ exhibition.title }}"/>
     </div>
