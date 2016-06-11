@@ -9,4 +9,4 @@ artist_links:
 images: "/uploads/placeholder_image.png"
 ---
 
-This is a description. This is a description. This is a description. This is a description. This is a description. This is a description. This is a description. This is a description. This is a description. This is a description. This is a description. This is a description. This is a description. This is a description. This is a description.
+Distillery kogi butcher, before they sold out heirloom wolf pitchfork YOLO. Trust fund sartorial brooklyn four loko. Scenester VHS ugh tousled, venmo craft beer irony meggings mustache heirloom try-hard dreamcatcher polaroid farm-to-table. Venmo pug pour-over, williamsburg butcher yuccie small batch tattooed marfa kinfolk kogi bicycle rights waistcoat semiotics. Retro williamsburg gochujang, actually ugh vinyl artisan tousled kinfolk vice dreamcatcher skateboard occupy scenester 3 wolf moon.
