@@ -45,11 +45,6 @@ function calcTime(city, offset) {
 //alert(calcTime('New York', '+4'));
 var currentNYCTime = calcTime('New York', '+4');
 
-// for each open time entry
-// if day of the week equals day x and time is less than x and greater than y
-// show open sign
-// if not show nothing
-
 var galleryHours = [];
 
 var entry1 = {day:4, open_time:"12", close_time:"18"};
@@ -69,8 +64,3 @@ for (i = 0; i < galleryHours.length; i++) {
         $("#js-gallery-hours").removeClass("white").text("Open");
     };
 }
-
-// Hours assumption:
-// 5 - Friday, 11:00am to 5:00pm
-// 6 - Saturday, 12:00 to 6:00pm
-// 0 - Sunday, 10:00am to 3:00pm
