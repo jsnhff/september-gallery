@@ -19,4 +19,4 @@ catalog_link:
 layout: artist
 ---
 
-This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio with a [link](http://www.artist-link.com). This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio. This is the artists bio.
+Umami craft beer kickstarter celiac, photo booth forage intelligentsia gluten-free godard kogi. Authentic plaid tattooed, retro keytar health goth kickstarter. Meggings mixtape umami lo-fi. Mlkshk chambray letterpress, you probably haven't heard of them heirloom pork belly schlitz. Mumblecore pour-over tattooed flannel brunch, kogi biodiesel cronut flexitarian four dollar toast shoreditch pitchfork meditation lo-fi.
