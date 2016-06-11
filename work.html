@@ -4,13 +4,13 @@ layout: default
 ---
 
 <!-- Work navigation -->
-<div class="xs-hide sm-hide">
+<div class="sm-col md-col-2 lg-col-2 xs-hide sm-hide mt3">
     {% include work_nav.html %}
 </div>
 
-<ul class="list-reset sm-col sm-col-12 md-col-10 lg-col-10 mt0">
+<ul class="list-reset sm-col sm-col-12 md-col-10 lg-col-10 mt3">
     {% for artist in site.work %}
-    <li class="block clearfix mb4">
+    <li id="{{ artist.title | url_encode | downcase }}" class="block clearfix mb4">
     <div class="col-12 sm-col sm-col-5 md-col-5 lg-col-5 mr2">
         <img class="fit" src="{{ artist.key_image }}" title="{{ artist.title }}"/>
     </div>
