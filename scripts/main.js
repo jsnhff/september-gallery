@@ -1,6 +1,26 @@
 // Base JS file
 // Author: Jason Huff
 
+// Create dynamic logo
+var svgz = $("div#js-logo svg");
+
+// Color one of the letters in each SVG letter group
+function colorLetters(object) {
+    var randomNum = Math.floor((Math.random() * 3) + 0);
+    var l = $(object).children();
+    
+    for (n=0; n < l.length; n++) {
+        if (n == randomNum ) {
+            $(l[n]).attr("fill","#000000");
+        }
+    }
+}
+
+// Loop thourgh each SVG letter group
+for (i=0; i < svgz.length; i++){
+    colorLetters(svgz[i]);
+}
+
 // Calculate the time zone for NYC
 function calcTime(city, offset) {
     // create Date object for current location
