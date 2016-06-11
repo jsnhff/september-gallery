@@ -10,6 +10,20 @@ layout: default
 
 <ul class="list-reset sm-col sm-col-12 md-col-10 lg-col-10 mt3">
     {% for artist in site.work %}
+        {% if artist.is_represented == true %}
+            {% assign page_counter1 = page_counter1 | plus: 1 %}
+            {% if page_counter1 <= 1 %}
+                <h3 class="h6 regular caps gray m0 center">Always</h3>
+                <hr class="mb3">
+            {% endif %}
+        {% elsif artist.is_represented == false %}
+            {% assign page_counter2 = page_counter2 | plus: 1 %}
+            {% if page_counter2 <= 1 %}
+                <h3 class="h6 regular caps gray mt2 mb0 center">Sometimes</h3>
+                <hr class="mb3">
+            {% endif %}
+        {% endif %}
+
     <li id="{{ artist.title | url_encode | downcase }}" class="block clearfix mb4">
     <div class="col-12 sm-col sm-col-5 md-col-5 lg-col-5 mr2">
         <img class="fit" src="{{ artist.key_image }}" title="{{ artist.title }}"/>
