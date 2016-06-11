@@ -1,11 +1,13 @@
-<header class="max-width-4 mx-auto">
 
 {% if page.url == "/" %}
+<header class="max-width-4 mx-auto">
 <div class="clearfix">
     <!-- Dynamic site logo here -->
     {% include logo_home.html %}
 </div>
+</header>
 {% else %}
+<header class="fixed top-0 left-0 right-0 max-width-4 mx-auto mt1">
 <div class="clearfix">
     <div class="col-12 sm-col sm-col-2 md-col-2 lg-col-2 left-align relative">
     <a class="block" href="{{ site.base_url }}/">
@@ -14,19 +16,19 @@
     </div>
     <div class="col xs-hide col-10 right-align mt2">
         {% if page.title == 'work' %}
-        <a class="h2 inline-block" href="{{ site.base_url }}/work.html" title="Work">Work </a>
-        <a class="h2 inline-block text-decoration-none ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
-        <a class="h2 inline-block text-decoration-none ml2" href="{{ site.base_url }}/info.html" title="Info">Info</a>
+        <a class="h2 navy inline-block" href="{{ site.base_url }}/work.html" title="Work">Work </a>
+        <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
+        <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/info.html" title="Info">Info</a>
         {% elsif page.title == 'space' %}
-        <a class="h2 inline-block text-decoration-none" href="{{ site.base_url }}/work.html" title="Work">Work </a>
-        <a class="h2 inline-block ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
-        <a class="h2 inline-block text-decoration-none ml2" href="{{ site.base_url }}/info.html" title="Info">Info</a>
+        <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work.html" title="Work">Work </a>
+        <a class="h2 navy inline-block ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
+        <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/info.html" title="Info">Info</a>
         {% elsif page.title == 'info' %}
-        <a class="h2 inline-block text-decoration-none" href="{{ site.base_url }}/work.html" title="Work">Work </a>
-        <a class="h2 inline-block text-decoration-none ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
-        <a class="h2 inline-block ml2" href="{{ site.base_url }}/info.html" title="Info">Info</a>
+        <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work.html" title="Work">Work </a>
+        <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
+        <a class="h2 navy inline-block ml2" href="{{ site.base_url }}/info.html" title="Info">Info</a>
         {% endif %}
     </div>
 </div>
-{% endif %}
 </header>
+{% endif %}
