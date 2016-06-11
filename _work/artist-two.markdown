@@ -6,6 +6,10 @@ is_represented: false
 exhibition_links:
   Show Title: www.google.com
   Show: www.google.com
+images:
+- "/uploads/placeholder_image_1.jpg"
+- "/uploads/placeholder_image_2.jpg"
+- "/uploads/placeholder_image_3.jpg"
 research_links:
   Interview: www.google.com
   Press Link One: www.artinamerica.com
