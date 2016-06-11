@@ -7,9 +7,9 @@ exhibition_links:
   Show Title: www.show-one.com
   Show: www.show-two.com
 images:
-- "/uploads/Screen Shot 2016-05-07 at 9.06.24 AM.png"
-- "/uploads/Screen Shot 2016-05-07 at 9.06.24 AM.png"
-- "/uploads/Screen Shot 2016-05-07 at 9.06.24 AM.png"
+- "/uploads/placeholder_image.png"
+- "/uploads/placeholder_image.png"
+- "/uploads/placeholder_image.png"
 research_links:
   Interview: www.google.com
   Press Link One: www.artinamerica.com
