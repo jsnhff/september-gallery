@@ -16,9 +16,15 @@
         {% if page.title == 'work' %}
         <a class="h2 inline-block" href="{{ site.base_url }}/work.html" title="Work">Work </a>
         <a class="h2 inline-block text-decoration-none ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
+        <a class="h2 inline-block text-decoration-none ml2" href="{{ site.base_url }}/info.html" title="Info">Info</a>
         {% elsif page.title == 'space' %}
         <a class="h2 inline-block text-decoration-none" href="{{ site.base_url }}/work.html" title="Work">Work </a>
         <a class="h2 inline-block ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
+        <a class="h2 inline-block text-decoration-none ml2" href="{{ site.base_url }}/info.html" title="Info">Info</a>
+        {% elsif page.title == 'info' %}
+        <a class="h2 inline-block text-decoration-none" href="{{ site.base_url }}/work.html" title="Work">Work </a>
+        <a class="h2 inline-block text-decoration-none ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
+        <a class="h2 inline-block ml2" href="{{ site.base_url }}/info.html" title="Info">Info</a>
         {% endif %}
     </div>
 </div>
