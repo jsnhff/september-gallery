@@ -12,6 +12,7 @@ function colorLetters(object) {
     for (n=0; n < l.length; n++) {
         if (n == randomNum ) {
             $(l[n]).attr("fill","#000000");
+            $(l[n]).attr("fill-opacity","1.0");
         }
     }
 }
@@ -44,7 +45,6 @@ function calcTime(city, offset) {
 
 //alert(calcTime('New York', '+4'));
 var currentNYCTime = calcTime('New York', '+4');
-
 var galleryHours = [];
 
 var entry1 = {day:4, open_time:"12", close_time:"18"};
@@ -61,7 +61,7 @@ for (i = 0; i < galleryHours.length; i++) {
     if ( currentNYCTime.day == galleryHours[i].day &&
             galleryHours[i].open_time <= currentNYCTime.hour &&
             galleryHours[i].close_time >= currentNYCTime.hour ){
-        $("#js-gallery-hours").removeClass("white").text("Open");
+        $(".js-gallery-hours").removeClass("display-none");
     };
 }
 
@@ -78,13 +78,13 @@ $("body").on("click", "#js-slideshow-trigger", "click", function() {
         var slideRight = $(this).find("#js-right");
         var close = $(this).find("#js-close");
 
-        if(hidden == false) {
+        $(close).click(function() {
+            $(this).addClass("display-none");
+        });
+
+        if (hidden == false){
             $(this).addClass("display-none");
         }
-
-        $(close).click(function() {
-           $(this).addClass("display-none"); 
-        });
 
         var t = $(this).attr("data-title");
         var imgArray = $(this).find(".image");
@@ -113,7 +113,7 @@ $("body").on("click", "#js-slideshow-trigger", "click", function() {
              
             showDivs(slideIndex);
             // Show the matched slideshow
-            slideShow.show();
+            $(this).removeClass("display-none");
         }
     });
 });
