@@ -20,9 +20,9 @@ layout: default
         <div class="">
             {% for exhibition in artist.exhibition_links %}
                 <a class="text-decoration-none black" href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ exhibition[0] }}</a>
-            {% endfor %}
-            <a class="text-decoration-none black mb2" href="{{ artist.images }}" title="Images">Images &#8599;</a>
- 
+                {% endfor %}
+                    <a id="js-dialog-trigger" class="text-decoration-none black mb2" data-title="{{ artist.title }}" title="Images">Images &#8599;</a>
+
             <!-- Artist bio -->
             {{ artist.content }}
             
