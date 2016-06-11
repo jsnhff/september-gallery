@@ -26,7 +26,10 @@ defaults:
     exhibition_links:
       Link Title One: www.link.com
       Link Title Two: www.link.com
-    images: ''
+    images:
+    - ''
+    - ''
+    - ''
     research_links:
       Link One: www.link.com
       Link Two: www.link.com
@@ -44,7 +47,10 @@ defaults:
     artist_links:
       Artist Name One: www.link.com
       Artist Namte Two: www.link.com
-    images: ''
+    images:
+    - ''
+    - ''
+    - ''
     research_links:
       Link One: www.link.com
       Link Two: www.link.com
