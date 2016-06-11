@@ -4,7 +4,9 @@ layout: default
 ---
 
 <!-- Work navigation -->
-{% include work_nav.html %}
+<div class="xs-hide sm-hide">
+    {% include work_nav.html %}
+</div>
 
 <ul class="list-reset sm-col sm-col-12 md-col-10 lg-col-10 mt0">
     {% for artist in site.work %}
