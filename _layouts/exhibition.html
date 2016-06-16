@@ -1,32 +1,28 @@
 ---
 layout: default
 ---
-<article class="">
-
-<div class="">
-    <img src="{{ page.key_image }}" title="{{ page.title }}"/>
+<div class="clearfix">
+<div class="sm-col-11 md-col-9 lg-col-9 mx-auto mt3">
+    <img class="fit" src="{{ page.key_image }}" title="{{ page.title }}"/>
 </div>
-  <header class="">
+  <header class="sm-col-11 md-col-9 lg-col-9 mx-auto">
     <h1 class="">{{ page.title }}</h1>
   </header>
 
-  <div class="">
+  <div class="sm-col-11 md-col-9 lg-col-9 mx-auto">
       {% for exhibition in page.artist_links %}
-      <a href="{{ artist[1] }}" title="{{ artist[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ artist[0] }}</a>
+      <a class="text-decoration-none navy" href="{{ artist[1] }}" title="{{ artist[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ artist[0] }}</a>
       {% endfor %}
-      <br><br>
-      <a href="{{ page.images }}" title="Images">Images &#8599;</a>
-      <br><br>
+      <a class="text-decoration-none navy block" href="{{ page.images }}" title="Images">Images &#8599;</a>
       <!-- Exhibition statement -->
       {{ content }}
 
-      <ul>
+      <ul class="list-reset">
           {% for link in page.research_links %}
           <li>
-          <a href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+              <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
           </li>
           {% endfor %}
       </ul>
   </div>
-
-</article>
+</div>

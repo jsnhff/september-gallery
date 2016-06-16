@@ -1,35 +1,32 @@
 ---
 layout: default
 ---
-<article class="">
+<div class="clearfix">
+    <div class="sm-col-11 md-col-9 lg-col-9 mx-auto mt3">
+        <img class="fit" src="{{ page.key_image }}" title="{{ page.title }}"/>
+    </div>
 
-<div class="">
-    <img src="{{ page.key_image }}" title="{{ page.title }}"/>
-</div>
-  <header class="">
+    <header class="sm-col-11 md-col-9 lg-col-9 mx-auto">
     <h1 class="">{{ page.title }}</h1>
-  </header>
+    </header>
 
-  <div class="">
-      {% for exhibition in page.exhibition_links %}
-      <a href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ exhibition[0] }}</a>
-    {% endfor %}
-            <br><br>
-      <a href="{{ page.images }}" title="Images">Images &#8599;</a>
-      <br><br>
-      <!-- Artist bio -->
-      {{ content }}
+    <div class="sm-col-11 md-col-9 lg-col-9 mx-auto">
+        {% for exhibition in page.exhibition_links %}
+        <a class="text-decoration-none navy" href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ exhibition[0] }}</a>
+        {% endfor %}
+        <a class="text-decoration-none navy" href="{{ page.images }}" title="Images">Images &#8599;</a>
+        <!-- Artist bio -->
+        {{ content }}
 
-      <ul>
-          {% for link in page.research_links %}
-          <li>
-          <a href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
-          </li>
-          {% endfor %}
-      </ul>
-      {% for catalog in page.catalog_link %}
-          <a href="{{ catalog[1] }}" title="{{ catalog[0] }}">{{ catalog[0] }}</a>
-      {% endfor %}
-  </div>
-
-</article>
+        <ul class="list-reset">
+            {% for link in page.research_links %}
+            <li>
+                <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+            </li>
+            {% endfor %}
+        </ul>
+        {% for catalog in page.catalog_link %}
+        <a class="text-decoration-none navy" href="{{ catalog[1] }}" title="{{ catalog[0] }}">{{ catalog[0] }}</a>
+        {% endfor %}
+    </div>
+</div>
