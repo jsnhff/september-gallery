@@ -1,0 +1,44 @@
+<!-- Slideshow time -->
+
+{% if page.title == "work" %}
+    {% for artist in site.work %}
+    <div class="js-slideshow fixed top-0 left-0 right-0 bottom-0 overflow-hidden" data-title="{{ artist.title }}">
+        <div class="clearfix mxn2 my4">
+        <div class="col-10 mx-auto">
+        {% for image in artist.images %}
+        <img class="image fit"  src="{{ site.base_url }}{{ image }}">
+        {% endfor %}
+        <div class="table absolute top-0 left-0 bottom-0 max-height">
+            <div class="table-cell align-middle">
+                <div class="p2 bg-navy circle">
+                    <a id="js-left" class="text-decoration-none white" href="#">&#10094;</a>
+                </div>
+            </div>
+        </div>
+        <div class="table absolute top-0 right-0 bottom-0 max-height">
+            <div class="table-cell align-middle">
+                <div class="p2 bg-navy circle">
+                    <a id="js-right" class="text-decoration-none white" href="#">&#10095;</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="absolute top-0 right-0 p2">
+        <a id="js-close" class="" href="#">X</a>
+    </div>
+</div>
+</div>
+</div>
+    {% endfor %}
+{% elsif page.title == "space" %}
+    {% for exhibition in site.space %}
+    <div id="js-slideshow" class="relative" data-title="{{ exhibition.title }}">
+        {% for image in exhibition.images %}
+        <img class="image fit"  src="{{ site.base_url }}{{ image }}">
+        {% endfor %}
+
+        <a class="absolute top-0 left-0 p1 border block" onclick="plusDivs(-1)">&#10094;</a>
+        <a class="absolute top-0 right-0 p1 border block" onclick="plusDivs(+1)">&#10095;</a>
+    </div>
+    {% endfor %}
+{% endif %}
