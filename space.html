@@ -32,7 +32,7 @@ layout: default
             <hr class="mb3">
             {% endif %}
         {% endif %}
-    <li id="{{ exhibition.title | url_encode | downcase }}" class="block clearfix mb4">
+    <li id="{{ exhibition.title | url_encode | downcase | remove: '+' }}" class="block clearfix mb4">
     <div class="col-12 sm-col sm-col-5 md-col-5 lg-col-5 mr2">
         <img class="fit" src="{{ exhibition.key_image }}" title="{{ exhibition.title }}"/>
     </div>

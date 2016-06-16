@@ -45,6 +45,7 @@ function calcTime(city, offset) {
 
 //alert(calcTime('New York', '+4'));
 var currentNYCTime = calcTime('New York', '+4');
+
 var galleryHours = [];
 
 var entry1 = {day:4, open_time:"12", close_time:"18"};
@@ -61,7 +62,7 @@ for (i = 0; i < galleryHours.length; i++) {
     if ( currentNYCTime.day == galleryHours[i].day &&
             galleryHours[i].open_time <= currentNYCTime.hour &&
             galleryHours[i].close_time >= currentNYCTime.hour ){
-        $(".js-gallery-hours").removeClass("display-none");
+        $("#js-gallery-hours").removeClass("white").text("Open");
     };
 }
 
@@ -118,3 +119,19 @@ $("body").on("click", "#js-slideshow-trigger", "click", function() {
     });
 });
 
+// Smooooth scrolling from Chris Coyier. Thanks.
+// https://css-tricks.com/snippets/jquery/smooth-scrolling/
+$(function() {
+    $('a[href*="#"]:not([href="#"])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+        var target = $(this.hash);
+    target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+    if (target.length) {
+        $('html, body').animate({
+            scrollTop: (target.offset().top-80)
+        }, 500);
+        return false;
+    }
+    }
+    });
+});

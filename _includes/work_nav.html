@@ -14,7 +14,7 @@
             <ul class="list-reset mt1">
             {% endif %}
             <li>
-                <a class="text-decoration-none black" href="{{ artist.title | url_encode | downcase | prepend: '#' }}" title="{{ artist.title }}">{{ artist.title }}</a>
+                <a class="text-decoration-none black" href="{{ artist.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ artist.title }}">{{ artist.title }}</a>
                 </li>
             {% if counter1 >= represented_count %}
             </ul>
@@ -29,7 +29,7 @@
                 <ul class="list-reset mt1">
                     {% endif %}
                     <li>
-                    <a class="text-decoration-none black" href="{{ artist.title | url_encode | downcase | prepend: '#'}}" title="{{ artist.title }}">{{ artist.title }}</a>
+                    <a class="text-decoration-none black" href="{{ artist.title | url_encode | downcase | remove: '+' | prepend: '#'}}" title="{{ artist.title }}">{{ artist.title }}</a>
                     </li>
             {% if counter2 == not_represented_count %}
                 </ul>

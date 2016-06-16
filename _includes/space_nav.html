@@ -9,7 +9,7 @@
             <h3 class="h6 regular caps gray m0">Now</h3>
             <ul class="list-reset mt1">
             {% endif %}
-            <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
+            <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
             {% if counter1 >= 2%}
             </ul>
             {% endif %}
@@ -26,7 +26,7 @@
             <h3 class="h6 regular caps gray">After</h3>
             <ul class="list-reset mt1">
             {% endif %}
-                    <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
+                    <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
             {% if counter2 >= 2%}
             </ul>
             {% endif %}
@@ -43,7 +43,7 @@
             <h3 class="h6 regular caps gray">Before</h3>
             <ul class="list-reset mt1">
             {% endif %}
-                <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
+                <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
             {% if forloop.last %}
             </ul>
             {% endif %}

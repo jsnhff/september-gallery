@@ -24,7 +24,7 @@ layout: default
             {% endif %}
         {% endif %}
 
-    <li id="{{ artist.title | url_encode | downcase }}" class="block clearfix mb4">
+    <li id="{{ artist.title | url_encode | downcase | remove: '+' }}" class="block clearfix mb4">
     <div class="col-12 sm-col sm-col-5 md-col-5 lg-col-5 mr2">
         <img class="fit" src="{{ artist.key_image }}" title="{{ artist.title }}"/>
     </div>
