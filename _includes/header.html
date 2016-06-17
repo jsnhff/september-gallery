@@ -7,14 +7,16 @@
 </div>
 </header>
 {% else %}
-<header class="fixed top-0 left-0 right-0 max-width-4 mx-auto mt1">
-<div class="clearfix">
+<!-- md and lg header -->
+<header class="">
+<div class="xs-hide fixed top-0 left-0 right-0 max-width-4 mx-auto mt1">
+<div class="clearfix mx2">
     <div class="col-10 sm-mt3 sm-col sm-col-2 md-col-2 lg-col-2 left-align relative mx-auto">
     <a class="block" href="{{ site.base_url }}/">
         {% include logo_home.html %}
     </a>    
     </div>
-    <div class="col xs-hide col-10 right-align mt2">
+    <div class="col col-10 right-align mt2">
         {% if page.title == 'work' or page.layout == 'artist' %}
         <a class="h2 navy inline-block" href="{{ site.base_url }}/work.html" title="Work">Work </a>
         <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/space.html" title="Space">Space</a>
@@ -33,6 +35,15 @@
         <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/info.html" title="Info">Info</a>
         {% endif %}
     </div>
+</div>
+</div>
+<div class="sm-hide md-hide lg-hide max-width-4 mx-auto mt1">
+<div class="clearfix mx2">
+    <div class="">
+    <a class="block" href="{{ site.base_url }}/">
+        {% include logo_home.html %}
+    </a>    
+</div>
 </div>
 </header>
 {% endif %}

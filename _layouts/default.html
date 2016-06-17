@@ -7,8 +7,13 @@
 
     {% include header.html %}
 
-    <div class="max-width-4 mx-auto mt4">
-        {{ content }}
+    <div class="max-width-4 mx-auto">
+        <div class="clearfix mx1">
+            <!-- Margin for desktop fixed navigation -->
+            <div class="xs-hide mt4">
+            </div>
+            {{ content }}
+        </div>
     </div>
 
     {% include footer.html %}
