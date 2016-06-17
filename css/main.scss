@@ -16,6 +16,17 @@ $primary-color:    #001F3F;
         content:''
     }
 
+// Icon style
+.icon {
+    height: 35px;
+    width: 35px;
+}
+
+// Parent and childern underline on hover
+.parent-hover:hover a {
+    text-decoration: underline;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "_base",
