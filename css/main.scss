@@ -8,6 +8,14 @@
 // Vairables by Jason
 $primary-color:    #001F3F;
 
+// CSS Shim for annoying comma and space in liquid template for loops 
+.comma-list > a:after {
+    content: ','
+}
+    .comma-list:last-of-type > a:after {
+        content:''
+    }
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "_base",
