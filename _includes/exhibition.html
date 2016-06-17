@@ -1,0 +1,32 @@
+<li id="{{ exhibition.title | url_encode | downcase | remove: '+' }}" class="block clearfix mb4">
+<div class="col-12 sm-col sm-col-5 md-col-5 lg-col-5 mr2">
+    <img class="fit" src="{{ exhibition.key_image }}" title="{{ exhibition.title }}"/>
+</div>
+<div class="col-12 sm-col sm-col-6 md-col-6 lg-col-6">
+    <h1 class="h4 my0">
+        <a class="text-decoration-none navy" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
+    </h1>
+
+    <div class="">
+        <p class="h4 gray my0">{{ exhibition.start_date | date: '%B %d, %Y' }} to {{ exhibition.end_date | date: '%B %d, %Y' }}</p>
+        <ul class="list-reset">
+            {% for artist in exhibition.artist_links %}
+            <li class="comma-list inline-block">
+            <a class="text-decoration-none navy" href="{{ artist[1] }}" title="{{ artist[0] }}">{{ artist[0] }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        <!-- <a class="block text-decoration-none navy mb2" href="{{ exhibition.images }}" title="Images">Images &#8599;</a> -->
+        <!-- Exhibition statement -->
+        {{ exhibition.content }}
+
+        <ul class="list-reset">
+            {% for link in exhibition.research_links %}
+            <li>
+            <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+</li>
