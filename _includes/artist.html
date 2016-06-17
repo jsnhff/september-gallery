@@ -1,7 +1,8 @@
-<li id="{{ artist.title | url_encode | downcase | remove: '+' }}" class="block clearfix mb4">
+<li id="{{ artist.title | url_encode | downcase | remove: '+' }}" class="block clearfix">
 <div class="col-12 sm-col sm-col-5 md-col-5 lg-col-5 mr2">
     <img class="fit" src="{{ artist.key_image }}" title="{{ artist.title }}"/>
 </div>
+<div class="md-hide mb2"></div>
 <div class="col-12 sm-col sm-col-6 md-col-6 lg-col-6">
     <h1 class="h4 my0">
         <a class="text-decoration-none black" href="{{ artist.url }}" title="{{ aritsr.title }}">{{ artist.title }}</a>
@@ -35,3 +36,5 @@
     </div>
 </div>
 </li>
+<div class="xs-hide mb4"></div>
+<div class="md-hide mb3"></div>
