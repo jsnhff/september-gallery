@@ -8,6 +8,7 @@ layout: default
 </div>
 
 <ul class="list-reset sm-col sm-col-12 md-col-10 lg-col-10 mt3">
+    <h1 class="hide">Work</h1>
     {% for artist in site.work %}
         {% if artist.is_represented == true %}
             {% assign page_counter1 = page_counter1 | plus: 1 %}

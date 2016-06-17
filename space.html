@@ -8,6 +8,7 @@ layout: default
 </div>
 
 <ul class="list-reset sm-col sm-col-12 md-col-10 lg-col-10 mt3">
+    <h1 class="hide">Space</h1>
     {% for exhibition in site.space %}
     {% assign start = exhibition.start_date | date: "%j" %}
     {% assign end = exhibition.end_date | date: "%j" %}
