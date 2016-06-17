@@ -37,12 +37,12 @@
     </div>
 </div>
 <!-- Work navigation -->
-{% if page.title == 'work' or page.layout == 'artist' %}
+{% if page.title == 'work' %}
     <div class="sm-col md-col-2 lg-col-2 xs-hide sm-hide mt3 ml2">
         {% include work_nav.html %}
     </div>
 <!-- Space navigation -->
-{% elsif page.title == 'space' or page.layout == 'exhibition' %}
+{% elsif page.title == 'space' %}
     <div class="sm-col md-col-2 lg-col-2 xs-hide sm-hide mt3 ml2">
         {% include space_nav.html %}
     </div>
