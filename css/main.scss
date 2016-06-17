@@ -15,6 +15,10 @@ $primary-color:    #001F3F;
     .comma-list:last-of-type > a:after {
         content:''
     }
+// Pointer hack for fixed header and clicking links below
+.pointer-events {
+    pointer-events: none;
+}
 
 // Icon style
 .icon {
