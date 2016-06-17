@@ -46,7 +46,7 @@ layout: default
             {% for artist in exhibition.artist_links %}
             <a class="text-decoration-none black" href="{{ artist[1] }}" title="{{ artist[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ artist[0] }}</a>
             {% endfor %}
-            <a class="block text-decoration-none black mb2" href="{{ exhibition.images }}" title="Images">Images &#8599;</a>
+            <!-- <a class="block text-decoration-none black mb2" href="{{ exhibition.images }}" title="Images">Images &#8599;</a> -->
             <!-- Exhibition statement -->
             {{ exhibition.content }}
 
