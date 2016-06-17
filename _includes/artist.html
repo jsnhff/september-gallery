@@ -1,0 +1,37 @@
+<li id="{{ artist.title | url_encode | downcase | remove: '+' }}" class="block clearfix mb4">
+<div class="col-12 sm-col sm-col-5 md-col-5 lg-col-5 mr2">
+    <img class="fit" src="{{ artist.key_image }}" title="{{ artist.title }}"/>
+</div>
+<div class="col-12 sm-col sm-col-6 md-col-6 lg-col-6">
+    <h1 class="h4 my0">
+        <a class="text-decoration-none black" href="{{ artist.url }}" title="{{ aritsr.title }}">{{ artist.title }}</a>
+    </h1>
+
+    <div class="">
+        <ul class="list-reset">
+            {% for exhibition in artist.exhibition_links %}
+            <li class="comma-list inline-block">
+            <a class="text-decoration-none black" href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{{ exhibition[0] }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        <!-- <a id="js-dialog-trigger" class="text-decoration-none black mb2" data-title="{{ artist.title }}" title="Images">Images &#8599;</a> -->
+
+        <!-- Artist bio -->
+        {{ artist.content }}
+
+        {% if artist.research_links != '' %}
+        <ul class="list-reset mb2">
+            {% for link in artist.research_links %}
+            <li>
+            <a class="text-decoration-none black" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+            </li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        {% for catalog in artist.catalog_link %}
+        <a class="text-decoration-none black" href="{{ catalog[1] }}" title="{{ catalog[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ catalog[0] }}</a>
+        {% endfor %}
+    </div>
+</div>
+</li>
