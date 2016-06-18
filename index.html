@@ -2,9 +2,9 @@
 title: September
 layout: default
 ---
-
 <div class="fixed bottom-0 right-0 left-0 m2">
     <div class="clearfix max-width-4 mx-auto">
+        {% if 1 == 2 %}
         <div class="col col-4 left-align">
             <a class="h1 text-decoration-none navy" href="{{ site.base_url }}/work.html" title="Work">Work</a>
         </div>
@@ -29,5 +29,8 @@ layout: default
         <div class="col col-12 center">
             <p class="h3 my2 navy" title="Address: {{ site.physical_address }}">{{ site.physical_address }} <span class="js-gallery-hours h3 bold my0 display-none">⇢ Open</span></p>
         </div>
+        {% else %}
+        <p class="h2 fit center">Opening soon.</p>
+        {% endif %}
     </div>
 </div>
