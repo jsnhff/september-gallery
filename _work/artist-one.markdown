@@ -1,5 +1,5 @@
 ---
-title: Artist Represented & Exhibited
+title: Artist Represented and Exhibited
 date: 2016-05-29 16:05:00 -04:00
 key_image: "/uploads/placeholder_image.png"
 is_artist_represented: true
