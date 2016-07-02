@@ -10,13 +10,18 @@ layout: default
     <img class="fit" src="{{ page.key_image }}" title="{{ page.title }}"/>
 </div>
   <header class="sm-col-11 md-col-9 lg-col-9 mx-auto">
-    <h1 class="">{{ page.title }}</h1>
+    <h1 class="mb0">{{ page.title }}</h1>
+    <p class="h4 gray mt0 mb2">{{ page.start_date | date: '%B %d, %Y' }} to {{ page.end_date | date: '%B %d, %Y' }}</p>
   </header>
 
   <div class="sm-col-11 md-col-9 lg-col-9 mx-auto">
-      {% for exhibition in page.artist_links %}
-      <a class="text-decoration-none navy" href="{{ artist[1] }}" title="{{ artist[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ artist[0] }}</a>
-      {% endfor %}
+      <ul class="list-reset mb0">
+          {% for artist in page.artist_links %}
+          <li class="comma-list inline-block">
+              <a class="text-decoration-none navy" href="{{ artist[1] }}" title="{{ artist[0] }}">{{ artist[0] }}</a>
+          </li>
+          {% endfor %}
+      </ul>
       <a class="text-decoration-none navy block" href="{{ page.images }}" title="Images">Images &#8599;</a>
       <!-- Exhibition statement -->
       {{ content }}
