@@ -8,10 +8,10 @@
 </header>
 {% else %}
 <!-- md and lg header -->
-<header class="">
+<header>
 <div class="xs-hide fixed top-0 left-0 right-0 max-width-4 mx-auto">
     <div class="clearfix sm-mx2 md-mx2 lg-mx0">
-        <div class="col-10 sm-col sm-col-2 md-col-2 lg-col-2 left-align relative mx-auto">
+        <div class="col-10 sm-col sm-col-2 md-col-2 lg-col-2 mx-auto">
         <a class="block mt1" href="{{ site.base_url }}/">
             {% include logo_home.html %}
         </a>    
@@ -35,15 +35,6 @@
             <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/info.html" title="Info">Info</a>
             {% endif %}
         </div>
-    </div>
-    <div class="sm-col md-col-2 lg-col-2 xs-hide sm-hide mt3 sm-ml2 md-ml2 lg-ml0">
-    <!-- Work navigation -->
-    {% if page.title == 'work' %}
-        {% include work_nav.html %}
-    <!-- Space navigation -->
-    {% elsif page.title == 'space' %}
-        {% include space_nav.html %}
-    {% endif %}
     </div>
 </div>
 <div class="sm-hide md-hide lg-hide max-width-4 mx-auto mt1">

@@ -1,3 +1,4 @@
+<div class="fixed sm-col sm-col-2 md-col-2 lg-col-2 xs-hide sm-hide sm-pr0 md-pr0 lg-pr4">
 {% for artist in site.work %}
     {% if artist.is_represented %}
         {% assign represented_count = represented_count | plus: 1 %}
@@ -35,3 +36,4 @@
         {% endif %}
     {% endif %}
 {% endfor %}
+</div>
