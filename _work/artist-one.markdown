@@ -2,7 +2,8 @@
 title: Artist One
 date: 2016-05-29 16:05:00 -04:00
 key_image: "/uploads/placeholder_image.png"
-is_represented: true
+is_artist_represented: true
+is_artist_exhibited: true
 exhibition_links:
   Show Title: www.show-one.com
   Show: www.show-two.com
@@ -16,6 +17,7 @@ research_links:
   Press Link Two: www.artforum.com
 catalog_link:
   Catalog: www.catalog.com
+is_represented: true
 layout: artist
 ---
 
