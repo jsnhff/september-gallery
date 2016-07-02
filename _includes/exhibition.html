@@ -19,7 +19,7 @@
         </ul>
         <!-- <a class="block text-decoration-none navy mb2" href="{{ exhibition.images }}" title="Images">Images &#8599;</a> -->
         <!-- Exhibition statement -->
-        {{ exhibition.content }}
+        {{ exhibition.content | truncatewords: 50 }} <a href="{{ exhibition.url | prepend: site.baseurl }}" title="Read more about {{ exhibition.title }}">read more</a>
 
         <ul class="list-reset">
             {% for link in exhibition.research_links %}

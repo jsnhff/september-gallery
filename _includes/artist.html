@@ -19,7 +19,7 @@
         <!-- <a id="js-dialog-trigger" class="text-decoration-none black mb2" data-title="{{ artist.title }}" title="Images">Images &#8599;</a> -->
 
         <!-- Artist bio -->
-        {{ artist.content }}
+        {{ artist.content | truncatewords: 50 }} <a href="{{ exhibition.url | prepend: site.baseurl }}" title="Read more about {{ exhibition.title }}">read more</a>
 
         {% if artist.research_links != '' %}
         <ul class="list-reset mb2">
