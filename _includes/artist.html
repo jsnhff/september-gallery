@@ -5,7 +5,7 @@
 <div class="sm-hide md-hide lg-hide mb2"></div>
 <div class="col-12 sm-col sm-col-7 md-col-7 lg-col-7 sm-pl2 md-pl2 lg-pl2">
     <h1 class="h4 my0">
-        <a class="text-decoration-none black" href="{{ artist.url }}" title="{{ aritsr.title }}">{{ artist.title }}</a>
+        <a class="text-decoration-none black" href="{{ artist.url }}" title="{{ artist.title }}">{{ artist.title }}</a>
     </h1>
 
     <div class="">
@@ -19,7 +19,7 @@
         <!-- <a id="js-dialog-trigger" class="text-decoration-none black mb2" data-title="{{ artist.title }}" title="Images">Images &#8599;</a> -->
 
         <!-- Artist bio -->
-        {{ artist.content | truncatewords: 50 }} <a href="{{ exhibition.url | prepend: site.baseurl }}" title="Read more about {{ exhibition.title }}">read more</a>
+        {{ artist.content | truncatewords: 50 }} <a class="text-decoration-none navybold" href="{{ artist.url | prepend: site.baseurl }}" title="Read more about {{ artist.title }}">⇢</a>
 
         {% if artist.research_links != '' %}
         <ul class="list-reset mb2">
