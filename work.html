@@ -13,8 +13,7 @@ layout: default
         {% if artist.is_represented == true %}
             {% assign page_counter1 = page_counter1 | plus: 1 %}
             {% if page_counter1 <= 1 %}
-                <h3 class="h6 regular caps gray m0 center">Always</h3>
-                <hr class="mb3">
+                <h3 class="h6 regular caps gray mt0 mb2">Always</h3>
             {% endif %}
         {% include artist.html %}
         {% endif %}
@@ -23,8 +22,7 @@ layout: default
         {% if artist.is_represented == false %}
             {% assign page_counter2 = page_counter2 | plus: 1 %}
             {% if page_counter2 <= 1 %}
-                <h3 class="h6 regular caps gray mt2 mb0 center">Sometimes</h3>
-                <hr class="mb3">
+                <h3 class="h6 regular caps gray my2">Sometimes</h3>
             {% endif %}
         {% include artist.html %}
         {% endif %}
