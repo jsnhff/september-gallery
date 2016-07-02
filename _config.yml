@@ -43,8 +43,11 @@ defaults:
     layout: exhibition
     title: Exhibition Name
     key_image: ''
+    is_event: false
     start_date: ''
     end_date: ''
+    start_time: ''
+    end_time: ''
     artist_links:
       Artist Name One: www.link.com
       Artist Namte Two: www.link.com
