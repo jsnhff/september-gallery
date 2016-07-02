@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-
-<div class="clearfix">
+<!-- Artist -->
+<div class="clearfix list-reset col-11 sm-col-12 md-col-10 lg-col-10 mx-auto">
     <div class="sm-col-11 md-col-9 lg-col-9 mx-auto mt3">
         <a class="text-decoration-none navy h1" href="{{ site.base_url }}/work.html">⇠</a>
     </div>
@@ -15,9 +15,13 @@ layout: default
     </header>
 
     <div class="sm-col-11 md-col-9 lg-col-9 mx-auto">
+      <ul class="list-reset mb0">
         {% for exhibition in page.exhibition_links %}
-        <a class="text-decoration-none navy" href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ exhibition[0] }}</a>
-        {% endfor %}
+          <li class="comma-list inline-block">
+          <a class="text-decoration-none navy" href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{{ exhibition[0] }}</a>
+          </li>
+          {% endfor %}
+      </ul>
         <a class="text-decoration-none navy" href="{{ page.images }}" title="Images">Images &#8599;</a>
         <!-- Artist bio -->
         {{ content }}
