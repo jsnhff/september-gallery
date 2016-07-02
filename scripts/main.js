@@ -61,7 +61,7 @@ for (i = 0; i < galleryHours.length; i++) {
     if ( currentNYCTime.day == galleryHours[i].day &&
             galleryHours[i].open_time <= currentNYCTime.hour &&
             galleryHours[i].close_time >= currentNYCTime.hour ){
-        //$(".js-gallery-hours").removeClass("display-none");
+        $(".js-gallery-hours").removeClass("display-none");
     };
 }
 
