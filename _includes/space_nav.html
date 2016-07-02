@@ -1,51 +1,50 @@
-<!-- Space navigation -->
-    {% for exhibition in site.space %}
-    {% assign start = exhibition.start_date | date: "%j" %}
-    {% assign end = exhibition.end_date | date: "%j" %}
-    {% assign now = 'now' | date: "%j" %}
-        {% if now > start and now < end %}
-            {% assign counter1 = counter1 | plus: 1 %}
-            {% if counter1 <= 1 %}
-            <h3 class="h6 regular caps gray m0">Now</h3>
-            <ul class="list-reset mt1">
-            {% endif %}
-            <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
-            {% if counter1 >= 2%}
-            </ul>
-            {% endif %}
+{% for exhibition in site.space %}
+{% assign start = exhibition.start_date | date: "%j" %}
+{% assign end = exhibition.end_date | date: "%j" %}
+{% assign now = 'now' | date: "%j" %}
+    {% if now > start and now < end %}
+        {% assign counter1 = counter1 | plus: 1 %}
+        {% if counter1 <= 1 %}
+        <h3 class="h6 regular caps gray m0">Now</h3>
+        <ul class="list-reset mt1">
         {% endif %}
-    {% endfor %}
-
-    {% for exhibition in site.space %}
-    {% assign start = exhibition.start_date | date: "%j" %}
-    {% assign end = exhibition.end_date | date: "%j" %}
-    {% assign now = 'now' | date: "%j" %}
-        {% if now < start %}
-            {% assign counter2 = counter2 | plus: 1 %}
-            {% if counter2 <= 1 %}
-            <h3 class="h6 regular caps gray">After</h3>
-            <ul class="list-reset mt1">
-            {% endif %}
-                    <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
-            {% if counter2 >= 2%}
-            </ul>
-            {% endif %}
+        <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
+        {% if counter1 >= 2%}
+        </ul>
         {% endif %}
-    {% endfor %}
+    {% endif %}
+{% endfor %}
 
-    {% for exhibition in site.space %}
-    {% assign start = exhibition.start_date | date: "%j" %}
-    {% assign end = exhibition.end_date | date: "%j" %}
-    {% assign now = 'now' | date: "%j" %}
-    {% if now > end %}
-            {% assign counter = counter | plus: 1 %}
-            {% if counter <= 1 %}
-            <h3 class="h6 regular caps gray">Before</h3>
-            <ul class="list-reset mt1">
-            {% endif %}
+{% for exhibition in site.space %}
+{% assign start = exhibition.start_date | date: "%j" %}
+{% assign end = exhibition.end_date | date: "%j" %}
+{% assign now = 'now' | date: "%j" %}
+    {% if now < start %}
+        {% assign counter2 = counter2 | plus: 1 %}
+        {% if counter2 <= 1 %}
+        <h3 class="h6 regular caps gray">After</h3>
+        <ul class="list-reset mt1">
+        {% endif %}
                 <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
-            {% if forloop.last %}
-            </ul>
-            {% endif %}
+        {% if counter2 >= 2%}
+        </ul>
         {% endif %}
-   {% endfor %}
+    {% endif %}
+{% endfor %}
+
+{% for exhibition in site.space %}
+{% assign start = exhibition.start_date | date: "%j" %}
+{% assign end = exhibition.end_date | date: "%j" %}
+{% assign now = 'now' | date: "%j" %}
+{% if now > end %}
+        {% assign counter = counter | plus: 1 %}
+        {% if counter <= 1 %}
+        <h3 class="h6 regular caps gray">Before</h3>
+        <ul class="list-reset mt1">
+        {% endif %}
+            <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
+        {% if forloop.last %}
+        </ul>
+        {% endif %}
+    {% endif %}
+{% endfor %}
