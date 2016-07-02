@@ -22,7 +22,8 @@ defaults:
     layout: artist
     title: Artist Name
     key_image: ''
-    is_represented: false
+    artist_represented: false
+    artist_exhibited: false
     exhibition_links:
       Link Title One: www.link.com
       Link Title Two: www.link.com
