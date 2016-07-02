@@ -1,8 +1,8 @@
 ---
-title: Artist Represented & Exhibited
+title: Artist Exhibited
 date: 2016-05-29 16:05:00 -04:00
 key_image: "/uploads/placeholder_image.png"
-is_artist_represented: true
+is_artist_represented: false
 is_artist_exhibited: true
 exhibition_links:
   Show Title: www.google.com
