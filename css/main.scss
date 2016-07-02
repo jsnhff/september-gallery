@@ -31,6 +31,10 @@ $primary-color:    #001F3F;
     text-decoration: underline;
 }
 
+a.text-decoration-none:active {
+    color: #FFD700;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "_base",
