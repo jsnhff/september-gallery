@@ -23,6 +23,13 @@ layout: default
           </li>
           {% endfor %}
       </ul>
+        {% if page.start_time != '' %}
+            {% if page.is_event %}
+            <p class="h4 italic">Performance: {{ page.start_date | date: '%A, %B %-d' }}{% if page.start_time != '' %}, {{ page.start_time }}{% endif %}</p>
+            {% else %}
+            <p class="h4 italic">Opening: {{ page.start_date | date: '%A, %B %-d' }}{% if page.start_time != '' %}, {{ page.start_time }}{% endif %}</p>
+            {% endif %}
+        {% endif %}
       <!-- <a class="text-decoration-none navy block" href="{{ page.images }}" title="Images">Images &#8599;</a> -->
       <!-- Exhibition statement -->
       {{ content }}

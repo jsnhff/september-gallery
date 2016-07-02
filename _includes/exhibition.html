@@ -9,7 +9,11 @@
     </h1>
 
     <div class="">
-        <p class="h4 gray my0">{{ exhibition.start_date | date: '%B %d, %Y' }} to {{ exhibition.end_date | date: '%B %d, %Y' }}</p>
+        {% if exhibition.start_date == exhibition.end_date %}
+            <p class="h4 gray my0">{{ exhibition.start_date | date: '%B %d, %Y' }} {% if exhibition.start_time %}, {{ exhibition.start_time }}{% endif %}</p>
+        {% else %}
+            <p class="h4 gray my0">{{ exhibition.start_date | date: '%B %-d, %Y' }} to {{ exhibition.end_date | date: '%B %-d, %Y' }}</p>
+        {% endif %}
         <ul class="list-reset">
             {% for artist in exhibition.artist_links %}
             <li class="comma-list inline-block">
@@ -17,6 +21,13 @@
             </li>
             {% endfor %}
         </ul>
+        {% if exhibition.start_time != '' %}
+            {% if exhibition.is_event %}
+            <p class="h4 italic">Performance: {{ exhibition.start_date | date: '%A, %B %-d' }}{% if exhibition.start_time != '' %}, {{ exhibition.start_time }}{% endif %}</p>
+            {% else %}
+            <p class="h4 italic">Opening: {{ exhibition.start_date | date: '%A, %B %-d' }}{% if exhibition.start_time != '' %}, {{ exhibition.start_time }}{% endif %}</p>
+            {% endif %}
+        {% endif %}
         <!-- <a class="block text-decoration-none navy mb2" href="{{ exhibition.images }}" title="Images">Images &#8599;</a> -->
         <!-- Exhibition statement -->
         {{ exhibition.content | truncatewords: 50 }} <a class="text-decoration-none navy bold" href="{{ exhibition.url | prepend: site.baseurl }}" title="Read more about {{ exhibition.title }}">⇢</a>
