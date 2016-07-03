@@ -6,7 +6,7 @@ layout: default
 
 <!-- Space navigation spacer -->
 <div class="sm-col md-col-2 lg-col-2 xs-hide sm-hide mt3">
-    {% include space_nav.html %}
+    {% include space_nav.md %}
 </div>
 
 <ul class="list-reset col-11 sm-col sm-col-12 md-col-10 lg-col-10 mt3 mx-auto">

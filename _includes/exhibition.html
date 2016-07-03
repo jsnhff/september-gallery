@@ -2,8 +2,8 @@
 <div class="col-12 sm-col sm-col-5 md-col-5 lg-col-5">
     <img class="fit" src="{{ exhibition.key_image }}" title="{{ exhibition.title }}"/>
 </div>
-<div class="col-12 sm-col sm-col-7 md-col-7 lg-col-7 sm-pl2 md-pl2 lg-pl2">
 <div class="sm-hide md-hide lg-hide mb2"></div>
+<div class="col-12 sm-col sm-col-7 md-col-7 lg-col-7 sm-pl2 md-pl2 lg-pl2">
     <h1 class="h4 my0">
         <a class="text-decoration-none navy" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
     </h1>
@@ -32,6 +32,7 @@
         <!-- Exhibition statement -->
         {{ exhibition.content | truncatewords: 50 }} <a class="text-decoration-none navy bold" href="{{ exhibition.url | prepend: site.baseurl }}" title="Read more about {{ exhibition.title }}">⇢</a>
 
+        {% if exhibition.research_links != '' %}
         <ul class="list-reset">
             {% for link in exhibition.research_links %}
             <li>
@@ -39,6 +40,7 @@
             </li>
             {% endfor %}
         </ul>
+        {% endif %}
     </div>
 </div>
 </li>

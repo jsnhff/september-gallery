@@ -1,68 +1,67 @@
 
 {% if page.url == "/" %}
-<header class="max-width-4 mx-auto">
-<div class="clearfix">
-    <!-- Dynamic site logo here -->
-    {% include logo_home.html %}
-</div>
-</header>
-{% else %}
-<!-- md and lg header -->
-<header>
-<div class="xs-hide fixed top-0 left-0 right-0 max-width-4 mx-auto">
-    <div class="clearfix sm-mx2 md-mx2 lg-mx0">
-        <div class="col-10 sm-col sm-col-2 md-col-2 lg-col-2 mx-auto">
-        <a class="block mt1" href="{{ site.base_url }}/">
-            {% include logo_home.html %}
-        </a>    
-        </div>
-        <div class="col col-10 right-align mt2">
-            {% if page.title == 'work' or page.layout == 'artist' %}
-            <a class="h2 navy inline-block" href="{{ site.base_url }}/work/" title="Work">Work </a>
-            <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/space/" title="Space">Space</a>
-            <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/info/" title="Info">Info</a>
-            {% elsif page.title == 'space' or page.layout == 'exhibition' %}
-            <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work/" title="Work">Work </a>
-            <a class="h2 navy inline-block ml2" href="{{ site.base_url }}/space/" title="Space">Space</a>
-            <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/info/" title="Info">Info</a>
-            {% elsif page.title == 'info' %}
-            <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work/" title="Work">Work </a>
-            <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/space/" title="Space">Space</a>
-            <a class="h2 navy inline-block ml2" href="{{ site.base_url }}/info" title="Info">Info</a>
-            {% else %}
-            <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work/" title="Work">Work </a>
-            <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/space/" title="Space">Space</a>
-            <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/info/" title="Info">Info</a>
-            {% endif %}
-        </div>
-    </div>
-</div>
-<div class="sm-hide md-hide lg-hide max-width-4 mx-auto mt1">
-<div class="clearfix mx2">
-    <div class="">
-    <a class="block" href="{{ site.base_url }}/">
+    <header class="max-width-4 mx-auto">
+    <div class="clearfix">
+        <!-- Dynamic site logo here -->
         {% include logo_home.html %}
-    </a>    
-    <div class="col col-12 mt3 center">
-        {% if page.title == 'work' or page.layout == 'artist' %}
-        <a class="h2 navy inline-block" href="{{ site.base_url }}/work/" title="Work">Work </a>
-        <a class="h2 navy inline-block ml3 text-decoration-none" href="{{ site.base_url }}/space/" title="Space">Space</a>
-        <a class="h2 navy inline-block ml3 text-decoration-none" href="{{ site.base_url }}/info/" title="Info">Info</a>
-        {% elsif page.title == 'space' or page.layout == 'exhibition' %}
-        <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work/" title="Work">Work </a>
-        <a class="h2 navy inline-block ml3" href="{{ site.base_url }}/space/" title="Space">Space</a>
-        <a class="h2 navy inline-block ml3 text-decoration-none" href="{{ site.base_url }}/info/" title="Info">Info</a>
-        {% elsif page.title == 'info' %}
-        <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work/" title="Work">Work </a>
-        <a class="h2 navy inline-block ml3 text-decoration-none" href="{{ site.base_url }}/space/" title="Space">Space</a>
-        <a class="h2 navy inline-block ml3" href="{{ site.base_url }}/info/" title="Info">Info</a>
-        {% else %}
-        <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work/" title="Work">Work </a>
-        <a class="h2 navy inline-block ml3 text-decoration-none" href="{{ site.base_url }}/space/" title="Space">Space</a>
-        <a class="h2 navy inline-block ml3 text-decoration-none" href="{{ site.base_url }}/info/" title="Info">Info</a>
-        {% endif %}
     </div>
-</div>
-</div>
-</header>
+    </header>
+{% else %}
+    <!-- md and lg header -->
+    <header>
+    <div class="xs-hide fixed top-0 left-0 right-0 max-width-4 mx-auto">
+        <div class="clearfix sm-mx2 md-mx2 lg-mx0">
+            <div class="col-10 sm-col sm-col-2 md-col-2 lg-col-2 mx-auto">
+                <a class="block mt1" href="{{ site.base_url }}/">
+                    {% include logo_home.html %}
+                </a>    
+            </div>
+            <div class="col col-10 right-align mt2">
+                {% if page.title == 'Work' or page.layout == 'Artist' %}
+                <a class="h2 navy inline-block" href="{{ site.base_url }}/work/" title="Work">Work </a>
+                <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/space/" title="Space">Space</a>
+                <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/info/" title="Info">Info</a>
+                {% elsif page.title == 'Space' or page.layout == 'Exhibition' %}
+                <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work/" title="Work">Work </a>
+                <a class="h2 navy inline-block ml2" href="{{ site.base_url }}/space/" title="Space">Space</a>
+                <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/info/" title="Info">Info</a>
+                {% elsif page.title == 'Info' %}
+                <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work/" title="Work">Work </a>
+                <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/space/" title="Space">Space</a>
+                <a class="h2 navy inline-block ml2" href="{{ site.base_url }}/info" title="Info">Info</a>
+                {% else %}
+                <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work/" title="Work">Work </a>
+                <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/space/" title="Space">Space</a>
+                <a class="h2 navy inline-block text-decoration-none ml2" href="{{ site.base_url }}/info/" title="Info">Info</a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    <div class="sm-hide md-hide lg-hide max-width-4 mx-auto mt1">
+        <div class="clearfix mx2">
+            <a class="block" href="{{ site.base_url }}/">
+                {% include logo_home.html %}
+            </a>    
+            <div class="col col-12 mt3 center">
+                {% if page.title == 'Work' or page.layout == 'Artist' %}
+                <a class="h2 navy inline-block" href="{{ site.base_url }}/work/" title="Work">Work </a>
+                <a class="h2 navy inline-block ml3 text-decoration-none" href="{{ site.base_url }}/space/" title="Space">Space</a>
+                <a class="h2 navy inline-block ml3 text-decoration-none" href="{{ site.base_url }}/info/" title="Info">Info</a>
+                {% elsif page.title == 'Space' or page.layout == 'Exhibition' %}
+                <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work/" title="Work">Work </a>
+                <a class="h2 navy inline-block ml3" href="{{ site.base_url }}/space/" title="Space">Space</a>
+                <a class="h2 navy inline-block ml3 text-decoration-none" href="{{ site.base_url }}/info/" title="Info">Info</a>
+                {% elsif page.title == 'Info' %}
+                <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work/" title="Work">Work </a>
+                <a class="h2 navy inline-block ml3 text-decoration-none" href="{{ site.base_url }}/space/" title="Space">Space</a>
+                <a class="h2 navy inline-block ml3" href="{{ site.base_url }}/info/" title="Info">Info</a>
+                {% else %}
+                <a class="h2 navy inline-block text-decoration-none" href="{{ site.base_url }}/work/" title="Work">Work </a>
+                <a class="h2 navy inline-block ml3 text-decoration-none" href="{{ site.base_url }}/space/" title="Space">Space</a>
+                <a class="h2 navy inline-block ml3 text-decoration-none" href="{{ site.base_url }}/info/" title="Info">Info</a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    </header>
 {% endif %}
