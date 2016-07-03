@@ -1,6 +1,6 @@
 ---
 title: Work
-permalink: /work/
+permalink: "/work/"
 layout: default
 ---
 
