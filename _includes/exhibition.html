@@ -1,48 +1,51 @@
 <li id="{{ exhibition.title | url_encode | downcase | remove: '+' }}" class="block clearfix mb2">
-<div class="col-12 sm-col sm-col-5 md-col-5 lg-col-5">
-    <img class="fit" src="{{ exhibition.key_image }}" title="{{ exhibition.title }}"/>
-</div>
-<div class="sm-hide md-hide lg-hide mb2"></div>
-<div class="col-12 sm-col sm-col-7 md-col-7 lg-col-7 sm-pl2 md-pl2 lg-pl2">
-    <h1 class="h4 my0">
-        <a class="text-decoration-none navy" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
-    </h1>
-
-    <div class="">
-        {% if exhibition.start_date == exhibition.end_date %}
-            <p class="h4 gray my0">{{ exhibition.start_date | date: '%B %d, %Y' }} {% if exhibition.start_time %}, {{ exhibition.start_time }}{% endif %}</p>
-        {% else %}
-            <p class="h4 gray my0">{{ exhibition.start_date | date: '%B %-d, %Y' }} to {{ exhibition.end_date | date: '%B %-d, %Y' }}</p>
-        {% endif %}
-        <ul class="list-reset">
-            {% for artist in exhibition.artist_links %}
-            <li class="comma-list inline-block">
-                <a class="text-decoration-none navy" href="{{ artist[1] }}" title="{{ artist[0] }}">{{ artist[0] }}</a>
-            </li>
-            {% endfor %}
-        </ul>
-        {% if exhibition.start_time != '' %}
-            {% if exhibition.is_event %}
-            <p class="h4 italic">Performance: {{ exhibition.start_date | date: '%A, %B %-d' }}{% if exhibition.start_time != '' %}, {{ exhibition.start_time }}{% endif %}</p>
-            {% else %}
-            <p class="h4 italic">Opening: {{ exhibition.start_date | date: '%A, %B %-d' }}{% if exhibition.start_time != '' %}, {{ exhibition.start_time }}{% endif %}</p>
-            {% endif %}
-        {% endif %}
-        <!-- <a class="block text-decoration-none navy mb2" href="{{ exhibition.images }}" title="Images">Images &#8599;</a> -->
-        <!-- Exhibition statement -->
-        {{ exhibition.content | truncatewords: 50 }} <a class="text-decoration-none navy bold" href="{{ exhibition.url | prepend: site.baseurl }}" title="Read more about {{ exhibition.title }}">⇢</a>
-
-        {% if exhibition.research_links != '' %}
-        <ul class="list-reset">
-            {% for link in exhibition.research_links %}
-            <li>
-            <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
-            </li>
-            {% endfor %}
-        </ul>
-        {% endif %}
+    <div class="col-12 sm-col sm-col-5 md-col-5 lg-col-5">
+        <img class="fit" src="{{ exhibition.key_image }}" title="{{ exhibition.title }}"/>
     </div>
-</div>
+    <div class="sm-hide md-hide lg-hide mb2"></div>
+    <div class="col-12 sm-col sm-col-7 md-col-7 lg-col-7 sm-pl2 md-pl2 lg-pl2">
+        <h1 class="h4 my0">
+            <a class="text-decoration-none navy" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
+        </h1>
+
+        <div class="">
+            {% if exhibition.start_date == exhibition.end_date %}
+                <p class="h4 gray my0">{{ exhibition.start_date | date: '%B %d, %Y' }} {% if exhibition.start_time %}, {{ exhibition.start_time }}{% endif %}</p>
+            {% else %}
+                <p class="h4 gray my0">{{ exhibition.start_date | date: '%B %-d, %Y' }} to {{ exhibition.end_date | date: '%B %-d, %Y' }}</p>
+            {% endif %}
+            <ul class="list-reset">
+                {% for artist in exhibition.artist_links %}
+                <li class="comma-list inline-block">
+                    <a class="text-decoration-none navy" href="{{ artist[1] }}" title="{{ artist[0] }}">{{ artist[0] }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% if exhibition.start_time != '' %}
+                {% if exhibition.is_event %}
+                    <p class="h4 italic">Performance: {{ exhibition.start_date | date: '%A, %B %-d' }}{% if exhibition.start_time != '' %}, {{ exhibition.start_time }}{% endif %}</p>
+                {% else %}
+                    <p class="h4 italic">Opening: {{ exhibition.start_date | date: '%A, %B %-d' }}{% if exhibition.start_time != '' %}, {{ exhibition.start_time }}{% endif %}</p>
+                {% endif %}
+            {% endif %}
+            <!-- <a class="block text-decoration-none navy mb2" href="{{ exhibition.images }}" title="Images">Images &#8599;</a> -->
+            <!-- Exhibition statement -->
+            <p>
+            {{ exhibition.content | truncatewords: 50 | strip_html }} <a class="text-decoration-none navy bold" href="{{ exhibition.url | prepend: site.baseurl }}" title="Read more about {{ exhibition.title }}">⇢</a>
+            </p>
+
+            {% if exhibition.research_links != '' %}
+            <ul class="list-reset">
+                {% for link in exhibition.research_links %}
+                <li>
+                <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </div>
+    </div>
 </li>
 <div class="xs-hide mb4"></div>
 <div class="md-hide mb3"></div>
+<!-- duffrrrf -->

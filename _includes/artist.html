@@ -19,7 +19,9 @@
         <!-- <a id="js-dialog-trigger" class="text-decoration-none black mb2" data-title="{{ artist.title }}" title="Images">Images &#8599;</a> -->
 
         <!-- Artist bio -->
-        {{ artist.content | truncatewords: 50 }} <a class="text-decoration-none navybold" href="{{ artist.url | prepend: site.baseurl }}" title="Read more about {{ artist.title }}">⇢</a>
+        <p>
+        {{ artist.content | truncatewords: 50 | strip_html }} <a class="text-decoration-none navybold" href="{{ artist.url | prepend: site.baseurl }}" title="Read more about {{ artist.title }}">⇢</a>
+        </p>
 
         {% if artist.research_links != '' %}
         <ul class="list-reset mb2">
