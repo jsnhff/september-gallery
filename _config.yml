@@ -70,8 +70,3 @@ url: http://septembergallery.com
 facebook_username: septembergallery
 instagram_username: septembergallery
 markdown: kramdown
-gallery_hours:
-- sunday: Sunday
-  hours:
-  - open: 10:00am
-  - close: 3:30pm
