@@ -60,13 +60,13 @@ defaults:
       Link Two: www.link.com
     catalog_link:
       Catalog: www.link.com
-email: jsnhff@gmail.com
+email: kristen@septembergallery.com
 description: |
   September Gallery.
 physical_address: 449 Warren Street Hudson, NY 12534
 hours_of_operation: Friday through Monday 12 to Six
 baseurl: 
-url: http://yourdomain.com
-facebook_username: jsnhff
-instagram_username: jsnhff
+url: http://septembergallery.com
+facebook_username: septembergallery
+instagram_username: septembergallery
 markdown: kramdown
