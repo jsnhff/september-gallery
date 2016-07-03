@@ -66,9 +66,9 @@ description: |
 physical_address: 449 Warren Street Hudson, NY 12534
 hours_of_operation: Friday through Monday 12 to Six
 baseurl: 
-url: http://yourdomain.com
-facebook_username: jsnhff
-instagram_username: jsnhff
+url: http://septembergallery.com
+facebook_username: septembergallery
+instagram_username: septembergallery
 markdown: kramdown
 gallery_hours:
 - sunday: Sunday
