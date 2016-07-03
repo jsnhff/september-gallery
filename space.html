@@ -1,6 +1,6 @@
 ---
 title: Space
-permalink: /space/
+permalink: "/space/"
 layout: default
 ---
 
