@@ -70,8 +70,3 @@ url: http://yourdomain.com
 facebook_username: jsnhff
 instagram_username: jsnhff
 markdown: kramdown
-gallery_hours:
-- sunday: Sunday
-  hours:
-  - open: 10:00am
-  - close: 3:30pm
