@@ -20,7 +20,7 @@ defaults:
     type: work
   values:
     layout: artist
-    title: "Artist Name"
+    title: Artist Name
     key_image: ''
     is_always: false
     is_sometimes: false
@@ -41,7 +41,7 @@ defaults:
     type: space
   values:
     layout: exhibition
-    title: "Exhibition Name"
+    title: Exhibition Name
     key_image: ''
     is_event: false
     start_date: ''
