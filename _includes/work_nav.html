@@ -2,7 +2,6 @@
 {% for artist in site.work %}
     {% if artist.is_artist_represented %}
         {% assign represented_count = represented_count | plus: 1 %}
-        {{ represented_count }}
     {% else %}
         {% assign not_represented_count = not_represented_count | plus: 1 %}
     {% endif %}

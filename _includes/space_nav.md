@@ -62,7 +62,6 @@
             <li>
             <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
             </li>
-            {{ counter3 }}
         {% if counter3 >= before_count %}
         </ul>
         {% endif %}
