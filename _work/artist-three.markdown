@@ -1,7 +1,8 @@
 ---
-title: Artist Exhibited
+title: Artist Sometimes
 date: 2016-06-10 00:11:00 -04:00
 key_image: "/uploads/placeholder_image.png"
+is_sometimes: true
 is_artist_exhibited: true
 is_represented: true
 ---
