@@ -1,5 +1,5 @@
 ---
-title: TAYLOR DAVIS
+title: Taylor Davis
 date: 2016-07-03 18:06:00 -04:00
 key_image: "/uploads/REDGREENBLACKWHITE%20studio%20desk.jpg"
 is_always: true
