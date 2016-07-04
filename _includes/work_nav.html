@@ -1,7 +1,8 @@
 <div class="fixed sm-col sm-col-2 md-col-2 lg-col-2 xs-hide sm-hide sm-pr0 md-pr0 lg-pr4">
 {% for artist in site.work %}
-    {% if artist.is_represented %}
+    {% if artist.is_artist_represented %}
         {% assign represented_count = represented_count | plus: 1 %}
+        {{ represented_count }}
     {% else %}
         {% assign not_represented_count = not_represented_count | plus: 1 %}
     {% endif %}
@@ -13,10 +14,11 @@
         <h3 class="h6 regular caps gray m0">Always</h3>
         <ul class="list-reset mt1">
         {% endif %}
-        <li>
-            <a class="text-decoration-none black" href="{{ artist.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ artist.title }}">{{ artist.title }}</a>
+            <li>
+                <a class="text-decoration-none black" href="{{ artist.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ artist.title }}">{{ artist.title }}</a>
             </li>
-        {% if counter1 >= represented_count %}
+            {% if counter1 >= represented_count %}
+            <!-- cats -->
         </ul>
         {% endif %}
     {% endif %}
