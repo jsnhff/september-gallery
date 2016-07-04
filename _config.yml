@@ -18,9 +18,9 @@ defaults:
 - scope:
     path: ''
     type: work
+    title: "Artist Name"
   values:
     layout: artist
-    name: "Artist Name"
     key_image: ''
     is_artist_represented: false
     is_artist_exhibited: false
