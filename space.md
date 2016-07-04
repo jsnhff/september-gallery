@@ -18,7 +18,7 @@ layout: default
             {% if now > a_start and now < a_end %}
                 {% assign page_counter1 = page_counter1 | plus: 1 %}
                 {% if page_counter1 <= 1 %}
-                <h3 class="h6 regular caps gray mt0 mb2">Now</h3>
+                <h3 class="h6 regular caps gray mt0 mb2 md-pl1 lg-pl1">Now</h3>
                 {% endif %}
             {% include exhibition.html %}
             {% endif %}
@@ -28,7 +28,7 @@ layout: default
             {% if now < b_start %}
                 {% assign page_counter2 = page_counter2 | plus: 1 %}
                 {% if page_counter2 <= 1 %}
-                <h3 class="h6 regular caps gray my2">After</h3>
+                <h3 class="h6 regular caps gray my2 md-pl1 lg-pl1">After</h3>
                 {% endif %}
             {% include exhibition.html %}
             {% endif %}
@@ -38,7 +38,7 @@ layout: default
             {% if now > c_end %}
                 {% assign page_counter3 = page_counter3 | plus: 1 %}
                 {% if page_counter3 <= 1 %}
-                <h3 class="h6 regular caps gray my2">Before</h3>
+                <h3 class="h6 regular caps gray my2 md-pl1 lg-pl1">Before</h3>
                 {% endif %}
             {% include exhibition.html %}
             {% endif %}

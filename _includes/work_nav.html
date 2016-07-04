@@ -1,4 +1,4 @@
-<div class="fixed sm-col sm-col-2 md-col-2 lg-col-2 xs-hide sm-hide sm-pr0 md-pr0 lg-pr4">
+<div class="fixed sm-col sm-col-2 md-col-2 lg-col-2 xs-hide sm-hide sm-pr0 md-pr0 lg-pr3">
 {% for artist in site.work %}
     {% if artist.is_always %}
         {% assign always_count = always_count | plus: 1 %}
@@ -14,7 +14,7 @@
         <ul class="list-reset mt1">
         {% endif %}
             <li>
-                <a class="text-decoration-none black" href="{{ artist.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ artist.title }}">{{ artist.title }}</a>
+                <a class="caps text-decoration-none black" href="{{ artist.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ artist.title }}">{{ artist.title }}</a>
             </li>
             {% if counter1 >= always_count %}
             <!-- cats -->
@@ -30,7 +30,7 @@
             <ul class="list-reset mt1">
                 {% endif %}
                 <li>
-                <a class="text-decoration-none black" href="{{ artist.title | url_encode | downcase | remove: '+' | prepend: '#'}}" title="{{ artist.title }}">{{ artist.title }}</a>
+                <a class="caps text-decoration-none black" href="{{ artist.title | url_encode | downcase | remove: '+' | prepend: '#'}}" title="{{ artist.title }}">{{ artist.title }}</a>
                 </li>
         {% if counter2 >= sometimes_count %}
             </ul>

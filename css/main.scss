@@ -35,6 +35,11 @@ a.text-decoration-none:active {
     color: #FFD700;
 }
 
+// Caps override for links
+a.caps {
+    letter-spacing: inherit;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "_base",

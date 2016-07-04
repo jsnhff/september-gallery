@@ -1,4 +1,4 @@
-<div class="fixed sm-col sm-col-2 md-col-2 lg-col-2 xs-hide sm-hide sm-pr0 md-pr0 lg-pr4">
+<div class="fixed sm-col sm-col-2 md-col-2 lg-col-2 xs-hide sm-hide sm-pr0 md-pr0 lg-pr3">
 {% for exhibition in site.space %}
 {% assign start = exhibition.start_date | date: "%j" %}
 {% assign end = exhibition.end_date | date: "%j" %}
