@@ -23,22 +23,28 @@
             {% endfor %}
             <!-- <a id="js-dialog-trigger" class="text-decoration-none black mb2" data-title="{{ artist.title }}" title="Images">Images &#8599;</a> -->
             <!-- Artist bio -->
-            {% if artist.content != empty %}
-            <p>
+            {% if artist.content.size > 1 %}
+            <p class="mt2 mb0">
                 {{ artist.content | truncatewords: 50 | strip_html }} <a class="text-decoration-none navybold" href="{{ artist.url | prepend: site.baseurl }}" title="Read more about {{ artist.title }}">⇢</a>
             </p>
             {% endif %}
-            {% if artist.research_links != '' %}
-            <ul class="list-reset mb2">
-                {% for link in artist.research_links %}
-                <li>
-                    <a class="text-decoration-none black" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
-                </li>
-                {% endfor %}
-            </ul>
-            {% endif %}
+            {% for link in artist.research_links %}
+                {% if forloop.first %}
+                <ul class="list-reset mt2">
+                {% endif %}
+                    {% if link[1] != '' %}
+                    <li>
+                        <a class="text-decoration-none black" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+                    </li>
+                    {% endif %}
+                {% if forloop.last %}
+                </ul>
+                {% endif %}
+            {% endfor %}
             {% for catalog in artist.catalog_link %}
-            <a class="text-decoration-none black" href="{{ catalog[1] }}" title="{{ catalog[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ catalog[0] }}</a>
+                {% if catalog[1] != '' %}
+                <a class="text-decoration-none navy block mt2" href="{{ catalog[1] }}" title="{{ catalog[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ catalog[0] }}</a>
+                {% endif %}
             {% endfor %}
         </div>
     </div>

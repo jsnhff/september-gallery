@@ -31,17 +31,29 @@ layout: default
         {% endfor %}
       <!-- <a class="text-decoration-none navy" href="{{ page.images }}" title="Images">Images &#8599;</a> -->
         <!-- Artist bio -->
-        {{ content }}
+        {% if content.size > 1 %}
+        <p class="mt2 mb0">
+            {{ content | strip_html }}
+        </p>
+        {% endif %}
 
-        <ul class="list-reset">
-            {% for link in page.research_links %}
-            <li>
-                <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
-            </li>
-            {% endfor %}
-        </ul>
+        {% for link in page.research_links %}
+            {% if forloop.first %}
+            <ul class="list-reset">
+            {% endif %}
+                {% if link[1] != '' %}
+                <li>
+                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+                </li>
+                {% endif %}
+            {% if forloop.last %}
+            </ul>
+            {% endif %}
+        {% endfor %}
         {% for catalog in page.catalog_link %}
-        <a class="text-decoration-none navy" href="{{ catalog[1] }}" title="{{ catalog[0] }}">{{ catalog[0] }}</a>
+            {% if catalog[1] != '' %}
+            <a class="text-decoration-none navy block" href="{{ catalog[1] }}" title="{{ catalog[0] }}">{{ catalog[0] }}</a>
+            {% endif %}
         {% endfor %}
     </div>
 </div>
