@@ -16,9 +16,6 @@ research_links:
   Press Link Two: www.artforum.com
 catalog_link:
   Catalog: www.google.com
-is_artist_represented: false
-is_artist_exhibited: true
-is_represented: false
 layout: artist
 ---
 
