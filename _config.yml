@@ -26,14 +26,10 @@ defaults:
     is_sometimes: false
     exhibition_links:
       Link Title One: ''
-      Link Title Two: ''
     images:
-    - ''
-    - ''
     - ''
     research_links:
       Link One: ''
-      Link Two: ''
     catalog_link:
       Catalog: ''
 - scope:
@@ -50,14 +46,10 @@ defaults:
     end_time: ''
     artist_links:
       Artist Name One: ''
-      Artist Namte Two: ''
     images:
-    - ''
-    - ''
     - ''
     research_links:
       Link One: ''
-      Link Two: ''
     catalog_link:
       Catalog: ''
 email: kristen@septembergallery.com
