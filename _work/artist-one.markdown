@@ -5,6 +5,7 @@ key_image: "/uploads/placeholder_image.png"
 is_always: true
 is_sometimes: true
 exhibition_links:
+  Link Title One: www.fun.city
   Show Title: www.show-one.com
   Show: www.show-two.com
 images:
