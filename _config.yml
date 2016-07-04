@@ -20,28 +20,28 @@ defaults:
     type: work
   values:
     layout: artist
-    title: Artist Name
+    name: "Artist Name"
     key_image: ''
     is_artist_represented: false
     is_artist_exhibited: false
     exhibition_links:
-      Link Title One: www.link.com
-      Link Title Two: www.link.com
+      Link Title One: '' 
+      Link Title Two: '' 
     images:
     - ''
     - ''
     - ''
     research_links:
-      Link One: www.link.com
-      Link Two: www.link.com
+      Link One: '' 
+      Link Two: '' 
     catalog_link:
-      Catalog: www.link.com
+      Catalog: '' 
 - scope:
     path: ''
     type: space
   values:
     layout: exhibition
-    title: Exhibition Name
+    title: "Exhibition Name"
     key_image: ''
     is_event: false
     start_date: ''
@@ -49,17 +49,17 @@ defaults:
     start_time: ''
     end_time: ''
     artist_links:
-      Artist Name One: www.link.com
-      Artist Namte Two: www.link.com
+      Artist Name One: '' 
+      Artist Namte Two: '' 
     images:
     - ''
     - ''
     - ''
     research_links:
-      Link One: www.link.com
-      Link Two: www.link.com
+      Link One: '' 
+      Link Two: '' 
     catalog_link:
-      Catalog: www.link.com
+      Catalog: '' 
 email: kristen@septembergallery.com
 description: |
   September Gallery.

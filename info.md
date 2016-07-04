@@ -44,12 +44,12 @@ layout: default
                 </a>
             </div>
             <div class="table-cell align-middle">
-                <a class="h3 my0 text-decoration-none navy pl1" title="September Gallery Instagram" href="http://www.instagram.com/">September Gallery on Instagram</a>
+                <a class="h3 my0 text-decoration-none navy pl1" title="September Gallery Instagram" href="http://www.instagram.com/{{ site.instagram_username }}">September Gallery on Instagram</a>
             </div>
         </div>
         <p class="h3 fit center mt3">212-876-5309</p>
         <p class="h3 fit center mt3">
-            <a class="text-decoration-none navy" title="Email for appointments" href="mailto:kristen@septembergallery.com">Email for appointments</a>
+            <a class="text-decoration-none navy" title="Email for appointments" href="mailto:{{ site.email }}">Email for appointments</a>
         </p>
     </div>
 </div>
