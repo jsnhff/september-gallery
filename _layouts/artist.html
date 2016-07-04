@@ -16,13 +16,19 @@ layout: default
     </header>
 
     <div class="sm-col-11 md-col-9 lg-col-9 mx-auto">
-      <ul class="list-reset mb0">
         {% for exhibition in page.exhibition_links %}
-          <li class="comma-list inline-block">
-          <a class="text-decoration-none navy" href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{{ exhibition[0] }}</a>
-          </li>
-          {% endfor %}
-      </ul>
+            {% if forloop.first %}
+            <ul class="list-reset mb0">
+            {% endif %}
+                {% if exhibition[1] != '' %}
+                <li class="comma-list inline-block">
+                <a class="text-decoration-none navy" href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{{ exhibition[0] }}</a>
+                </li>
+                {% endif %}
+            {% if forloop.last %}
+            </ul>
+            {% endif %}
+        {% endfor %}
       <!-- <a class="text-decoration-none navy" href="{{ page.images }}" title="Images">Images &#8599;</a> -->
         <!-- Artist bio -->
         {{ content }}
