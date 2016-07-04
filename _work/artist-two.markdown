@@ -1,9 +1,8 @@
 ---
-title: Artist Exhibited
+title: Artist Sometimes
 date: 2016-05-29 16:05:00 -04:00
 key_image: "/uploads/placeholder_image.png"
-is_artist_represented: false
-is_artist_exhibited: true
+is_sometimes: true
 exhibition_links:
   Show Title: www.google.com
   Show: www.google.com
@@ -17,6 +16,8 @@ research_links:
   Press Link Two: www.artforum.com
 catalog_link:
   Catalog: www.google.com
+is_artist_represented: false
+is_artist_exhibited: true
 is_represented: false
 layout: artist
 ---
