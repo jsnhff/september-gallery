@@ -4,8 +4,8 @@ date: 2016-06-05 16:48:00 -04:00
 key_image: "/uploads/placeholder_image.png"
 start_date: 2016-08-06 00:00:00 -04:00
 end_date: 2016-10-16 16:48:00 -04:00
-start_time: 6
-end_time: 8pm
+opening_start_time_and_date: 2016-08-06 18:00:00 -04:00
+opening_end_time_and_date: 2016-08-06 20:00:00 -04:00
 artist_links:
   Jennifer Page Cohen: work/taylor-davis.html
   Taylor Davis: work/taylor-davis.html
