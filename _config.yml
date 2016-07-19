@@ -42,8 +42,8 @@ defaults:
     is_event: false
     start_date: ''
     end_date: ''
-    start_time: ''
-    end_time: ''
+    opening_start_time_and_date: ''
+    opening_end_time_and_date: ''
     artist_links:
       Artist Name One: ''
     images:
