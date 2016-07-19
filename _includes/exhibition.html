@@ -14,13 +14,19 @@
             {% else %}
                 <p class="h4 gray my0">{{ exhibition.start_date | date: '%B %-d, %Y' }} to {{ exhibition.end_date | date: '%B %-d, %Y' }}</p>
             {% endif %}
-            <ul class="list-reset">
-                {% for artist in exhibition.artist_links %}
-                <li class="comma-list inline-block">
-                    <a class="text-decoration-none navy" href="{{ artist[1] }}" title="{{ artist[0] }}">{{ artist[0] }}</a>
-                </li>
-                {% endfor %}
-            </ul>
+            {% for artist in exhibition.artist_links %}
+                {% if forloop.first %}
+                <ul class="list-reset">
+                {% endif %}
+                    {% if artist[1] != '' %}
+                    <li class="comma-list inline-block">
+                        <a class="text-decoration-none navy" href="{{ artist[1] }}" title="{{ artist[0] }}">{{ artist[0] }}</a>
+                        </li>
+                        {% endif %}
+                {% if forloop.last %}
+                </ul>
+                {% endif %}
+            {% endfor %}
             {% if exhibition.start_time != '' %}
                 {% if exhibition.is_event %}
                     <p class="h4 italic">Performance: {{ exhibition.start_date | date: '%A, %B %-d' }}{% if exhibition.start_time != '' %}, {{ exhibition.start_time }}{% endif %}</p>
