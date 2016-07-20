@@ -18,7 +18,7 @@ layout: default
             {% if now > a_start and now < a_end %}
                 {% assign page_counter1 = page_counter1 | plus: 1 %}
                 {% if page_counter1 <= 1 %}
-                <h3 class="h6 regular caps gray mt0 mb2 md-pl1 lg-pl1">Now</h3>
+                <h3 class="h6 regular caps gray my2 mb2 md-pl1 lg-pl1">Now</h3>
                 {% endif %}
             {% include exhibition.html %}
             {% endif %}
