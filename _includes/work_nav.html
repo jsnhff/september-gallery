@@ -1,12 +1,13 @@
+{% assign sorted_artists = site.work | sort:"title" %}
 <div class="fixed sm-col sm-col-2 md-col-2 lg-col-2 xs-hide sm-hide sm-pr0 md-pr0 lg-pr4">
-{% for artist in site.work %}
+{% for artist in sorted_artists %}
     {% if artist.is_always %}
         {% assign always_count = always_count | plus: 1 %}
     {% else %}
         {% assign sometimes_count = sometimes_count | plus: 1 %}
     {% endif %}
 {% endfor %}
-{% for artist in site.work %}
+{% for artist in sorted_artists %}
     {% if artist.is_always == true %}
         {% assign counter1 = counter1 | plus: 1 %}
         {% if counter1 <= 1 %}
@@ -22,7 +23,7 @@
         {% endif %}
     {% endif %}
 {% endfor %}
-{% for artist in site.work %}
+{% for artist in sorted_artists %}
     {% if artist.is_always  == false %}
         {% assign counter2 = counter2 | plus: 1 %}
         {% if counter2 <= 1 %}

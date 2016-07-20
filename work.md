@@ -8,11 +8,11 @@ layout: default
 <div class="sm-col md-col-2 lg-col-2 xs-hide sm-hide mt3">
     {% include work_nav.html %}
 </div>
-
+{% assign sorted_artists = site.work | sort:"title" %}
 <!-- Work list -->
 <ul class="list-reset col-11 sm-col sm-col-12 md-col-10 lg-col-10 mt3 mx-auto">
     <h1 class="hide">Work</h1>
-    {% for artist in site.work %}
+    {% for artist in sorted_artists %}
         {% if artist.is_always == true %}
             {% assign page_counter1 = page_counter1 | plus: 1 %}
             {% if page_counter1 <= 1 %}
@@ -21,7 +21,7 @@ layout: default
         {% include artist.html %}
         {% endif %}
     {% endfor %}
-    {% for artist in site.work %}
+    {% for artist in sorted_artists %}
         {% if artist.is_always == false %}
             {% assign page_counter2 = page_counter2 | plus: 1 %}
             {% if page_counter2 <= 1 %}
