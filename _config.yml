@@ -55,7 +55,7 @@ defaults:
 email: kristen@septembergallery.com
 description: |
   September Gallery.
-physical_address: 449 Warren Street Hudson, NY 12534
+physical_address: '449 Warren Street #3, Hudson, NY 12534'
 hours_of_operation: Friday through Monday 12 to Six
 baseurl: 
 url: http://septembergallery.com
