@@ -3,8 +3,8 @@ title: Psycho Daisies
 date: 2016-07-02 17:29:00 -04:00
 key_image: "/uploads/psycho-daisies.jpg"
 is_event: true
-start_date: 2016-07-12 00:00:00 -04:00
-end_date: 2016-07-12 00:00:00 -04:00
+start_date: 2016-07-29 00:00:00 -04:00
+end_date: 2016-07-29 00:00:00 -04:00
 opening_start_time_and_date: 2016-07-29 19:00:00 -04:00
 ---
 
