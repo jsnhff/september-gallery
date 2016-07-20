@@ -11,7 +11,7 @@
     {% if artist.is_always == true %}
         {% assign counter1 = counter1 | plus: 1 %}
         {% if counter1 <= 1 %}
-        <h3 class="h6 regular caps gray m0">Always</h3>
+        <h3 class="h6 regular caps gray mt2">Always</h3>
         <ul class="list-reset mt1">
         {% endif %}
             <li>
@@ -27,7 +27,7 @@
     {% if artist.is_always  == false %}
         {% assign counter2 = counter2 | plus: 1 %}
         {% if counter2 <= 1 %}
-            <h3 class="h6 regular caps gray mt2 mb0">Sometimes</h3>
+            <h3 class="h6 regular caps gray mt2">Sometimes</h3>
             <ul class="list-reset mt1">
                 {% endif %}
                 <li>

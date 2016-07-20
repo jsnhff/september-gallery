@@ -1,9 +1,9 @@
 <li id="{{ artist.title | url_encode | downcase | remove: '+' }}" class="block clearfix mb2">
-    <div class="col-12 sm-col sm-col-5 md-col-5 lg-col-5 md-pl1 lg-pl1">
+    <div class="col-12 sm-col sm-col-7 md-col-7 lg-col-7 md-pl1 lg-pl1">
         <img class="fit" src="{{ artist.key_image }}" title="{{ artist.title }}"/>
     </div>
     <div class="sm-hide md-hide lg-hide mb2"></div>
-    <div class="col-12 sm-col sm-col-7 md-col-7 lg-col-7 sm-pl2 md-pl2 lg-pl2">
+    <div class="col-12 sm-col sm-col-5 md-col-5 lg-col-5 sm-pl2 md-pl2 lg-pl2">
         <h1 class="h4 my0">
             <a class="caps text-decoration-none black" href="{{ artist.url }}" title="{{ artist.title }}">{{ artist.title }}</a>
         </h1>
@@ -25,7 +25,7 @@
             <!-- Artist bio -->
             {% if artist.content.size > 1 %}
             <p class="mt2 mb0">
-                {{ artist.content | truncatewords: 50 | strip_html }} <a class="text-decoration-none navybold" href="{{ artist.url | prepend: site.baseurl }}" title="Read more about {{ artist.title }}">⇢</a>
+                {{ artist.content | truncatewords: 45 | strip_html }} <a class="text-decoration-none navybold" href="{{ artist.url | prepend: site.baseurl }}" title="Read more about {{ artist.title }}">⇢</a>
             </p>
             {% endif %}
             {% for link in artist.research_links %}

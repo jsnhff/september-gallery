@@ -16,7 +16,7 @@ layout: default
         {% if artist.is_always == true %}
             {% assign page_counter1 = page_counter1 | plus: 1 %}
             {% if page_counter1 <= 1 %}
-                <h3 class="h6 regular caps gray mt0 mb2 md-pl1 lg-pl1">Always</h3>
+                <h3 class="h6 regular caps gray my2 mb2 md-pl1 lg-pl1">Always</h3>
             {% endif %}
         {% include artist.html %}
         {% endif %}
