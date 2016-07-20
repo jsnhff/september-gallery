@@ -49,7 +49,14 @@ layout: default
         </div>
         <p class="h3 fit center mt3">212-876-5309</p>
         <p class="h3 fit center mt3">
-            <a class="text-decoration-none navy" title="Email for appointments" href="mailto:{{ site.email }}">Email for appointments</a>
+            {% for exhibition in site.space %}
+                {% assign a_start = exhibition.start_date | date: "%j" %}
+                {% assign a_end = exhibition.end_date | date: "%j" %}
+                {% if now > a_start and now < a_end %}
+                    {{ assign current_exhibition = exhibition.title }}
+                {% endif %}
+            {% endfor %}
+            <a class="text-decoration-none navy" title="Email for appointments" href="mailto:{{ site.email }}?subject=I'd like to visit {{ current_exhibition }}">Email for appointments</a>
         </p>
     </div>
 </div>
