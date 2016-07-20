@@ -37,14 +37,14 @@
             <!-- <a class="block text-decoration-none navy mb2" href="{{ exhibition.images }}" title="Images">Images &#8599;</a> -->
             <!-- Exhibition statement -->
             <p>
-            {{ exhibition.content | truncatewords: 50 | strip_html }} <a class="text-decoration-none navy bold" href="{{ exhibition.url | prepend: site.baseurl }}" title="Read more about {{ exhibition.title }}">⇢</a>
+            {{ exhibition.content | truncatewords: 50 | strip_html }} <a class="text-decoration-none navy bold" href="{{ exhibition.url | prepend: site.baseurl }}" title="Read more about {{ exhibition.title }}">→</a>
             </p>
 
             {% if exhibition.research_links != '' %}
             <ul class="list-reset">
                 {% for link in exhibition.research_links %}
                 <li>
-                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
                 </li>
                 {% endfor %}
             </ul>

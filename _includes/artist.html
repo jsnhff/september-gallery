@@ -25,7 +25,7 @@
             <!-- Artist bio -->
             {% if artist.content.size > 1 %}
             <p class="mt2 mb0">
-                {{ artist.content | truncatewords: 45 | strip_html }} <a class="text-decoration-none navybold" href="{{ artist.url | prepend: site.baseurl }}" title="Read more about {{ artist.title }}">⇢</a>
+                {{ artist.content | truncatewords: 45 | strip_html }} <a class="text-decoration-none black bold" href="{{ artist.url | prepend: site.baseurl }}" title="Read more about {{ artist.title }}">→</a>
             </p>
             {% endif %}
             {% for link in artist.research_links %}
@@ -34,7 +34,7 @@
                 {% endif %}
                     {% if link[1] != '' %}
                     <li>
-                        <a class="text-decoration-none black" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+                        <a class="text-decoration-none black" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
                     </li>
                     {% endif %}
                 {% if forloop.last %}
@@ -43,7 +43,7 @@
             {% endfor %}
             {% for catalog in artist.catalog_link %}
                 {% if catalog[1] != '' %}
-                <a class="text-decoration-none navy block mt2" href="{{ catalog[1] }}" title="{{ catalog[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ catalog[0] }}</a>
+                <a class="text-decoration-none navy block mt2" href="{{ catalog[1] }}" title="{{ catalog[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ catalog[0] }} →</a>
                 {% endif %}
             {% endfor %}
         </div>
