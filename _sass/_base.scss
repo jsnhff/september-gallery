@@ -19,11 +19,11 @@ body {
 }
 
 .navy {
-    color: #0E2747;
+    color: $primary-color;
 }
 
 .bg-navy {
-    background-color: #0E2747;
+    background-color: $primary-color;
 }
 
 .text-decoration-none:hover {
