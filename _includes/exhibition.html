@@ -27,11 +27,11 @@
                 </ul>
                 {% endif %}
             {% endfor %}
-            {% if exhibition.start_time != '' %}
+            {% if exhibition.opening_start_time_and_date != '' %}
                 {% if exhibition.is_event %}
-                    <p class="h4 italic">Performance: {{ exhibition.start_date | date: '%A, %B %-d' }}{% if exhibition.start_time != '' %}, {{ exhibition.start_time }}{% endif %}</p>
+                <p class="h4 italic">Performance {{ exhibition.opening_start_time_and_date | date: '%A, %B %-d, %Y | %-I' }}{% if exhibition.opening_end_time_and_date != '' %}-{{ exhibition.opening_end_time_and_date | date: '%-I%p' | downcase}}{% endif %}</p>
                 {% else %}
-                    <p class="h4 italic">Opening: {{ exhibition.start_date | date: '%A, %B %-d' }}{% if exhibition.start_time != '' %}, {{ exhibition.start_time }}{% endif %}</p>
+                    <p class="h4 italic">Opening {{ exhibition.opening_start_time_and_date | date: '%A, %B %-d, %Y | %-I' }}-{{ exhibition.opening_end_time_and_date | date: '%-I%p' | downcase}}</p>
                 {% endif %}
             {% endif %}
             <!-- <a class="block text-decoration-none navy mb2" href="{{ exhibition.images }}" title="Images">Images &#8599;</a> -->
@@ -44,7 +44,7 @@
             <ul class="list-reset">
                 {% for link in exhibition.research_links %}
                 <li>
-                <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
                 </li>
                 {% endfor %}
             </ul>

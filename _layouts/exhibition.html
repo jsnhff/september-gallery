@@ -16,18 +16,24 @@ layout: default
   </header>
 
   <div class="sm-col-11 md-col-9 lg-col-9 mx-auto">
-      <ul class="list-reset mb0">
-          {% for artist in page.artist_links %}
-          <li class="comma-list inline-block">
-              <a class="text-decoration-none navy" href="{{ artist[1] }}" title="{{ artist[0] }}">{{ artist[0] }}</a>
-          </li>
-          {% endfor %}
-      </ul>
-        {% if page.start_time != '' %}
+        {% for artist in page.artist_links %}
+            {% if forloop.first %}
+            <ul class="list-reset mb0">
+            {% endif %}
+                {% if artist[1] != '' %}
+                <li class="comma-list inline-block">
+                    <a class="text-decoration-none navy" href="{{ artist[1] }}" title="{{ artist[0] }}">{{ artist[0] }}</a>
+                </li>
+                {% endif %}
+            {% if forloop.last %}
+            </ul>
+            {% endif %}
+        {% endfor %}
+        {% if page.opening_start_time_and_date != '' %}
             {% if page.is_event %}
-            <p class="h4 italic">Performance: {{ page.start_date | date: '%A, %B %-d' }}{% if page.start_time != '' %}, {{ page.start_time }}{% endif %}</p>
+            <p class="h4 italic">Performance {{ page.opening_start_time_and_date | date: '%A, %B %-d, %Y | %-I' }}{% if page.opening_end_time_and_date != '' %}-{{ page.opening_end_time_and_date | date: '%-I%p' | downcase}}{% endif %}</p>
             {% else %}
-            <p class="h4 italic">Opening: {{ page.start_date | date: '%A, %B %-d' }}{% if page.start_time != '' %}, {{ page.start_time }}{% endif %}</p>
+                <p class="h4 italic">Opening {{ page.opening_start_time_and_date | date: '%A, %B %-d, %Y | %-I' }}-{{ page.opening_end_time_and_date | date: '%-I%p' | downcase}}</p>
             {% endif %}
         {% endif %}
       <!-- <a class="text-decoration-none navy block" href="{{ page.images }}" title="Images">Images &#8599;</a> -->
