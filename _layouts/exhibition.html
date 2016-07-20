@@ -5,7 +5,7 @@ layout: default
 <!-- Exhibition -->
 <div class="clearfix list-reset col-11 sm-col-12 md-col-10 lg-col-10 mx-auto">
     <div class="sm-col-11 md-col-12 lg-col-12 mx-auto mt3">
-        <a class="text-decoration-none navy h1" href="{{ site.base_url }}/space/">←</a>
+        <a class="text-decoration-none black h1" href="{{ site.base_url }}/space/">←</a>
     </div>
     <div class="sm-col-11 md-col-12 lg-col-12 mx-auto center">
         <img class="fit" src="{{ page.key_image }}" title="{{ page.title }}"/>
@@ -22,7 +22,7 @@ layout: default
             {% endif %}
                 {% if artist[1] != '' %}
                 <li class="comma-list inline-block">
-                    <a class="text-decoration-none navy" href="{{ artist[1] }}" title="{{ artist[0] }}">{{ artist[0] }}</a>
+                    <a class="text-decoration-none black" href="{{ artist[1] }}" title="{{ artist[0] }}">{{ artist[0] }}</a>
                 </li>
                 {% endif %}
             {% if forloop.last %}
@@ -36,7 +36,7 @@ layout: default
                 <p class="h4 italic">Opening {{ page.opening_start_time_and_date | date: '%A, %B %-d, %Y | %-I' }}-{{ page.opening_end_time_and_date | date: '%-I%p' | downcase}}</p>
             {% endif %}
         {% endif %}
-      <!-- <a class="text-decoration-none navy block" href="{{ page.images }}" title="Images">Images &#8599;</a> -->
+      <!-- <a class="text-decoration-none black block" href="{{ page.images }}" title="Images">Images &#8599;</a> -->
       <!-- Exhibition statement -->
       {{ content }}
 
@@ -46,7 +46,7 @@ layout: default
             {% endif %}
                 {% if link[1] != '' %}
                 <li>
-                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
+                    <a class="text-decoration-none black" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
                 </li>
                 {% endif %}
             {% if forloop.last %}
@@ -60,7 +60,7 @@ layout: default
             {% endif %}
                 {% if link[1] != '' %}
                 <li>
-                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
+                    <a class="text-decoration-none black" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
                 </li>
                 {% endif %}
             {% if forloop.last %}
