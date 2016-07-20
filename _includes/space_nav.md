@@ -18,7 +18,7 @@
     {% if now > start and now < end %}
         {% assign counter1 = counter1 | plus: 1 %}
         {% if counter1 <= 1 %}
-        <h3 class="h6 regular caps gray m0">Now</h3>
+        <h3 class="h6 regular caps gray mt2">Now</h3>
         <ul class="list-reset mt1">
         {% endif %}
             <li>
@@ -37,7 +37,7 @@
     {% if now < start %}
         {% assign counter2 = counter2 | plus: 1 %}
         {% if counter2 <= 1 %}
-        <h3 class="h6 regular caps gray">After</h3>
+        <h3 class="h6 regular caps gray mt2">After</h3>
         <ul class="list-reset mt1">
         {% endif %}
             <li>
@@ -56,7 +56,7 @@
     {% if now > end %}
         {% assign counter3 = counter3 | plus: 1 %}
         {% if counter3 <= 1 %}
-        <h3 class="h6 regular caps gray">Before</h3>
+        <h3 class="h6 regular caps gray mt2">Before</h3>
         <ul class="list-reset mt1">
         {% endif %}
             <li>
