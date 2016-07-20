@@ -40,15 +40,33 @@
             {{ exhibition.content | truncatewords: 50 | strip_html }} <a class="text-decoration-none navy bold" href="{{ exhibition.url | prepend: site.baseurl }}" title="Read more about {{ exhibition.title }}">→</a>
             </p>
 
-            {% if exhibition.research_links != '' %}
-            <ul class="list-reset">
-                {% for link in exhibition.research_links %}
-                <li>
-                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
-                </li>
-                {% endfor %}
-            </ul>
-            {% endif %}
+            {% for link in exhibition.research_links %}
+                {% if forloop.first %}
+                <ul class="list-reset">
+                {% endif %}
+                    {% if link[1] != '' %}
+                    <li>
+                        <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
+                    </li>
+                    {% endif %}
+                {% if forloop.last %}
+                </ul>
+                {% endif %}
+            {% endfor %}
+            
+            {% for link in exhibition.catalog_link %}
+                {% if forloop.first %}
+                <ul class="list-reset">
+                {% endif %}
+                    {% if link[1] != '' %}
+                    <li>
+                        <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
+                    </li>
+                    {% endif %}
+                {% if forloop.last %}
+                </ul>
+                {% endif %}
+            {% endfor %}
         </div>
     </div>
 </li>

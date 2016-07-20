@@ -40,12 +40,32 @@ layout: default
       <!-- Exhibition statement -->
       {{ content }}
 
-      <ul class="list-reset">
-          {% for link in page.research_links %}
-          <li>
-              <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
-          </li>
-          {% endfor %}
-      </ul>
+        {% for link in page.research_links %}
+            {% if forloop.first %}
+            <ul class="list-reset">
+            {% endif %}
+                {% if link[1] != '' %}
+                <li>
+                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
+                </li>
+                {% endif %}
+            {% if forloop.last %}
+            </ul>
+            {% endif %}
+        {% endfor %}
+
+        {% for link in page.catalog_link %}
+            {% if forloop.first %}
+            <ul class="list-reset">
+            {% endif %}
+                {% if link[1] != '' %}
+                <li>
+                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
+                </li>
+                {% endif %}
+            {% if forloop.last %}
+            </ul>
+            {% endif %}
+        {% endfor %}
   </div>
 </div>
