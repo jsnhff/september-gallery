@@ -29,7 +29,7 @@
             {% endfor %}
             {% if exhibition.opening_start_time_and_date != '' %}
                 {% if exhibition.is_event %}
-                <p class="h4 italic">Performance {{ exhibition.opening_start_time_and_date | date: '%A, %B %-d, %Y | %-I' }}{% if exhibition.opening_end_time_and_date != '' %}-{{ exhibition.opening_end_time_and_date | date: '%-I%p' | downcase}}{% endif %}</p>
+                <p class="h4 italic">Performance {{ exhibition.opening_start_time_and_date | date: '%A, %B %-d, %Y | %-I' }}{% if exhibition.opening_end_time_and_date = '' %}{{exhibition.opening_start_time_and_date | date: '%p' | downcase }}{% endif %}{% if exhibition.opening_end_time_and_date != '' %}-{{ exhibition.opening_end_time_and_date | date: '%-I%p' | downcase}}{% endif %}</p>
                 {% else %}
                     <p class="h4 italic">Opening {{ exhibition.opening_start_time_and_date | date: '%A, %B %-d, %Y | %-I' }}-{{ exhibition.opening_end_time_and_date | date: '%-I%p' | downcase}}</p>
                 {% endif %}
