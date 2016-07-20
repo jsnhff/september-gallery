@@ -40,6 +40,11 @@ a.caps, h1.caps {
     letter-spacing: inherit;
 }
 
+// Lowercase utitlity class
+.lowercase {
+    text-transform: lowercase;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "_base",
