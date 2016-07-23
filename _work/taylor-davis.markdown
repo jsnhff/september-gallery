@@ -5,7 +5,7 @@ key_image: "/uploads/DAVIS.jpg"
 is_always: true
 is_sometimes: true
 exhibition_links:
-  Blue Jean Baby: www.septembergallery.com
+  Key: 
 research_links:
   Artists Website: http://taylordavis.net/
 ---
