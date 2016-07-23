@@ -43,7 +43,7 @@ layout: default
             {% endif %}
                 {% if link[1] != '' %}
                 <li>
-                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} ←</a>
+                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
                 </li>
                 {% endif %}
             {% if forloop.last %}
@@ -52,7 +52,7 @@ layout: default
         {% endfor %}
         {% for catalog in page.catalog_link %}
             {% if catalog[1] != '' %}
-            <a class="text-decoration-none navy block" href="{{ catalog[1] }}" title="{{ catalog[0] }}">{{ catalog[0] }}</a>
+            <a class="text-decoration-none navy block" href="{{ catalog[1] }}" title="{{ catalog[0] }}">{{ catalog[0] }} →</a>
             {% endif %}
         {% endfor %}
     </div>

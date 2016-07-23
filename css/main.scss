@@ -8,6 +8,11 @@
 // Navy #0E2747 or #030f9c from Word Doc
 $primary-color: #030f9c;
 
+// Vertically centering html right arrow in footer
+footer span {
+    top: -2px;
+}
+
 // CSS Shim for annoying comma and space in liquid template for loops 
 .comma-list > a:after {
     content: ','
