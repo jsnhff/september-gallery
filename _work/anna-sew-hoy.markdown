@@ -1,7 +1,7 @@
 ---
 title: Anna Sew Hoy
 date: 2016-07-19 18:57:00 -04:00
-key_image: "/uploads/placeholder_image.png"
+key_image: "/uploads/HOY.jpg"
 is_sometimes: true
 ---
 
