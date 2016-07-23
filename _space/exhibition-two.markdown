@@ -34,9 +34,9 @@ research_links:
 
 Blue Jean Baby
 
-You had a busy day today\
-Making, working, wearing down\
-1871 is for cowboys and minors\
+You had a busy day today
+Making, working, wearing down
+1871 is for cowboys and minors
 50 years and
 We fit jeans to fashion
 From use to symbol
