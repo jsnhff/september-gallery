@@ -32,7 +32,7 @@ research_links:
   'Jeans: Wikipedia': http://denimdayinfo.org/
 ---
 
-Blue Jean Baby (/P)
+Blue Jean Baby1. > 
 You had a busy day today
 Making, working, wearing down
 1871 is for cowboys and minors
