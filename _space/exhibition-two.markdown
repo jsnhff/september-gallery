@@ -9,20 +9,20 @@ opening_end_time_and_date: 2016-08-06 20:00:00 -04:00
 artist_links:
   Jennifer Paige Cohen: 
   Taylor Davis: 
-  DAVIS, CHERUBINI: 
-  RACHEL FOULLON: 
-  KIM GORDON: 
-  ANNA SEW HOY: 
-  SOFIA HULTÉN: 
-  LAUREL NAKADATE: 
-  SARA GREENBERGER RAFFERTY: 
-  BRIE RUAIS: 
-  XAVIERA SIMMONS: 
-  NANCY SHAVER: 
-  BARB SMITH: 
-  SHINIQUE SMITH: 
-  AGATHE SNOW: 
-  ODESSA STRAUB: 
+  Davis, Cherubini: 
+  Rachel Foullon: 
+  Kim Gordon: 
+  Anna Sew Hoy: 
+  Sofia Hultén: 
+  Laurel Nakadate: 
+  Sara Greenberger Rafferty: 
+  Brie Ruais: 
+  Xaviera Simmons: 
+  Nancy Shaver: 
+  Barb Smith: 
+  Shinique Smith: 
+  Agathe Snow: 
+  Odessa Straub: 
 images:
 - "/uploads/placeholder_image_1.jpg"
 - "/uploads/placeholder_image_2.jpg"
