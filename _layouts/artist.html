@@ -22,7 +22,7 @@ layout: default
             {% endif %}
                 {% if exhibition[1] != '' %}
                 <li class="comma-list inline-block">
-                <a class="text-decoration-none navy" href="{{ exhibition[1] }}" title="{{ exhibition[0] }}">{{ exhibition[0] }}</a>
+                    <a class="text-decoration-none black" href="{{ exhibition[0] | downcase | replace: " ", "-" |  append: '.html' | prepend: 'work/' | remove: ',' }}" title="{{ exhibition[0] }}">{{ exhibition[0] }}</a>
                 </li>
                 {% endif %}
             {% if forloop.last %}
