@@ -9,15 +9,15 @@
 $primary-color: #030f9c;
 
 // Vertically centering html right arrow in footer
-footer span {
+.arrow {
     top: -2px;
 }
 
 // CSS Shim for annoying comma and space in liquid template for loops 
-.comma-list > a:after {
+.comma-list > a:after, .comma-list > p:after {
     content: ','
 }
-    .comma-list:last-of-type > a:after {
+    .comma-list:last-of-type > a:after, .comma-list:last-of-type > p:after {
         content:''
     }
 // Pointer hack for fixed header and clicking links below
