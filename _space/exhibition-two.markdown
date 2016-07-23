@@ -9,6 +9,20 @@ opening_end_time_and_date: 2016-08-06 20:00:00 -04:00
 artist_links:
   Jennifer Page Cohen: work/taylor-davis.html
   Taylor Davis: work/taylor-davis.html
+  DAVIS, CHERUBINI: 
+  RACHEL FOULLON: 
+  KIM GORDON: 
+  ANNA SEW HOY: 
+  SOFIA HULTÉN: 
+  LAUREL NAKADATE: 
+  SARA GREENBERGER RAFFERTY: 
+  BRIE RUAIS: 
+  XAVIERA SIMMONS: 
+  NANCY SHAVER: 
+  BARB SMITH: 
+  SHINIQUE SMITH: 
+  AGATHE SNOW: 
+  ODESSA STRAUB: 
 images:
 - "/uploads/placeholder_image_1.jpg"
 - "/uploads/placeholder_image_2.jpg"
