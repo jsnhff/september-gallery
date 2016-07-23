@@ -2,7 +2,7 @@
 title: Nancy Shaver
 date: 2016-07-19 19:01:00 -04:00
 published: false
-key_image: "/uploads/placeholder_image_1.jpg"
+key_image: "/uploads/SHAVER%20To%20Richie%20Rich%202.jpg"
 is_sometimes: true
 ---
 
