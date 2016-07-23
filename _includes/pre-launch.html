@@ -1,0 +1,32 @@
+<div class="clearfix max-width-4 mx-auto mt3 sm-mt3 md-mt4 lg-mt4">
+    {% for exhibition in site.space %}
+    {% if forloop.index <= 2 %}
+    <div class="sm-col sm-col-6 md-col-6 lg-col-6 center">
+        <h2 class="mb0">{{ exhibition.title }}</h2>
+        <p class="h4 gray mt0 mb2">{{ exhibition.start_date | date: '%B %d, %Y' }} → {{ exhibition.end_date | date: '%B %d, %Y' }}</p>
+        {% if exhibition.opening_start_time_and_date != '' %}
+        {% assign start = exhibition.opening_start_time_and_date %}
+        {% assign end = exhibition.opening_end_time_and_date %}
+        {% if exhibition.is_event == true %}
+        <h2 class="h4">{{ ending }}Performance {{ start | date: '%A, %B %-d, %Y <span class="relative arrow">→</span> %-I' }}{% if end == '' %}{{ start | date: '%p' | downcase }}{% else %}&ndash;{{ exhibition.opening_end_time_and_date | date: '%-I%p' | downcase}}{% endif %}</h2>
+        {% else %}
+        <h2 class="h4">Opening {{ start | date: '%A, %B %-d, %Y <span class="relative arrow">→</span> %-I' }}{% if end == '' %}{{ start | date: '%p'| downcase }}{% else %}&ndash;{{ end | date: '%-I%p' | downcase}}{% endif %}</h2>
+        {% endif %}
+        {% endif %}
+        {% for artist in exhibition.artist_links %}
+        {% if forloop.first %}
+        <ul class="list-reset mb0">
+            {% endif %}
+            {% if artist[1] != '' %}
+            <li class="comma-list inline-block">
+            <p class="p0 m0">{{ artist[0] }}</p>
+            </li>
+            {% endif %}
+            {% if forloop.last %}
+        </ul>
+        {% endif %}
+        {% endfor %}
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
