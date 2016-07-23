@@ -1,7 +1,7 @@
 ---
 title: Annie Bielski
 date: 2016-07-20 06:32:00 -04:00
-key_image: "/uploads/placeholder_image_2.jpg"
+key_image: "/uploads/BIELSKI.jpg"
 is_sometimes: true
 ---
 
