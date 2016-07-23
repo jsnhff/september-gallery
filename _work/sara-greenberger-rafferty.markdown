@@ -2,7 +2,7 @@
 title: Sara Greenberger Rafferty
 date: 2016-07-19 18:58:00 -04:00
 published: false
-key_image: "/uploads/placeholder_image_1.jpg"
+key_image: "/uploads/RAFFERTY.jpg"
 is_sometimes: true
 ---
 
