@@ -1,7 +1,6 @@
 ---
 title: Blue Jean Baby
 date: 2016-06-05 16:48:00 -04:00
-published: false
 key_image: "/uploads/RAFFERTY-dc4b1a.jpeg"
 start_date: 2016-08-06 00:00:00 -04:00
 end_date: 2016-10-16 18:00:00 -04:00
