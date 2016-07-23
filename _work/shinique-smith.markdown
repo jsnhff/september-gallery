@@ -1,7 +1,6 @@
 ---
 title: Shinique Smith
 date: 2016-07-19 19:02:00 -04:00
-published: false
 key_image: "/uploads/SMITH.jpg"
 is_sometimes: true
 ---
@@ -15,4 +14,4 @@ Currently on view through September, is a new monumental sculptural installation
 Smith earned her BFA (1992) & MFA (2003) from Maryland Institute College of Art, where she now serves on the Board of Trustees and her MAT (2000) from The School of the Museum of Fine Arts and Tufts University.
 
 Smith is represented by David Castillo Gallery in Miami and Brand New Gallery in Milan, Italy.
-￼￼￼￼￼
+￼￼￼￼
