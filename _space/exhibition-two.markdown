@@ -32,8 +32,8 @@ research_links:
   'Jeans: Wikipedia': http://denimdayinfo.org/
 ---
 
-Blue Jean Baby1. > 
-You had a busy day today
+Blue Jean Baby  
+You had a busy day today 
 Making, working, wearing down
 1871 is for cowboys and minors
 50 years and
