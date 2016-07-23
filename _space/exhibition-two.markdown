@@ -32,20 +32,21 @@ research_links:
   'Jeans: Wikipedia': http://denimdayinfo.org/
 ---
 
-Blue Jean Baby\
+Blue Jean Baby
+
 You had a busy day today\
 Making, working, wearing down\
 1871 is for cowboys and minors\
-50 years and\
-We fit jeans to fashion\
-From use to symbol\
-Borrowed authenticity\
-Artificial distress\
-A thing turns into an idea of itself\
-What is more American than a pair of blue jeans?\
-The promise of being self-made\
-The purchase of an identity\
-The words we know\
+50 years and
+We fit jeans to fashion
+From use to symbol
+Borrowed authenticity
+Artificial distress
+A thing turns into an idea of itself
+What is more American than a pair of blue jeans?
+The promise of being self-made
+The purchase of an identity
+The words we know
 The tune we hum
 
 My family was a Levis family, 501s, which my mother bought one size large for the waist and two sizes long for the legs. We'd unfold dark denim rigid as chipboard, walk stiffly down to the river, and spend the afternoon swimming in our new pants; breaking them in like the cowboys. – TAYLOR DAVIS
