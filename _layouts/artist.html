@@ -12,7 +12,7 @@ layout: default
     </div>
 
     <header class="sm-col-11 md-col-9 lg-col-9 mx-auto">
-    <h1 class="caps">{{ page.title }}</h1>
+    <h1 class="">{{ page.title }}</h1>
     </header>
 
     <div class="sm-col-11 md-col-9 lg-col-9 mx-auto">
@@ -43,7 +43,7 @@ layout: default
             {% endif %}
                 {% if link[1] != '' %}
                 <li>
-                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} &#8599;</a>
+                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} ←</a>
                 </li>
                 {% endif %}
             {% if forloop.last %}

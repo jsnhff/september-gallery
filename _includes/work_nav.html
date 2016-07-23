@@ -15,7 +15,7 @@
         <ul class="list-reset mt1">
         {% endif %}
             <li>
-                <a class="caps text-decoration-none black" href="{{ artist.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ artist.title }}">{{ artist.title }}</a>
+                <a class="bold text-decoration-none black" href="{{ artist.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ artist.title }}">{{ artist.title }}</a>
             </li>
             {% if counter1 >= always_count %}
             <!-- cats -->
@@ -31,7 +31,7 @@
             <ul class="list-reset mt1">
                 {% endif %}
                 <li>
-                <a class="caps text-decoration-none black" href="{{ artist.title | url_encode | downcase | remove: '+' | prepend: '#'}}" title="{{ artist.title }}">{{ artist.title }}</a>
+                <a class="bold text-decoration-none black" href="{{ artist.title | url_encode | downcase | remove: '+' | prepend: '#'}}" title="{{ artist.title }}">{{ artist.title }}</a>
                 </li>
         {% if counter2 >= sometimes_count %}
             </ul>

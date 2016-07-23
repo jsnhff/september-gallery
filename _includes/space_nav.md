@@ -22,7 +22,7 @@
         <ul class="list-reset mt1">
         {% endif %}
             <li>
-            <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
+                <a class="bold text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
             </li>
         {% if counter1 >= now_count %}
         </ul>
@@ -41,7 +41,7 @@
         <ul class="list-reset mt1">
         {% endif %}
             <li>
-            <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
+                <a class="bold text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
             </li>
         {% if counter2 >= after_count %}
         </ul>
@@ -60,7 +60,7 @@
         <ul class="list-reset mt1">
         {% endif %}
             <li>
-            <a class="text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
+                <a class="bold text-decoration-none black" href="{{ exhibition.title | url_encode | downcase | remove: '+' | prepend: '#' }}" title="{{ exhibition.title }}">{{ exhibition.title }}</a>
             </li>
         {% if counter3 >= before_count %}
         </ul>
