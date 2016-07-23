@@ -1,7 +1,7 @@
 ---
 title: Constance Tenvik
 date: 2016-07-20 06:31:00 -04:00
-key_image: "/uploads/placeholder_image_3.jpg"
+key_image: "/uploads/TENVIK.jpg"
 is_sometimes: true
 ---
 
