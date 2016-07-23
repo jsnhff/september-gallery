@@ -11,7 +11,7 @@ layout: default
         <div class="clearfix">
             <form action="//septembergallery.us13.list-manage.com/subscribe/post?u=9541e75f42d936cad8f86d52c&amp;id=d4ed0b439e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                 <div class="col-12 sm-col-7 md-col-7 lg-col-6 mx-auto">
-                    <h2 class="regular mb0">Subscribe to our mailing list</h2>
+                    <h2 class="h3 regular mb0">Subscribe to our mailing list</h2>
                     <div class="h6 right"><span class="">*</span> indicates required</div>
                     <div class="mt2">
                         <label for="mce-EMAIL">Email Address  <span class="">*</span>
