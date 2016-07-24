@@ -1,6 +1,7 @@
 ---
 title: Sheila Gallagher
 date: 2016-07-24 11:09:00 -04:00
+key_image: "/uploads/GALLAGHER%20mandala.jpg"
 ---
 
 Sheila Gallagher (b. 1967, Morristown, New Jersey) received her BA from Connecticut College and her MFA from the School of the Museum of Fine Arts, Boston. Gallagher is an interdisciplinary artist, curator, and professor of art at Boston College. She works in many mediums including video, smoke painting, ink drawing, plastic trash compositions, temporal installations, and live animation.  
