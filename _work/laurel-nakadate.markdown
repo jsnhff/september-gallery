@@ -5,4 +5,9 @@ key_image: "/uploads/NAKADATE.jpg"
 is_sometimes: true
 ---
 
-Well, this is what it's all about...
+Born in Austin, Texas in 1975 and raised in Ames, Iowa, Laurel Nakadate received a BFA from the School of the Museum of Fine Arts, Boston (1998) and completed her MFA at Yale University (2001). Since then, twenty solo exhibitions of her photographs, films, and video have taken place at museums and galleries throughout the U.S., Europe, and Australia including an acclaimed ten-year survey in 2011 at MoMA/PS 1. She has participated in group shows at MoMA, the Hirshhorn, Schirn Kunsthalle, MACRO, and other major institutions.
+
+Nakadate’s works are in the collections of MoMA, the Whitney, Museum of Modern Art, Warsaw, the Hirshhorn, and others.
+
+Nakadate’s two feature-length films premiered at the Sundance and LA Film Festivals and have been screened throughout the world. Two monographs have been published on her photographs.
+
