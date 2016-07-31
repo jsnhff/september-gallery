@@ -7,8 +7,8 @@ end_date: 2016-10-16 18:00:00 -04:00
 opening_start_time_and_date: 2016-08-06 18:00:00 -04:00
 opening_end_time_and_date: 2016-08-06 20:00:00 -04:00
 artist_links:
-  Jennifer Page Cohen: taylor-davis.html
-  Taylor Davis: taylor-davis.html
+  Jennifer Page Cohen: 
+  Taylor Davis: 
   Davis, Cherubini: 
   Rachel Foullon: 
   Kim Gordon: 
