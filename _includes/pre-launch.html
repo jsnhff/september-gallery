@@ -1,7 +1,7 @@
 <div class="clearfix max-width-4 mx-auto mt3 sm-mt3 md-mt4 lg-mt4">
     {% for exhibition in site.space %}
-    {% if forloop.index <= 2 %}
-    <div class="sm-col sm-col-6 md-col-6 lg-col-6 center">
+    {% if forloop.index <= 1 %}
+    <div class="sm-col-9 md-col-8 lg-col-8 center mx-auto">
         <h2 class="mb0">{{ exhibition.title }}</h2>
         <p class="h4 gray mt0 mb2">{{ exhibition.start_date | date: '%B %d, %Y' }} → {{ exhibition.end_date | date: '%B %d, %Y' }}</p>
         {% if exhibition.opening_start_time_and_date != '' %}
