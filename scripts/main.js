@@ -22,6 +22,22 @@ for (i=0; i < svgz.length; i++){
     colorLetters(svgz[i]);
 }
 
+// Make homepage background move around with the mouse
+// Thanks: http://codepen.io/chrisboon27/pen/rEDIC
+$(document).ready(function() {
+    var movementStrength = 50;
+    var height = movementStrength / $(window).height();
+    var width = movementStrength / $(window).width();
+    $("body").mousemove(function(e){
+        var pageX = e.pageX - ($(window).width() / 2);
+        var pageY = e.pageY - ($(window).height() / 2);
+        var newvalueX = width * pageX * -1 - 25;
+        var newvalueY = height * pageY * -1 - 50;
+        $(".macro img").css("top", newvalueY+"px");
+        $(".macro img").css("left", newvalueX+"px");
+    });
+});
+
 // Calculate the time zone for NYC
 function calcTime(city, offset) {
     // create Date object for current location

@@ -13,6 +13,31 @@ $primary-color: #030f9c;
     top: -2px;
 }
 
+// Image macro for homepage background
+.macro {
+    z-index: -1;
+}
+.macro img {
+    -moz-transform: scale(9.1);
+    -webkit-transform: scale(9.1);
+    transform: scale(3.1);
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    opacity: 0.25;
+    //z-index: -1;
+}
+// Tint for homepage background image
+.macro:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    //background: rgba(3, 15, 156, 0.3);
+}
+
 // CSS Shim for annoying comma and space in liquid template for loops 
 .comma-list > a:after, .comma-list > p:after {
     content: ','
