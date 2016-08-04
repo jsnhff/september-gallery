@@ -47,7 +47,7 @@ layout: default
                 <a class="h3 my0 text-decoration-none navy pl1" title="September Gallery Instagram" href="http://www.instagram.com/{{ site.instagram_username }}">September on Instagram</a>
             </div>
         </div>
-        <p class="h3 fit center mt3">212-876-5309</p>
+        <p class="h3 fit center mt3">518-822-1333</p>
         <p class="h3 fit center mt3">
             {% for exhibition in site.space %}
                 {% assign a_start = exhibition.start_date | date: "%j" %}
