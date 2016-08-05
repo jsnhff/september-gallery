@@ -3,6 +3,8 @@ title: Shinique Smith
 date: 2016-07-19 19:02:00 -04:00
 key_image: "/uploads/SMITH.jpg"
 is_sometimes: true
+research_links:
+  Artist's Website: http://shiniquesmith.com/
 ---
 
 Born 1971 in Baltimore, Maryland, Shinique Smith lives and works in Upstate New York. Her work is inspired by the vast nature of ‘things’ that we consume and discard, which resonate on a personal and social scale. The Graffiti of her youth, Japanese calligraphy, and Abstraction are influences from which she extracts “the graceful and spiritual qualities in written word and the everyday.”
