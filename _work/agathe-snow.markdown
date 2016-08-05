@@ -1,7 +1,7 @@
 ---
 title: Agathe Snow
 date: 2016-07-19 19:02:00 -04:00
-key_image: "/uploads/SNOW.jpg"
+key_image: "/uploads/September_Gallery-Blue_Jean_Baby-%5B08-03-2016%5D-27.jpg"
 is_sometimes: true
 ---
 
