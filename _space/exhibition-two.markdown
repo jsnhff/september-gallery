@@ -25,8 +25,11 @@ artist_links:
   Odessa Straub: 
 images:
 - "/uploads/placeholder_image_1.jpg"
-- "/uploads/placeholder_image_2.jpg"
-- "/uploads/placeholder_image_3.jpg"
+- "/uploads/Blue%20Jean%20Baby%20Install%20I.jpg"
+- "/uploads/Blue%20Jean%20Baby%20Install%20II.jpg"
+- "/uploads/Blue%20jean%20Baby%20Install%20III.jpg"
+- "/uploads/Blue%20Jean%20Baby%20Install%20IV.jpg"
+- "/uploads/Blue%20Jean%20Baby%20V.jpg"
 research_links:
   Link One: https://en.wikipedia.org/wiki/Jeans
   'Jeans: Wikipedia': http://denimdayinfo.org/
