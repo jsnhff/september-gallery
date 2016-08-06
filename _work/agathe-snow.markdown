@@ -4,6 +4,8 @@ date: 2016-07-19 19:02:00 -04:00
 key_image: "/uploads/SNOW%201.jpg"
 is_sometimes: true
 first_letter_of_last_name: s
+research_links:
+  Interview Magazine: http://www.interviewmagazine.com/art/agathe-snow-continuum-journal-gallery#_
 ---
 
 Agathe Snow

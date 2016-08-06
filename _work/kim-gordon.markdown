@@ -4,6 +4,8 @@ date: 2016-07-19 18:57:00 -04:00
 key_image: "/uploads/GORDON.jpg"
 is_sometimes: true
 first_letter_of_last_name: g
+research_links:
+  Wikipedia: https://en.wikipedia.org/wiki/Kim_Gordon
 ---
 
 Kim Gordon studied at the Otis Art Institute in Los Angeles in the late 1970s and has continued to work as an artist since. Her first solo exhibition presented under the name ‘Design Office’ took place at New York’s White Columns in 1981. For the past thirty years Gordon has worked consistently across disciplines and across distinct cultural fields: art, design, writing, fashion (X-Girl), music (Sonic Y outh, Free Kitten, Body/Head), and film/video (both as actress and director).  

@@ -25,7 +25,6 @@ artist_links:
   Agathe Snow: 
   Odessa Straub: 
 images:
-- "/uploads/placeholder_image_1.jpg"
 - "/uploads/Blue%20Jean%20Baby%20Install%20I.jpg"
 - "/uploads/Blue%20Jean%20Baby%20Install%20II.jpg"
 - "/uploads/Blue%20jean%20Baby%20Install%20III.jpg"
