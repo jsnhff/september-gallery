@@ -4,6 +4,8 @@ date: 2016-07-19 18:58:00 -04:00
 key_image: "/uploads/NAKADATE.jpg"
 is_sometimes: true
 first_letter_of_last_name: n
+exhibition_links:
+  MOMA PS1: http://momaps1.org/exhibitions/view/321
 research_links:
   Artist's Website: http://laurelnakadate.weebly.com/
 ---
