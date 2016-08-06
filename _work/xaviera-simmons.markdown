@@ -3,6 +3,7 @@ title: Xaviera Simmons
 date: 2016-07-19 19:00:00 -04:00
 key_image: "/uploads/SIMMONS.jpg"
 is_sometimes: true
+first_letter_of_last_name: s
 ---
 
 Xaviera Simmons transplants diverse narratives into agrestal, engineered, and somatic landscapes. Conjuring photography, audio, sculpture, performance, and video, Simmons traverses assumptions surrounding place, time, the populations that activate given contexts, and the capacity of record and memory to alter perceptions thereof. Simmons grounds sociopolitical, personal, and art histories by testing them within the physical limits of experienced terrain. The result is the formation of non-linear narratives through manipulation, humor, observation and candor as unflappable as they are appropriative.
