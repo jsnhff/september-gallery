@@ -42,6 +42,7 @@ for (i=0; i < svgz.length; i++){
 function initPano() {
     // Note: constructed panorama objects have visible: true
     // set by default.
+    if ( $("#js_streetview").length){
     var panorama = new google.maps.StreetViewPanorama(
         document.getElementById('js_streetview'), {
             position: {lat: 42.2498667, lng: -73.7869834},
@@ -58,6 +59,7 @@ function initPano() {
             address: false,
             disableDefaultUI: true
         });
+    }
 }
 
 // Calculate the time zone for NYC
@@ -94,10 +96,6 @@ galleryHours.push(entry1);
 galleryHours.push(entry2);
 galleryHours.push(entry3);
 galleryHours.push(entry4);
-
-console.log("nyc time: "+currentNYCTime.hour);
-console.log("closing time: "+galleryHours[1].close_time);
-console.log("open time: "+galleryHours[1].open_time);
 
 for (i = 0; i < galleryHours.length; i++) {
     if ( currentNYCTime.day == galleryHours[i].day &&
