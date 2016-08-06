@@ -7,6 +7,7 @@ layout: default
 <!-- Space navigation spacer -->
 <div class="sm-col md-col-2 lg-col-2 xs-hide sm-hide mt3">
     {% include space_nav.md %}
+    {% include scroll_to_top.html %}
 </div>
 
 {% assign now = 'now' | date: "%j" %}

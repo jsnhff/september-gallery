@@ -6,6 +6,11 @@
 // Navy #0E2747 or #030f9c from Word Doc
 $primary-color: #030f9c;
 
+// Make cursor the mikey mouse glove
+.pointer {
+    cursor: pointer;
+}
+
 // Enhanced lines spacing for long grafs
 .prose {
     line-height: 1.35;

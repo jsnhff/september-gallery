@@ -7,6 +7,7 @@ layout: default
 <!-- Work navigation spacer -->
 <div class="sm-col md-col-2 lg-col-2 xs-hide sm-hide mt3">
     {% include work_nav.html %}
+    {% include scroll_to_top.html %}
 </div>
 {% assign sorted_artists = site.work | sort:"title" %}
 <!-- Work list -->

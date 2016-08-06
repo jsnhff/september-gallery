@@ -123,3 +123,24 @@ $(function() {
     }
     });
 });
+
+// Scroll up to the top homie
+// Thanks! https://paulund.co.uk/how-to-create-an-animated-scroll-to-top-with-jquery
+$(document).ready(function(){
+
+    //Check to see if the window is top if not then display button
+    $(window).scroll(function(){
+        if ($(this).scrollTop() > 400) {
+            $('#js_scroll-to-top').fadeIn();
+        } else {
+            $('#js_scroll-to-top').fadeOut();
+        }
+    });
+
+    //Click event to scroll to top
+    $('#js_scroll-to-top').click(function(){
+        $('html, body').animate({scrollTop : 0},800);
+        return false;
+    });
+
+});
