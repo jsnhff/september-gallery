@@ -7,6 +7,7 @@ is_sometimes: true
 first_letter_of_last_name: g
 research_links:
   Artist's Website: http://www.shegallagher.com/
+  Crystal Bridges: http://stateoftheart.crystalbridges.org/blog/project/sheila-gallagher/
 ---
 
 Sheila Gallagher (b. 1967, Morristown, New Jersey) received her BA from Connecticut College and her MFA from the School of the Museum of Fine Arts, Boston. Gallagher is an interdisciplinary artist, curator, and professor of art at Boston College. She works in many mediums including video, smoke painting, ink drawing, plastic trash compositions, temporal installations, and live animation.  
