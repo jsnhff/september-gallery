@@ -9,7 +9,7 @@ layout: default
     {% include work_nav.html %}
     {% include scroll_to_top.html %}
 </div>
-{% assign sorted_artists = site.work | sort:"title" %}
+{% assign sorted_artists = site.work | sort:"first_letter_of_last_name" %}
 <!-- Work list -->
 <ul class="list-reset col-11 sm-col sm-col-12 md-col-10 lg-col-10 mt3 mx-auto">
     <h1 class="hide">Work</h1>

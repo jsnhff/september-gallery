@@ -1,4 +1,4 @@
-{% assign sorted_artists = site.work | sort:"title" %}
+{% assign sorted_artists = site.work | sort:"first_letter_of_last_name" %}
 <div class="xs-hide sm-hide">
 {% for artist in sorted_artists %}
     {% if artist.is_always %}
