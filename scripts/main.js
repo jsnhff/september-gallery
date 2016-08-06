@@ -95,10 +95,14 @@ galleryHours.push(entry2);
 galleryHours.push(entry3);
 galleryHours.push(entry4);
 
+console.log("nyc time: "+currentNYCTime.hour);
+console.log("closing time: "+galleryHours[1].close_time);
+console.log("open time: "+galleryHours[1].open_time);
+
 for (i = 0; i < galleryHours.length; i++) {
     if ( currentNYCTime.day == galleryHours[i].day &&
-            galleryHours[i].open_time <= currentNYCTime.hour &&
-            galleryHours[i].close_time >= currentNYCTime.hour ){
+         galleryHours[i].open_time < currentNYCTime.hour &&
+         galleryHours[i].close_time > currentNYCTime.hour ){
         $(".js-gallery-hours").removeClass("display-none");
     };
 }
