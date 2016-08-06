@@ -4,7 +4,7 @@
         <div class="flex justify-center">
             <div class="sm-col sm-col-8 md-col-8 lg-col-8 center">
                 <h2 class="h3 mb0">{{ exhibition.title }}</h2>
-                <p class="h3 navy mt0 mb2">{{ exhibition.start_date | date: '%B %d, %Y' }} <span class="relative arrow">→</span> {{ exhibition.end_date | date: '%B %d, %Y' }}</p>
+                <p class="h3 navy mt0 mb2">{{ exhibition.start_date | date: '%B %-d, %Y' }} <span class="relative arrow">→</span> {{ exhibition.end_date | date: '%B %-d, %Y' }}</p>
                 {% if exhibition.opening_start_time_and_date != '' %}
                 {% assign start = exhibition.opening_start_time_and_date %}
                 {% assign end = exhibition.opening_end_time_and_date %}
