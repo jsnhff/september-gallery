@@ -51,11 +51,12 @@ layout: default
         <!--End mc_embed_signup-->
 
         <!-- Assign exhibition title for email subject -->
+        {% assign now = 'now' | date: "%j" %}
         {% for exhibition in site.space %}
             {% assign a_start = exhibition.start_date | date: "%j" %}
             {% assign a_end = exhibition.end_date | date: "%j" %}
-            {% if now > a_start and now < a_end %}
-                {{ assign current_exhibition = exhibition.title }}
+            {% if now >= a_start and now <= a_end %}
+                {% assign current_exhibition = exhibition.title %}
             {% endif %}
         {% endfor %}
         <div class="xs-hide">
