@@ -5,12 +5,25 @@ layout: default
 ---
 
 <div class="pt1">
-    <div class="col-11 mt3 mx-auto">
+    <div class="col-12 my3 center">
+        <div id="js_streetview" class="relative" style="z-index:-1;">
+        <!--
+        <div class="streetview">
+            <img class="" src="https://maps.googleapis.com/maps/api/streetview?size=1000x400&location=42.2498667,-73.7869834&heading=220&pitch=-0.06&fov=70&key=AIzaSyCVMendGJiHUon5HW7c35eFf81MU_gAUrI" title="">
+        </div>
+        -->
+    </div>
+</div>
+<div class="clearfix">
+    <div class="sm-col sm-col-6 md-col-7 lg-col-8 pr0 sm-pr2 md-pr3 lg-pr3">
+        <p class="prose h3">{{ site.writing }}</p>
+    </div>
+    <div class="sm-col sm-col-6 md-col-5 lg-col-4 pl0 sm-pl1 md-pl2 lg-pl2">
         <h1 class="hide">Info</h1>
         <!-- Begin MailChimp Signup Form -->
         <div class="clearfix">
             <form action="//septembergallery.us13.list-manage.com/subscribe/post?u=9541e75f42d936cad8f86d52c&amp;id=d4ed0b439e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                <div class="col-12 sm-col-7 md-col-7 lg-col-6 mx-auto">
+                <div class="">
                     <h2 class="h3 regular mb0">Be on our mailing list</h2>
                     <div class="h6 right"><span class="">*</span> indicates required</div>
                     <div class="mt2">
@@ -37,26 +50,46 @@ layout: default
         </div>
         <!--End mc_embed_signup-->
 
-        <div class="table mx-auto parent-hover mt4">
-            <div class="table-cell align-middle">
-                <a title="September Gallery Instagram" href="htt://www.instagram.com">
-                    <span class="icon inline-block">{% include icon-instagram.svg %}</span>
-                </a>
+        <!-- Assign exhibition title for email subject -->
+        {% for exhibition in site.space %}
+            {% assign a_start = exhibition.start_date | date: "%j" %}
+            {% assign a_end = exhibition.end_date | date: "%j" %}
+            {% if now > a_start and now < a_end %}
+                {{ assign current_exhibition = exhibition.title }}
+            {% endif %}
+        {% endfor %}
+        <div class="xs-hide">
+            <div class="table parent-hover mt4">
+                <div class="table-cell align-middle">
+                    <a title="September Gallery Instagram" href="htt://www.instagram.com">
+                        <span class="icon inline-block">{% include icon-instagram.svg %}</span>
+                    </a>
+                </div>
+                <div class="table-cell align-middle">
+                    <a class="h3 my0 text-decoration-none navy pl1" title="September Gallery Instagram" href="http://www.instagram.com/{{ site.instagram_username }}">September on Instagram</a>
+                </div>
             </div>
-            <div class="table-cell align-middle">
-                <a class="h3 my0 text-decoration-none navy pl1" title="September Gallery Instagram" href="http://www.instagram.com/{{ site.instagram_username }}">September on Instagram</a>
-            </div>
+            <p class="h3 mt3">
+                <a class="text-decoration-none navy" title="Email for appointments" href="mailto:{{ site.email }}?subject=I'd like to visit {{ current_exhibition }}">Email for appointments</a>
+            </p>
+            <p class="h3 mt3">518-822-1333</p>
         </div>
-        <p class="h3 fit center mt3">518-822-1333</p>
-        <p class="h3 fit center mt3">
-            {% for exhibition in site.space %}
-                {% assign a_start = exhibition.start_date | date: "%j" %}
-                {% assign a_end = exhibition.end_date | date: "%j" %}
-                {% if now > a_start and now < a_end %}
-                    {{ assign current_exhibition = exhibition.title }}
-                {% endif %}
-            {% endfor %}
-            <a class="text-decoration-none navy" title="Email for appointments" href="mailto:{{ site.email }}?subject=I'd like to visit {{ current_exhibition }}">Email for appointments</a>
-        </p>
+        <div class="sm-hide md-hide lg-hide center">
+            <div class="table parent-hover mt4 mx-auto">
+                <div class="table-cell align-middle">
+                    <a title="September Gallery Instagram" href="htt://www.instagram.com">
+                        <span class="icon inline-block">{% include icon-instagram.svg %}</span>
+                    </a>
+                </div>
+                <div class="table-cell align-middle">
+                    <a class="h3 my0 text-decoration-none navy pl1" title="September Gallery Instagram" href="http://www.instagram.com/{{ site.instagram_username }}">September on Instagram</a>
+                </div>
+            </div>
+            <p class="h3 mt3">
+                <a class="text-decoration-none navy" title="Email for appointments" href="mailto:{{ site.email }}?subject=I'd like to visit {{ current_exhibition }}">Email for appointments</a>
+            </p>
+            <p class="h3 mt3">518-822-1333</p>
+        </div>
+
     </div>
 </div>

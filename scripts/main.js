@@ -24,19 +24,41 @@ for (i=0; i < svgz.length; i++){
 
 // Make homepage background move around with the mouse
 // Thanks: http://codepen.io/chrisboon27/pen/rEDIC
-$(document).ready(function() {
-    var movementStrength = 50;
-    var height = movementStrength / $(window).height();
-    var width = movementStrength / $(window).width();
-    $("body").mousemove(function(e){
-        var pageX = e.pageX - ($(window).width() / 2);
-        var pageY = e.pageY - ($(window).height() / 2);
-        var newvalueX = width * pageX * -1 - 25;
-        var newvalueY = height * pageY * -1 - 50;
-        $(".macro img").css("top", newvalueY+"px");
-        $(".macro img").css("left", newvalueX+"px");
-    });
-});
+//$(document).ready(function() {
+//    var movementStrength = 50;
+//    var height = movementStrength / $(window).height();
+//    var width = movementStrength / $(window).width();
+//    $("body").mousemove(function(e){
+//        var pageX = e.pageX - ($(window).width() / 2);
+//        var pageY = e.pageY - ($(window).height() / 2);
+//        var newvalueX = width * pageX * -1 - 25;
+//        var newvalueY = height * pageY * -1 - 50;
+//        $(".macro img").css("top", newvalueY+"px");
+//        $(".macro img").css("left", newvalueX+"px");
+//    });
+//});
+
+// Google Streetview embed
+function initPano() {
+    // Note: constructed panorama objects have visible: true
+    // set by default.
+    var panorama = new google.maps.StreetViewPanorama(
+        document.getElementById('js_streetview'), {
+            position: {lat: 42.2498667, lng: -73.7869834},
+            pov: {heading: 220, pitch: 0},
+            zoom: 1,
+            addressControlOptions: {
+                position: google.maps.ControlPosition.BOTTOM_CENTER
+            },
+            linksControl: false,
+            panControl: false,
+            enableCloseButton: false,
+            zoomControl: false,
+            fullscreenControl: false,
+            address: false,
+            disableDefaultUI: true
+        });
+}
 
 // Calculate the time zone for NYC
 function calcTime(city, offset) {
