@@ -73,3 +73,5 @@ url: http://septembergallery.com
 facebook_username: septembergallery
 instagram_username: septembergallery
 markdown: kramdown
+gems:
+  - jekyll-sitemap
