@@ -3,6 +3,7 @@ title: Odessa Straub
 date: 2016-07-19 19:03:00 -04:00
 key_image: "/uploads/STRAUB.jpg"
 is_sometimes: true
+first_letter_of_last_name: s
 research_links:
   Artist's Website: http://www.odessastraub.com/
 ---
