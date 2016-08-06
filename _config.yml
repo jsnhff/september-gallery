@@ -22,6 +22,7 @@ defaults:
     layout: artist
     title: Artist Name
     key_image: ''
+    key_image_credit: ''
     is_always: false
     is_sometimes: false
     first_letter_of_last_name: ''

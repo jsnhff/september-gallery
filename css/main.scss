@@ -11,6 +11,11 @@ $primary-color: #030f9c;
     cursor: pointer;
 }
 
+// Image credit positioning on big images
+.caption {
+    bottom: -15px;
+}
+
 // Enhanced lines spacing for long grafs
 .prose {
     line-height: 1.35;

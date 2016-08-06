@@ -46,6 +46,7 @@
                 <a class="text-decoration-none navy block mt2" href="{{ catalog[1] }}" title="{{ catalog[0] }}">{% if forloop.index >= 2 | strip: true %},{% endif %} {{ catalog[0] }} →</a>
                 {% endif %}
             {% endfor %}
+            <p class="silver">{{ exhibition.key_image_credit }}</p>
         </div>
     </div>
 </li>
