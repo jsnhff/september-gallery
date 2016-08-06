@@ -3,6 +3,7 @@ title: Constance Tenvik
 date: 2016-07-20 06:31:00 -04:00
 key_image: "/uploads/TENVIK.jpg"
 is_sometimes: true
+first_letter_of_last_name: t
 research_links:
   Artist's Website: http://constancetenvik.com/
 ---
