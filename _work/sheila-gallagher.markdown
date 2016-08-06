@@ -4,6 +4,7 @@ date: 2016-07-24 11:09:00 -04:00
 key_image: "/uploads/GALLAGHER%20mandala.jpg"
 is_always: true
 is_sometimes: true
+first_letter_of_last_name: g
 research_links:
   Artist's Website: http://www.shegallagher.com/
 ---
