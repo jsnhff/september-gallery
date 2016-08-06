@@ -1,7 +1,7 @@
 ---
 title: Sara Greenberger Rafferty
 date: 2016-07-19 18:58:00 -04:00
-key_image: "/uploads/RAFFERTY.jpg"
+key_image: "/uploads/RAFFERTY-dc4b1a.jpeg"
 is_sometimes: true
 research_links:
   Artist's Website: http://sgrstudio.info/
