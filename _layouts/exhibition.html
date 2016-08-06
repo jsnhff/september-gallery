@@ -42,7 +42,9 @@ layout: default
         {% endfor %}
       <!-- <a class="text-decoration-none black block" href="{{ page.images }}" title="Images">Images &#8599;</a> -->
       <!-- Exhibition statement -->
-      {{ content }}
+    <div class="mt2 mb0 prose">
+        {{ content }}
+    </div>
 
         {% for link in page.research_links %}
             {% if forloop.first %}

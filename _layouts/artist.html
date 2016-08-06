@@ -32,9 +32,9 @@ layout: default
       <!-- <a class="text-decoration-none navy" href="{{ page.images }}" title="Images">Images &#8599;</a> -->
         <!-- Artist bio -->
         {% if content.size > 1 %}
-        <p class="mt2 mb0">
-            {{ content | strip_html }}
-        </p>
+        <div class="mt2 mb0 prose">
+            {{ content }}
+        </div>
         {% endif %}
 
         {% for link in page.research_links %}

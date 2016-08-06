@@ -6,7 +6,10 @@
 // Navy #0E2747 or #030f9c from Word Doc
 $primary-color: #030f9c;
 
-// Enhanced lines spacing for long h3 grafs
+// Enhanced lines spacing for long grafs
+.prose {
+    line-height: 1.35;
+}
 .prose.h3 {
     line-height: 1.35;
 }
