@@ -55,13 +55,6 @@ defaults:
 email: kristen@septembergallery.com
 description: |
   September Gallery.
-physical_address: '449 Warren Street #3, Hudson, NY 12534'
-hours_of_operation: Friday through Monday 12 to Six
-baseurl: 
-url: http://septembergallery.com
-facebook_username: septembergallery
-instagram_username: septembergallery
-markdown: kramdown
 writing: 'SEPTEMBER was founded by Kristen Dodge in 2016. The space is located at
   449 Warren Street #3, Hudson, NY 12534. Our exhibition programming launched with
   Blue Jean Baby, featuring the work of 16 artists from Boston, Los Angeles, Brooklyn,
@@ -73,3 +66,9 @@ writing: 'SEPTEMBER was founded by Kristen Dodge in 2016. The space is located a
   be invited to propose exhibitions and events. SEPTEMBER is a platform for Artists
   of diverse and committed disciplines. SEPTEMBER is named after a month that foreshadows
   a season of transition.'
+physical_address: '449 Warren Street #3, Hudson, NY 12534'
+baseurl: 
+url: http://septembergallery.com
+facebook_username: septembergallery
+instagram_username: septembergallery
+markdown: kramdown
