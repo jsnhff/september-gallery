@@ -3,6 +3,7 @@ title: Anna Sew Hoy
 date: 2016-07-19 18:57:00 -04:00
 key_image: "/uploads/HOY.jpg"
 is_sometimes: true
+first_letter_of_last_name: h
 ---
 
 Anna Sew Hoy (b. 1976) lives and works in Los Angeles, CA. She received her MFA from Bard College in 2008. Sew Hoy has held solo exhibitions at galleries and institutions including the Aspen Art Museum, Aspen, CO; San Jose Museum of Art, CA; Sikkema, Jenkins & Co., NY; LA><ART, Los Angeles; Romer Young Gallery, San Francisco; Koenig & Clinton, New York (forthcoming); and Various Small Fires,
