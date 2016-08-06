@@ -3,6 +3,7 @@ title: Laurel Nakadate
 date: 2016-07-19 18:58:00 -04:00
 key_image: "/uploads/NAKADATE.jpg"
 is_sometimes: true
+first_letter_of_last_name: n
 ---
 
 Born in Austin, Texas in 1975 and raised in Ames, Iowa, Laurel Nakadate received a BFA from the School of the Museum of Fine Arts, Boston (1998) and completed her MFA at Yale University (2001). Since then, twenty solo exhibitions of her photographs, films, and video have taken place at museums and galleries throughout the U.S., Europe, and Australia including an acclaimed ten-year survey in 2011 at MoMA/PS 1. She has participated in group shows at MoMA, the Hirshhorn, Schirn Kunsthalle, MACRO, and other major institutions.
