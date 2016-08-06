@@ -5,6 +5,8 @@ key_image: "/uploads/NICOLE-CHERUBINI-A-Pair-of-G-Pots-with-Lions-Detail1-2015.j
 is_always: true
 is_sometimes: true
 first_letter_of_last_name: c
+exhibition_links:
+  MIT List Visual Art Center: https://listart.mit.edu/exhibitions/davis-cherubini-contention
 research_links:
   Artist's Website: http://www.nicolecherubini.com/
   BOMB Interview: http://bombmagazine.org/article/10114/nicole-cherubini
