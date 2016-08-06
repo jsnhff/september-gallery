@@ -24,6 +24,7 @@ defaults:
     key_image: ''
     is_always: false
     is_sometimes: false
+    first_letter_of_last_name: ''
     exhibition_links:
       Link Title One: ''
     images:
