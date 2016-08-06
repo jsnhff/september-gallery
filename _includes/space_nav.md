@@ -3,7 +3,7 @@
 {% assign start = exhibition.start_date | date: "%j" %}
 {% assign end = exhibition.end_date | date: "%j" %}
 {% assign now = 'now' | date: "%j" %}
-    {% if now > start and now < end %}
+    {% if now >= start and now <= end %}
         {% assign now_count = now_count | plus: 1 %}
     {% elsif now < start %}
         {% assign after_count = after_count | plus: 1 %}
@@ -15,7 +15,7 @@
 {% assign start = exhibition.start_date | date: "%j" %}
 {% assign end = exhibition.end_date | date: "%j" %}
 {% assign now = 'now' | date: "%j" %}
-    {% if now > start and now < end %}
+    {% if now >= start and now <= end %}
         {% assign counter1 = counter1 | plus: 1 %}
         {% if counter1 <= 1 %}
         <h3 class="h6 regular caps gray mt2">Now</h3>

@@ -16,7 +16,7 @@ layout: default
     {% for exhibition in site.space %}
         {% assign a_start = exhibition.start_date | date: "%j" %}
         {% assign a_end = exhibition.end_date | date: "%j" %}
-            {% if now > a_start and now < a_end %}
+            {% if now >= a_start and now <= a_end %}
                 {% assign page_counter1 = page_counter1 | plus: 1 %}
                 {% if page_counter1 <= 1 %}
                 <h3 class="h6 regular caps gray my2 mb2 md-pl1 lg-pl1">Now</h3>
@@ -31,6 +31,7 @@ layout: default
                 {% if page_counter2 <= 1 %}
                 <h3 class="h6 regular caps gray my2 md-pl1 lg-pl1">After</h3>
                 {% endif %}
+        {{ b_start }}
             {% include exhibition.html %}
             {% endif %}
     {% endfor %}
