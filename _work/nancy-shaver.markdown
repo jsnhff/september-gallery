@@ -4,8 +4,19 @@ date: 2016-07-19 19:01:00 -04:00
 key_image: "/uploads/SHAVER%20To%20Richie%20Rich%202.jpg"
 is_sometimes: true
 first_letter_of_last_name: s
+exhibition_links:
+  Blue Jean Baby, SEPTEMBER: http://septembergallery.com/space/blue-jean-baby.html
+  Greater New York, MoMA PS1: http://momaps1.org/exhibitions/view/403
+  Robert Gober, MoMA: http://www.moma.org/calendar/exhibitions/1452?locale=en
+  Dress the Form, Derek Eller: http://www.derekeller.com/exhibitions
+  Cancel All Our Vows, DODGEgallery: http://dodge-gallery.com/cgi-bin/DODGE?s=exhibitions&v=201421410243496975919943134
+  Three sisters, four beauties and a work-horse, Feature Inc: http://www.featureinc.info/exhibs-2011/2011-11-12%20shaver/2011-10-11_shaver-exhib.html
 research_links:
   Artist's Website: http://www.nancyshaverartist.com/
+  Aldrich Museum: http://aldrichart.org/article/reconciliation
+  Bomb Magazine: http://bombmagazine.org/article/1182/nancy-shaver
+  artnet: https://news.artnet.com/opinion/nancy-shaver-derek-eller-540086
+  Art in America: http://www.artinamericamagazine.com/reviews/nancy-shaver/
 ---
 
 Wanting to be an artist. Being an artist. For forty years I have used the vernacular mass-market object and the hand-made as the site for my work. I would like the work to slip between boundaries, from a recognized use in the world to another experience of thought or pleasure.
