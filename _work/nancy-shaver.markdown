@@ -15,7 +15,7 @@ research_links:
   Artist's Website: http://www.nancyshaverartist.com/
   Aldrich Museum: http://aldrichart.org/article/reconciliation
   Bomb Magazine: http://bombmagazine.org/article/1182/nancy-shaver
-  artnet: https://news.artnet.com/opinion/nancy-shaver-derek-eller-540086
+  artnet News: https://news.artnet.com/opinion/nancy-shaver-derek-eller-540086
   Art in America: http://www.artinamericamagazine.com/reviews/nancy-shaver/
 ---
 
