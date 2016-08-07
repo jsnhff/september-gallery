@@ -31,8 +31,8 @@ images:
 - "/uploads/Blue%20Jean%20Baby%20Install%20IV.jpg"
 - "/uploads/Blue%20Jean%20Baby%20V.jpg"
 research_links:
-  Link One: https://en.wikipedia.org/wiki/Jeans
-  'Jeans: Wikipedia': http://denimdayinfo.org/
+  Wikipedia: https://en.wikipedia.org/wiki/Jeans
+  Denim Day: http://denimdayinfo.org/
 ---
 
 Blue Jean Baby
