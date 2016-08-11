@@ -13,11 +13,12 @@ artist_links:
   Curated by Amber J. Esseiva: 'Curated by Amber J. Esseiva '
 images:
 - "/uploads/FlucT-Sigrid.jpg"
-- "/uploads/FlucT-%20Monica"
+- "/uploads/FlucT-Monica.jpg"
 - "/uploads/Constance%201.jpg"
 - "/uploads/Constance%202.jpg"
 - "/uploads/Annie%20Bielski.jpg"
 - "/uploads/Constance.jpg"
+- 
 ---
 
 Constance Tenvik will perform Cold Buffet, a new work commissioned by SEPTEMBER, inspired by the 1966 film Daisies. Daisies follows the misadventures of two women who, believing the world to be spoiled, embark on a series of pranks in which nothing—food, clothes, men, war—is taken seriously. In Cold Buffet, Tenvik will present a midsummers night’s dream-like exploration of the fictive character, Tricia Tranquilite, who has returned to the white cube after having been distracted by barefoot yoga-posers out in the green fields. Delusional still, she mistakes bread loafs for shoes and flowers for arrows, and hopes to avoid returning to the brutality of the every day.
