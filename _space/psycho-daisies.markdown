@@ -2,7 +2,6 @@
 title: Psycho Daisies
 date: 2016-07-02 17:29:00 -04:00
 key_image: "/uploads/psycho-daisies.jpg"
-key_image_credit: 'Photo by:  Poster Designer Extraordinaire'
 is_event: true
 start_date: 2016-07-29 00:00:00 -04:00
 end_date: 2016-07-29 00:00:00 -04:00
@@ -11,6 +10,7 @@ artist_links:
   Constance Tenvik: work/constance-tenvik.html
   Annie Bielski: work/annie-bielski.html
   FlucT: work/fluct.html
+  Curated by Amber J Esseiva: 
 ---
 
 Constance Tenvik will perform Cold Buffet, a new work commissioned by SEPTEMBER, inspired by the 1966 film Daisies. Daisies follows the misadventures of two women who, believing the world to be spoiled, embark on a series of pranks in which nothing—food, clothes, men, war—is taken seriously. In Cold Buffet, Tenvik will present a midsummers night’s dream-like exploration of the fictive character, Tricia Tranquilite, who has returned to the white cube after having been distracted by barefoot yoga-posers out in the green fields. Delusional still, she mistakes bread loafs for shoes and flowers for arrows, and hopes to avoid returning to the brutality of the every day.
