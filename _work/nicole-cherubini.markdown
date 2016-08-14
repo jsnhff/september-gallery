@@ -6,7 +6,10 @@ is_always: true
 is_sometimes: true
 first_letter_of_last_name: c
 exhibition_links:
-  MIT List Visual Art Center: https://listart.mit.edu/exhibitions/davis-cherubini-contention
+  Pérez Museum: http://www.pamm.org/exhibitions/project-gallery-nicole-cherubini
+  Tang Museum: https://tang.skidmore.edu/collection/27-g-pot-medallion-1
+  MFA, Boston: http://www.mfa.org/exhibitions/surface-matters
+  Santa Monica Museum of Art: https://smmoa.org/programs-and-exhibitions/nicole-cherubini/
 research_links:
   Artist's Website: http://www.nicolecherubini.com/
   BOMB Interview: http://bombmagazine.org/article/10114/nicole-cherubini
