@@ -4,6 +4,8 @@ date: 2016-07-19 19:02:00 -04:00
 key_image: "/uploads/SMITH.jpg"
 is_sometimes: true
 first_letter_of_last_name: s
+exhibition_links:
+  Corcoran, 30 Americans: http://www2.corcoran.org/30americans/artists/shinique-smith
 research_links:
   Artist's Website: http://shiniquesmith.com/
 ---
