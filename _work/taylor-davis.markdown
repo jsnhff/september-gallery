@@ -9,6 +9,7 @@ exhibition_links:
   Aldrich Museum: 
   Whitney Biennial: http://whitney.org/www/2004biennial/flash/main.swf
   Tang Museum: https://tang.skidmore.edu/exhibitions/36-i-was-a-double
+  DeCordova Museum and Sculpture Park: http://www.decordova.org/taylor-davis
 research_links:
   Artist's Website: http://taylordavis.net/
   Aldrich Museum, Art Daily: http://artdaily.com/news/69555/Boston-based-artist-Taylor-Davis-opens-exhibition-at-the-Aldrich-Contemporary-Art-Museum#.V7CcBZMrK8U
