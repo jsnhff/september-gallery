@@ -10,9 +10,9 @@ exhibition_links:
   Whitney Biennial: http://whitney.org/www/2004biennial/flash/main.swf
   Tang Museum: https://tang.skidmore.edu/exhibitions/36-i-was-a-double
   DeCordova Museum and Sculpture Park: http://www.decordova.org/taylor-davis
-  DODGEgallery: http://dodge-gallery.com/cgi-bin/DODGE?s=exhibitions&v=2012171419247864580898438943
   ICA, Boston: https://www.icaboston.org/exhibitions/2001-ica-artist-prize-taylor-davis
   White Columns: https://www.whitecolumns.org/archive/index.php/Search/Index/search/%22Taylor+Davis%22
+  DODGEgallery: http://dodge-gallery.com/cgi-bin/DODGE?s=exhibitions&v=2012171419247864580898438943
 research_links:
   Artist's Website: http://taylordavis.net/
   Aldrich Museum, Art Daily: http://artdaily.com/news/69555/Boston-based-artist-Taylor-Davis-opens-exhibition-at-the-Aldrich-Contemporary-Art-Museum#.V7CcBZMrK8U
