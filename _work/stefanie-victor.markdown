@@ -1,6 +1,9 @@
 ---
 title: Stefanie Victor
 date: 2016-08-14 12:06:00 -04:00
+key_image: "/uploads/Stefanie%20Victor.jpg"
+exhibition_links:
+  MoMA PS1, Greater New York: http://momaps1.org/exhibitions/view/403
 ---
 
 My ongoing project of metal sculptures called Sculptures for Margaret is named for the jewelry designer Margaret De Patta. De Patta’s studio jewelry in the 1960s and 70s engaged a dialog between fine art, design, and craft, through pieces informed by Constructivist ideals and her Chicago Bauhaus education. This project responds to her work by combining materials associated with jewelry and allusions to wearability, with references to contemporaneous 60s and 70s minimal and environmental sculpture, as well as to playground equipment, tableware, toys, hardware, headware, etc. That is, my sculptures are as informed by histories of abstraction in fine art and craft as they are by the circumstance and the rhythms of my day-to-day life.  
