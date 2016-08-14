@@ -3,7 +3,7 @@ title: Stefanie Victor
 date: 2016-08-14 12:06:00 -04:00
 key_image: "/uploads/Stefanie%20Victor.jpg"
 is_sometimes: true
-first_letter_of_last_name: V
+first_letter_of_last_name: v
 exhibition_links:
   MoMA PS1, Greater New York: http://momaps1.org/exhibitions/view/403
 ---
