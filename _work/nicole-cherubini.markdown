@@ -19,6 +19,7 @@ research_links:
   LA Weekly: http://www.laweekly.com/arts/nicole-cherubini-at-santa-monica-museum-of-art-2162052
   Daily Serving: http://dailyserving.com/2015/12/nicole-cherubini-golden-specific-at-samson-projects/
   Hyperallergic: http://hyperallergic.com/267325/fragile-monuments-to-the-jars-ancient-form/
+  Big Red & Shiny: http://bigredandshiny.org/21738/review-nicole-cherubini-golden-specific/
 catalog_link:
   Catalog: https://cfileonline.org/cfile-library-learn-how-nicole-cherubini-balances-opulence-and-minimalism/
 ---
