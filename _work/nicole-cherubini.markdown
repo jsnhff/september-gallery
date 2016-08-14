@@ -10,11 +10,15 @@ exhibition_links:
   Tang Museum: https://tang.skidmore.edu/collection/27-g-pot-medallion-1
   MFA, Boston: http://www.mfa.org/exhibitions/surface-matters
   Santa Monica Museum of Art: https://smmoa.org/programs-and-exhibitions/nicole-cherubini/
+  RETROSPECTIVE: http://retrospectivegallery.com/exhibitions/past/Nicole-Cherubini/Exhibition-Images/
 research_links:
   Artist's Website: http://www.nicolecherubini.com/
-  BOMB Interview: http://bombmagazine.org/article/10114/nicole-cherubini
-  Roberta Smith: http://www.nytimes.com/2010/07/16/arts/design/16galleries-001.html
-  Artist Pension Trust: http://www.aptglobal.org/en/Artists/Page/4721/Nicole-Cherubini
+  BOMB Interview with Sarah Braman: http://bombmagazine.org/article/10114/nicole-cherubini
+  NY Times, Roberta Smith: http://www.nytimes.com/2010/07/16/arts/design/16galleries-001.html
+  Art in America: http://www.artinamericamagazine.com/reviews/nicole-cherubini/
+  LA Weekly: http://www.laweekly.com/arts/nicole-cherubini-at-santa-monica-museum-of-art-2162052
+  Daily Serving: http://dailyserving.com/2015/12/nicole-cherubini-golden-specific-at-samson-projects/
+  Hyperallergic: http://hyperallergic.com/267325/fragile-monuments-to-the-jars-ancient-form/
 catalog_link:
   Catalog: https://cfileonline.org/cfile-library-learn-how-nicole-cherubini-balances-opulence-and-minimalism/
 ---
