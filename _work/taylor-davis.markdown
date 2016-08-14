@@ -11,8 +11,8 @@ exhibition_links:
   Tang Museum: https://tang.skidmore.edu/exhibitions/36-i-was-a-double
 research_links:
   Artist's Website: http://taylordavis.net/
-  Art Daily: http://artdaily.com/news/69555/Boston-based-artist-Taylor-Davis-opens-exhibition-at-the-Aldrich-Contemporary-Art-Museum#.V7CcBZMrK8U
-  Helen Molseworth: http://artjournal.collegeart.org/?p=2255
+  Aldrich Museum, Art Daily: http://artdaily.com/news/69555/Boston-based-artist-Taylor-Davis-opens-exhibition-at-the-Aldrich-Contemporary-Art-Museum#.V7CcBZMrK8U
+  Helen Molseworth, Art Journal: http://artjournal.collegeart.org/?p=2255
   ICA, Boston: https://www.icaboston.org/exhibitions/permanent-collection
   Radcliffe Harvard Fellowship: https://www.radcliffe.harvard.edu/people/taylor-davis
 ---
