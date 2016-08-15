@@ -10,8 +10,31 @@
 {% endif %}
 
 <!-- Script magic -->
-<script src="{{ "/scripts/vendor/jquery-2.2.4.min.js" | prepend: site.baseurl }}" type="text/javascript" defer="defer"></script>
-<script src="{{ "/scripts/main.js" | prepend: site.baseurl }}" type="text/javascript" defer="defer"></script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCVMendGJiHUon5HW7c35eFf81MU_gAUrI&callback=initPano"></script>
-</div>
+<script src="/scripts/vendor/jquery-2.2.4.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    // Create dynamic logo
+    var svgz = $("div#js-logo svg");
+
+    // Color one of the letters in each SVG letter group
+    function colorLetters(object) {
+        var randomNum = Math.floor((Math.random() * 3) + 0);
+        var l = $(object).children();
+        
+        for (n=0; n < l.length; n++) {
+            if (n == randomNum ) {
+                $(l[n]).attr("fill","#000000");
+                $(l[n]).attr("fill-opacity","1.0");
+            }
+        }
+    }
+
+    // Loop thourgh each SVG letter group
+    for (i=0; i < svgz.length; i++){
+        colorLetters(svgz[i]);
+    }
+</script>
+<script src="/scripts/main.js" type="text/javascript" defer="defer"></script>
+{% if page.url == "/info/" %}
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCVMendGJiHUon5HW7c35eFf81MU_gAUrI&callback=initPano"></script>
+{% endif %}
 </footer>

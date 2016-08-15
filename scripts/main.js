@@ -1,27 +1,6 @@
 // Base JS file
 // Author: Jason Huff
 
-// Create dynamic logo
-var svgz = $("div#js-logo svg");
-
-// Color one of the letters in each SVG letter group
-function colorLetters(object) {
-    var randomNum = Math.floor((Math.random() * 3) + 0);
-    var l = $(object).children();
-    
-    for (n=0; n < l.length; n++) {
-        if (n == randomNum ) {
-            $(l[n]).attr("fill","#000000");
-            $(l[n]).attr("fill-opacity","1.0");
-        }
-    }
-}
-
-// Loop thourgh each SVG letter group
-for (i=0; i < svgz.length; i++){
-    colorLetters(svgz[i]);
-}
-
 // Make homepage background move around with the mouse
 // Thanks: http://codepen.io/chrisboon27/pen/rEDIC
 //$(document).ready(function() {
