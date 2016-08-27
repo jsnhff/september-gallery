@@ -5,8 +5,8 @@ key_image: "/uploads/Ruais_Unzipped2.jpg"
 is_sometimes: true
 first_letter_of_last_name: r
 exhibition_links:
-  Detroit: http://youngworld.international/
-  Horticultural Society: http://www.thehort.org/programs_expgallery_vessels.html
+  Young World International, Detroit: http://youngworld.international/
+  Horticultural Society, New York: http://www.thehort.org/programs_expgallery_vessels.html
 research_links:
   Artist's Website: http://brieruais.com/
   Bomb Magazine, Interview: http://bombmagazine.org/article/10110/brie-ruais
