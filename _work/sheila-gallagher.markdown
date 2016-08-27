@@ -19,6 +19,8 @@ research_links:
   Boston Globe: https://www.bostonglobe.com/arts/2015/12/08/weighty-messages-clad-exuberant-gestures-jewett/JkJ0Aro6cHVmmVWZzAsX2M/story.html
   Hyperallergic: http://hyperallergic.com/48068/2012-volta-show/
   Inhabit NY: http://inhabitat.com/nyc/ny-exhibit-features-sheila-gallaghers-beautiful-recycled-art-created-from-found-familial-objects/
+catalog_link:
+  Catalog: https://www2.bc.edu/~kearneyr/pdf_articles/ravishingfarnear.pdf
 ---
 
 Sheila Gallagher (b. 1967, Morristown, New Jersey) received her BA from Connecticut College and her MFA from the School of the Museum of Fine Arts, Boston. Gallagher is an interdisciplinary artist, curator, and professor of art at Boston College. She works in many mediums including video, smoke painting, ink drawing, plastic trash compositions, temporal installations, and live animation.  
