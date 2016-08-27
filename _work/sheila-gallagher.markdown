@@ -8,6 +8,7 @@ first_letter_of_last_name: g
 exhibition_links:
   Crystal Bridges: http://stateoftheart.crystalbridges.org/blog/project/sheila-gallagher/
   ICA, Boston: http://www.gettyimages.fr/detail/photo-d'actualit%C3%A9/through-a-variety-of-media-including-fresh-flowers-photo-dactualit%C3%A9/159581538#through-a-variety-of-media-including-fresh-flowers-sheila-gallagher-picture-id159581538
+  DODGEgallery: http://dodge-gallery.com/cgi-bin/DODGE?s=exhibitions&v=2013812851252295335635774136
 research_links:
   Artist's Website: http://www.shegallagher.com/
   Interview, Smoke Painting: https://www.youtube.com/watch?v=CcG7BY6VU08
