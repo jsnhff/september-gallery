@@ -1,7 +1,7 @@
 ---
 title: Sheila Gallagher
 date: 2016-07-24 11:09:00 -04:00
-key_image: "/uploads/GALLAGHER%20mandala.jpg"
+key_image: "/uploads/Sheila%20Gallagher-Pneuma%20Hostis-2013-gold%20leaf%20and%20cigarette%20butts-20%20inch%20diameter.jpg"
 is_always: true
 is_sometimes: true
 first_letter_of_last_name: g
