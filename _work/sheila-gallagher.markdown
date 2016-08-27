@@ -7,6 +7,7 @@ is_sometimes: true
 first_letter_of_last_name: g
 exhibition_links:
   Crystal Bridges: http://stateoftheart.crystalbridges.org/blog/project/sheila-gallagher/
+  ICA, Boston: http://www.gettyimages.fr/detail/photo-d'actualit%C3%A9/through-a-variety-of-media-including-fresh-flowers-photo-dactualit%C3%A9/159581538#through-a-variety-of-media-including-fresh-flowers-sheila-gallagher-picture-id159581538
 research_links:
   Artist's Website: http://www.shegallagher.com/
   Interview, Smoke Painting: https://www.youtube.com/watch?v=CcG7BY6VU08
@@ -17,6 +18,7 @@ research_links:
   Art in America: http://www.artinamericamagazine.com/reviews/sheila-gallagher/
   Boston Globe: https://www.bostonglobe.com/arts/2015/12/08/weighty-messages-clad-exuberant-gestures-jewett/JkJ0Aro6cHVmmVWZzAsX2M/story.html
   Hyperallergic: http://hyperallergic.com/48068/2012-volta-show/
+  Inhabit NY: http://inhabitat.com/nyc/ny-exhibit-features-sheila-gallaghers-beautiful-recycled-art-created-from-found-familial-objects/
 ---
 
 Sheila Gallagher (b. 1967, Morristown, New Jersey) received her BA from Connecticut College and her MFA from the School of the Museum of Fine Arts, Boston. Gallagher is an interdisciplinary artist, curator, and professor of art at Boston College. She works in many mediums including video, smoke painting, ink drawing, plastic trash compositions, temporal installations, and live animation.  
