@@ -31,7 +31,6 @@ layout: default
                 {% if page_counter2 <= 1 %}
                 <h3 class="h6 regular caps gray my2 md-pl1 lg-pl1">After</h3>
                 {% endif %}
-        {{ b_start }}
             {% include exhibition.html %}
             {% endif %}
     {% endfor %}
