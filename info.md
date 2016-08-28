@@ -101,7 +101,7 @@ layout: default
                 </div>
             </div>
             <!-- facebook link -->
-            <div class="table parent-hover mt4 mx-auto">
+            <div class="table parent-hover mt3 mx-auto">
                 <div class="table-cell align-middle">
                     <a title="September Gallery Instagram" href="htt://www.facebook.com/{{ site.facebook_username }}">
                         <span class="icon inline-block">{% include icon-facebook.svg %}</span>
