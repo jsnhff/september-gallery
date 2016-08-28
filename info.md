@@ -62,12 +62,22 @@ layout: default
         <div class="xs-hide">
             <div class="table parent-hover mt4">
                 <div class="table-cell align-middle">
-                    <a title="September Gallery Instagram" href="htt://www.instagram.com">
+                    <a title="September Instagram" href="htt://www.instagram.com/{{ site.instagram_username }}">
                         <span class="icon inline-block">{% include icon-instagram.svg %}</span>
                     </a>
                 </div>
                 <div class="table-cell align-middle">
-                    <a class="h3 my0 text-decoration-none navy pl1" title="September Gallery Instagram" href="http://www.instagram.com/{{ site.instagram_username }}">September on Instagram</a>
+                    <a class="h3 my0 text-decoration-none navy pl1" title="September Instagram" href="http://www.instagram.com/{{ site.instagram_username }}">September on Instagram</a>
+                </div>
+            </div>
+            <div class="table parent-hover mt3">
+                <div class="table-cell align-middle">
+                    <a title="September Instagram" href="htt://www.facebook.com/{{ site.facebook_username }}">
+                        <span class="icon inline-block">{% include icon-facebook.svg %}</span>
+                    </a>
+                </div>
+                <div class="table-cell align-middle">
+                    <a class="h3 my0 text-decoration-none navy pl1" title="September facebook" href="http://www.facebook.com/{{ site.facebook_username }}">September on facebook</a>
                 </div>
             </div>
             <p class="h3 mt3">
@@ -79,14 +89,26 @@ layout: default
             <p class="h3 mt3">518-822-1333</p>
         </div>
         <div class="sm-hide md-hide lg-hide center">
+            <!-- Instagram link -->
             <div class="table parent-hover mt4 mx-auto">
                 <div class="table-cell align-middle">
-                    <a title="September Gallery Instagram" href="htt://www.instagram.com">
+                    <a title="September Gallery Instagram" href="htt://www.instagram.com/{{ site.instagram_username }}">
                         <span class="icon inline-block">{% include icon-instagram.svg %}</span>
                     </a>
                 </div>
                 <div class="table-cell align-middle">
-                    <a class="h3 my0 text-decoration-none navy pl1" title="September Gallery Instagram" href="http://www.instagram.com/{{ site.instagram_username }}">September on Instagram</a>
+                    <a class="h3 my0 text-decoration-none navy pl1" title="September Instagram" href="http://www.instagram.com/{{ site.instagram_username }}">September on Instagram</a>
+                </div>
+            </div>
+            <!-- facebook link -->
+            <div class="table parent-hover mt4 mx-auto">
+                <div class="table-cell align-middle">
+                    <a title="September Gallery Instagram" href="htt://www.facebook.com/{{ site.facebook_username }}">
+                        <span class="icon inline-block">{% include icon-facebook.svg %}</span>
+                    </a>
+                </div>
+                <div class="table-cell align-middle">
+                    <a class="h3 my0 text-decoration-none navy pl1" title="September facebook" href="http://www.facebook.com/{{ site.facebook_username }}">September on Instagram</a>
                 </div>
             </div>
             <p class="h3 mt3">
