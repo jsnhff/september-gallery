@@ -8,7 +8,7 @@
             <a class="text-decoration-none black" href="{{ exhibition.url | prepend: site.baseurl }}">{{ exhibition.title }}</a>
         </h1>
 
-        <div class="">
+        <div id="exhibition-content">
             {% if exhibition.start_date != exhibition.end_date %}
                 <p class="h4 gray my0">{{ exhibition.start_date | date: '%B %-d, %Y' }} <span class="relative arrow">→</span> {{ exhibition.end_date | date: '%B %-d, %Y' }}</p>
             {% endif %}
@@ -21,54 +21,59 @@
                 <h2 class="h4 gray regular mt0 mb2">Opening {{ start | date: '%A, %B %-d, %Y, %-I' }}{% if end == '' %}{{ start | date: '%p'| downcase }}{% else %}&ndash;{{ end | date: '%-I%p' | downcase}}{% endif %}</h2>
                 {% endif %}
             {% endif %}
+
+            <!-- Artists list -->
             {% for artist in exhibition.artist_links %}
                 {% if forloop.first %}
-                <ul class="list-reset">
+                    <ul id="artists" class="list-reset">
                 {% endif %}
-                    {% if artist[1] != '' %}
-                    <li class="comma-list inline-block">
-                    <a class="text-decoration-none black" href="{{ site.url }}/work/{{ artist[0] | slugify | append: '.html' }}" title="{{ artist[0] }}">{{ artist[0] }}</a>
-                    </li>
-                    {% endif %}
+                        {% if artist[1] != '' %}
+                        <li class="comma-list inline-block">
+                            <a class="text-decoration-none black" href="{{ site.url }}/work/{{ artist[0] | slugify | append: '.html' }}" title="{{ artist[0] }}">{{ artist[0] }}</a>
+                        </li>
+                        {% endif %}
                 {% if forloop.last %}
-                </ul>
+                    </ul>
                 {% endif %}
             {% endfor %}
-            <!-- <a class="block text-decoration-none black mb2" href="{{ exhibition.images }}" title="Images">Images &#8599;</a> -->
             <!-- Exhibition statement -->
-            <p>
-            {{ exhibition.content | truncatewords: 50 | strip_html }} <a class="text-decoration-none black bold" href="{{ exhibition.url | prepend: site.baseurl }}" title="Read more about {{ exhibition.title }}">→</a>
-            </p>
+            {% assign content = exhibition.content | strip_newlines %}
+            {% if content != empty %}
+                <p>
+                    {{ exhibition.content | truncatewords: 50 | strip_html }}
+                    <a class="text-decoration-none black bold" href="{{ exhibition.url | prepend: site.baseurl }}" title="Read more about {{ exhibition.title }}">→</a>
+                </p>
+            {% endif %}
 
             {% for link in exhibition.research_links %}
                 {% if forloop.first %}
-                <ul class="list-reset">
+                    <ul id="research" class="list-reset">
                 {% endif %}
-                    {% if link[1] != '' %}
-                    <li>
-                        <a class="text-decoration-none black" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
-                    </li>
-                    {% endif %}
+                        {% if link[1] != '' %}
+                        <li>
+                            <a class="text-decoration-none black" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
+                        </li>
+                        {% endif %}
                 {% if forloop.last %}
-                </ul>
+                    </ul>
                 {% endif %}
             {% endfor %}
             
             {% for link in exhibition.catalog_link %}
                 {% if forloop.first %}
-                <ul class="list-reset">
+                    <ul id="catalog" class="list-reset">
                 {% endif %}
-                    {% if link[1] != '' %}
-                    <li>
-                    <li><a class="text-decoration-none black" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a></li>
-                    </li>
-                    {% endif %}
+                        {% if link[1] != '' %}
+                        <li>
+                            <a class="text-decoration-none black" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
+                        </li>
+                        {% endif %}
                 {% if forloop.last %}
-                </ul>
+                    </ul>
                 {% endif %}
-                {% endfor %}
-                <p class="silver">{{ exhibition.key_image_credit }}</p>
-        </div>
+            {% endfor %}
+            <p class="silver">{{ exhibition.key_image_credit }}</p>
+        </div> <!-- end id=exhibition-content -->
     </div>
 </li>
 <div class="xs-hide mb4"></div>
