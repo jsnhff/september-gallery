@@ -4,8 +4,16 @@ date: 2016-07-19 19:02:00 -04:00
 key_image: "/uploads/SNOW%201.jpg"
 is_sometimes: true
 first_letter_of_last_name: s
+exhibition_links:
+  Guggenheim: 
+  Key: https://www.youtube.com/watch?v=BQlJQ5WlZi4
 research_links:
   Interview Magazine: http://www.interviewmagazine.com/art/agathe-snow-continuum-journal-gallery#_
+  Observer: http://observer.com/2016/01/the-snow-queen-sculptor-agathe-snow-unleashes-her-inner-child/
+  Guggenheim Collection: https://www.guggenheim.org/artwork/artist/agathe-snow
+  NYTimes Style Magazine: https://www.youtube.com/watch?v=ASJQc98Verc
+  The Guardian: https://www.theguardian.com/artanddesign/2009/may/27/artist-week-agathe-snow
+  Performance Series: http://www.albertzbenda.com/exhibitions/upcoming/agathe-snow-coyote-ugly
 ---
 
 Agathe Snow
