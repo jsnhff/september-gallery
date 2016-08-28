@@ -5,8 +5,11 @@ key_image: "/uploads/SNOW%201.jpg"
 is_sometimes: true
 first_letter_of_last_name: s
 exhibition_links:
-  Guggenheim: 
-  Key: https://www.youtube.com/watch?v=BQlJQ5WlZi4
+  Guggenheim: https://www.youtube.com/watch?v=BQlJQ5WlZi4
+  Palais de Tokyo: http://archives.palaisdetokyo.com/fo3/low/programme/index.php?page=nav.inc.php&id_eve=3070&prog=46
+  New Museum: http://archive.newmuseum.org/index.php/Detail/Occurrence/Show/occurrence_id/932
+  Whitney Biennial: http://whitney.org/www/2008biennial/www/?section=events&page=at_park_performances#event_1
+  Saatchi Gallery: https://www.saatchigallery.com/artists/agathe_snow_articles.htm
 research_links:
   Interview Magazine: http://www.interviewmagazine.com/art/agathe-snow-continuum-journal-gallery#_
   Observer: http://observer.com/2016/01/the-snow-queen-sculptor-agathe-snow-unleashes-her-inner-child/
@@ -14,6 +17,7 @@ research_links:
   NYTimes Style Magazine: https://www.youtube.com/watch?v=ASJQc98Verc
   The Guardian: https://www.theguardian.com/artanddesign/2009/may/27/artist-week-agathe-snow
   Performance Series: http://www.albertzbenda.com/exhibitions/upcoming/agathe-snow-coyote-ugly
+  Contemporary Art Daily: http://www.contemporaryartdaily.com/tag/agathe-snow/
 ---
 
 Agathe Snow
