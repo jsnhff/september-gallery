@@ -32,7 +32,7 @@ layout: default
   <div class="sm-col-11 md-col-9 lg-col-9 mx-auto">
         {% for artist in page.artist_links %}
             {% if forloop.first %}
-            <ul class="list-reset mb0">
+            <ul id="artists" class="list-reset mb0">
             {% endif %}
                 {% if artist[1] != '' %}
                 <li class="comma-list inline-block">
@@ -51,7 +51,7 @@ layout: default
 
         {% for link in page.research_links %}
             {% if forloop.first %}
-            <ul class="list-reset">
+            <ul id="research" class="list-reset">
             {% endif %}
                 {% if link[1] != '' %}
                 <li>
@@ -65,7 +65,7 @@ layout: default
 
         {% for link in page.catalog_link %}
             {% if forloop.first %}
-            <ul class="list-reset">
+            <ul id="catalog" class="list-reset">
             {% endif %}
                 {% if link[1] != '' %}
                 <li>
@@ -78,8 +78,10 @@ layout: default
         {% endfor %}
     </div>
     {% for image in page.images %}
+        {% if image != '' %}
         <div class="sm-col-11 md-col-12 lg-col-12 mx-auto center">
             <img class="fit" src="{{ image }}" title="{{ page.title }}"/>
         </div>
+        {% endif %}
     {% endfor %}
 </div>
