@@ -9,6 +9,8 @@ exhibition_links:
   Crystal Bridges: http://stateoftheart.crystalbridges.org/blog/project/sheila-gallagher/
   ICA, Boston: http://www.gettyimages.fr/detail/photo-d'actualit%C3%A9/through-a-variety-of-media-including-fresh-flowers-photo-dactualit%C3%A9/159581538#through-a-variety-of-media-including-fresh-flowers-sheila-gallagher-picture-id159581538
   DODGEgallery: http://dodge-gallery.com/cgi-bin/DODGE?s=exhibitions&v=2013812851252295335635774136
+images:
+- "/uploads/Sheila%20Gallagher-Lily%20Poppy%20Flow.jpg"
 research_links:
   Artist's Website: http://www.shegallagher.com/
   Interview, Smoke Painting: https://www.youtube.com/watch?v=CcG7BY6VU08
