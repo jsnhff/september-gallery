@@ -23,9 +23,6 @@ artist_links:
   Shinique Smith: 
   Agathe Snow: 
   Odessa Straub: 
-images_new:
-  Image: "/uploads/Blue%20Jean%20Baby%20Install%20I.jpg"
-  Caption: This is a caption
 images:
 - "/uploads/Blue%20Jean%20Baby%20Install%20I.jpg"
 - "/uploads/Blue%20Jean%20Baby%20Install%20II.jpg"
