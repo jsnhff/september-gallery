@@ -49,10 +49,6 @@ defaults:
     opening_end_time_and_date: ''
     artist_links:
       Artist Name One: ''
-    images_new:
-      Image:
-        URL: ''
-        Caption: ''
     images:
     - ''
     research_links:
