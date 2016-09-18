@@ -59,4 +59,11 @@ layout: default
             {% endif %}
         {% endfor %}
     </div>
+    {% for image in page.images %}
+        {% if image != '' %}
+        <div class="sm-col-11 md-col-12 lg-col-12 mx-auto center">
+            <img class="fit" src="{{ image }}" title="{{ page.title }}"/>
+        </div>
+        {% endif %}
+    {% endfor %}
 </div>
