@@ -50,8 +50,12 @@ defaults:
     artist_links:
       Artist Name One: ''
     images_new:
-      Image: ''
-      Caption: ''
+      Image:
+        URL: ''
+        Caption: ''
+      Image:
+        URL: ''
+        Caption: ''
     images:
     - ''
     research_links:
