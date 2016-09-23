@@ -6,7 +6,7 @@ layout: default
 
 <div class="pt1">
     <div class="col-12 my3 center">
-        <div id="js_streetview" class="relative" style="z-index:-1;">
+        <div id="js_streetview" class="relative bg-silver" style="z-index:-1;">
         <!--
         <div class="streetview">
             <img class="" src="https://maps.googleapis.com/maps/api/streetview?size=1000x400&location=42.2498667,-73.7869834&heading=220&pitch=-0.06&fov=70&key=AIzaSyCVMendGJiHUon5HW7c35eFf81MU_gAUrI" title="">
