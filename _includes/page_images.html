@@ -1,0 +1,13 @@
+{% for image in page.images %}
+    {% if forloop.first %}
+    <div id="images" class="mt4">
+    {% endif %}
+        {% if image != '' %}
+        <div class="sm-col-11 md-col-12 lg-col-12 mx-auto center mt2">
+            <img class="fit" src="{{ image }}" title="{{ page.title }}"/>
+        </div>
+        {% endif %}
+    {% if forloop.last %}
+    </div>
+    {% endif %}
+{% endfor %}

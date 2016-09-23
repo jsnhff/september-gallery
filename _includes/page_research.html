@@ -1,0 +1,13 @@
+{% for research in page.research_links %}
+    {% if forloop.first %}
+    <ul id="research" class="list-reset">
+    {% endif %}
+        {% if research[1] != '' %}
+        <li>
+        <a class="text-decoration-none black" href="{{ research[1] }}" title="{{ research[0] }}">{{ research[0] }} →</a>
+        </li>
+        {% endif %}
+    {% if forloop.last %}
+    </ul>
+    {% endif %}
+{% endfor %}

@@ -1,0 +1,13 @@
+{% for catalog in page.catalog_link %}
+    {% if forloop.first %}
+    <ul id="catalog" class="list-reset">
+    {% endif %}
+        {% if catalog[1] != '' %}
+        <li>
+            <a class="text-decoration-none black" href="{{ catalog[1] }}" title="{{ catalog[0] }}">{{ catalog[0] }} →</a>
+        </li>
+        {% endif %}
+    {% if forloop.last %}
+    </ul>
+    {% endif %}
+{% endfor %}

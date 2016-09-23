@@ -35,6 +35,7 @@ layout: default
             {% endif %}
         {% endfor %}
       <!-- <a class="text-decoration-none navy" href="{{ page.images }}" title="Images">Images &#8599;</a> -->
+
         <!-- Artist bio -->
         {% if content.size > 1 %}
         <div class="mt2 mb0 prose">
@@ -42,30 +43,12 @@ layout: default
         </div>
         {% endif %}
 
-        {% for link in page.research_links %}
-            {% if forloop.first %}
-            <ul class="list-reset">
-            {% endif %}
-                {% if link[1] != '' %}
-                <li>
-                    <a class="text-decoration-none navy" href="{{ link[1] }}" title="{{ link[0] }}">{{ link[0] }} →</a>
-                </li>
-                {% endif %}
-            {% if forloop.last %}
-            </ul>
-            {% endif %}
-        {% endfor %}
-        {% for catalog in page.catalog_link %}
-            {% if catalog[1] != '' %}
-            <a class="text-decoration-none navy block" href="{{ catalog[1] }}" title="{{ catalog[0] }}">{{ catalog[0] }} →</a>
-            {% endif %}
-        {% endfor %}
+        <!-- Research loop -->
+        {% include page_research.html %}
+
+        <!-- Catalog loop --> 
+        {% include page_catalog.html %}
     </div>
-    {% for image in page.images %}
-        {% if image != '' %}
-        <div class="sm-col-11 md-col-12 lg-col-12 mx-auto center mt4">
-            <img class="fit" src="{{ image }}" title="{{ page.title }}"/>
-        </div>
-        {% endif %}
-    {% endfor %}
+    <!-- Images loop -->
+    {% include page_images.html %}
 </div>
