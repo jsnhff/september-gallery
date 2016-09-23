@@ -7,7 +7,7 @@ end_date: 2016-10-16 18:00:00 -04:00
 opening_start_time_and_date: 2016-08-06 18:00:00 -04:00
 opening_end_time_and_date: 2016-08-06 20:00:00 -04:00
 artist_links:
-  Jennifer Page Cohen: 
+  Jennifer Paige Cohen: 
   Taylor Davis: 
   Davis, Cherubini: 
   Rachel Foullon: 
@@ -23,10 +23,6 @@ artist_links:
   Shinique Smith: 
   Agathe Snow: 
   Odessa Straub: 
-images_new:
-  Image:
-    URL: "/uploads/Blue%20Jean%20Baby%20Install%20I.jpg"
-    Caption: This is a caption
 images:
 - "/uploads/Blue%20Jean%20Baby%20Install%20I.jpg"
 - "/uploads/Blue%20Jean%20Baby%20Install%20II.jpg"
@@ -36,6 +32,10 @@ images:
 research_links:
   Wikipedia: https://en.wikipedia.org/wiki/Jeans
   Denim Day: http://denimdayinfo.org/
+images_new:
+  Image:
+    URL: "/uploads/Blue%20Jean%20Baby%20Install%20I.jpg"
+    Caption: This is a caption
 ---
 
 Blue Jean Baby
