@@ -1,5 +1,5 @@
 ---
-title: Taylor Davis
+title: 'Taylor Davis: REDGREENBLACKWHITES'
 date: 2016-08-27 16:19:00 -04:00
 key_image: "/uploads/Taylor%20Davis-%20studio%20shot.jpg"
 start_date: 2016-11-05 18:00:00 -04:00
