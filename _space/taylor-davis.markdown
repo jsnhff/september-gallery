@@ -18,14 +18,13 @@ Davis will present REDGREENBLACKSWHITES, a new body of work that uses color and 
 
 Notes on REDGREENBLACKSWHITES:
 
-In June 2015, I began to work on small rectangular gouaches in red, green, black, and white. The proportions were based on doors in my house and studio building. More than twice the height of their width, these paintings hang from a single screw in the top left corner, the longer measurement pulling the rectangle awry. 
+<i> In June 2015, I began to work on small rectangular gouaches in red, green, black, and white. The proportions were based on doors in my house and studio building. More than twice the height of their width, these paintings hang from a single screw in the top left corner, the longer measurement pulling the rectangle awry. 
 
-I was looking for a two part (non-singular) composition that was equally in relation to the 
-plumb-line of my standing body and the object’s rectangular shape. I was, am, thinking about the difficulty and complexity of balance; how the stronger a contrast is between forms and colors (individuals and groups), the more powerful a pull is in one direction or another. 
+I was looking for a two part (non-singular) composition that was equally in relation to the plumb-line of my standing body and the object’s rectangular shape. I was, am, thinking about the difficulty and complexity of balance; how the stronger a contrast is between forms and colors (individuals and groups), the more powerful a pull is in one direction or another. 
 
 Red & green and black & white contrast visually and semantically; stop and go, yes and no, on and off, night and day, hot and cold, queer and straight, black and white.
 
-In the REDGREENBLACKSWHITES, I want the visual and semantic contrasts to exist with each other, simultaneously, necessarily reliant on one another in order to create a visual and bodily experience; diverse parts coalescing into an active and indivisible sum. 
+In the REDGREENBLACKSWHITES, I want the visual and semantic contrasts to exist with each other, simultaneously, necessarily reliant on one another in order to create a visual and bodily experience; diverse parts coalescing into an active and indivisible sum.</i> 
 
 
 
