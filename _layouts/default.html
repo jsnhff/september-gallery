@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     {% for exhibition in site.space %}
-        {% if forloop.index <= 1 %}
+        {% if forloop.last %}
             {% assign background_image = exhibition.key_image %}
             {% assign alt_text = exhibition.title %}
             {% assign title_text = exhibition.title %}
