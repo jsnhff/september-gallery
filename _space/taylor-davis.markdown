@@ -18,13 +18,14 @@ Davis will present REDGREENBLACKSWHITES, a new body of work that uses color and 
 
 Notes on REDGREENBLACKSWHITES:
 
-<i> In June 2015, I began to work on small rectangular gouaches in red, green, black, and white. The proportions were based on doors in my house and studio building. More than twice the height of their width, these paintings hang from a single screw in the top left corner, the longer measurement pulling the rectangle awry. 
+<i>In June 2015 I began to work on pairs of small rectangular gouaches in red, green, black, and white. More than twice the length of their width, these paintings hung from their top left corner, the longer measurement pulling the rectangles off axis.
 
-I was looking for a two part (non-singular) composition that was equally in relation to the plumb-line of my standing body and the object’s rectangular shape. I was, am, thinking about the difficulty and complexity of balance; how the stronger a contrast is between forms and colors (individuals and groups), the more powerful a pull is in one direction or another. 
+I was looking for a two-part composition that was equally in relation to the plumb-line of my standing body and the outlines of the objects’ hanging shapes. I was, am, thinking about the difficulty and complexity of balance; how the stronger a contrast is between forms or colors (between individuals or groups), the more powerful and destabilizing the pull is in one direction or another.
 
-Red & green and black & white contrast visually and semantically; stop and go, yes and no, on and off, night and day, hot and cold, queer and straight, black and white.
+Red & green and black & white contrast visually and semantically. In addition to the differing optical sensations of light & dark and warm & cool, there’s a contrast in what the colors’ relationships signify: stop and go, yes and no, on and off, day and night, queer and straight, black and white.
 
-In the REDGREENBLACKSWHITES, I want the visual and semantic contrasts to exist with each other, simultaneously, necessarily reliant on one another in order to create a visual and bodily experience; diverse parts coalescing into an active and indivisible sum.</i> 
+In these REDGREENBLACKWHITES (now oil paint on canvas over round-edged poplar stretchers), the visual, semantic, and political contrasts exist with each other, concomitant; creating an indivisible sum necessarily reliant on diverse color, shape, form, and meaning.
+</i> 
 
 
 
