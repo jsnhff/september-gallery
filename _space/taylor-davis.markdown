@@ -10,7 +10,7 @@ images:
 - "/uploads/11_04_16_September_15E.jpg"
 - "/uploads/11_04_16_September_16E.jpg"
 - "/uploads/11_04_16_September_18E.jpg"
-- "/uploads/11_04_16_September_19E%20small%20.jpg"
+- "/uploads/11_04_16_September_19E-393436.jpg"
 research_links:
   Artist Page: http://septembergallery.com/work/taylor-davis.html
   Farmtek: http://www.farmtek.com/farm/supplies/home
