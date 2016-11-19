@@ -24,8 +24,7 @@ I was looking for a two-part composition that was equally in relation to the plu
 
 Red & green and black & white contrast visually and semantically. In addition to the differing optical sensations of light & dark and warm & cool, there’s a contrast in what the colors’ relationships signify: stop and go, yes and no, on and off, day and night, queer and straight, black and white.
 
-In these REDGREENBLACKWHITES (now oil paint on canvas over round-edged poplar stretchers), the visual, semantic, and political contrasts exist with each other, concomitant; creating an indivisible sum necessarily reliant on diverse color, shape, form, and meaning.
-</i> 
+In these REDGREENBLACKWHITES (now oil paint on canvas over round-edged poplar stretchers), the visual, semantic, and political contrasts exist with each other, concomitant; creating an indivisible sum necessarily reliant on diverse color, shape, form, and meaning.</i> 
 
 
 
