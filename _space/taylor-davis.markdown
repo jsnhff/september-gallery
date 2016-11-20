@@ -11,8 +11,14 @@ images:
 - "/uploads/11_04_16_September_16E.jpg"
 - "/uploads/11_04_16_September_18E_edit1-188a7a.jpg"
 - "/uploads/11_04_16_September_19E-393436.jpg"
-- "/uploads/11_04_16_September_01E_edit1.jpg"
-- "/uploads/11_04_16_September_03_edit1.jpg"
+- "/uploads/11_04_16_September_09v1.jpg"
+- "/uploads/11_04_16_September_13v5.jpg"
+- "/uploads/11_04_16_September_01E_edit1-abdd6a.jpg"
+- "/uploads/11_04_16_September_03_edit1-7fe6a0.jpg"
+- "/uploads/11_04_16_September_23_edit1.jpg"
+- "/uploads/11_04_16_September_06E.jpg"
+- "/uploads/11_04_16_September_21_edit.jpg"
+- "/uploads/11_04_16_September_22.jpg"
 research_links:
   Artist Page: http://septembergallery.com/work/taylor-davis.html
   Farmtek: http://www.farmtek.com/farm/supplies/home
