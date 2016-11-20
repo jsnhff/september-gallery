@@ -9,7 +9,7 @@ opening_end_time_and_date: 2016-11-05 20:00:00 -04:00
 images:
 - "/uploads/11_04_16_September_15E.jpg"
 - "/uploads/11_04_16_September_16E.jpg"
-- "/uploads/11_04_16_September_18E.jpg"
+- "/uploads/11_04_16_September_18E_edit1-188a7a.jpg"
 - "/uploads/11_04_16_September_19E-393436.jpg"
 research_links:
   Artist Page: http://septembergallery.com/work/taylor-davis.html
