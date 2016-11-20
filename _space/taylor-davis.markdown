@@ -11,7 +11,7 @@ images:
 - "/uploads/11_04_16_September_16E.jpg"
 - "/uploads/11_04_16_September_18E_edit1-188a7a.jpg"
 - "/uploads/11_04_16_September_19E-393436.jpg"
-- "/uploads/_11_04_16_September_01E_edit1-1838fd.jpg"
+- "/uploads/11_04_16_September_01E_edit1.jpg"
 - "/uploads/11_04_16_September_03_edit1.jpg"
 research_links:
   Artist Page: http://septembergallery.com/work/taylor-davis.html
