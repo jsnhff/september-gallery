@@ -6,6 +6,7 @@ is_always: true
 is_sometimes: true
 first_letter_of_last_name: c
 exhibition_links:
+  OMI: http://artomi.org/page.php?Nicole-Cherubini-239
   Pérez Museum: http://www.pamm.org/exhibitions/project-gallery-nicole-cherubini
   Tang Museum: https://tang.skidmore.edu/collection/27-g-pot-medallion-1
   MFA, Boston: http://www.mfa.org/exhibitions/surface-matters
