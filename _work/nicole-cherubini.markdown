@@ -1,7 +1,7 @@
 ---
 title: Nicole Cherubini
 date: 2016-07-24 10:42:00 -04:00
-key_image: "/uploads/NICOLE-CHERUBINI-A-Pair-of-G-Pots-with-Lions-Detail1-2015.jpg"
+key_image: "/uploads/ArtOmi_Cherubini_IMG_8058.jpg"
 is_always: true
 is_sometimes: true
 first_letter_of_last_name: c
