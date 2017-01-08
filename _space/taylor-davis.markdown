@@ -23,6 +23,7 @@ research_links:
   Artist Page: http://septembergallery.com/work/taylor-davis.html
   Farmtek: http://www.farmtek.com/farm/supplies/home
   Cardinal Direction: https://en.wikipedia.org/wiki/Cardinal_direction
+Work: Taylor Davis
 ---
 
 SEPTEMBER is proud to present REDGREENBLACKSWHITES, a solo exhibition with Taylor Davis. This is the gallery’s first solo presentation of our programming and the third solo exhibition of Taylor Davis’s work exhibited by Kristen Dodge. 
