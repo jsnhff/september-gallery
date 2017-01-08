@@ -10,12 +10,17 @@ layout: default
     {% include scroll_to_top.html %}
 </div>
 
-{% assign now = 'now' | date: "%j" %}
+<!-- Sort posts in reverse -->
+{% assign exhibitions = site.space | sort:"date" | reverse %}
+
+<!-- %s equals unix time, the universal time comparison format -->
+{% assign now = 'now' | date: "%s" %}
+
 <ul class="list-reset col-11 sm-col sm-col-12 md-col-10 lg-col-10 mt3 mx-auto">
     <h1 class="hide">Space</h1>
-    {% for exhibition in site.space %}
-        {% assign a_start = exhibition.start_date | date: "%j" %}
-        {% assign a_end = exhibition.end_date | date: "%j" %}
+    {% for exhibition in exhibitions %}
+        {% assign a_start = exhibition.start_date | date: "%s" %}
+        {% assign a_end = exhibition.end_date | date: "%s" %}
             {% if now >= a_start and now <= a_end %}
                 {% assign page_counter1 = page_counter1 | plus: 1 %}
                 {% if page_counter1 <= 1 %}
@@ -24,8 +29,8 @@ layout: default
                 {% include exhibition.html %}
             {% endif %}
     {% endfor %}
-    {% for exhibition in site.space %}
-        {% assign b_start = exhibition.start_date | date: "%j" %}
+    {% for exhibition in exhibitions %}
+        {% assign b_start = exhibition.start_date | date: "%s" %}
             {% if now < b_start %}
                 {% assign page_counter2 = page_counter2 | plus: 1 %}
                 {% if page_counter2 <= 1 %}
@@ -34,8 +39,8 @@ layout: default
                 {% include exhibition.html %}
             {% endif %}
     {% endfor %}
-    {% for exhibition in site.space %}
-        {% assign c_end = exhibition.end_date | date: "%j" %}
+    {% for exhibition in exhibitions %}
+        {% assign c_end = exhibition.end_date | date: "%s" %}
             {% if now > c_end %}
                 {% assign page_counter3 = page_counter3 | plus: 1 %}
                 {% if page_counter3 <= 1 %}
