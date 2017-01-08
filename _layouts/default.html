@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <html>
-    {% for exhibition in site.space %}
-        {% if forloop.last %}
-            {% assign background_image = exhibition.key_image %}
-            {% assign alt_text = exhibition.title %}
-            {% assign title_text = exhibition.title %}
-        {% endif %}
-    {% endfor %}
 
     {% include head.html %}
 
@@ -25,9 +18,31 @@
         {% include footer.html %}
 
         {% if page.url == "/" %}
-        <div class="macro fixed top-0 right-0 bottom-0 left-0">
-            <img class="absolute" src="{{ background_image }}" alt="{{ alt_text }}" title="{{ title_text }}">
-        </div>
+            <!-- %s equals unix time, the universal time comparison format -->
+            {% assign now = 'now' | date: "%s" %}
+            {% assign background_image = "empty" %}
+
+            {% for exhibition in site.space %}
+                {% assign a_start = exhibition.start_date | date: "%s" %}
+                {% assign a_end = exhibition.end_date | date: "%s" %}
+                {% if now >= a_start and now <= a_end %}
+                    {% assign background_image = exhibition.key_image %}
+                    {% assign alt_text = exhibition.title %}
+                    {% assign title_text = exhibition.title %}
+                {% endif %}
+                {% if background_image == "empty" %}
+                    {% if now < a_start %}
+                        {% assign background_image = exhibition.key_image %}
+                        {% assign alt_text = exhibition.title %}
+                        {% assign title_text = exhibition.title %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+
+            <!-- Background image -->
+            <div class="macro fixed top-0 right-0 bottom-0 left-0">
+                <img class="absolute" src="{{ background_image }}" alt="{{ alt_text }}" title="{{ title_text }}">
+            </div>
         {% endif %}
     </body>
 
