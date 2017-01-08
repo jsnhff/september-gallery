@@ -21,7 +21,7 @@ layout: default
                 {% if page_counter1 <= 1 %}
                 <h3 class="h6 regular caps gray my2 mb2 md-pl1 lg-pl1">Now</h3>
                 {% endif %}
-            {% include exhibition.html %}
+                {% include exhibition.html %}
             {% endif %}
     {% endfor %}
     {% for exhibition in site.space %}
@@ -31,7 +31,7 @@ layout: default
                 {% if page_counter2 <= 1 %}
                 <h3 class="h6 regular caps gray my2 md-pl1 lg-pl1">After</h3>
                 {% endif %}
-            {% include exhibition.html %}
+                {% include exhibition.html %}
             {% endif %}
     {% endfor %}
     {% for exhibition in site.space %}
@@ -41,7 +41,7 @@ layout: default
                 {% if page_counter3 <= 1 %}
                 <h3 class="h6 regular caps gray my2 md-pl1 lg-pl1">Before</h3>
                 {% endif %}
-            {% include exhibition.html %}
+                {% include exhibition.html %}
             {% endif %}
     {% endfor %}
 </ul>
