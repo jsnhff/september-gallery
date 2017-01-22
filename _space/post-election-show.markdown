@@ -22,7 +22,7 @@ Exhibition Dates: January 28 - March 5, 2017
 
 SEPTEMBER presents Post-Election, an exhibition of over 170 artists, co-organized by Kristen Dodge
 and Kate Gilmore. This exhibition was conceived in conversation between Kristen and Kate a few days
-after the U.S. Presidential Election. With the intention of providing a reason, space, and context for artists to respond to the current circumstance, they agreed to set a show in motion, and allow the call to take on a life of its own. Word spread between artists and within a short time, the number of participants rose from 50 to 150. The current list of participating artists, now at over 170 artists, is included below.
+after the U.S. Presidential Election. With the intention of providing a reason, space, and context for artists to respond to the current circumstance, they agreed to set a show in motion, and allow the call to take on a life of its own. Word spread between artists and within a short time, the number of participants rose from 50 to 150. The current list, now at over 170 artists, is included below.
 
 If you choose to make a work that addresses things internal, or external, or some state in-between, that is up to you. Make what you need to make in whatever form, and at whatever pitch you choose. -Excerpt from the call to participate.
 
