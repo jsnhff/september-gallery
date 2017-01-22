@@ -6,8 +6,8 @@ key_image_credit: Marianne Vitale,  <i>Too Much Satan for One Hand</i>, 2016, Br
   20 x 12 x 9 inches, Edition 3/3
 start_date: 2017-01-28 12:00:00 -05:00
 end_date: 2017-03-05 18:00:00 -05:00
-opening_start_time_and_date: 2017-01-28 12:00:00 -05:00
-opening_end_time_and_date: 2017-01-28 18:00:00 -05:00
+opening_start_time_and_date: 2017-01-28 14:00:00 -05:00
+opening_end_time_and_date: 2017-01-28 20:00:00 -05:00
 artist_links:
   150 artists and counting: 
 ---
