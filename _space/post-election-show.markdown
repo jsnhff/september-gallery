@@ -10,14 +10,9 @@ opening_start_time_and_date: 2017-01-28 14:00:00 -05:00
 opening_end_time_and_date: 2017-01-28 20:00:00 -05:00
 ---
 
-Post-Election
+<i>Post-Election</i>
 
-Exhibition Co-Organized by Kristen Dodge and Kate Gilmore.
-
-Opening Saturday, January 28, Event programming begins at 2pm.
-
-Opening Day Co-Organized by Lauren Barnes and Shanekia McIntosh.
-
+Exhibition Co-Organized by Kristen Dodge and Kate Gilmore. Opening Saturday, January 28, Event programming begins at 2pm. Opening Day Co-Organized by Lauren Barnes and Shanekia McIntosh.
 Exhibition Dates: January 28 - March 5, 2017
 
 SEPTEMBER presents Post-Election, an exhibition of over 170 artists, co-organized by Kristen Dodge
