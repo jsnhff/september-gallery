@@ -1,5 +1,5 @@
 ---
-title: Post-Election Opening Performances
+title: Post-Election Opening Day Performances
 date: 2017-01-23 18:27:00 -05:00
 key_image: "/uploads/POSTELECTFINAL%20(2)%20SM-b118ce.jpg"
 is_event: true
