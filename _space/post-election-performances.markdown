@@ -7,4 +7,4 @@ opening_start_time_and_date: 2017-01-28 15:00:00 -05:00
 opening_end_time_and_date: 2017-01-28 20:00:00 -05:00
 ---
 
-After Party. Stay Tuned.
+After Party featuring Juliana Huxtable. Stay Tuned.
