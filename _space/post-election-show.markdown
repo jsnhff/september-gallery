@@ -19,7 +19,10 @@ If you choose to make a work that addresses things internal, or external, or som
 
 If we stop to comprehend the “unrealistic” endeavors that we pursue, we would never do them. This show has been a leap of faith and a truly collaborative endeavor.
 
-Lauren Barnes and Shanekia McIntosh are organizing the opening day of performances, talks, and events. Carrie Schneider is managing new media submissions. Courtney Childress, Sheree Hovespain, Eleanor King, Gina Magid, Carleen Sheehan, Elise Siegel, and Ana Wolovick are providing drop-off locations for participating artists. Lilah Friedland hand-printed posters for the show and is managing the collection of works in collaboration with our staff. Many participating artists have personally shipped their work to the gallery and offered their time and resources. A portion of all sales will be donated to the local factions of Planned Parenthood and Black Lives Matter.
+Lauren Barnes and Shanekia McIntosh are organizing the opening day of performances, talks, and events. Carrie Schneider is managing new media submissions. Courtney Childress, Sheree Hovespain, Eleanor King, Gina Magid, Carleen Sheehan, Elise Siegel, and Ana Wolovick are providing drop-off locations for participating artists. Lilah Friedland Lilah Friedland is hand-printing posters for the show and 
+managing the collection of works in collaboration with our staff. Alison Fox is distributing Open Day posters around town. Meg Lipke is unwrapping works shipped to the gallery. Many participating artists have personally shipped their work to the gallery and offered their time and resources. 
+
+A portion of all sales will be donated to the local factions of Planned Parenthood and Black Lives Matter.
 
 Participating Artists:
 
