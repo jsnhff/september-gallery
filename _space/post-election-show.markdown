@@ -1,7 +1,7 @@
 ---
 title: POST-ELECTION
 date: 2016-12-04 13:18:00 -05:00
-key_image: "/uploads/TooMuchSatan_back.jpg"
+key_image: "/uploads/TooMuchSatan_back-e35d67.jpg"
 key_image_credit: Marianne Vitale,  <i>Too Much Satan for One Hand</i>, 2016, Bronze,
   20 x 12 x 9 inches, Edition 3/3
 start_date: 2017-01-28 15:00:00 -05:00
