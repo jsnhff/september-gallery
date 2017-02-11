@@ -10,6 +10,8 @@ opening_start_time_and_date: 2017-01-28 15:00:00 -05:00
 opening_end_time_and_date: 2017-01-28 20:00:00 -05:00
 artist_links:
   Artist Name One: Diana Al-Hadid
+images:
+- "/uploads/P-O%201sm.jpg"
 ---
 
 Exhibition Co-Organized by Kristen Dodge and Kate Gilmore. Opening Saturday, January 28, 2017. Event programming begins at 3pm. Opening Day Co-Organized by Lauren Barnes and Shanekia McIntosh.
