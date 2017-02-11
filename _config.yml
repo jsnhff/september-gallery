@@ -75,8 +75,8 @@ writing: 'SEPTEMBER was founded by Kristen Dodge in 2016. The space is located a
   in the programming. SEPTEMBER is a platform for Artists of diverse and committed
   disciplines. '
 physical_address: '449 Warren Street #3, Hudson, NY 12534'
-baseurl: '/'
-url: 'http://septembergallery.com'
+baseurl: "/"
+url: http://septembergallery.com
 facebook_username: septembergallery
 instagram_username: septembergallery
 markdown: kramdown
