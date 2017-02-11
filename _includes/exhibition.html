@@ -41,7 +41,7 @@
             {% if content != empty %}
                 <p>
                     {{ exhibition.content | truncatewords: 50 | strip_html }}
-                    <a class="text-decoration-none black bold" href="{{ exhibition.url | prepend: site.baseurl }}" title="Read more about {{ exhibition.title }}">→</a>
+                    <a class="text-decoration-none black bold" href="{{ exhibition.url }}" title="Read more about {{ exhibition.title }}">→</a>
                 </p>
             {% endif %}
 
