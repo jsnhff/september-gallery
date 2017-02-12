@@ -11,8 +11,8 @@ opening_end_time_and_date: 2017-01-28 20:00:00 -05:00
 artist_links:
   Artist Name One: Diana Al-Hadid
 images:
-- "/uploads/P-O%201sm.jpg"
 - "/uploads/IMG_6233.jpg"
+- "/uploads/IMG_6251.jpg"
 - "/uploads/IMG_6248.jpg"
 - "/uploads/IMG_6255.jpg"
 - "/uploads/IMG_6263.jpg"
