@@ -10,3 +10,4 @@ artist_links:
   Odessa Straub: 
 ---
 
+The sixth edition of NADA New York will take place March 2–5, 2017, at Skylight Clarkson North, located at 572 Washington Street.
