@@ -25,7 +25,7 @@
             <!-- Artist bio -->
             {% if artist.content.size > 1 %}
             <p class="mt2 mb0">
-                {{ artist.content | truncatewords: 45 | strip_html }} <a class="text-decoration-none black bold" href="{{ artist.url | prepend: site.baseurl }}" title="Read more about {{ artist.title }}">→</a>
+                {{ artist.content | truncatewords: 45 | strip_html }} <a class="text-decoration-none black bold" href="{{ artist.url }}" title="Read more about {{ artist.title }}">→</a>
             </p>
             {% endif %}
             {% for link in artist.research_links %}
