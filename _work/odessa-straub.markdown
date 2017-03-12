@@ -2,7 +2,8 @@
 title: Odessa Straub
 date: 2016-07-19 19:03:00 -04:00
 key_image: "/uploads/Odessa%20Straub-%20Hot%20Pangs%20form%20the%20Peelt%20Pinky.jpg"
-is_sometimes: true
+is_always: true
+is_sometimes: false
 first_letter_of_last_name: s
 research_links:
   Artist's Website: http://www.odessastraub.com/
