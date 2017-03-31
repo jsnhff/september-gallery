@@ -16,7 +16,7 @@ artist_links:
   Marianne Vitale: 
 ---
 
-Witches, by Susan Aberth
+Witches, by Susan Aberth:
 
 Witches, an exhibition at SEPTEMBER, presents five artists whose working processes and artwork either directly employs or indirectly suggests magical intentions. The term “witch” has always stood for feminine subversive forces, acting either outside of or in opposition to the oppressive rules of patriarchy. Furthermore, an integral part of witchcraft entails the creation of specially charged objects meant to facilitate magical objectives, such as the rectification of injustices, protection from harm, or the expansion of consciousness. The construction of such objects involves intense focus, repetition, and a certain channeling of outside forces (unconscious and/or supernatural) that directly mirrors art making in general. Surprising to most people is that humor is a powerful tool harnessed into magical service and the artists here deploy it with skill and subtlety. On view from March 18 through May 7, 2017, Witches will present a culminating a series of performances on April 22 in tandem with the theme of the exhibition. 
 
