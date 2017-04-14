@@ -14,6 +14,8 @@ artist_links:
   Rosy Keyser: 
   Laurel Sparks: 
   Marianne Vitale: 
+images:
+- "/uploads/WITCHES-Install-1.jpg"
 ---
 
 Witches, by Susan Aberth:
