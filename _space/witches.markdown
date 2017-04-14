@@ -16,6 +16,7 @@ artist_links:
   Marianne Vitale: 
 images:
 - "/uploads/WITCHES-Install-1.jpg"
+- "/uploads/WITCHES-Install-16.jpg"
 ---
 
 Witches, by Susan Aberth:
