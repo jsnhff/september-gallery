@@ -18,7 +18,7 @@ images:
 - "/uploads/WITCHES-Install-16-fbcef0.jpg"
 - "/uploads/WITCHES-Install-3.jpeg"
 - "/uploads/WITCHES-Install-2.jpg"
-- 
+- "/uploads/WITCHES-Install-14.jpg"
 ---
 
 Witches, by Susan Aberth:
