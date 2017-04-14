@@ -15,8 +15,10 @@ artist_links:
   Laurel Sparks: 
   Marianne Vitale: 
 images:
-- "/uploads/WITCHES-Install-1.jpg"
 - "/uploads/WITCHES-Install-16.jpg"
+- "/uploads/WITCHES-Install-3.jpeg"
+- "/uploads/WITCHES-Install-2.jpg"
+- "/uploads/WITCHES-Install-8.jpg"
 ---
 
 Witches, by Susan Aberth:
