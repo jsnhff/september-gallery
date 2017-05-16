@@ -56,24 +56,18 @@ defaults:
     catalog_link:
       Catalog: ''
 email: kristen@septembergallery.com
-description: 'SEPTEMBER was founded by Kristen Dodge in 2016. The space is located
-  at 449 Warren Street #3, Hudson, NY 12534. The exhibition programming launched with
-  Blue Jean Baby, featuring the work of 16 artists from Boston, Los Angeles, Brooklyn,
-  Upstate New York, and Zurich. The opening event at SEPTEMBER, Psycho Daisies, was
-  curated by Amber J. Esseiva. This was the first installment of an on-going performance
-  series called Arcade Bloc, named after the location of the gallery in The Arcade
-  Building. Curators, writers, and people from other creative arenas will participate
-  in the programming. SEPTEMBER is a platform for Artists of diverse and committed
-  disciplines. '
-writing: 'SEPTEMBER was founded by Kristen Dodge in 2016. The space is located at
-  449 Warren Street #3, Hudson, NY 12534. The exhibition programming launched with
-  Blue Jean Baby, featuring the work of 16 artists from Boston, Los Angeles, Brooklyn,
-  Upstate New York, and Zurich. The opening event at SEPTEMBER, Psycho Daisies, was
-  curated by Amber J. Esseiva. This was the first installment of an on-going performance
-  series called Arcade Bloc, named after the location of the gallery in The Arcade
-  Building. Curators, writers, and people from other creative arenas will participate
-  in the programming. SEPTEMBER is a platform for Artists of diverse and committed
-  disciplines. '
+description: 'SEPTEMBER was founded by Kristen Dodge in 2016. The gallery is located
+  in the Arcade Building at 449 Warren Street #3, Hudson, NY 12534. The exhibition
+  programming has no preference towards artists of particular career levels. In the
+  first year, 194 artists will have exhibited at the gallery, many of whom have recognizable
+  and successful careers, and many of whom work through varying degrees of obscurity.
+  The gallery is an evolving platform for artists of diverse and committed disciplines
+  with a particular interest in supporting sculpture. SEPTEMBER is committed to engaging
+  the upstate community, while hosting artists predominantly, but not exclusively,
+  from Brooklyn to Boston. Performance events are an integral and ongoing part of
+  the programming. Academics, activists, chefs, curators, writers, and others contribute
+  to the spirited ethos and activity at SEPTEMBER. '
+writing: 
 physical_address: '449 Warren Street #3, Hudson, NY 12534'
 baseurl: "/"
 url: http://septembergallery.com
