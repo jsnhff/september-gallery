@@ -77,10 +77,10 @@ galleryHours.push(entry3);
 galleryHours.push(entry4);
 
 for (i = 0; i < galleryHours.length; i++) {
-    console.log(currentNYCTime);
-    if ( currentNYCTime.day == galleryHours[i].day &&
-         galleryHours[i].open_time =< currentNYCTime.hour &&
-         galleryHours[i].close_time > currentNYCTime.hour ){
+    //console.log(currentNYCTime);
+    if ( currentNYCTime.day = galleryHours[i].day &&
+         galleryHours[i].open_time <= currentNYCTime.hour &&
+         galleryHours[i].close_time >= currentNYCTime.hour ){
         $(".js-gallery-hours").removeClass("display-none");
     };
 }
