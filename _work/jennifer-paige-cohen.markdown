@@ -4,6 +4,9 @@ date: 2016-07-09 17:55:00 -04:00
 key_image: "/uploads/COHEN%203.jpg"
 is_sometimes: true
 first_letter_of_last_name: c
+exhibition_links:
+  POST-ELECTION: https://574b47f47eb98c7c7067b67c.preview.siteleaf.com/space/post-election-show.html
+  Blue Jean Baby: https://574b47f47eb98c7c7067b67c.preview.siteleaf.com/space/blue-jean-baby.html
 research_links:
   Chianti Foundation: https://chinati.org/programs/jennifer-paige-cohen
   Artforum: http://artforum.com/picks/id=48887
