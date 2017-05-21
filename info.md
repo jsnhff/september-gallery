@@ -81,7 +81,7 @@ layout: default
                 </div>
             </div>
             <p class="h3 mt3">
-                Friday-Saturday, Noon-6pm
+                Thursday-Sunday, Noon-6pm
             </p>
             <p class="h3 mt3">
                 <a class="text-decoration-none navy" title="Email for appointments" href="mailto:{{ site.email }}?subject=I'd like to visit {{ current_exhibition }}">Email for appointments</a>
