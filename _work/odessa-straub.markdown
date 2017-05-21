@@ -1,10 +1,18 @@
 ---
 title: Odessa Straub
 date: 2016-07-19 19:03:00 -04:00
-key_image: "/uploads/Odessa%20Straub-%20Hot%20Pangs%20form%20the%20Peelt%20Pinky.jpg"
+key_image: "/uploads/Straub-Image1.jpg"
+key_image_credit: 'Odessa Straub, Slipping Soup, 2017, acrylic, tempera, latex on
+  panel, 58 x 64 inches
+
+'
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: s
+exhibition_links:
+  Blue Jean Baby: http://septembergallery.com/space/blue-jean-baby.html
+  NADA, NY: https://574b47f47eb98c7c7067b67c.preview.siteleaf.com/space/nada.html
+  POST-ELECTION: http://septembergallery.com/space/post-election-show.html
 research_links:
   Artist's Website: http://www.odessastraub.com/
 ---
