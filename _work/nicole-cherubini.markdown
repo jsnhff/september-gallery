@@ -1,7 +1,7 @@
 ---
 title: Nicole Cherubini
 date: 2016-07-24 10:42:00 -04:00
-key_image: "/uploads/NCherubini_05-09-17_MG_8013_sRGB_low.jpg"
+key_image: "/uploads/NCherubini_05-09-17_MG_8013_sRGB_low-e04c13.jpg"
 is_always: true
 is_sometimes: true
 first_letter_of_last_name: c
