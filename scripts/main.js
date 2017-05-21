@@ -68,11 +68,13 @@ var galleryHours = [];
 
 var entry1 = {day:5, open_time:"12", close_time:"18"};
 var entry2 = {day:6, open_time:"12", close_time:"18"};
-//var entry3 = {day:0, open_time:"12", close_time:"18"};
+var entry3 = {day:0, open_time:"12", close_time:"18"};
+var entry4 = {day:4, open_time:"12", close_time:"18"};
 
 galleryHours.push(entry1);
 galleryHours.push(entry2);
-//galleryHours.push(entry3);
+galleryHours.push(entry3);
+galleryHours.push(entry4);
 
 for (i = 0; i < galleryHours.length; i++) {
     console.log(currentNYCTime);
