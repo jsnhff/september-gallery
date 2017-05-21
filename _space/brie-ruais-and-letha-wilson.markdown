@@ -19,22 +19,22 @@ The landscape is there, overcoming our vision, supporting our steps, entering ou
  
 Have you stood at the edge of a cliff at sunset? Have you seen yourself smaller than you know yourself to be? A speck in the rolling terrain of sand below.
  
-It’s not about you as a figure looking across the land, instead you are inside the picture plane itself and become one of its many striations.
+<i>It’s not about you as a figure looking across the land, instead you are inside the picture plane itself and become one of its many striations.</i>
  
 I know it’s not possible to take the landscape with me, to carry it home. The land can’t be separated from itself. I can’t separate from the land. I leave a part of myself there, drifting dust held in a beam of light, floating untethered.
  
-I got lost here.*
+<i>I got lost here.</i>
  
 The images I carry home and cut, fold, crease, cast. Over here I am inlaying a sunset, a dessert-scape, a canyon crevasse, holding it, repeating it, casting it into a thing heavy, dense, held tight. This is where I keep it all. Printing and imprinted.
  
-Something about body and translation of experience through it…Is the mark of the hand a way of claiming your presence as a body and in actual space? That you were there?**
+<i>Something about body and translation of experience through it…Is the mark of the hand a way of claiming your presence as a body and in actual space? That you were there?*</i>
  
 The earth I push under my fingernails, into my pours, against the balls of my feet. I push up, out, past, down, over and over. Fist prints, foot kicks. Shaping, molding, making below the plane, at the surface, a horizontal field. Maintaining the boundaries of my own reach.
  
-Always keep a part of your body fixed in the center.**
+<i>Always keep a part of your body fixed in the center.**</i>
  
 
 Italicized Sources:
 Sites to mark, In the Forest, Letha Wilson, Possible Press Vol. 1, Issue 2, Sept 1 2010
-**Email exchange between Letha Wilson and Brie Ruais, May 18, 2017
+*Email exchange between Letha Wilson and Brie Ruais, May 18, 2017
 **Spreading Outward from Center, Score for Other Women's Bodies, 2015-2016, Brie Ruais
