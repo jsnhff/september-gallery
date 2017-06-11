@@ -15,6 +15,8 @@ artist_links:
   Brie Ruais: http://www.brieruais.com/
 ---
 
+Publication Available
+
 The landscape is there, overcoming our vision, supporting our steps, entering our pores, holding a space in our memory. 
  
 Have you stood at the edge of a cliff at sunset? Have you seen yourself smaller than you know yourself to be? A speck in the rolling terrain of sand below.
@@ -38,3 +40,4 @@ Italicized Sources:
 Sites to mark, In the Forest, Letha Wilson, Possible Press Vol. 1, Issue 2, Sept 1 2010
 *Email exchange between Letha Wilson and Brie Ruais, May 18, 2017
 **Spreading Outward from Center, Score for Other Women's Bodies, 2015-2016, Brie Ruais
+
