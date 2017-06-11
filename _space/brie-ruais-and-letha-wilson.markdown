@@ -13,6 +13,13 @@ opening_end_time_and_date: 2017-05-27 20:00:00 -04:00
 artist_links:
   Letha Wilson: http://www.lethaprojects.com/
   Brie Ruais: http://www.brieruais.com/
+images:
+- "/uploads/IMG_8843-sm.jpg"
+- "/uploads/IMG_8849-sm.jpg"
+- "/uploads/steelface-whiterocks.jpg"
+- "/uploads/steel-face-kauai-curve.jpg"
+- "/uploads/BR_Nonzerosumgame1x.jpg"
+- "/uploads/BR-16-001_VIEW1.jpg"
 ---
 
 Publication Available
