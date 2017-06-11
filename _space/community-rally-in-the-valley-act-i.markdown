@@ -25,10 +25,10 @@ You may submit a maximum of two pieces to be included in the exhibition.
 When you mail in or hand-deliver your 4x6" postcard piece to the SEPTEMBER Gallery (address below), please include:
 
 title, date, materials used
-your name + signature on the **back ** of the piece
+your name + signature on the **back** of the piece
 a self-addressed, stamped envelope (to return your piece in the event it remains unsold)
-**
-Please mail or deliver your work (during gallery hours or via the mail slot) to: **
+
+**Please mail or deliver your work (during gallery hours or via the mail slot) to:**
 
 SEPTEMBER (Attn: ACT I)
 449 Warren Street #3, Hudson, NY 12534
