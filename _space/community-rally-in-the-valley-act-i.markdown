@@ -35,7 +35,7 @@ SEPTEMBER (Attn: ACT I)
 
 Along with your physical submission please also [fill out this form](https://form.jotform.us/71367100092144).
 
-DEADLINES:
+**DEADLINES:**
 All works must be delivered or mailed to SEPTEMBER by **Thursday, June 29th** if you wish you be in the running for the ACT I Special Limited Edition printing of 10 jury-selected works. 10 works will be reproduced as an edition of 100, distributed through Upper Hudson Planned Parenthood, and activated during the postcard-writing workshop that culminates the weekend festival. If you are one of the 10 artists whose work is selected, you will receive an ACT I Special Limited Edition.
 
 The latest opportunity to submit a work is **Tuesday, July 18**. Please note your work will not be in the running for the ACT I Special Limited Edition if submitted after Thursday, June 29.
