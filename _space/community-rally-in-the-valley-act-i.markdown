@@ -2,7 +2,13 @@
 title: 'Community: Rally in the Valley, ACT I'
 date: 2017-06-11 12:55:00 -04:00
 key_image: "/uploads/rallyimagewithtext.png"
+is_event: true
+start_date: 2017-07-22 00:00:00 -04:00
+end_date: 2017-07-22 00:00:00 -04:00
+opening_start_time_and_date: 2017-07-22 17:00:00 -04:00
+opening_end_time_and_date: 2017-07-22 19:00:00 -04:00
 artist_links:
+  Rally in the Valley: Rally in the Valley https://www.rallyinthevalley.org/
   Upper Hudson Planned Parenthood: https://www.plannedparenthood.org/planned-parenthood-upper-hudson
   Dawn Breeze: Instar Lodge http://instarlodge.com/
   'Hudson Hall: at the historic Hudson Opera House': 'Hudson Hall: at the historic
