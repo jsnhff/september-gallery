@@ -2,7 +2,7 @@
 title: 'Community: Rally in the Valley, ACT I'
 date: 2017-06-11 12:55:00 -04:00
 key_image: "/uploads/rallyimagewithtext.png"
-is_event: true
+is_event: false
 start_date: 2017-07-22 00:00:00 -04:00
 end_date: 2017-07-22 00:00:00 -04:00
 opening_start_time_and_date: 2017-07-22 17:00:00 -04:00
