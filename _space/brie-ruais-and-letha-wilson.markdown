@@ -24,6 +24,7 @@ images:
 
 **Publication Available**
 
+
 The landscape is there, overcoming our vision, supporting our steps, entering our pores, holding a space in our memory. 
  
 Have you stood at the edge of a cliff at sunset? Have you seen yourself smaller than you know yourself to be? A speck in the rolling terrain of sand below.
