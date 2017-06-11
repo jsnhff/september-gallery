@@ -1,7 +1,9 @@
 ---
 title: 'Community: Summer Yoga at September'
 date: 2017-06-11 14:29:00 -04:00
-key_image: "/uploads/Summer%20Ypga%20at%20September%20poster.pdf"
+key_image: 'SeptemberYogaImage-1f58ea.png
+
+'
 is_event: true
 start_date: 2017-06-19 08:45:00 -04:00
 end_date: 2017-06-11 19:00:00 -04:00
