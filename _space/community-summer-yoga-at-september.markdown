@@ -1,6 +1,10 @@
 ---
 title: 'Community: Summer Yoga at September'
 date: 2017-06-11 14:29:00 -04:00
+tags:
+- yoga
+- hudson valley
+- Summer
 key_image: "/uploads/SummerYoga.jpg"
 is_event: true
 start_date: 2017-06-19 08:45:00 -04:00
