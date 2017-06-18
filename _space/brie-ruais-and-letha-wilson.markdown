@@ -28,7 +28,8 @@ images:
 - "/uploads/BR-16-001_VIEW1.jpg"
 ---
 
-Paper Covers Rock Publication Available  
+Paper Covers Rock Publication Available
+  
 
 The landscape is there, overcoming our vision, supporting our steps, entering our pores, holding a space in our memory. 
  
