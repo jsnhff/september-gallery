@@ -1,7 +1,5 @@
 ---
-title: |-
-  Paper Covers Rock:
-  Brie Ruais, Letha Wilson
+title: "Paper Covers Rock:                                 \n\nBrie Ruais, Letha Wilson"
 date: 2017-04-14 15:50:00 -04:00
 key_image: "/uploads/RUAIS%20WILSON.jpg"
 key_image_credit: 'Image: Brie Ruais, Non Zero Sum Game, 2017, Letha Wilson, Goblin
