@@ -6,8 +6,6 @@ start_date: 2017-07-15 18:00:00 -04:00
 end_date: 2017-08-20 18:00:00 -04:00
 opening_start_time_and_date: 2017-07-15 18:00:00 -04:00
 opening_end_time_and_date: 2017-07-15 20:00:00 -04:00
-artist_links:
-  Key: 
 ---
 
 She has a strange aspect. She is like a little princess whose eyes are of amber, through the clouds of muslin, she is smiling like a little princess.
