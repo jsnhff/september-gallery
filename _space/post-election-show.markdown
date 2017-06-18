@@ -1,5 +1,5 @@
 ---
-title: POST-ELECTION
+title: Post-Election
 date: 2016-12-04 13:18:00 -05:00
 key_image: "/uploads/M.Vilate-sm-85f929.jpg"
 key_image_credit: Marianne Vitale,  <i>Too Much Satan for One Hand</i>, 2016, Bronze,
