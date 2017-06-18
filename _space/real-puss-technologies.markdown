@@ -1,5 +1,5 @@
 ---
-title: Real Puss Technologies
+title: 'Odessa Straub: Real Puss Technologies'
 date: 2017-06-18 13:02:00 -04:00
 key_image: "/uploads/studio%20pic-sm.jpg"
 start_date: 2017-07-15 18:00:00 -04:00
