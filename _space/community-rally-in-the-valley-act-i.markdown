@@ -10,9 +10,9 @@ opening_end_time_and_date: 2017-07-22 19:00:00 -04:00
 artist_links:
   Rally in the Valley: Rally in the Valley https://www.rallyinthevalley.org/
   Upper Hudson Planned Parenthood: https://www.plannedparenthood.org/planned-parenthood-upper-hudson
-  Dawn Breeze: Instar Lodge http://instarlodge.com/
   'Hudson Hall: at the historic Hudson Opera House': 'Hudson Hall: at the historic
     Hudson Opera House http://hudsonhall.org/'
+  Instar Lodge: Instar Lodge http://instarlodge.com/
 ---
 
 You are invited to contribute an original art work to the exhibition **ACT I**, organized by **Dawn Breeze** of **Instar Lodge** and **Kristen Dodge** of **SEPTEMBER**. ACT I will take place at the historic and newly renovated Hudson Hall on Saturday, July 22, 2017, 6-8pm. Works will be on view Friday, July 21 and Saturday, July 22 for guests to preview.
