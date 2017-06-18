@@ -6,11 +6,11 @@ tags:
 - hudson valley
 - Summer
 key_image: "/uploads/SummerYoga-163054.jpg"
-is_event: true
+is_event: false
 start_date: 2017-06-19 08:45:00 -04:00
 end_date: 2017-08-03 19:00:00 -04:00
 artist_links:
-  Alison Fox: 'Alison Fox '
+  Alison Fox: http://johndavisgallery.com/alison-fox/
   Melinda Kiefer: Melinda Keifer http://www.melindakiefer.com/
 ---
 
