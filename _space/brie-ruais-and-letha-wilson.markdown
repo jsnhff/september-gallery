@@ -16,10 +16,15 @@ artist_links:
   Brie Ruais: http://www.brieruais.com/
 images:
 - "/uploads/IMG_8843-sm.jpg"
+- "/uploads/IMG_8829.jpg"
+- "/uploads/IMG_8818.jpg"
+- "/uploads/IMG_8847.jpg"
+- "/uploads/IMG_8831.jpg"
 - "/uploads/IMG_8849-sm.jpg"
-- "/uploads/steelface-whiterocks.jpg"
 - "/uploads/steel-face-kauai-curve.jpg"
+- "/uploads/steelface-whiterocks.jpg"
 - "/uploads/BR_Nonzerosumgame1x.jpg"
+- "/uploads/IMG_8871.jpg"
 - "/uploads/BR-16-001_VIEW1.jpg"
 ---
 
