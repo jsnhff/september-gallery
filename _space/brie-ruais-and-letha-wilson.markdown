@@ -26,6 +26,8 @@ images:
 - "/uploads/BR_Nonzerosumgame1x.jpg"
 - "/uploads/IMG_8871.jpg"
 - "/uploads/BR-16-001_VIEW1.jpg"
+research_links:
+  Paper Covers Rock Publication Available: 
 ---
 
 Paper Covers Rock Publication Available
