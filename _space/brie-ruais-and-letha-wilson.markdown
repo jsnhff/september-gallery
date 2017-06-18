@@ -1,7 +1,6 @@
 ---
 title: |-
-  Paper Covers Rock
-
+  Paper Covers Rock:
   Brie Ruais, Letha Wilson
 date: 2017-04-14 15:50:00 -04:00
 key_image: "/uploads/RUAIS%20WILSON.jpg"
