@@ -24,4 +24,4 @@ Alison Fox draws on her practice as an artist and arts educator to teach yoga as
 **MONDAYS 5:45pm-7:00pm with MELINDA KIEFER -- $15**
 All levels, moderate flow class with connection to creativity
 
-Melina Keifer is a multidisciplinary artist/yogi/educator. Practicing yoga for 15 years, she received her 200 hour certification from Kripalu Center and is also a Reiki II practitioner. She is excited to combine her passions and offer yoga classes in an art space for its synergistic potential.
+Melina Kiefer is a multidisciplinary artist/yogi/educator. Practicing yoga for 15 years, she received her 200 hour certification from Kripalu Center and is also a Reiki II practitioner. She is excited to combine her passions and offer yoga classes in an art space for its synergistic potential.
