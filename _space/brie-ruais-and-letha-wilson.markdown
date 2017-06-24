@@ -18,6 +18,7 @@ images:
 - "/uploads/IMG_8847.jpg"
 - "/uploads/IMG_8831.jpg"
 - "/uploads/IMG_8849-sm.jpg"
+- "/uploads/KDodge_06-22-17_MG_9418_V2_sRGB_WebRes.jpg"
 - "/uploads/steel-face-kauai-curve.jpg"
 - "/uploads/steelface-whiterocks.jpg"
 - "/uploads/BR_Nonzerosumgame1x.jpg"
