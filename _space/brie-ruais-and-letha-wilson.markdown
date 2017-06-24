@@ -5,7 +5,7 @@ key_image: "/uploads/RUAIS%20WILSON.jpg"
 key_image_credit: 'Image: Brie Ruais, Non Zero Sum Game, 2017, Letha Wilson, Goblin
   Valley State Park, Utah, December 2016'
 start_date: 2017-05-27 18:00:00 -04:00
-end_date: 2017-07-02 18:00:00 -04:00
+end_date: 2017-07-08 18:00:00 -04:00
 opening_start_time_and_date: 2017-05-27 18:00:00 -04:00
 opening_end_time_and_date: 2017-05-27 20:00:00 -04:00
 artist_links:
