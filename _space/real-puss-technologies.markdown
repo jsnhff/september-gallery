@@ -1,15 +1,43 @@
 ---
 title: 'Odessa Straub: Real Puss Technologies'
 date: 2017-06-18 13:02:00 -04:00
-key_image: "/uploads/studio%20pic-sm.jpg"
+key_image: "/uploads/Odessa-Shroud%20Reveals%20to%20Void%20Vase.jpg"
 start_date: 2017-07-15 18:00:00 -04:00
 end_date: 2017-08-20 18:00:00 -04:00
 opening_start_time_and_date: 2017-07-15 18:00:00 -04:00
 opening_end_time_and_date: 2017-07-15 20:00:00 -04:00
 ---
 
-She has a strange aspect. She is like a little princess whose eyes are of amber, through the clouds of muslin, she is smiling like a little princess.
+Slipping in Swallow Bondage
+Back of Neck Willies
+Between The Moon the Cistern and the Column
+Corseted Cresent
+Shroud reveals to Void Vase
+Crawling While It OpenUp
+Making More Tired
+Road Trip Nap Time Ear Lobe
+Saw Sneeries
+Road Trip Nap Time Donuts
+Walled In the Wall
+Window Willies
+Aerial Onslaught
+Coming out the Wall
+Ceiling looks like rain
+Road Trip Projected
+Willies on the Couch
+Sex on the Couch
+Willies out the Door
+Trees are Sneering
+Rawed out Bedtime
 
-I am your gorgeous busty neighbor whom you follow at the supermarket or watch at the gym.
+Power takes all the chunks and rearranges them- There’s a cistern, a column and a cresent. The Column Cracks, the Moon Crescents, the Cistern Spills. The Cistern spills the Column Cracks and the Moon Crescents. The Moon removes its shroud, the Cistern Spills and the Column Cracks. “Baby if you give it to me / I’ll give it to you / I know what you want / You know I got it” (1). If they abide by laws of matter.
 
-Like the hand of a dead woman who is seeking to cover herself with a shroud.
+Real Puss Technologies (patent pending) A jumpsuit that has replicated vaginal flesh sewn in patches along any fuckable crease in the body. Get fucked anywhere everywhere. Fuck the air you breath before it enters your body (douse with vaseline prior to use).
+
+"Bump slide into the gorgeous busty neighbor who you follow at the super market or watch at the gym." (2)
+
+The moon in the clouds is “like the hand of a dead woman who is seeking to cover herself with a shroud”(3). And you shroud too, the shroud of a real puss jumpsuit. 
+____________
+1 Baby if You Give it to Me Busta Rhymes and Mariah Carey 
+2 Anonymous Spam Text
+3 Salome, Oscar Wilde
