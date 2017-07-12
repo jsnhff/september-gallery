@@ -1,7 +1,7 @@
 ---
 title: 'Odessa Straub: Real Puss Technologies'
 date: 2017-06-18 13:02:00 -04:00
-key_image: "/uploads/Odessa-Shroud%20Reveals%20to%20Void%20Vase.jpg"
+key_image: "/uploads/Straub%206.jpg"
 start_date: 2017-07-15 18:00:00 -04:00
 end_date: 2017-08-20 18:00:00 -04:00
 opening_start_time_and_date: 2017-07-15 18:00:00 -04:00
@@ -11,7 +11,7 @@ opening_end_time_and_date: 2017-07-15 20:00:00 -04:00
 Slipping in Swallow Bondage
 Back of Neck Willies
 Between The Moon the Cistern and the Column
-Corseted Cresent
+Corseted Crescent
 Shroud reveals to Void Vase
 Crawling While It OpenUp
 Making More Tired
