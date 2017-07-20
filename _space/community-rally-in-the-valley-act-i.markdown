@@ -15,7 +15,7 @@ artist_links:
   Instar Lodge: Instar Lodge http://instarlodge.com/
 ---
 
-You are invited to contribute an original art work to the exhibition **ACT I**, organized by **Dawn Breeze** of **Instar Lodge** and **Kristen Dodge** of **SEPTEMBER**. ACT I will take place at the historic and newly renovated Hudson Hall on Saturday, July 22, 2017, 6-8pm. Works will be on view Friday, July 21 and Saturday, July 22 for guests to preview.
+You are invited to contribute an original art work to the exhibition **ACT I**, organized by **Dawn Breeze** of **Instar Lodge** and **Kristen Dodge** of **SEPTEMBER**. ACT I will take place at the historic and newly renovated Hudson Hall on Saturday, July 22, 2017, 5-7pm. Works will be on view Friday, July 21 and Saturday, July 22 for guests to preview.
 
 ACT I will be an anonymous exhibition with artists names revealed after works are purchased. Each work will be sold for $50 with all proceeds being donated to Upper Hudson Planned Parenthood. There are no limitations or restrictions on your submission, only the required scale of **4 x 6 inches** and it must be able to easily be hung on a wall.
 
