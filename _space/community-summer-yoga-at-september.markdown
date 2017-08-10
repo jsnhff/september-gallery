@@ -1,5 +1,5 @@
 ---
-title: 'Community: Summer Yoga at September'
+title: 'Community: Yoga at September'
 date: 2017-06-11 14:29:00 -04:00
 tags:
 - yoga
