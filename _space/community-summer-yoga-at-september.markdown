@@ -5,6 +5,7 @@ tags:
 - yoga
 - hudson valley
 - Summer
+position: 11
 key_image: "/uploads/SummerYoga-163054.jpg"
 is_event: false
 start_date: 2017-08-14 17:45:00 -04:00
