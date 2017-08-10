@@ -7,6 +7,7 @@ tags:
 - Summer
 key_image: "/uploads/SummerYoga-163054.jpg"
 is_event: false
+start_date: 2017-08-14 17:45:00 -04:00
 artist_links:
   Alison Fox: http://johndavisgallery.com/alison-fox/
   Melinda Kiefer: Melinda Keifer http://www.melindakiefer.com/
