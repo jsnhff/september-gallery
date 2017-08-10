@@ -1,6 +1,7 @@
 ---
 title: 'Incident Report: Reports'
 date: 2017-08-10 15:17:00 -04:00
+key_image: "/uploads/Reports%20Poster%20sm.jpg"
 ---
 
 Incident Report: Reports 
