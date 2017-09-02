@@ -17,6 +17,6 @@ Reports will include works by Nancy Shaver, Allyson Strafella, Maximilian Goldfa
  
 Concurrently, Incident No.101 will be installed by Bruce Dow in the IR viewing station at 348 Warren Street. Dow installed Incident No.1 in 2007.
  
-The exhibitions open on September 2, and events will be programmed at September Gallery for subsequent Saturday afternoons.
+Upcoming reading and performance programming including Catherine Lord, Anne Lauderbach, Richard Kennedy, and Jackson, will take place on subsequent Saturdays at 5pm at SEPTEMBER. These events will be broadcast live on Wave Farm's WGXC 90.7-FM [link to http://wgxc.org] in New York's Upper Hudson Valley and streamed online at wavefarm.org [link to https://wavefarm.org].
  
 For further information, please visit the gallery or contact Kristen@septembergallery.com.
