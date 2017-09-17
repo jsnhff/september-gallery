@@ -13,7 +13,7 @@ images:
 - "/uploads/KDodge_09-01-17_MG_4520_crop_V1_sRGB_WebRes.jpg"
 ---
 
-**Incident Report, Reports **
+Incident Report, Reports
 
 Opening: Saturday, September 2, 6-8pm
 Exhibition: September 2 – October 15, 2017
