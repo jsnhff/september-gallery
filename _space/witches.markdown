@@ -24,6 +24,7 @@ images:
 research_links:
   BLOUINARTINFO: http://www.blouinartinfo.com/news/story/2154768/witches-at-september-gallery-in-hudson-new-york
   K.A.Laity: https://kalaity.com/2017/04/28/witches-september-gallery/
+  imby: http://imby.com/hudson/article/art-and-about-witches-brew/
 ---
 
 Witches, by Susan Aberth:
