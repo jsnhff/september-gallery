@@ -24,6 +24,8 @@ research_links:
   Artist Page: http://septembergallery.com/work/taylor-davis.html
   Farmtek: http://www.farmtek.com/farm/supplies/home
   Cardinal Direction: https://en.wikipedia.org/wiki/Cardinal_direction
+catalog_link:
+  WGXC: https://wavefarm.org/archive/f5ykmz
 Work: Taylor Davis
 ---
 
