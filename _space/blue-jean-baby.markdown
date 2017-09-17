@@ -31,6 +31,7 @@ images:
 - "/uploads/Blue%20Jean%20Baby%20Install%20IV.jpg"
 - "/uploads/Blue%20Jean%20Baby%20V.jpg"
 research_links:
+  Two Coats of Paint: http://www.twocoatsofpaint.com/2016/09/julie-torres-dispatches-from-hudson-part-2.html
   Wikipedia: https://en.wikipedia.org/wiki/Jeans
   Denim Day: http://denimdayinfo.org/
 images_new:
