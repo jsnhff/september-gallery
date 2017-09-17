@@ -17,6 +17,13 @@ images:
 - "/uploads/Nancy%20Shaver.jpg"
 - "/uploads/Joan%20Linder.JPG"
 - "/uploads/IncidentReport-Flag-WEB.jpg"
+research_links:
+  Incident Report: http://www.incidentreport.info
+  Henry: http://soberscove.com/book/henry-at-home/
+  Wave Farm: https://wavefarm.org/ta/artists/qm3rwx
+  Publication Studio Hudson: https://publication-studio.myshopify.com/collections/pilot-editions/products/incident-report-no-1-100
+  Two Coats of Paint: http://www.twocoatsofpaint.com/2017/09/up-in-hudson-with-suzanne-joelson.html?utm_source=MadMimi&utm_medium=email&utm_content=Seattle+Sunday%3A+post-internet+painting%2C+Calvin+Ross+Carl%2C+Cable+Griffith%2C+fantastic+utopias%2C+more&utm_campaign=20170917_m141480744_September+17%2C+2017&utm_term=Gallery+crawl+in+Hudson
+  WGHXC: https://wavefarm.org/archive/38s5be
 ---
 
 Incident Report, Reports
