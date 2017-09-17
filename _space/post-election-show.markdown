@@ -20,6 +20,8 @@ images:
 - "/uploads/IMG_6269.jpg"
 - "/uploads/IMG_6286.jpg"
 - 
+research_links:
+  BLOUINARTINFO: http://www.blouinartinfo.com/news/story/1909446/lets-do-this-kristen-dodge-on-her-sprawling-post-election
 ---
 
 Exhibition Co-Organized by Kristen Dodge and Kate Gilmore. Opening Saturday, January 28, 2017. Event programming begins at 3pm. Opening Day Co-Organized by Lauren Barnes and Shanekia McIntosh.
