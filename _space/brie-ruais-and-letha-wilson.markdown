@@ -26,7 +26,7 @@ images:
 - "/uploads/IMG_8871.jpg"
 - "/uploads/BR-16-001_VIEW1.jpg"
 research_links:
-  Paper Covers Rock Publication Available: https://www.printedmatter.org/catalog/48665/
+  Publication Available at Printed Matter: https://www.printedmatter.org/catalog/48665/
 ---
 
 The landscape is there, overcoming our vision, supporting our steps, entering our pores, holding a space in our memory. 
