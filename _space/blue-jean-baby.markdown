@@ -32,8 +32,10 @@ images:
 - "/uploads/Blue%20Jean%20Baby%20V.jpg"
 research_links:
   Two Coats of Paint: http://www.twocoatsofpaint.com/2016/09/julie-torres-dispatches-from-hudson-part-2.html
-  Wikipedia: https://en.wikipedia.org/wiki/Jeans
+  Key: http://www.blouinartinfo.com/news/story/1482555/kristen-dodge-brings-september-to-hudson
+  New American Paintings: https://newamericanpaintings.com/blog/kristen-dodge-back-game-september
   Denim Day: http://denimdayinfo.org/
+  Wikipedia: https://en.wikipedia.org/wiki/Jeans
 images_new:
   Image:
     URL: "/uploads/Blue%20Jean%20Baby%20Install%20I.jpg"
