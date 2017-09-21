@@ -39,6 +39,13 @@ Reports includes works by Nancy Shaver, Allyson Strafella, Maximilian Goldfarb, 
 
 Concurrently, Incident No.101 will be installed by Bruce Dow in the IR viewing station, located at 348 Warren Street, one block from SEPTEMBER. Dow installed Incident No.1 in 2007. 
 
-Upcoming reading and performance programming including Catherine Lord, Anne Lauderbach, Richard Kennedy, and Jackson, will take place on Saturday, September 23, and Saturday, October 7 at 5pm at SEPTEMBER. These events will be broadcast live on Wave Farm's WGXC 90.7-FM [link to http://wgxc.org] in New York's Upper Hudson Valley and streamed online at wavefarm.org [link to https://wavefarm.org].
+The IR reading and performance programming including Anne Lauterbach and Richard Kennedy will take place on Saturday, September 23 at 5pm at SEPTEMBER. 
+
+Poet and essayist Ann Lauterbach is the author of nine books of poetry, most recently Under the Sign (Penguin, 2013) and three books of essays; her 2009 poetry collection Or to Begin Again was nominated for a National Book Award. She has written widely on visual artists, most recently on Kenji Fujita and Johanna Tiedtke,  and has made several collaborations. She has taught in Critical Writing at SVA and was a visiting critic (sculpture) at Yale. Her work has been recognized by fellowships from the Guggenheim Foundation and the John D. and Catherine T. MacArthur Foundation, and was the subject of a Conference in Paris in 2015. She is Schwab Professor of Languages and Literature at Bard College, where she is also co-Chair of Writing in the Bard MFA.  A native of New York City, she lives in Germantown, New York. 
+
+Richard Kearney holds the Charles B. Seelig Chair of Philosophy at Boston College and has served as a Visiting Professor at University College Dublin, the University of Paris (Sorbonne), the Australian Catholic University and the University of Nice.
+He is the author of over 20 books on European philosophy and literature (including two novels and a volume of poetry) and has edited or co-edited 14 more.
+He was formerly a member of the Arts Council of Ireland, the Higher Education Authority of Ireland and chairman of the Irish School of Film at University College Dublin. As a public intellectual in Ireland, he was involved in drafting a number of proposals for a Northern Irish peace agreement (1983, 1993, 1995).
+He has presented five series on culture and philosophy for Irish and British television and broadcast extensively on the European media. He is currently the international director of the Guestbook Project--Hosting the Stranger: Between Hostility and Hospitality.
 
 For further information, please visit SEPTEMBER or contact kristen@septembergallery.com.
