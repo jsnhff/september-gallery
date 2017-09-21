@@ -40,7 +40,7 @@ Reports includes works by Nancy Shaver, Allyson Strafella, Maximilian Goldfarb, 
 
 Concurrently, Incident No.101 will be installed by Bruce Dow in the IR viewing station, located at 348 Warren Street, one block from SEPTEMBER. Dow installed Incident No.1 in 2007. 
 
-The IR reading and performance programming including Anne Lauterbach and Richard Kennedy will take place on Saturday, September 23 at 5pm at SEPTEMBER. 
+The IR reading and performance programming, including Anne Lauterbach and Richard Kennedy, will take place on Saturday, September 23 at 5pm at SEPTEMBER. 
 
 Poet and essayist Ann Lauterbach is the author of nine books of poetry, most recently Under the Sign (Penguin, 2013) and three books of essays; her 2009 poetry collection Or to Begin Again was nominated for a National Book Award. She has written widely on visual artists, most recently on Kenji Fujita and Johanna Tiedtke,  and has made several collaborations. She has taught in Critical Writing at SVA and was a visiting critic (sculpture) at Yale. Her work has been recognized by fellowships from the Guggenheim Foundation and the John D. and Catherine T. MacArthur Foundation, and was the subject of a Conference in Paris in 2015. She is Schwab Professor of Languages and Literature at Bard College, where she is also co-Chair of Writing in the Bard MFA.  A native of New York City, she lives in Germantown, New York. 
 
