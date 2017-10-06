@@ -2,9 +2,13 @@
 title: 'Sheila Gallagher: Here Now'
 date: 2017-10-06 16:02:00 -04:00
 key_image: "/uploads/unnamed%202.gif"
+start_date: 2017-11-04 00:00:00 -04:00
+end_date: 2017-12-23 00:00:00 -05:00
+opening_start_time_and_date: 2017-11-04 18:00:00 -04:00
+opening_end_time_and_date: 2017-11-04 20:00:00 -04:00
 ---
 
-A woman who adored her mother, and had mourned her death every day for years now, came across some postcards in a store that sold antiques and other bric-a-brac. The postcards were of unexceptional scenes, but she was drawn to them and purchased several of wild beaches and forests roads. When she got home, she experienced an overwhelming need to send a card to her mother.
+        A woman who adored her mother, and had mourned her death every day for years now, came across some postcards in a store that sold antiques and other bric-a-brac. The postcards were of unexceptional scenes, but she was drawn to them and purchased several of wild beaches and forests roads. When she got home, she experienced an overwhelming need to send a card to her mother.
 
 	What she wrote was not important. It was the need that was important.
 
