@@ -21,6 +21,7 @@ research_links:
   Daily Serving: http://dailyserving.com/2015/12/nicole-cherubini-golden-specific-at-samson-projects/
   Hyperallergic: http://hyperallergic.com/267325/fragile-monuments-to-the-jars-ancient-form/
   Big Red & Shiny: http://bigredandshiny.org/21738/review-nicole-cherubini-golden-specific/
+  Artspace: http://www.artspace.com/magazine/art_101/book_report/8-contemporary-ceramists-to-add-to-your-collection-55020
 catalog_link:
   Catalog: https://cfileonline.org/cfile-library-learn-how-nicole-cherubini-balances-opulence-and-minimalism/
 ---
