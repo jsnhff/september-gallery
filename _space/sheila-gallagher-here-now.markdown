@@ -8,13 +8,14 @@ opening_start_time_and_date: 2017-11-04 18:00:00 -04:00
 opening_end_time_and_date: 2017-11-04 20:00:00 -04:00
 ---
 
-        A woman who adored her mother, and had mourned her death every day for years now, came across some postcards in a store that sold antiques and other bric-a-brac. The postcards were of unexceptional scenes, but she was drawn to them and purchased several of wild beaches and forests roads. When she got home, she experienced an overwhelming need to send a card to her mother.
+> `        A woman who adored her mother, and had mourned her death every day for years now, came
+across some postcards in a store that sold antiques and other bric-a-brac. The postcards were of unexceptional scenes, but she was drawn to them and purchased several of wild beaches and forests roads. When she got home, she experienced an overwhelming need to send a card to her mother.
 	What she wrote was not important. It was the need that was important.
 	She put the card in an envelope and sent it to her mother’s last earthly address, a modest farmhouse that had long since been sold and probably sold again.
 	Within a week she received a letter, the writing on the envelope was unmistakably her mother’s. Even the green ink her mother had favored was the same. 
 	The woman never opened the letter, nor did she send any other postcards to that address.
 	The letter, in time, though only rumored to be, caused her children, though grown, much worry.
-POSTCARD by Joy Williams
+POSTCARD by Joy Williams`
 
 
 SEPTEMBER is pleased to present, GONE HERE, a solo exhibition of Sheila Gallagher’s newest work.
