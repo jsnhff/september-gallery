@@ -30,7 +30,7 @@ SEPTEMBER is pleased to present, GONE HERE, a solo exhibition of Sheila Gallaghe
 
 A meditation on healing and haunting, things that go away and come back – the recipe for concrete, the stories of the dead, crafts and cures- Gallagher draws upon diverse sources including Shaker gift drawings, Aesclipion temples of ancient Greece, and recent archeological findings of mass graves at Irish orphanages, to create an installation of dedicatory phenomenon, petition and remembrance. 
 
-Across the gallery, a shrine, videos, plastic paintings, lace drawings and 789 anatomical fragments speak to each other in voices that are both funny and tragic. Gallagher’s fluency in the language of materiality enables her to create a sensory landscape of objects and images, which bear emotional charges and historical sedimentation. GONE HERE poses crucial questions about our collective sensory memory: What role can the art object play in healing and restoring memory in our increasingly amnesiac and disembodied lives?
+Across the gallery, a shrine, videos, a plastic painting, a collage of 789 cut-outs, lace drawings and hundreds of anatomical clay fragments speak to each other in voices that are both funny and tragic. Gallagher’s fluency in the language of materiality enables her to create a sensory landscape of objects and images, which bear emotional charges and historical sedimentation. GONE HERE poses crucial questions about our collective sensory memory: What role can the art object play in healing and restoring memory in our increasingly amnesiac and disembodied lives?
 
 For further information, please visit the gallery in Hudson, or contact Kristen@septembergallery.com.
 
