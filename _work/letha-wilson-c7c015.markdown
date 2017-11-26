@@ -3,6 +3,7 @@ title: Letha Wilson
 date: 2017-11-26 13:05:00 -05:00
 key_image: "/uploads/LW100.137-Steel%20Face%20Concrete%20Bend%20(Kauai%20Curve)-LoRes-1.jpg"
 is_sometimes: true
+first_letter_of_last_name: W
 exhibition_links:
   Paper Covers Rock: http://septembergallery.com/space/brie-ruais-and-letha-wilson.html
   MASS MoCA: http://massmoca.org/event/in-the-abstract/
