@@ -16,6 +16,8 @@ images:
 - 
 ---
 
+Artist Talk and Workshop: Saturday, December 2, 4pm at SEPTEMBER
+
 > `        A woman who adored her mother, and had mourned her death every day for years now, came
 across some postcards in a store that sold antiques and other bric-a-brac. The postcards were of unexceptional scenes, but she was drawn to them and purchased several of wild beaches and forests roads. When she got home, she experienced an overwhelming need to send a card to her mother.
 	What she wrote was not important. It was the need that was important.
