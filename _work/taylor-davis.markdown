@@ -13,6 +13,13 @@ exhibition_links:
   ICA, Boston: https://www.icaboston.org/exhibitions/2001-ica-artist-prize-taylor-davis
   White Columns: https://www.whitecolumns.org/archive/index.php/Search/Index/search/%22Taylor+Davis%22
   DODGEgallery: http://dodge-gallery.com/cgi-bin/DODGE?s=exhibitions&v=2012171419247864580898438943
+images:
+- "/uploads/Taylor%20Davis-BECAUSE%20I-2012-oil%20paint%20and%20Wacky%20Wood-45x27x27-3.jpg"
+- "/uploads/Taylor%20Davis-tomboy-2006-%20silver%20lame,%20denim,%20sand-11x12x7-1jpeg.jpeg"
+- "/uploads/Taylor%20Davis-360%20plus-2009-black%20walnut%20plywood,%20logs,%20casters-22x25x25-1.jpeg"
+- "/uploads/Taylor%20Davis-360%20plus-2009-black%20walnut%20plywood,%20logs,%20casters-22x25x25.jpeg"
+- "/uploads/Taylor%20Davis-Pallet-2002-4-mirror%20and%20wood-4.5x52x45(ICA%20Installation).jpg"
+- "/uploads/Taylor%20Davis-Pallet-2002-4-mirror%20and%20wood-4.5x52x45-1.jpg"
 research_links:
   Artist's Website: http://taylordavis.net/
   Aldrich Museum, Art Daily: http://artdaily.com/news/69555/Boston-based-artist-Taylor-Davis-opens-exhibition-at-the-Aldrich-Contemporary-Art-Museum#.V7CcBZMrK8U
