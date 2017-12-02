@@ -17,9 +17,9 @@ images:
 - "/uploads/Taylor%20Davis-BECAUSE%20I-2012-oil%20paint%20and%20Wacky%20Wood-45x27x27-3.jpg"
 - "/uploads/Taylor%20Davis_jonesing_2009_cherry%20plywood,%20cherry%20veneer,%20and%20wood_35x32x30_2.jpg"
 - "/uploads/Taylor%20Davis_jonesing_2009_cherry%20plywood,%20cherry%20veneer,%20and%20wood_35x32x30_3.jpg"
-- "/uploads/Taylor%20Davis-Pallet-2002-4-mirror%20and%20wood-4.5x52x45(ICA%20Installation).jpg"
-- "/uploads/Taylor%20Davis-Pallet-2002-4-mirror%20and%20wood-4.5x52x45-1.jpg"
 - "/uploads/Taylor%20Davis-tomboy-2006-%20silver%20lame,%20denim,%20sand-11x12x7.jpg"
+- "/uploads/Taylor%20Davis-Pallet-2002-4-mirror%20and%20wood-4.5x52x45-1.jpg"
+- "/uploads/Taylor%20Davis-Pallet-2002-4-mirror%20and%20wood-4.5x52x45(ICA%20Installation).jpg"
 - 
 research_links:
   Artist's Website: http://taylordavis.net/
