@@ -19,7 +19,8 @@ images:
 - "/uploads/Taylor%20Davis_jonesing_2009_cherry%20plywood,%20cherry%20veneer,%20and%20wood_35x32x30_3.jpg"
 - "/uploads/Taylor%20Davis-Pallet-2002-4-mirror%20and%20wood-4.5x52x45(ICA%20Installation).jpg"
 - "/uploads/Taylor%20Davis-Pallet-2002-4-mirror%20and%20wood-4.5x52x45-1.jpg"
-- "/uploads/Taylor%20Davis-tomboy-2006-%20silver%20lame,%20denim,%20sand-11x12x7-1jpeg.jpeg"
+- "/uploads/Taylor%20Davis-tomboy-2006-%20silver%20lame,%20denim,%20sand-11x12x7.jpg"
+- 
 research_links:
   Artist's Website: http://taylordavis.net/
   Aldrich Museum, Art Daily: http://artdaily.com/news/69555/Boston-based-artist-Taylor-Davis-opens-exhibition-at-the-Aldrich-Contemporary-Art-Museum#.V7CcBZMrK8U
