@@ -10,9 +10,16 @@ is_always: true
 is_sometimes: false
 first_letter_of_last_name: s
 exhibition_links:
+  Real Puss Technologies: http://septembergallery.com/space/real-puss-technologies.html
   Blue Jean Baby: http://septembergallery.com/space/blue-jean-baby.html
   NADA, NY: https://574b47f47eb98c7c7067b67c.preview.siteleaf.com/space/nada.html
   POST-ELECTION: http://septembergallery.com/space/post-election-show.html
+images:
+- "/uploads/OS14-DeadHandSpillingCisternontheSwallowed-Web.jpg"
+- "/uploads/OS28-PosseOrbit-web-3.jpg"
+- "/uploads/OS17-BetweenTheMoontheCisternandtheColumn-lores.jpg"
+- "/uploads/OS17-BetweenTheMoontheCisternandtheColumn-web-detail.jpg"
+- "/uploads/OS18-BackofNeckWillies-web.jpg"
 research_links:
   Artist's Website: http://www.odessastraub.com/
 ---
