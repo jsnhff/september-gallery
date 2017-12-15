@@ -1,6 +1,7 @@
 ---
 title: Paula Hayes and The ERL
 date: 2017-12-15 12:51:00 -05:00
+published: false
 key_image: "/uploads/PaulaImage.png"
 start_date: 2018-01-06 18:00:00 -05:00
 end_date: 2018-02-18 00:00:00 -05:00
