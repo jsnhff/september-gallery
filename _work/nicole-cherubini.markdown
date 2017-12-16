@@ -12,6 +12,13 @@ exhibition_links:
   MFA, Boston: http://www.mfa.org/exhibitions/surface-matters
   Santa Monica Museum of Art: https://smmoa.org/programs-and-exhibitions/nicole-cherubini/
   RETROSPECTIVE: http://retrospectivegallery.com/exhibitions/past/Nicole-Cherubini/Exhibition-Images/
+images:
+- "/uploads/NC107-EarchPot%239,3Fates-Hires.jpg"
+- "/uploads/NC111-Pot,S.Haze-Hires.jpg"
+- "/uploads/NC114-Am-4-ohr-a-detail-1-Hires.tif"
+- "/uploads/NC119-DippedinMoonlight-Detail-HiRes.jpg"
+- "/uploads/NC120-EarthPot%2310-HiRes-1.jpg"
+- "/uploads/CHERUBINI-Verdant%20Empress%201.jpg"
 research_links:
   Artist's Website: http://www.nicolecherubini.com/
   BOMB Interview with Sarah Braman: http://bombmagazine.org/article/10114/nicole-cherubini
