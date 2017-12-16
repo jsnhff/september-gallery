@@ -16,8 +16,8 @@ images:
 - "/uploads/NC107-EarchPot%239,3Fates-Hires.jpg"
 - "/uploads/NC111-Pot,S.Haze-Hires.jpg"
 - "/uploads/NC114-Am-4-ohr-a-detail-1-Hires.tif"
-- "/uploads/NC119-DippedinMoonlight-Detail-HiRes.jpg"
-- "/uploads/NC120-EarthPot%2310-HiRes-1.jpg"
+- "/uploads/NC119-DippedinMoonlight-Web.jpg"
+- "/uploads/NC120-EarthPot%2310-Detail-Web.jpg"
 - "/uploads/CHERUBINI-Verdant%20Empress%201.jpg"
 research_links:
   Artist's Website: http://www.nicolecherubini.com/
