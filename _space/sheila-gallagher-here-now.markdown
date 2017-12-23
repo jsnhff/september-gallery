@@ -9,11 +9,14 @@ opening_end_time_and_date: 2017-11-04 20:00:00 -04:00
 images:
 - "/uploads/SG1072-There-is-Beauty-Yet-Raging-WEB-f42373.jpg"
 - "/uploads/SG1072-There-is-Beauty-Yet-Raging-Detail-WEB-8cc9ca.jpg"
-- "/uploads/MANTILLA-1-WEB-66cfe7.jpg"
+- "/uploads/KDodge_12-03-17_MG_8911_sRGB_WebRes.jpg"
+- "/uploads/ALTAR-2-WEB-dc977b.jpg"
 - "/uploads/SG1071-TUAM-BABIES-WEB-9033c2.jpg"
 - "/uploads/SG1071-TUAM-BABIES-Detail-WEB-f97c6a.jpg"
-- "/uploads/ALTAR-2-WEB-dc977b.jpg"
-- 
+- "/uploads/KDodge_12-03-17_MG_8840_sRGB_WebRes.jpg"
+- "/uploads/MANTILLA-1-WEB-66cfe7.jpg"
+- "/uploads/KDodge_12-03-17_MG_8930_sRGB_WebRes.jpg"
+- "/uploads/Votives%20Image.jpg"
 ---
 
 Artist Talk and Workshop: Saturday, December 2, 4pm at SEPTEMBER
