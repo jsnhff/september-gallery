@@ -16,7 +16,7 @@ layout: default
 </div>
 <div class="clearfix">
     <div class="sm-col sm-col-6 md-col-7 lg-col-8 pr0 sm-pr2 md-pr3 lg-pr3">
-        <p class="prose h3 mt2">{{ site.writing }}</p>
+        <p class="prose h3 mt2">{{ site.writing | newline_to_br }}</p>
     </div>
     <div class="sm-col sm-col-6 md-col-5 lg-col-4 pl0 sm-pl1 md-pl2 lg-pl2">
         <h1 class="hide">Info</h1>
