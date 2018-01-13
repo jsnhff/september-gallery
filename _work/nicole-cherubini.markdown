@@ -13,10 +13,12 @@ exhibition_links:
   Santa Monica Museum of Art: https://smmoa.org/programs-and-exhibitions/nicole-cherubini/
   RETROSPECTIVE: http://retrospectivegallery.com/exhibitions/past/Nicole-Cherubini/Exhibition-Images/
 images:
-- "/uploads/NC119-DippedinMoonlight-Web.jpg"
-- "/uploads/NC120-EarthPot%2310-Detail-Web.jpg"
-- "/uploads/CHERUBINI-Verdant%20Empress%201.jpg"
-- 
+- "/uploads/CHERUBINI-Verdant%20Empress%201%20copy.jpg"
+- "/uploads/NC107-EarchPot%239,3Fates-Hires%20copy.jpg"
+- "/uploads/NC111-Pot,S.Haze-Hires%20copy.jpg"
+- "/uploads/NC114-Am-4-ohr-a-Hires%20copy%202.jpg"
+- "/uploads/NC119-DippedinMoonlight-HiRes%20copy.jpg"
+- "/uploads/NC120-EarthPot%2310-HiRes-1%20copy.jpg"
 research_links:
   Artist's Website: http://www.nicolecherubini.com/
   BOMB Interview with Sarah Braman: http://bombmagazine.org/article/10114/nicole-cherubini
