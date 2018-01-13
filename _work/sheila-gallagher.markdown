@@ -17,7 +17,7 @@ images:
 - "/uploads/SG1002-Daily%20Calendar%20Mandala-WEB-detail.jpg"
 - "/uploads/Sheila%20Gallagher-Cow-2013-smoke%20on%20canvas-40x50.jpg"
 - "/uploads/Sheila%20Gallagher-Plastic%20Veriditas-2012-melted%20plastic%20mounted%20on%20armature-65x55.jpg"
-- "/uploads/Banerjee.jpg"
+- "/uploads/Banerjee%20copy.jpg"
 research_links:
   Artist's Website: http://www.shegallagher.com/
   Interview, Smoke Painting: https://www.youtube.com/watch?v=CcG7BY6VU08
