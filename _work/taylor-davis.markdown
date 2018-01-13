@@ -15,9 +15,9 @@ exhibition_links:
   DODGEgallery: http://dodge-gallery.com/cgi-bin/DODGE?s=exhibitions&v=2012171419247864580898438943
 images:
 - "/uploads/Taylor%20Davis-BECAUSE%20I-2012-oil%20paint%20and%20Wacky%20Wood-45x27x27-3.jpg"
+- "/uploads/Taylor%20Davis-Untitled-FarmTek%20%231%20WebRes%20copy.jpg"
 - "/uploads/Taylor%20Davis_jonesing_2009_cherry%20plywood,%20cherry%20veneer,%20and%20wood_35x32x30_1.jpg"
 - "/uploads/Taylor%20Davis-this%20pictr-2012-watercolor%20on%20paper-18.375x14.5.jpg"
-- "/uploads/Taylor%20Davis-Untitled-FarmTek%20%231-2014-copic%20marker%20and%20collage%20on%20sized%20canvas-1.jpg"
 - "/uploads/CARD.%20COLOR%20no.%202%20WebRes.jpg"
 research_links:
   Artist's Website: http://taylordavis.net/
