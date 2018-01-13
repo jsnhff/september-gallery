@@ -13,6 +13,11 @@ exhibition_links:
   DODGEgallery: http://dodge-gallery.com/cgi-bin/DODGE?s=exhibitions&v=2013812851252295335635774136
 images:
 - "/uploads/Sheila%20Gallagher-Lily%20Poppy%20Flow.jpg"
+- "/uploads/Sheila%20Gallagher-Daily%20Calendar%20Mandala-2009-digital%20mandala%20on%20water%20resistant%20satin%20cloth-74%20inch%20diameter.jpg"
+- "/uploads/SG1002-Daily%20Calendar%20Mandala-WEB-detail.jpg"
+- "/uploads/Sheila%20Gallagher-Cow-2013-smoke%20on%20canvas-40x50.jpg"
+- "/uploads/Sheila%20Gallagher-Plastic%20Veriditas-2012-melted%20plastic%20mounted%20on%20armature-65x55.jpg"
+- "/uploads/Banerjee.jpg"
 research_links:
   Artist's Website: http://www.shegallagher.com/
   Interview, Smoke Painting: https://www.youtube.com/watch?v=CcG7BY6VU08
