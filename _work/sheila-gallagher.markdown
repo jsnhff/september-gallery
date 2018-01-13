@@ -15,8 +15,9 @@ images:
 - "/uploads/Sheila%20Gallagher-Lily%20Poppy%20Flow.jpg"
 - "/uploads/Sheila%20Gallagher-Daily%20Calendar%20Mandala-2009-digital%20mandala%20on%20water%20resistant%20satin%20cloth-74%20inch%20diameter.jpg"
 - "/uploads/SG1002-Daily%20Calendar%20Mandala-WEB-detail.jpg"
-- "/uploads/Sheila%20Gallagher-Cow-2013-smoke%20on%20canvas-40x50.jpg"
-- "/uploads/Sheila%20Gallagher-Plastic%20Veriditas-2012-melted%20plastic%20mounted%20on%20armature-65x55.jpg"
+- "/uploads/Sheila%20Gallagher-Cow-2013-smoke%20on%20canvas-40x50%20copy.jpg"
+- "/uploads/DODGE_Gallery_575980_HR.jpg"
+- "/uploads/Sheila%20Gallagher-Plastic%20Veriditas-2012-melted%20plastic%20mounted%20on%20armature-65x55%20copy.jpg"
 - "/uploads/Banerjee%20copy.jpg"
 research_links:
   Artist's Website: http://www.shegallagher.com/
