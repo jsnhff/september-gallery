@@ -1,0 +1,22 @@
+---
+title: SIT-IN
+date: 2018-03-19 16:27:00 -04:00
+start_date: 2018-04-07 18:00:00 -04:00
+end_date: 2018-05-20 18:00:00 -04:00
+---
+
+SARAH BRAMAN  JANE BUSTIN  LIZ COLLINS  FRANCESCA DIMATTIO  DEVON DIKEOU  BARBARA GALLUCCI  KATE GILMORE  MARY HEILMANN  JESSICA JACKSON HUTCHINS  LALEH KHORRAMIAN  HANNAH LEVY  LAUREL NAKADATE  JESSI REAVES  NANCY SHAVER  AGATHE SNOW  KIANJA STROBERT 
+
+Opening Saturday, April 7 at SEPTEMBER: Sit-In, a collective look at the shifting function of a familiar form. 
+
+In an interrogation room, two chairs face each other across a desk. At a birthday party, the guest of honor sits at the head of the table. In a museum, bench seating is placed at regular intervals in the center of a room. At a principal's office, the student is instructed to “sit down.” On a stage, a comedian stands beside an empty stool. At an auction, everyone sits, save the auctioneer. 
+
+A seat is a frame and a proposition. A person sitting either subscribes to or rejects suggestion; their body gives in to the framework, or contradicts it- settles into an armrest or sits forward, lounges on a chaise or perches on edge. 
+
+When the functionality of the form is prioritized, a chair is more or less self-evident. A seat with four legs and a back can have an uncomplicated purpose. A folding chair provides the utilitarian uses of being portable stackable, and sit-able. An execution chair is constructed to suit its intention: remain stable, unbreakable, and provide constraints. 
+
+However when aesthetics and composition reign, a new function is served. The grandeur and adornment of a throne purposes to reflect the power of the sitter, the elegance and recline of the Eames proposes to embody a comfortable lifestyle. Here, the chair becomes a status symbol, the position of power or the privilege of leisure. 
+
+For the exhibition Sit-In, a cacophonous individuality arises. Vastly distinctive seats have been created, deconstructed, reconfigured and repurposed. Positioned in rows and facing a unified direction, a collective stance arises. A draped curtain provides the suggestion of a backdrop- a gesture of substantiation or revelation of artifice. Sit-in is a theatre of subversion and a revision of what we know. 
+
+For more information, please visit the gallery, our website septembergallery.com, or contact kristen@septembergallery.com. 
