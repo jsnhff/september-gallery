@@ -27,3 +27,263 @@ PS. We are overwhelmed with awe by the outpouring of artistic talent and engagem
 
 Limited edition artists:
 Jessica Goehring, Deborah Zlotsky, Jennifer Monick, Mo Peppin & Wandwood Stream, Carrie Schneider, Jackie Saccoccio, Jenene Nagy, Pete Mauney, Michael Scoggins, Mandolyn Rosen
+
+Exhibiting artists:
+Irina Alimanestianu
+Jennifer Amadeo-Holl
+David Andersson
+Fern Apfel
+Susannah Auferoth
+Hartmut Austen
+Hilary Baldwin
+Lauren Barnes
+Laura Battle
+Natalie Beall
+Anne Beresford
+Nancy Berlin
+Laura Bidwa
+Maryna Bilak
+Annie Bielski
+Megan Zoe Billman
+Lois Borgenicht
+Dawn Breeze
+Nancy Bowen
+Sara Bowman
+Berly Brown
+Virginia Bryant
+Sarah Butler
+Maria Calandra
+Cait Carouge
+Sayzie Carr
+Chelsea Cater
+Nurya Chana
+Mary Chatham
+Walter Chatham
+Kris Chatterson
+Amanda Church
+Ellen Clark
+Donna Cleary
+Edie Clements
+Diane Cluck
+Binda Colebrook
+Rachel Cope
+K.M. Copham
+Simone Couto
+Corydon Cowansage
+Matt Crane
+William Crump
+Cindy Cuba Clements
+Peggy Cyphers
+Carl D'Alvia
+Melissa Dadourian
+Erika DaSilva
+Carole Daynard
+Karen Davis
+Katharine Daugherty
+Alyson Denny
+John Descarfino
+Abigail Doan
+Daniella Dooling
+Melissa Eder
+Julia Eichel
+Joan Evans
+Julie Evans
+Alicia Everett
+Annie Ewaskio
+Ben Fain
+Tory Fair
+Adriana Farmiga
+Elise Ferguson
+Laura Fischman
+Taryn FitzGerald
+Mike Flynn
+Katie Ford
+Alison Fox
+Tara Fracalossi
+Kit Fraser
+Sarah French
+Daisy Freund
+Kiki Gaffney
+Jeff Gagnon
+Ashley Garrett
+Sam Gassman
+GiGi Gatewood
+Tamara Gayer
+Dana Gentile
+Jenny Ghetti
+Arthur Gibbons
+Kate Gilmore
+Alex Gingrow
+Jessica Goehring
+Alex Goldberg
+Jenna Hope Goldstein
+Brenda Goodman
+Betsy Gorman
+Maggie Goudsmit
+Gretchen Grace
+Jennifer Greim
+Robin Halpren-Ruder
+Maurice Haughton
+Maegan Hayward
+Allison Hester
+Kylie Heidenheimer
+Brian Hernick
+Sarah Hinckley
+Carter Hodgkin
+Brece Honeycutt
+Andrea Hornick
+Bethany Hughes
+Samantha Hunt
+Francine Hunter McGivern
+Gianni Iacono
+Sunny Iacono
+Shirley Irons
+Emily Isabella
+Jamie Israelow
+Suzanne Joelson
+Ellen Jong
+Ellen Jouret-Epstein
+Tom Judd
+Laura Kaufman
+Karen Keats
+Gretchen Kelly
+Jill Kerwick
+Melinda Kiefer
+Barbara Kilpatrick
+Alon Koppel
+Rory Krupp
+Melora Kuhn
+Carole P. Kunstadt
+Crystalle Lacouture
+Marisela La Grave
+Peter LaBier
+Crystalle Lacouture
+Thomas Lail
+Amanda Lees
+Elisa Lenduay
+Linda Leslie Brown
+Les Leveque
+Sharon Ligorner Castelli
+Kimberly Lin
+Anne Lindberg
+Harriet Livathinos
+Kathleen Loe
+Joel Longenecker
+Rebeca Loyche
+Jacque Lynn Schiller
+Liza Macrae
+Joe Mama-Nitzberg
+Victoria Manganiello
+Darwin Manning
+Tracy Martin
+Susan Mastrangelo
+Sooo-z Mastropietro
+Alison Matheny
+Pete Mauney
+Maryna Maurice
+Mac McCaughan
+ML McCorkle
+Patrick McElnea
+Nion McEvoy Jr.
+Elise McMahon
+Tom McGill
+Joan Mellon
+Susan Meyer
+Elizabeth Meyersohn
+Holly Miller
+Kate Minford
+Robert Moeller
+Jenny Monick
+Katherine Moore
+Lily Morris
+Donna Moylan
+Sue Muskat
+Edie Nadelhaft
+Jenene Nagy
+Lucy Nathanson
+Erin O'Brien
+Kylin OKylin O'Brien
+Leticia Ortega
+Phyllis Palmer
+Ruby Palmer
+Caitlin Parker
+Emanuele Pavarotti
+Gail Peachin
+Mo Pepin
+Vincent Pidone
+Erika Ranee
+Edith Read
+Susanne Reece
+Kristen Rego
+Kelsey Renko
+John Richey
+Corinna Ripps
+Katrina Rodabauh
+Susan Rabinowitz
+John Richey
+Calvin Rocchio
+Mandolyn Wilson Rosen
+Lydia Rubio
+Yasmin Rumkowsi
+Jackie Saccoccio
+Richard Saja
+Helen Sansone
+Margaret Saliske
+Janelle Sandefur
+HelenSansone
+Anne Schaefer
+Ira Scher
+Jacque Schiller
+Katy Schneider
+Carrie Schnieder
+Michael Scoggins
+Carleen Sheehan
+Lithe Sebesta
+Stuart Servetar
+Beth Servitor
+Nathan See
+Barbara Sheperd
+Vicki Sher
+Parker Shipp
+Sarah Shirley
+Gabriel J. Shuldiner
+Ben Sloat
+Wendy Small
+Kara Smith
+D. Jack Solomon
+Laura Stasi
+Sarah Sterling
+Linda Stillman
+Lawre Stone
+Ian Swanson
+Marc Swanson
+Amy Talluto
+Joy Taylor
+Christina Tenaglia
+Lisa Nadel Thomas
+Kristen Thomas
+Tony Thompson
+Amy Tingle
+Lynne Tobin
+Deb Tod Wheeler
+Arielle Toelke
+Julie Torres
+Katharine Umsted
+Michael Valiquette
+Larsvan Dooren
+Victoria van der Laan
+Becca Van K
+Holly Veselka
+Catalina Viejo Lopez de Roda
+Julie von Eichel
+DTW
+Melissa Weaver
+Jess Whittam
+Michele Wick
+Michael Van Winkle
+Alicia Wverett
+Brian Wood
+Tsukasa Yokozawa
+Sally Young
+George Juliette Zandberg
+Deborah Zlotsky
