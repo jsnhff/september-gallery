@@ -1,5 +1,5 @@
 ---
-title: Annie Bielski NADA NY
+title: Annie Bielski NADA
 date: 2018-02-05 16:34:00 -05:00
 key_image: "/uploads/BIELSKI-%20Loveland%20Still-811687.jpg"
 key_image_credit: ANNIE BIELSKI-Loveland-Video still
