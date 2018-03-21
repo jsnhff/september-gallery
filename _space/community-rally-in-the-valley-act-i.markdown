@@ -1,5 +1,5 @@
 ---
-title: 'Community: Rally in the Valley, ACT I'
+title: Rally in the Valley ACT I
 date: 2017-06-11 12:55:00 -04:00
 position: 11
 key_image: "/uploads/rallyimagewithtext.png"
@@ -16,27 +16,14 @@ artist_links:
   Instar Lodge: Instar Lodge http://instarlodge.com/
 ---
 
-You are invited to contribute an original art work to the exhibition **ACT I**, organized by **Dawn Breeze** of **Instar Lodge** and **Kristen Dodge** of **SEPTEMBER**. ACT I will take place at the historic and newly renovated Hudson Hall on Saturday, July 22, 2017, 5-7pm. Works will be on view Friday, July 21 and Saturday, July 22 for guests to preview.
+We are thrilled to announce the ten selected artists whose work was chosen for the limited edition set of postcards created for the exhibit ACT I in conjunction with Rally in the Valley.
 
-ACT I will be an anonymous exhibition with artists names revealed after works are purchased. Each work will be sold for $50 with all proceeds being donated to Upper Hudson Planned Parenthood. There are no limitations or restrictions on your submission, only the required scale of **4 x 6 inches** and it must be able to easily be hung on a wall.
+After much deliberation we chose these postcards from hundreds of exceptional artworks because we feel the group represents the ethos of the exhibit; acting as a call, a shout, and a cry to notice our united artist voices standing together in support of Planned Parenthood! ACT I is a political action, gathering hundreds of artists together to share expression, to raise money for Planned Parenthood, and to raise awareness of our political concerns through the act of writing postcards to our elected officials and to one another. Postcards have long held a history of social documentation and acted as an easy method for communication before the telephone. The first US postcard was issued on May 13, 1873 depicting the bust of Liberty. Post-election many of us feel unheard, unaddressed, and unseen by our current government in this country, but together we are raising our voices and sending a strong community message with ACT I. 
 
-**SUBMISSIONS:**
-You may submit a maximum of two pieces to be included in the exhibition.
+With love, admiration, and gratitude,
+Kristen & Dawn
 
-When you mail in or hand-deliver your 4x6" postcard piece to the SEPTEMBER Gallery (address below), please include:
+PS. We are overwhelmed with awe by the outpouring of artistic talent and engagement demonstrated by hundreds of artists sharing artwork with ACT I. We encourage each and every one of you amazing artists that have contributed to this exhibit to turn your submission into a postcard, and to continue to share your art, your heart, and your voice with this government and with your neighbors. The action does not stop here, this is ACT I.
 
-title, date, materials used
-your name + signature on the **back** of the piece
-a self-addressed, stamped envelope (to return your piece in the event it remains unsold)
-
-**Please mail or deliver your work (during gallery hours or via the mail slot) to:**
-
-SEPTEMBER (Attn: ACT I)
-449 Warren Street #3, Hudson, NY 12534
-
-Along with your physical submission please also [fill out this form](https://form.jotform.us/71367100092144).
-
-**DEADLINES:**
-All works must be delivered or mailed to SEPTEMBER by **Thursday, June 29th** if you wish you be in the running for the ACT I Special Limited Edition printing of 10 jury-selected works. 10 works will be reproduced as an edition of 100, distributed through Upper Hudson Planned Parenthood, and activated during the postcard-writing workshop that culminates the weekend festival. If you are one of the 10 artists whose work is selected, you will receive an ACT I Special Limited Edition.
-
-The latest opportunity to submit a work is **Tuesday, July 18**. Please note your work will not be in the running for the ACT I Special Limited Edition if submitted after Thursday, June 29.
+Limited edition artists:
+Jessica Goehring, Deborah Zlotsky, Jennifer Monick, Mo Peppin & Wandwood Stream, Carrie Schneider, Jackie Saccoccio, Jenene Nagy, Pete Mauney, Michael Scoggins, Mandolyn Rosen
