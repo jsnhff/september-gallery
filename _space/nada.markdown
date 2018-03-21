@@ -1,5 +1,5 @@
 ---
-title: NADA
+title: Odessa Straub NADA
 date: 2017-02-17 17:10:00 -05:00
 position: 9
 key_image: "/uploads/IMG_8603.jpg"
