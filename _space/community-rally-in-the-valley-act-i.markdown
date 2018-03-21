@@ -2,7 +2,7 @@
 title: Rally in the Valley ACT I
 date: 2017-06-11 12:55:00 -04:00
 position: 11
-key_image: "/uploads/rallyimagewithtext.png"
+key_image: "/uploads/Rally%20in%20the%20Valley.jpg"
 is_event: false
 start_date: 2017-07-22 00:00:00 -04:00
 end_date: 2017-07-22 00:00:00 -04:00
