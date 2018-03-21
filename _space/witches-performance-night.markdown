@@ -4,10 +4,10 @@ date: 2017-04-22 16:56:00 -04:00
 position: 8
 key_image: "/uploads/Witches.jpg"
 is_event: true
-start_date: 2017-04-22 18:00:00 -04:00
-end_date: 2017-04-22 20:00:00 -04:00
-opening_start_time_and_date: 2017-04-22 18:00:00 -04:00
-opening_end_time_and_date: 2017-04-22 20:00:00 -04:00
+start_date: 2017-04-21 18:00:00 -04:00
+end_date: 2017-04-21 20:00:00 -04:00
+opening_start_time_and_date: 2017-04-21 18:00:00 -04:00
+opening_end_time_and_date: 2017-04-21 20:00:00 -04:00
 images:
 - "/uploads/IMG_8029.jpg"
 - "/uploads/FullSizeRender.jpg"
