@@ -1,5 +1,5 @@
 ---
-title: Odessa Straub at ALAC
+title: Odessa Straub ALAC
 date: 2017-12-23 15:24:00 -05:00
 key_image: "/uploads/Straub.3-web.jpg"
 key_image_credit: " ODESSA STRAUB, Devil Shade Back, 2017, acrylic on panel, 48 x
