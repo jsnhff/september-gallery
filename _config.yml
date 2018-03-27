@@ -56,24 +56,14 @@ defaults:
     catalog_link:
       Catalog: ''
 email: kristen@septembergallery.com
-description: "Please note, our space will be closed during the month of February.
-  We will be in NYC for NADA March 8-11. \n\nSEPTEMBER is an evolving platform for
-  artists of diverse disciplines. The gallery is committed to engaging the surrounding
-  community, while hosting artists predominantly from Upstate to Brooklyn to Boston.
-  In the first year and a half, over 200 artists have exhibited at the gallery. The
-  spirited ethos and activity of SEPTEMBER includes performers, academics, activists,
-  chefs, curators, writers, and other creative thinkers, makers and doers.\n\nSEPTEMBER
-  was founded by Kristen Dodge in 2016 and is located in the Arcade Building at 449
-  Warren Street #3, Hudson, NY 12534."
-writing: "Please note, our space will be closed during the month of February. We will
-  be in NYC for NADA March 8-11. \n\nSEPTEMBER is an evolving platform for artists
-  of diverse disciplines. The gallery is committed to engaging the surrounding community,
-  while hosting artists predominantly from Upstate to Brooklyn to Boston. In the first
-  year and a half, over 200 artists have exhibited at the gallery. The spirited ethos
-  and activity of SEPTEMBER includes performers, academics, activists, chefs, curators,
-  writers, and other creative thinkers, makers and doers.\n\nSEPTEMBER was founded
-  by Kristen Dodge in 2016 and is located in the Arcade Building at 449 Warren Street
-  #3, Hudson, NY 12534.\n"
+description: |-
+  SEPTEMBER is an evolving platform for artists of diverse disciplines. The gallery is committed to engaging the surrounding community, while hosting artists predominantly from Upstate to Brooklyn to Boston. In the first year and a half, over 200 artists have exhibited at the gallery. The spirited ethos and activity of SEPTEMBER includes performers, academics, activists, chefs, curators, writers, and other creative thinkers, makers and doers.
+
+  SEPTEMBER was founded by Kristen Dodge in 2016 and is located in the Arcade Building at 449 Warren Street #3, Hudson, NY 12534.
+writing: |
+  SEPTEMBER is an evolving platform for artists of diverse disciplines. The gallery is committed to engaging the surrounding community, while hosting artists predominantly from Upstate to Brooklyn to Boston. In the first year and a half, over 200 artists have exhibited at the gallery. The spirited ethos and activity of SEPTEMBER includes performers, academics, activists, chefs, curators, writers, and other creative thinkers, makers and doers.
+
+  SEPTEMBER was founded by Kristen Dodge in 2016 and is located in the Arcade Building at 449 Warren Street #3, Hudson, NY 12534.
 physical_address: '449 Warren Street #3, Hudson, NY 12534'
 baseurl: "/"
 url: http://septembergallery.com
