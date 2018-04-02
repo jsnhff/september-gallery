@@ -8,8 +8,7 @@ start_date: 2018-04-07 18:00:00 -04:00
 end_date: 2018-05-20 18:00:00 -04:00
 ---
 
-SARAH BRAMAN   JANE BUSTIN  LIZ COLLINS   FRANCESCA DIMATTIO  DEVON DIKEOU   BARBARA GALLUCCI   KATE GILMORE  MARY HEILMANN   JESSICA JACKSON HUTCHINS  LALEH KHORRAMIAN  HANNAH LEVY  LAUREL NAKADATE  JESSI REAVES 
-NANCY SHAVER  AGATHE SNOW  KIANJA STROBERT 
+SARAH BRAMAN   JANE BUSTIN  NICOLE CHERUIBINI  LIZ COLLINS   FRANCESCA DIMATTIO  DEVON DIKEOU   BARBARA GALLUCCI   KATE GILMORE   MARY HEILMANN   JESSICA JACKSON HUTCHINS  LALEH KHORRAMIAN  HANNAH LEVY  LAUREL SARA GREENBERGER RAFFERTY  NAKADATE  JESSI REAVES  NANCY SHAVER  AGATHE SNOW  KIANJA STROBERT 
 
 Opening Saturday, April 7 at SEPTEMBER: Sit-In, a collective look at the shifting function of a familiar form. 
 
@@ -21,6 +20,6 @@ When the functionality of the form is prioritized, a chair is more or less self-
 
 However when aesthetics and composition reign, a new function is served. The grandeur and adornment of a throne purposes to reflect the power of the sitter, the elegance and recline of the Eames proposes to embody a comfortable lifestyle. Here, the chair becomes a status symbol, the position of power or the privilege of leisure. 
 
-For the exhibition Sit-In, a cacophonous individuality arises. Vastly distinctive seats have been created, deconstructed, reconfigured and repurposed. Positioned in rows and facing a unified direction, a collective stance arises. A draped curtain provides the suggestion of a backdrop- a gesture of substantiation or revelation of artifice. Sit-in is a theatre of subversion and a revision of what we know. 
+For the exhibition Sit-In, a cacophonous individuality arises. Vastly distinctive seats have been created, deconstructed, reconfigured and repurposed. Positioned in rows and facing a unified direction, a collective stance arises. Draped curtains provide the suggestion of a backdrop- a gesture of substantiation or revelation of artifice. Sit-in is a theatre of subversion and a revision of what we know. 
 
 For more information, please visit the gallery, our website septembergallery.com, or contact kristen@septembergallery.com. 
