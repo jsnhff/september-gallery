@@ -24,6 +24,7 @@ research_links:
   Publication Studio Hudson: https://publication-studio.myshopify.com/collections/pilot-editions/products/incident-report-no-1-100
   Two Coats of Paint: http://www.twocoatsofpaint.com/2017/09/up-in-hudson-with-suzanne-joelson.html?utm_source=MadMimi&utm_medium=email&utm_content=Seattle+Sunday%3A+post-internet+painting%2C+Calvin+Ross+Carl%2C+Cable+Griffith%2C+fantastic+utopias%2C+more&utm_campaign=20170917_m141480744_September+17%2C+2017&utm_term=Gallery+crawl+in+Hudson
   WGXC: https://wavefarm.org/archive/38s5be
+  WAMC: http://wamc.org/post/rogovoy-report-9117
 ---
 
 Incident Report, Reports
