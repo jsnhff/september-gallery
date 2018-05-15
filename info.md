@@ -81,10 +81,6 @@ layout: default
                 </div>
             </div>
             <p class="h3 mt3">
-                Closed for installation until Sept. 1st
-                <!-- Thursday-Sunday, Noon-6pm -->
-            </p>
-            <p class="h3 mt3">
                 <a class="text-decoration-none navy" title="Email for appointments" href="mailto:{{ site.email }}?subject=I'd like to visit {{ current_exhibition }}">Email for appointments</a>
             </p>
             <p class="h3 mt3">518-822-1333</p>
