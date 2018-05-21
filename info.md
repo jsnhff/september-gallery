@@ -19,7 +19,20 @@ layout: default
         <p class="prose h3 mt2">{{ site.writing | newline_to_br }}</p>
     </div>
     <div class="sm-col sm-col-6 md-col-5 lg-col-4 pl0 sm-pl1 md-pl2 lg-pl2">
-        <h1 class="hide">Info</h1>
+        <h2 class="">Hours</h2>
+        {% if site.is_closed == true %}
+        <p class="h3">
+            {{ site.why_youre_closed }}
+        </p>
+        {% else %}
+        <p class="h3">
+            {{ site.gallery_hours }}
+        </p>
+        {% endif %}
+        <p class="h3">
+            <a class="text-decoration-none navy" title="Email for appointments" href="mailto:{{ site.email }}?subject=I'd like to visit {{ current_exhibition }}">Email for appointments</a>
+        </p>
+        <h2 class="mt3 mb0">Info</h2>
         <!-- Begin MailChimp Signup Form -->
         <div class="clearfix">
             <form action="//septembergallery.us13.list-manage.com/subscribe/post?u=9541e75f42d936cad8f86d52c&amp;id=d4ed0b439e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -60,7 +73,7 @@ layout: default
             {% endif %}
         {% endfor %}
         <div class="xs-hide">
-            <div class="table parent-hover mt4">
+            <div class="table parent-hover mt3">
                 <div class="table-cell align-middle">
                     <a title="September Instagram" href="htt://www.instagram.com/{{ site.instagram_username }}">
                         <span class="icon inline-block">{% include icon-instagram.svg %}</span>
@@ -80,9 +93,6 @@ layout: default
                     <a class="h3 my0 text-decoration-none navy pl1" title="September facebook" href="http://www.facebook.com/{{ site.facebook_username }}">September on facebook</a>
                 </div>
             </div>
-            <p class="h3 mt3">
-                <a class="text-decoration-none navy" title="Email for appointments" href="mailto:{{ site.email }}?subject=I'd like to visit {{ current_exhibition }}">Email for appointments</a>
-            </p>
             <p class="h3 mt3">518-822-1333</p>
         </div>
         <div class="sm-hide md-hide lg-hide center">
