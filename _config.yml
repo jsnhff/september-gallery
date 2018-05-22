@@ -53,9 +53,7 @@ defaults:
     - ''
     images_with_captions:
     - Image One: ''
-      Caption One: 'This is a caption.'
-    - Image Two: ''
-      Caption Two: ''
+    - Caption One: 'This is a caption.'
     research_links:
       Link One: ''
     catalog_link:
