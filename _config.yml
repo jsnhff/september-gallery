@@ -51,11 +51,7 @@ defaults:
       Artist Name One: ''
     images:
     - ''
-    images_with_captions:
-    - image:
-        object:
-        - Image One: ''
-        - Caption One: This is a caption.
+    images_with_captions: {"key": "value","key": "value"}
     research_links:
       Link One: ''
     catalog_link:
