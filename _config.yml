@@ -52,7 +52,10 @@ defaults:
     images:
     - ''
     images_with_captions:
-      key: value
+      - shares: -75.088
+        date: 11/27/2015
+      - shares: 75.088
+        date: 11/26/2015
     research_links:
       Link One: ''
     catalog_link:
