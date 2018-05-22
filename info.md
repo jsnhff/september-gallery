@@ -19,7 +19,7 @@ layout: default
         <p class="prose h3 mt2">{{ site.writing | newline_to_br }}</p>
     </div>
     <div class="sm-col sm-col-6 md-col-5 lg-col-4 pl0 sm-pl1 md-pl2 lg-pl2">
-        <h2 class="">Hours</h2>
+        <h2 class="mt2">Hours</h2>
         {% if site.is_closed == true %}
         <p class="h3">
             {{ site.why_youre_closed }}
