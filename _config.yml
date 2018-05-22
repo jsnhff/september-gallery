@@ -55,7 +55,7 @@ defaults:
     - image:
         object:
         - Image One: ''
-        - Caption One: 'This is a caption.'
+        - Caption One: This is a caption.
     research_links:
       Link One: ''
     catalog_link:
