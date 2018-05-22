@@ -52,7 +52,7 @@ defaults:
     images:
     - ''
     images_with_captions:
-    - image: One
+    - image:
         object:
         - Image One: ''
         - Caption One: 'This is a caption.'
