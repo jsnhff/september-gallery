@@ -52,7 +52,10 @@ defaults:
     images:
     - ''
     images_with_captions:
-    - Image One: '', Caption One: 'This is a caption.'
+    - image: One
+        object:
+        - Image One: ''
+        - Caption One: 'This is a caption.'
     research_links:
       Link One: ''
     catalog_link:
