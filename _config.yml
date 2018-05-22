@@ -30,6 +30,12 @@ defaults:
       Link Title One: ''
     images:
     - ''
+    images_with_captions:
+    - Image One: ''
+      Caption One: 'This is a caption.'
+    - Image Two: ''
+      Caption Two: ''
+
     research_links:
       Link One: ''
     catalog_link:
