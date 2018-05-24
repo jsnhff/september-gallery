@@ -21,7 +21,7 @@ images:
 - "/uploads/NC120-EarthPot%2310-HiRes-1%20copy.jpg"
 images_with_captions:
 - image: "/uploads/CHERUBINI-Verdant%20Empress%201%20copy.jpg"
-  caption: Test caption
+  caption: 
 - image: "/uploads/NC107-EarchPot%239,3Fates-Hires%20copy.jpg"
   caption: 
 - image: "/uploads/NC111-Pot,S.Haze-Hires%20copy.jpg"
