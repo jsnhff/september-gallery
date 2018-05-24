@@ -30,6 +30,9 @@ defaults:
       Link Title One: ''
     images:
     - ''
+    images_with_captions:
+    - image: ''
+      caption: ''
     research_links:
       Link One: ''
     catalog_link:
@@ -52,8 +55,6 @@ defaults:
     images:
     - ''
     images_with_captions:
-    - image: ''
-      caption: ''
     - image: ''
       caption: ''
     research_links:
