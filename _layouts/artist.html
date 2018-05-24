@@ -49,6 +49,13 @@ layout: default
         <!-- Catalog loop --> 
         {% include page_catalog.html %}
     </div>
-    <!-- Images loop -->
-    {% include page_images.html %}
+    <!-- Images loop with added logic to migrate captions -->
+    <!-- TODO Remove this variable and if once all images are moved to the image_with_captions arrays -->
+    {% assign image_length = page.images_with_captions[0].image | size %}
+
+    {% if image_length > 1 %}
+        {% include page_images_caption.html %}
+    {% else %}
+        {% include page_images.html %}
+    {% endif %}
 </div>
