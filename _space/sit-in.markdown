@@ -12,6 +12,8 @@ images:
 - "/uploads/KDodge_04-21-18_D4_0041_sRGB_WebRes_V2.jpg"
 - "/uploads/KDodge_04-21-18_D4_0045_sRGB_WebRes_V2.jpg"
 - "/uploads/KDodge_04-21-18_D4_0029_sRGB_WebRes_V2.jpg"
+images_with_captions:
+- caption: testsetsetst
 research_links:
   Art Savvy: https://oneriverschool.com/blog/2018/04/18/september-gallery-sit-in-organized-by-kristen-dodge/
   WGXC: https://wavefarm.org/archive/07zk7h
