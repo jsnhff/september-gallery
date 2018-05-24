@@ -19,6 +19,19 @@ images:
 - "/uploads/NC114-Am-4-ohr-a-Hires%20copy%202.jpg"
 - "/uploads/NC119-DippedinMoonlight-HiRes%20copy.jpg"
 - "/uploads/NC120-EarthPot%2310-HiRes-1%20copy.jpg"
+images_with_captions:
+- image: "/uploads/CHERUBINI-Verdant%20Empress%201%20copy.jpg"
+  caption: Test caption
+- image: "/uploads/NC107-EarchPot%239,3Fates-Hires%20copy.jpg"
+  caption: 
+- image: "/uploads/NC111-Pot,S.Haze-Hires%20copy.jpg"
+  caption: 
+- image: "/uploads/NC114-Am-4-ohr-a-Hires%20copy%202.jpg"
+  caption: 
+- image: "/uploads/NC119-DippedinMoonlight-HiRes%20copy.jpg"
+  caption: 
+- image: "/uploads/NC120-EarthPot%2310-HiRes-1%20copy.jpg"
+  caption: 
 research_links:
   Artist's Website: http://www.nicolecherubini.com/
   BOMB Interview with Sarah Braman: http://bombmagazine.org/article/10114/nicole-cherubini
