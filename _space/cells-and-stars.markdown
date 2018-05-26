@@ -1,6 +1,6 @@
 ---
 title: Stars and Cells
-date: 2018-05-20 16:49:00 -04:00
+date: 2018-06-02 16:49:00 -04:00
 key_image: "/uploads/Fu_Prism.jpg"
 start_date: 2018-06-02 00:00:00 -04:00
 end_date: 2018-07-15 00:00:00 -04:00
