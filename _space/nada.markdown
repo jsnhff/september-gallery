@@ -1,7 +1,7 @@
 ---
 title: Odessa Straub NADA
 date: 2017-02-17 17:10:00 -05:00
-position: 13
+position: 14
 key_image: "/uploads/IMG_8603.jpg"
 key_image_credit: Odessa Straub, <i>Persistent Poof from Sis Skin Can</i>, 2016, acrylic,
   oil, latex, leather, wool on canvas, 60 x 50 inches
