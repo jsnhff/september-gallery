@@ -1,6 +1,6 @@
 ---
 title: 'Sheila Gallagher: Gone Here'
-date: 2017-10-06 16:02:00 -04:00
+date: 2017-11-04 16:02:00 -04:00
 key_image: "/uploads/unnamed%202.gif"
 start_date: 2017-11-04 00:00:00 -04:00
 end_date: 2017-12-23 00:00:00 -05:00
