@@ -1,7 +1,7 @@
 ---
 title: Witches
 date: 2017-02-17 16:53:00 -05:00
-position: 7
+position: 12
 key_image: "/uploads/RK001-TerrestralMime.jpg"
 key_image_credit: Rosy Keyser, <i>Terrestrial Mime</i>, String, oil, dye, acrylic
   enamel, furnace wick, cord, bamboo, brush, and board, 100 x 80 inches
