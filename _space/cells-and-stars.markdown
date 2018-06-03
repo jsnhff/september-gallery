@@ -3,6 +3,8 @@ title: Stars and Cells
 date: 2018-06-02 16:49:00 -04:00
 position: 0
 key_image: "/uploads/Fu_Prism.jpg"
+key_image_credit: VICTORIA FU- Victoria Fu- Prism 1- 2017- archival inkjet print-
+  32 x 24 inches
 start_date: 2018-06-02 00:00:00 -04:00
 end_date: 2018-07-15 00:00:00 -04:00
 opening_start_time_and_date: 2018-06-02 00:00:00 -04:00
@@ -15,6 +17,11 @@ images_with_captions:
 - image: "/uploads/KDodge_05-30-18_D4_0007_sRGB_WebRes.jpg"
   caption: NICOLE CHERUBINI- future perfect and past participle- 2018- earthenware,
     glaze, MDF, acrylic paint, enamel, magic-sculpt, PC-11- 65 x 20 x 18 inches
+- image: "/uploads/Moyer_Stellarium.jpg"
+  caption: CARRIE MOYER- Stellarium- 2016- acrylic on canvas- 48 x 36 inches
+  Key: 
+- image: "/uploads/KDodge_06-01-18_D4_0058_sRGB_WebRes.jpg"
+  caption: 
   Key: 
 ---
 
