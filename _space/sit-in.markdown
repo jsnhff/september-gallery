@@ -1,5 +1,5 @@
 ---
-title: SIT-IN
+title: Sit-In
 date: 2018-04-07 16:27:00 -04:00
 position: 1
 key_image: "/uploads/20180215-_LC10016.jpg"
@@ -19,8 +19,12 @@ images_with_captions:
 - image: "/uploads/KDodge_04-21-18_D4_0029_sRGB_WebRes_V2.jpg"
   caption: 
 research_links:
+  zingmagazine: http://www.zingmagazine.com/drupal/node/36984
   Art Savvy: https://oneriverschool.com/blog/2018/04/18/september-gallery-sit-in-organized-by-kristen-dodge/
   WGXC: https://wavefarm.org/archive/07zk7h
+  The Rib: http://the-rib.net/project/sit-in-at-september
+  WGXC Richard Roth: https://data.wavefarm.org/20180509174726/20180510_thepassage.mp3
+  imby: https://imby.com/hudson/article/art-and-about-more-or-less-or-both/
 ---
 
 SARAH BRAMAN   JANE BUSTIN  NICOLE CHERUBINI  LIZ COLLINS   FRANCESCA DIMATTIO  DEVON DIKEOU   BARBARA GALLUCCI   KATE GILMORE   MARY HEILMANN   JESSICA JACKSON HUTCHINS  LALEH KHORRAMIAN  HANNAH LEVY  LAUREL SARA GREENBERGER RAFFERTY  NAKADATE  JESSI REAVES  NANCY SHAVER  AGATHE SNOW  KIANJA STROBERT 
