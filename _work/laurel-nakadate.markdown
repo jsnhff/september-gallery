@@ -2,6 +2,13 @@
 title: Laurel Nakadate
 date: 2016-07-19 18:58:00 -04:00
 key_image: "/uploads/L.Nakadate.jpg"
+key_image_credit: |-
+  Laurel Nakadate,
+  Untitled,
+  2016,
+  Color photograph,
+  4 x 6 inches,
+  Edition of open
 is_sometimes: true
 first_letter_of_last_name: n
 exhibition_links:
