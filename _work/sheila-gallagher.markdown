@@ -19,6 +19,44 @@ images:
 - "/uploads/DODGE_Gallery_575980_HR.jpg"
 - "/uploads/Sheila%20Gallagher-Plastic%20Veriditas-2012-melted%20plastic%20mounted%20on%20armature-65x55%20copy.jpg"
 - "/uploads/Banerjee%20copy.jpg"
+images_with_captions:
+- image: "/uploads/Sheila%20Gallagher-Lily%20Poppy%20Flow.jpg"
+  caption: "Lily Poppy Flow,\n2015,\nsingle channel video, hand-drawn and digital
+    animation,\n6 minutes, 58 seconds, \nEdition 1 of 5, with 2"
+- image: "/uploads/Sheila%20Gallagher-Daily%20Calendar%20Mandala-2009-digital%20mandala%20on%20water%20resistant%20satin%20cloth-74%20inch%20diameter.jpg"
+  caption: 
+- image: "/uploads/SG1002-Daily%20Calendar%20Mandala-WEB-detail.jpg"
+  caption: |-
+    Daily Calendar Mandala,
+    2009,
+    archival ink print on paper,
+    34 inch diameter,
+    Edition 4 of 4
+- image: "/uploads/Sheila%20Gallagher-Cow-2013-smoke%20on%20canvas-40x50%20copy.jpg"
+  caption: |-
+    Cow,
+    2013,
+    smoke on canvas,
+    40 x 50 inches
+- image: "/uploads/DODGE_Gallery_575980_HR.jpg"
+  caption: |-
+    Free,
+    2013,
+    live flower installation,
+    dimensions variable
+- image: "/uploads/Sheila%20Gallagher-Plastic%20Veriditas-2012-melted%20plastic%20mounted%20on%20armature-65x55%20copy.jpg"
+  caption: |-
+    Plastic Veriditas,
+    2012,
+    melted plastic mounted on armature,
+    65 x 55 inches
+- image: "/uploads/Banerjee%20copy.jpg"
+  caption: |-
+    Eye/Hand Series: R. Banerjee,
+    2009,
+    graphite on paper, Mutoh print,
+    28 x 21.75 inches,
+    Edition 2 of 3
 research_links:
   Artist's Website: http://www.shegallagher.com/
   Interview, Smoke Painting: https://www.youtube.com/watch?v=CcG7BY6VU08
