@@ -30,7 +30,7 @@ images_with_captions:
   caption: steel locker, purses, backpack, shoehorn, hanger, boxing headgear, machete,
     wire mesh nest, dog toy, terracotta pigeon, lightbulb cage, turtle shells, 36
     x 48 x 61.25 inches
-- image: "/uploads/OS17-BetweenTheMoontheCisternandtheColumn-lores.jpg"
+- image: "/uploads/OS17-BetweenTheMoontheCisternandtheColumn-web-detail.jpg"
   caption: Between The Moon the Cistern and the Column, 2017, acrylic, wool, fur on
     canvas, 48 x 40 inches
 research_links:
