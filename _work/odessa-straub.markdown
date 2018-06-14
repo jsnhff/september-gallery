@@ -35,6 +35,12 @@ images_with_captions:
 - image: "/uploads/OS17-BetweenTheMoontheCisternandtheColumn-web-detail.jpg"
   caption: Between The Moon the Cistern and the Column, 2017, acrylic, wool, fur on
     canvas, 48 x 40 inches
+- image: "/uploads/OS18-BackofNeckWillies-web.jpg"
+  caption: |-
+    Back of Neck Willies
+    2017
+    acrylic, charcoal and latex on canvas
+    44 x 37 inches
 research_links:
   Artist's Website: http://www.odessastraub.com/
 ---
