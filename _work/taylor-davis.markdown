@@ -2,6 +2,12 @@
 title: Taylor Davis
 date: 2016-07-03 18:06:00 -04:00
 key_image: "/uploads/11_04_16_September_08v1-SM.jpg"
+key_image_credit: |-
+  Taylor Davis,
+  MOBILE #4,
+  2016,
+  aircraft grade birch plywood, oil paint, and collaged images,
+  dimensions variable
 is_always: true
 is_sometimes: true
 first_letter_of_last_name: d
