@@ -32,9 +32,19 @@ images_with_captions:
     58 x 25 x 27 inches,
     147 x 63 x 68.6 cm
 - image: "/uploads/NC111-Pot,S.Haze-Hires%20copy.jpg"
-  caption: 
+  caption: |-
+    Pot, S. Haze,
+    2016,
+    earthenware, glaze, decals, pc-11, model magic, acrylic, MDF,
+    69.5 x 28 x 20inches,
+    176.53 x 71.12 x 50.8 cm
 - image: "/uploads/NC114-Am-4-ohr-a-Hires%20copy%202.jpg"
-  caption: 
+  caption: |-
+    Am-4-ohr-a,
+    2008,
+    Digital c-print, enamel, gouche, ink, wax crayon, graphite on watercolor paper, UV plexiglass, and wood frame,
+    25 x 50 x 3.5 inches,
+    63.5 x 127 x 8.9 cm
 - image: "/uploads/NC119-DippedinMoonlight-HiRes%20copy.jpg"
   caption: 
 - image: "/uploads/NC120-EarthPot%2310-HiRes-1%20copy.jpg"
