@@ -22,9 +22,10 @@ images:
 - "/uploads/OS18-BackofNeckWillies-web.jpg"
 images_with_captions:
 - image: "/uploads/OS14-DeadHandSpillingCisternontheSwallowed-Web.jpg"
-  caption: steel locker, purses, backpack, shoehorn, hanger, boxing headgear, machete,
-    wire mesh nest, dog toy, terracotta pigeon, lightbulb cage, turtle shells, 36
-    x 48 x 61.25 inches
+  caption: 'Dead Hand Spilling Cistern on the Swallowed, 2017, Acrylic, dye, enamel,
+    90 x 108 inches
+
+'
 - image: "/uploads/OS28-PosseOrbit-web-3.jpg"
   caption: steel locker, purses, backpack, shoehorn, hanger, boxing headgear, machete,
     wire mesh nest, dog toy, terracotta pigeon, lightbulb cage, turtle shells, 36
