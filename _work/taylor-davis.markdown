@@ -41,9 +41,18 @@ images_with_captions:
     cherry plywood, cherry veneer, and wood,
     35 x 32 x 30 inches
 - image: "/uploads/Taylor%20Davis-this%20pictr-2012-watercolor%20on%20paper-18.375x14.5.jpg"
-  caption: 
+  caption: |-
+    this pictur,
+    2012,
+    watercolor on paper,
+    18.375 x 14.5 inches
 - image: "/uploads/CARD.%20COLOR%20no.%202%20WebRes.jpg"
-  caption: 
+  caption: |-
+    cardinal colors #2,
+    2014,
+    oil on canvas and walnut plywood,
+    28 x 67 x 1inches,
+    71.1 x 170.2 x 2.5cm
 research_links:
   Artist's Website: http://taylordavis.net/
   Aldrich Museum, Art Daily: http://artdaily.com/news/69555/Boston-based-artist-Taylor-Davis-opens-exhibition-at-the-Aldrich-Contemporary-Art-Museum#.V7CcBZMrK8U
