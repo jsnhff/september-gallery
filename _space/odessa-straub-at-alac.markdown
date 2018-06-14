@@ -8,7 +8,7 @@ key_image_credit: " ODESSA STRAUB, Devil Shade Back, 2017, acrylic on panel, 48 
 start_date: 2018-01-25 00:00:00 -05:00
 end_date: 2018-01-28 18:00:00 -05:00
 artist_links:
-  Artist Name One: http://cargocollective.com/odessastraub
+  Artist Website: http://cargocollective.com/odessastraub
   Artists Website: http://cargocollective.com/odessastraub
 research_links:
   Artists Website: http://cargocollective.com/odessastraub
