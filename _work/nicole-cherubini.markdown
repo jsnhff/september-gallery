@@ -2,6 +2,11 @@
 title: Nicole Cherubini
 date: 2016-07-24 10:42:00 -04:00
 key_image: "/uploads/NCherubini%20use.jpg"
+key_image_credit: |-
+  P-Pot #1,
+  2017,
+  Brown earthenware, earthenware, glaze, grog, pc-11, magic sculpt,
+  18 x 22.5 x 53.25 inches
 is_always: true
 is_sometimes: true
 first_letter_of_last_name: c
