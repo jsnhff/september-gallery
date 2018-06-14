@@ -3,7 +3,7 @@ title: Rachel Foullon
 date: 2016-07-19 18:56:00 -04:00
 key_image: "/uploads/FOULLON.jpg"
 key_image_credit: |-
-  Threshold (braid - dishwater),
+  Rachel Foullon, Threshold (braid - dishwater),
   2015,
   Polished nickel platted brass,western red cedar, cotton drawcord, stain, dye, hardware,
   52 x 18 x 5inches,
