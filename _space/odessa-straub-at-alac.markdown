@@ -10,6 +10,8 @@ end_date: 2018-01-28 18:00:00 -05:00
 research_links:
   Artists Website: http://cargocollective.com/odessastraub
   ALAC: https://artlosangelesfair.com/
+  A Women's Thing: https://awomensthing.org/blog/art-age-instagram-odessa-straub/
+  Artspace: https://www.artspace.com/artist/odessa-straub
 ---
 
 ART LOS ANGELES CONTEMPORARY 
