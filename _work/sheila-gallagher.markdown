@@ -22,7 +22,7 @@ images:
 images_with_captions:
 - image: "/uploads/Sheila%20Gallagher-Lily%20Poppy%20Flow.jpg"
   caption: "Lily Poppy Flow,\n2015,\nsingle channel video, hand-drawn and digital
-    animation,\n6 minutes, 58 seconds, \nEdition 1 of 5, with 2"
+    animation,\n6 minutes, 58 seconds, \nEdition 1 of 5"
 - image: "/uploads/Sheila%20Gallagher-Daily%20Calendar%20Mandala-2009-digital%20mandala%20on%20water%20resistant%20satin%20cloth-74%20inch%20diameter.jpg"
   caption: 
 - image: "/uploads/SG1002-Daily%20Calendar%20Mandala-WEB-detail.jpg"
