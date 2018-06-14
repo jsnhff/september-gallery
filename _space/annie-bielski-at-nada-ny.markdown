@@ -6,8 +6,9 @@ key_image: "/uploads/BIELSKI_Loveland_Still-811687.jpg"
 key_image_credit: ANNIE BIELSKI-Loveland-Video still
 start_date: 2018-03-08 12:00:00 -05:00
 end_date: 2018-03-11 18:00:00 -04:00
+artist_links:
+  Artist Name One: http://anniebielski.com
 research_links:
-  Artists Website: http://anniebielski.com
   Artsy: https://www.artsy.net/article/artsy-editorial-nada-helps-young-galleries-hard-times
 ---
 
