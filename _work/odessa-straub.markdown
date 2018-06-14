@@ -20,6 +20,12 @@ images:
 - "/uploads/OS17-BetweenTheMoontheCisternandtheColumn-lores.jpg"
 - "/uploads/OS17-BetweenTheMoontheCisternandtheColumn-web-detail.jpg"
 - "/uploads/OS18-BackofNeckWillies-web.jpg"
+images_with_captions:
+- image: "/uploads/OS14-DeadHandSpillingCisternontheSwallowed-Web.jpg"
+  caption: 'Dead Hand Spilling Cistern on the Swallowed, 2017, Acrylic, dye, enamel,
+    90 x 108 inches
+
+'
 research_links:
   Artist's Website: http://www.odessastraub.com/
 ---
