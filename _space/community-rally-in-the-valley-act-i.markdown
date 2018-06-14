@@ -9,11 +9,10 @@ end_date: 2017-07-22 00:00:00 -04:00
 opening_start_time_and_date: 2017-07-22 17:00:00 -04:00
 opening_end_time_and_date: 2017-07-22 19:00:00 -04:00
 artist_links:
-  Rally in the Valley: Rally in the Valley https://www.rallyinthevalley.org/
+  Rally in the Valley: https://www.rallyinthevalley.org/
   Upper Hudson Planned Parenthood: https://www.plannedparenthood.org/planned-parenthood-upper-hudson
-  'Hudson Hall: at the historic Hudson Opera House': 'Hudson Hall: at the historic
-    Hudson Opera House http://hudsonhall.org/'
-  Instar Lodge: Instar Lodge http://instarlodge.com/
+  'Hudson Hall: at the historic Hudson Opera House': http://hudsonhall.org/
+  Instar Lodge: http://instarlodge.com/
 ---
 
 We are thrilled to announce the ten selected artists whose work was chosen for the limited edition set of postcards created for the exhibit ACT I in conjunction with Rally in the Valley.
