@@ -3,6 +3,7 @@ title: Nicole Cherubini
 date: 2016-07-24 10:42:00 -04:00
 key_image: "/uploads/NCherubini%20use.jpg"
 key_image_credit: |-
+  Nicole Cherubini,
   P-Pot #1,
   2017,
   Brown earthenware, earthenware, glaze, grog, pc-11, magic sculpt,
