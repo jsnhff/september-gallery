@@ -19,9 +19,18 @@ exhibition_links:
   RETROSPECTIVE: http://retrospectivegallery.com/exhibitions/past/Nicole-Cherubini/Exhibition-Images/
 images_with_captions:
 - image: "/uploads/CHERUBINI-Verdant%20Empress%201%20copy.jpg"
-  caption: 
+  caption: |-
+    Verdant Empress,
+    2014,
+    earthenware, glaze, plywood,
+    16 x 12 x 67 inches
 - image: "/uploads/NC107-EarchPot%239,3Fates-Hires%20copy.jpg"
-  caption: 
+  caption: |-
+    Earth Pot #9, 3 Fates,
+    2015,
+    earthenware, glaze, bronze, medium-density fiberboard (MDF),
+    58 x 25 x 27 inches,
+    147 x 63 x 68.6 cm
 - image: "/uploads/NC111-Pot,S.Haze-Hires%20copy.jpg"
   caption: 
 - image: "/uploads/NC114-Am-4-ohr-a-Hires%20copy%202.jpg"
