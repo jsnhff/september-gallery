@@ -37,9 +37,9 @@ images_with_captions:
     canvas, 48 x 40 inches
 - image: "/uploads/OS18-BackofNeckWillies-web.jpg"
   caption: |-
-    Back of Neck Willies
-    2017
-    acrylic, charcoal and latex on canvas
+    Back of Neck Willies,
+    2017,
+    acrylic, charcoal and latex on canvas,
     44 x 37 inches
 research_links:
   Artist's Website: http://www.odessastraub.com/
