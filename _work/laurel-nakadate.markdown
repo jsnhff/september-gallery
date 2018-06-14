@@ -12,6 +12,8 @@ key_image_credit: |-
 is_sometimes: true
 first_letter_of_last_name: n
 exhibition_links:
+  Post-Election: http://septembergallery.com/space/post-election-show.html
+  Sit-In: http://septembergallery.com/space/sit-in.html
   MOMA PS1: http://momaps1.org/exhibitions/view/321
 research_links:
   Artist's Website: http://laurelnakadate.weebly.com/
