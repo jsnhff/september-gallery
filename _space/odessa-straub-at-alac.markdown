@@ -11,6 +11,7 @@ artist_links:
   Artist Name One: http://cargocollective.com/odessastraub
   Artists Website: http://cargocollective.com/odessastraub
 research_links:
+  Artists Website: http://cargocollective.com/odessastraub
   ALAC: https://artlosangelesfair.com/
 ---
 
