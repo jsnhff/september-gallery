@@ -18,6 +18,8 @@ images:
 - "/uploads/MANTILLA-1-WEB-66cfe7.jpg"
 - "/uploads/KDodge_12-03-17_MG_8930_sRGB_WebRes.jpg"
 - "/uploads/Votives%20Image.jpg"
+research_links:
+  Artists Website: http://shegallagher.com
 ---
 
 Artist Talk and Workshop: Saturday, December 2, 4pm at SEPTEMBER
