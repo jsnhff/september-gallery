@@ -46,9 +46,17 @@ images_with_captions:
     25 x 50 x 3.5 inches,
     63.5 x 127 x 8.9 cm
 - image: "/uploads/NC119-DippedinMoonlight-HiRes%20copy.jpg"
-  caption: 
+  caption: |-
+    dipped in moonlight,
+    2017,
+    Earthenware, glaze, grog, pc-11, pine, ronan paint, hardware,
+    23.5  x 39 x 10 inches
 - image: "/uploads/NC120-EarthPot%2310-HiRes-1%20copy.jpg"
-  caption: 
+  caption: |-
+    Earthpot #10,
+    2017,
+    Earthenware, brown earthenware, glaze, grog, pc-11, magic sculpt,!pine, hardware,
+    29 x 29 x 62 inches
 research_links:
   Artist's Website: http://www.nicolecherubini.com/
   BOMB Interview with Sarah Braman: http://bombmagazine.org/article/10114/nicole-cherubini
