@@ -15,6 +15,15 @@ exhibition_links:
   Sit-In: http://septembergallery.com/space/sit-in.html
   Post-Election: http://septembergallery.com/space/post-election-show.html
   MOMA PS1: http://momaps1.org/exhibitions/view/321
+images_with_captions:
+- image: "/uploads/LN_The_Kingdom_11_MR.jpg"
+  caption: |-
+    The Kingdom #11,
+    2018,
+    inkjet print,
+    11 x 8.5 inches,
+    22 x 28 cm,
+    Edition of 8, with 2
 research_links:
   Artist's Website: http://laurelnakadate.weebly.com/
   Post-Election: http://septembergallery.com/space/post-election-show.html
