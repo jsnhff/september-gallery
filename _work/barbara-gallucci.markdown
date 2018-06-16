@@ -23,7 +23,6 @@ images_with_captions:
     119.3 x 81.2 x  111.7 cm
 research_links:
   Artists Website: https://www.barbaragallucci.com/
-  Key: 
 ---
 
 Barbara Gallucci is a New York based sculptor and photographer. She earned her M.F.A. at Yale University in 1987. Her work, ranging in scale from autonomous objects to large-scale installation, examines the intersections between Sculpture, Furniture and Interior Design. 
