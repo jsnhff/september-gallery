@@ -8,6 +8,10 @@ key_image_credit: |-
   glaze, luster on porcelain and stoneware, enamel, acrylic paint and wood,
   64 x 43 x 24 inches,
   162.6 x 109.2 x 61 cm
+is_sometimes: true
+first_letter_of_last_name: d
+exhibition_links:
+  Sit-In: http://septembergallery.com/space/sit-in.html
 research_links:
   NY Times: https://www.nytimes.com/2018/03/06/t-magazine/art/francesca-dimattio-ceramics.html
 ---
