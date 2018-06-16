@@ -12,7 +12,7 @@ is_always: false
 is_sometimes: true
 first_letter_of_last_name: g
 exhibition_links:
-  Key: 
+  Sit-In: http://septembergallery.com/space/sit-in.html
 research_links:
   Artists Website: http://www.kategilmore.com/
   NY Times: https://www.nytimes.com/2010/05/12/arts/design/12gilmore.html?action=click&contentCollection=Art%20%26%20Design&module=RelatedCoverage&region=Marginalia&pgtype=article
