@@ -23,7 +23,23 @@ images_with_captions:
     inkjet print,
     11 x 8.5 inches,
     22 x 28 cm,
-    Edition of 8, with 2
+    Edition of 8
+- image: "/uploads/LN_The_Kingdom_34_MR.jpg"
+  caption: |-
+    The Kingdom #34,
+    2018,
+    inkjet print,
+    11 x 8.5 inches,
+    22 x 28 cm,
+    Edition of 8
+- image: "/uploads/LN_The_Kingdom_5_MR.jpg"
+  caption: |-
+    The Kingdom #5,
+    2018,
+    inkjet print,
+    11 x 8.5 inches,
+    22 x 28 cm,
+    Edition of 8
 research_links:
   Artist's Website: http://laurelnakadate.weebly.com/
   Post-Election: http://septembergallery.com/space/post-election-show.html
