@@ -10,6 +10,7 @@ key_image_credit: |-
 is_sometimes: true
 first_letter_of_last_name: k
 research_links:
+  Artists Website: http://www.lalehkhorramian.com/
   Art21: https://art21.org/watch/new-york-close-up/laleh-khorramians-epic-animations/
   Artsy: https://www.artsy.net/article/editorial-laleh-khorramians-sci-fi-universe-complete-with-a-portal
   Key: 
