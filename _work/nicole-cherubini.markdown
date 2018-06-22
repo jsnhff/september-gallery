@@ -1,15 +1,15 @@
 ---
 title: Nicole Cherubini
 date: 2016-07-24 10:42:00 -04:00
-key_image: "/uploads/NCherubini%20use.jpg"
+key_image: "/uploads/NCherubini_746,932,514.549713826_WebRes_1.jpg"
 key_image_credit: |-
   Nicole Cherubini,
-  P-Pot #1,
-  2017,
-  Brown earthenware, earthenware, glaze, grog, pc-11, magic sculpt,
-  18 x 22.5 x 53.25 inches
+  746,932,514.549713826,
+  2018,
+  earthenware, terracotta, black clay, glaze, underglaze, aluminum, steel bolts, wood, magic-sculpt, PC-11,
+  68 x 21 x 20 inches
 is_always: true
-is_sometimes: true
+is_sometimes: false
 first_letter_of_last_name: c
 exhibition_links:
   OMI: http://artomi.org/page.php?Nicole-Cherubini-239
