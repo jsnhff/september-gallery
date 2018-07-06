@@ -2,6 +2,8 @@
 title: Kianja Strobert
 date: 2018-06-22 17:44:00 -04:00
 key_image: "/uploads/Purple%20Heart.jpg"
+is_sometimes: true
+first_letter_of_last_name: s
 exhibition_links:
   Link Title One: http://septembergallery.com/space/post-election-show.html
   Key: http://septembergallery.com/space/sit-in.html
