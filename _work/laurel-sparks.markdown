@@ -9,6 +9,5 @@ exhibition_links:
 research_links:
   Artist's Website: http://laurelsparks.com/
   Brooklyn Rail: https://brooklynrail.org/2018/03/artseen/LAUREL-SPARKS-Geomantria
-  Key: 
 ---
 
