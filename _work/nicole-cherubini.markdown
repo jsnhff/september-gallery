@@ -12,6 +12,7 @@ is_always: true
 is_sometimes: false
 first_letter_of_last_name: c
 exhibition_links:
+  Stars and Cells: http://septembergallery.com/space/cells-and-stars.html
   OMI: http://artomi.org/page.php?Nicole-Cherubini-239
   Pérez Museum: http://www.pamm.org/exhibitions/project-gallery-nicole-cherubini
   Tang Museum: https://tang.skidmore.edu/collection/27-g-pot-medallion-1
