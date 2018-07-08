@@ -6,11 +6,9 @@ is_sometimes: true
 first_letter_of_last_name: b
 exhibition_links:
   NADA: http://septembergallery.com/space/annie-bielski-at-nada-ny.html
-  Key: 
+  Post-Election: 
 research_links:
   Artist's Website: http://anniebielski.com/
-  NADA: http://septembergallery.com/space/annie-bielski-at-nada-ny.html
-  Post-Election: http://septembergallery.com/space/post-election-performances.html
 ---
 
 Annie Bielski (b. 1990, Ohio) is a painter, writer, performer, and organizer. She has performed her writing in such venues as The Museum of Modern Art, NY, Basilica Hudson, The Half Moon, Hudson, and elsewhere. She has toured as a collaborator and performer in the US and Europe with artist/musician Jenny Hval and filmmaker Zia Anger in the band Jenny Hval. Her paintings have been exhibited in NYC, Chicago, and Mexico City, and have garnered acclaim in Hyperallergic, Artnews, iD Vice (Mexico), and New City (Chicago). Bielski lives and works in Hudson, NY.
