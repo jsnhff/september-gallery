@@ -8,5 +8,7 @@ exhibition_links:
   Witches: http://septembergallery.com/space/witches.html
 research_links:
   Artist's Website: http://laurelsparks.com/
+  Brooklyn Rail: https://brooklynrail.org/2018/03/artseen/LAUREL-SPARKS-Geomantria
+  Key: 
 ---
 
