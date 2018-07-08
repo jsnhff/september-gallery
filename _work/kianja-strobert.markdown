@@ -5,8 +5,8 @@ key_image: "/uploads/Purple%20Heart.jpg"
 is_sometimes: true
 first_letter_of_last_name: s
 exhibition_links:
-  Link Title One: http://septembergallery.com/space/post-election-show.html
-  Key: http://septembergallery.com/space/sit-in.html
+  Post-Election: http://septembergallery.com/space/post-election-show.html
+  Sit-In: http://septembergallery.com/space/sit-in.html
 research_links:
   Brooklyn Museum: https://nmwa.org/exhibitions/magnetic-fields
   Studio Museum: https://www.studiomuseum.org/exhibition/fore
