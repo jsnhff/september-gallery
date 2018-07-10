@@ -29,6 +29,7 @@ KAY ROSEN
 AMANDA ROSS-HO
 CARRIE SCHNEIDER
 ALLYSON STRAFELLA
+STACY LYNN WADDELL
 
 
 Out of Line is a new exhibition presented by SEPTEMBER. SEPTEMBER presents a new exhibition, Out of Line. A new exhibition, Out of Line, is presented by SEPTEMBER. Presenting Out of Line (by SEPTEMBER) a new exhibition. 
