@@ -22,6 +22,7 @@ DANA FRANKFORT
 TAMARA GAYER
 MEG HITCHCOCK
 KATHERINE HUBBARD
+JOYEUX JANSON
 ANNA K.E.
 SUSAN LIPPER
 NYEEMA MORGAN
@@ -38,7 +39,7 @@ The ancient Roman practice of rhetoric began with a simple task: how many ways c
 
 The rules of structure and grammar that we assign to language can be mysterious or willfully ignored. A misspelled paragraph might give an appearance of weakness, of defective or uneducated wielding of language, but also imposes a power over the reader who must discern what is being communicated. A reader struggles at the hands of the writer either in the good faith of seeking understanding, or the stubborn need to achieve comprehension. 
 
-When a word is depicted spatially, it is given new context by material and place. A photograph of a posted sign suggests the intimacy and serendipity of the shared world, a point of contact between the author of the words and the photographer who encountered them.  An artist’s writing on the wall suggests protest and defiance, or prophesy. Broadsides or magazine covers become a template for the artist to subvert, hitching new meaning to different kinds of authority from the historical to the banal. The familiarity of these forms can precede the words themselves, are recognizable and innate without the presence of actual language.  how do we process our relationship to it? How do we read the absence of text: hand-painted, blotted lines in the shape of sentences, typed underscores boring holes through carbon paper, blank space around words? 
+When a word is depicted spatially, it is given new context by material and place. A photograph of a posted sign suggests the intimacy and serendipity of the shared world, a point of contact between the author of the words and the photographer who encountered them.  An artist’s writing on the wall suggests protest and defiance, or prophesy. Broadsides or magazine covers become a template for the artist to subvert, hitching new meaning to different kinds of authority from the historical to the banal. The familiarity of these forms can precede the words themselves, are recognizable and innate without the presence of actual language.  how do we process our relationship to it? How do we read the absence of text: blotted lines in the shape of sentences, typed underscores on carbon paper, blank space around words?
 
 Out of Line is a breakdown, a mutiny of order/s. Here language is re-formed, communication is re-routed, and meaning is re-made.
 
