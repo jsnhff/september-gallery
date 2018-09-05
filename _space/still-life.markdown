@@ -1,6 +1,11 @@
 ---
 title: Still Life
 date: 2018-09-05 11:31:00 -04:00
+key_image: "/uploads/03_big-rock_0476%20small.jpg"
+start_date: 2018-09-08 18:00:00 -04:00
+end_date: 2018-10-28 00:00:00 -04:00
+opening_start_time_and_date: 2018-09-08 18:00:00 -04:00
+opening_end_time_and_date: 2018-09-08 20:00:00 -04:00
 ---
 
 THEODORA ALLEN
@@ -12,9 +17,6 @@ JENNY PERLIN
 NORI PAO
 CARRIE SCHNEIDER
 LETHA WILSON
-
-Opening: Saturday, September 8, 6-8pm
-Exhibition: September 8- October 28, 2018
 
 September is pleased to present a group exhibition entitled Still Life, co-curated with Candice Madey, including works by Theodora Allen, Julia Bland, Jamie Israelow, Anne Lindberg, Kate Newby, Jenny Perlin, Nori Pao, Carrie Schneider, and Letha Wilson.
 
