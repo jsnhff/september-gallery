@@ -6,6 +6,21 @@ start_date: 2018-09-08 18:00:00 -04:00
 end_date: 2018-10-28 00:00:00 -04:00
 opening_start_time_and_date: 2018-09-08 18:00:00 -04:00
 opening_end_time_and_date: 2018-09-08 20:00:00 -04:00
+images_with_captions:
+- image: "/uploads/unnamed-0.jpg"
+  caption: 
+- image: "/uploads/unnamed-2.jpg"
+  caption: 
+- image: "/uploads/unnamed-9.jpg"
+  caption: 
+- image: "/uploads/unnamed-11.jpg"
+  caption: 
+- image: "/uploads/unnamed-12.jpg"
+  caption: 
+- image: "/uploads/unnamed-13.jpg"
+  caption: 
+- image: "/uploads/unnamed-21.jpg"
+  caption: 
 ---
 
 THEODORA ALLEN
