@@ -6,6 +6,10 @@ start_date: 2018-09-08 18:00:00 -04:00
 end_date: 2018-10-28 00:00:00 -04:00
 opening_start_time_and_date: 2018-09-08 18:00:00 -04:00
 opening_end_time_and_date: 2018-09-08 20:00:00 -04:00
+images:
+- "/uploads/unnamed-0-23b979.jpg"
+- "/uploads/unnamed-2-4e092e.jpg"
+- "/uploads/unnamed-13-c7b0c1.jpg"
 images_with_captions:
 - image: "/uploads/unnamed-0.jpg"
   caption: 
