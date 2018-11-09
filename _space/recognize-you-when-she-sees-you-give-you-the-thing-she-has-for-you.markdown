@@ -1,9 +1,8 @@
 ---
 title: Recognize you when she sees you, Give you the thing she has for you
 date: 2018-10-25 14:17:00 -04:00
-key_image: "/uploads/Screen%20Shot%202018-10-25%20at%201.31.23%20PM.png"
-key_image_credit: Tamar Halpern, "Time Rot, 2016, UltraChrome ink, silk, archival
-  binder board
+key_image: "/uploads/Sonia%20Almeida%20book.jpg"
+key_image_credit: Sonia Almeida, "KWY", 2017, mixed media on paper and fabric
 start_date: 2018-11-10 18:00:00 -05:00
 end_date: 2018-12-22 18:00:00 -05:00
 opening_start_time_and_date: 2018-11-10 18:00:00 -05:00
