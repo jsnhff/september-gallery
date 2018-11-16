@@ -15,6 +15,7 @@ images:
 - "/uploads/Straub.1-web.jpg"
 - "/uploads/SEPTEMBER_ALAC%20sculpture.jpg"
 - "/uploads/SEPTEMBER_ALAC18_004.jpg"
+- "/uploads/SEPTEMBER_ALAC18_013.jpg"
 - "/uploads/SEPTEMBER_ALAC18_023.jpg"
 research_links:
   Artists Website: http://cargocollective.com/odessastraub
