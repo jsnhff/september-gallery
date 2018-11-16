@@ -7,6 +7,15 @@ key_image_credit: " ODESSA STRAUB, Devil Shade Back, 2017, acrylic on panel, 48 
   36 inches (122 x 91.5 cm)"
 start_date: 2018-01-25 00:00:00 -05:00
 end_date: 2018-01-28 18:00:00 -05:00
+images:
+- "/uploads/Straub.4.jpg"
+- "/uploads/Straub.5-web.jpg"
+- "/uploads/Straub.3.jpg"
+- "/uploads/Straub.2-web.jpg"
+- "/uploads/Straub.1-web.jpg"
+- "/uploads/SEPTEMBER_ALAC%20sculpture.jpg"
+- "/uploads/SEPTEMBER_ALAC18_004.jpg"
+- "/uploads/SEPTEMBER_ALAC18_023.jpg"
 research_links:
   Artists Website: http://cargocollective.com/odessastraub
   ALAC: https://artlosangelesfair.com/
