@@ -7,6 +7,14 @@ start_date: 2018-11-10 18:00:00 -05:00
 end_date: 2018-12-22 18:00:00 -05:00
 opening_start_time_and_date: 2018-11-10 18:00:00 -05:00
 opening_end_time_and_date: 2018-11-10 20:00:00 -05:00
+images:
+- "/uploads/2018-RecognizeYou-Install-Web-4.jpg"
+- "/uploads/2018-RecognizeYou-Install-Web-7.jpg"
+- "/uploads/2018-RecognizeYou-Install-Web-9.jpg"
+- "/uploads/2018-RecognizeYou-Install-Web-10.jpg"
+- "/uploads/2018-RecognizeYou-Install-Web-16.jpg"
+- "/uploads/2018-RecognizeYou-Install-Web-20.jpg"
+- "/uploads/2018-RecognizeYou-Install-Web-25.jpg"
 ---
 
 SEPTEMBER presents "Recognize you when she sees you, Give you the things she has for you," an exhibition of artists’ books from unique books to limited editions. Artists included are: Sonia Almeida, Polly Apfelbaum, Annie Bielski, Nancy Bowen, Sarah Braman, Dawn Breeze, Ria Brodell, A.K. Burns, Cynthia Daignault and Curran Hatleberg, Patricia Fernández, Lilah Friedland, Kate Gilmore, Joanne Greenbaum, Tamar Halpern, Bibbe Hansen, Jessica Jackson Hutchins, Melinda Keifer, Rosy Keyser, Laleh Khorramian, Rebecca Loyche, Xander Marro, Kate Newby, Incident Report, Emma Ressel, Lil Deb's Oasis, Kay Rosen, Rachelle Reichert, Brie Ruais, Carrie Schneider, Nancy Shaver, Barb Smith, Laurel Sparks, Odessa Straub, Brittany Tucker, Marianne Vitale, Letha Wilson, Carmen Winant, Sun You, and Suzanna Zak.
