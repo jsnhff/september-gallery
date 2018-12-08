@@ -1,5 +1,5 @@
 ---
-title: Recognize you when she sees you, Give you the thing she has for you
+title: Recognize you when she sees you, Give you the things she has for you.
 date: 2018-10-25 14:17:00 -04:00
 key_image: "/uploads/Sonia%20Almeida%20book.jpg"
 key_image_credit: Sonia Almeida, "KWY", 2017, mixed media on paper and fabric
