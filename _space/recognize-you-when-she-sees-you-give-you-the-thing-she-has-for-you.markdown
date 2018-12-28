@@ -5,7 +5,7 @@ position: 0
 key_image: "/uploads/Sonia%20Almeida%20book.jpg"
 key_image_credit: Sonia Almeida, "KWY", 2017, mixed media on paper and fabric
 start_date: 2018-11-10 18:00:00 -05:00
-end_date: 2018-12-22 18:00:00 -05:00
+end_date: 2019-02-03 18:00:00 -05:00
 opening_start_time_and_date: 2018-11-10 18:00:00 -05:00
 opening_end_time_and_date: 2018-11-10 20:00:00 -05:00
 images:
