@@ -1,7 +1,7 @@
 ---
 title: Cal Lane
 date: 2016-08-19 16:40:00 -04:00
-position: 16
+position: 19
 key_image: "/uploads/Cal%20Lane%20panty%20tank-sm.jpg"
 start_date: 2016-09-16 00:00:00 -04:00
 end_date: 2016-09-18 00:00:00 -04:00

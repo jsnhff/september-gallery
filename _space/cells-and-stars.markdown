@@ -1,7 +1,7 @@
 ---
 title: Stars and Cells
 date: 2018-06-02 16:49:00 -04:00
-position: 0
+position: 3
 key_image: "/uploads/Fu_Prism.jpg"
 key_image_credit: VICTORIA FU- Victoria Fu- Prism 1- 2017- archival inkjet print-
   32 x 24 inches
