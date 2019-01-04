@@ -63,6 +63,7 @@ defaults:
       Catalog: ''
 gallery_hours: |-
   January 2019: Saturday and by appointment.
+
   Otherwise: Thursday-Sunday 12-6pm and by appointment.
 is_closed: 
 why_youre_closed: Closed for installation.
