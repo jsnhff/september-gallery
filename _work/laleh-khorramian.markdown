@@ -1,7 +1,7 @@
 ---
 title: Laleh Khorramian
 date: 2018-06-16 17:24:00 -04:00
-key_image: "/uploads/untitled-14Laleh%20Drawings7.jpg"
+key_image: "/uploads/untitled-14Laleh%20Drawings7%20web.jpg"
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: k
