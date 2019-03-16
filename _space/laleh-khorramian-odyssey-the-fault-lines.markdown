@@ -1,6 +1,5 @@
 ---
-title: "Laleh Khorramian:                                     \nOdyssey, The Fault
-  Lines"
+title: 'Laleh Khorramian: Unearth'
 date: 2019-02-15 15:54:00 -05:00
 key_image: "/uploads/odyssey%20449-105.jpg"
 start_date: 2019-04-13 18:00:00 -04:00
