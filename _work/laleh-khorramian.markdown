@@ -1,12 +1,7 @@
 ---
 title: Laleh Khorramian
 date: 2018-06-16 17:24:00 -04:00
-key_image: "/uploads/Wonder%20Woman.jpg"
-key_image_credit: |-
-  For the fans (of Bauch Bein Po),
-  2017,
-  fabric, ribbon, pacifier,
-  variable
+key_image: "/uploads/untitled-14Laleh%20Drawings7.jpg"
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: k
