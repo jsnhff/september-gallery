@@ -14,7 +14,7 @@ research_links:
   The Creative Independent: https://thecreativeindependent.com/people/visual-artist-laleh-khorramian-on-knowing-when-to-take-a-break/
 images_with_captions:
 - image: "/uploads/Stephen%20O_Malley_s%20Un%20Vide%20Dans%20Le%20Ciel%20-%20performed%20by%20The%20Orchestra%20Now_0300%20web.jpg"
-  caption: Installation at Basilica SoundScape 2018
+  caption: Laleh Khorramian, installation at Basilica SoundScape 2018
 - image: "/uploads/05%20Khorramian_Gaurdian%20Pink_66%22x54%22_ink,%20oil,%20paper%20on%20polypropelene_2016%20%20web.jpg"
   caption: Laleh Khorramian, Guardian Pink, 2016, ink, oil, paper on polypropelene,
     66 x 54 inches
