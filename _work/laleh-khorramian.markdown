@@ -15,7 +15,7 @@ research_links:
 images_with_captions:
 - image: "/uploads/Stephen%20O_Malley_s%20Un%20Vide%20Dans%20Le%20Ciel%20-%20performed%20by%20The%20Orchestra%20Now_0300%20web.jpg"
   caption: Installation at Basilica SoundScape 2018
-- image: "/uploads/05%20Khorramian_Guardian%20Pink_66%22x54%22_ink,%20oil,%20paper%20on%20polypropelene_2016%20%20web.jpg"
+- image: "/uploads/05%20Khorramian_Gaurdian%20Pink_66%22x54%22_ink,%20oil,%20paper%20on%20polypropelene_2016%20%20web.jpg"
   caption: Laleh Khorramian, Guardian Pink, 2016, ink, oil, paper on polypropelene,
     66 x 54 inches
 - image: "/uploads/L.Khorramian_GEDI%20Triptych_Oil%20on%20polypropylene,%20colored%20gels,%20LEDs,%20poplar,%20wax%20stain%203%20panels%20each%2014%20x%2077%20x%204%20inches%202017%20web-13629b.jpg"
