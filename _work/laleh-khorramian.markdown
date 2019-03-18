@@ -6,16 +6,19 @@ key_image_credit: Laleh Khorramian, Peaks 7, 2019, ink on paper, 12.5 x 12.5 inc
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: k
+images_with_captions:
+- image: "/uploads/L.Khorramian_GEDI%20Triptych_Oil%20on%20polypropylene,%20colored%20gels,%20LEDs,%20poplar,%20wax%20stain%203%20panels%20each%2014%20x%2077%20x%204%20inches%202017%20web-13629b.jpg"
+  caption: Laleh Khorramian, GEDI Triptych, 2017, oil on polypropylene, colored gels,
+    LEDs, poplar, wax stain, 3 panels each 14 x 77 x 4 inches
+- image: "/uploads/05%20Khorramian_Guardian%20Pink_66%22x54%22_ink,%20oil,%20paper%20on%20polypropelene_2016%20%20web.jpg"
+  caption: Laleh Khorramian, Guardian Pink, 2016, ink, oil, paper on polypropelene,
+    66 x 54 inches
 research_links:
   Artists Website: http://www.lalehkhorramian.com/
   Art21: https://art21.org/watch/new-york-close-up/laleh-khorramians-epic-animations/
   Artsy: https://www.artsy.net/article/editorial-laleh-khorramians-sci-fi-universe-complete-with-a-portal
   ArtSlant: https://www.artslant.com/ny/articles/show/29580-binterview-with-laleh-khorramianb
   The Creative Independent: https://thecreativeindependent.com/people/visual-artist-laleh-khorramian-on-knowing-when-to-take-a-break/
-  Synecdoche: https://static1.squarespace.com/static/52e1ee1ee4b08f2c8ab7cd44/t/5ba8ff97e5e5f04d185ba747/1537802140555/PROFILE+LALEH+KHORRAMIAN.pdf
-  Open Waters: https://static1.squarespace.com/static/52e1ee1ee4b08f2c8ab7cd44/t/5ba8fe06c830250c0ff122fd/1537801735915/Open+Waters+-+Murtaza+Vali.pdf
-  Saturn's Necklace: https://static1.squarespace.com/static/52e1ee1ee4b08f2c8ab7cd44/t/5ba8fea2ec212d77001c5d4c/1537801890973/Saturns+Necklace+-+Margarida+Mendes.pdf
-  Bartleby & Co.: http://www.bartlebyand.co/publication/include-amplified-toilet-water/
 ---
 
 Born in Tehran, Iran, Khorramian lives and works in upstate New York. She studied at the Rhode Island School of Design and received her undergraduate degree at The School of The Art Institute of Chicago, and her MFA at Columbia University, New York. Khorramian has exhibited internationally, including shows in MASS MOCA, U.S.A; Victoria and Albert Museum, London; Art Basel Statements, Switzerland; Ballroom Marfa, Texas; Istanbul Museum of Art, Istanbul; The Sundance Film festival; The Midnight Moment in Times Sq and The Queensland Art Gallery, Australia. In 2013, she published her first limited edition artist book Include Amplified Toilet Water with publisher Bartleby and Co, Brussels.
