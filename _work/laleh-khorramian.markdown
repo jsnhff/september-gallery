@@ -10,7 +10,8 @@ research_links:
   Artists Website: http://www.lalehkhorramian.com/
   Art21: https://art21.org/watch/new-york-close-up/laleh-khorramians-epic-animations/
   Artsy: https://www.artsy.net/article/editorial-laleh-khorramians-sci-fi-universe-complete-with-a-portal
-  Key: 
+  ArtSlant: https://www.artslant.com/ny/articles/show/29580-binterview-with-laleh-khorramianb
+  The Creative Independent: https://thecreativeindependent.com/people/visual-artist-laleh-khorramian-on-knowing-when-to-take-a-break/
 ---
 
 Born in Tehran, Iran, Khorramian lives and works in upstate New York. She studied at the Rhode Island School of Design and received her undergraduate degree at The School of The Art Institute of Chicago, and her MFA at Columbia University, New York. Khorramian has exhibited internationally, including shows in MASS MOCA, U.S.A; Victoria and Albert Museum, London; Art Basel Statements, Switzerland; Ballroom Marfa, Texas; Istanbul Museum of Art, Istanbul; The Sundance Film festival; The Midnight Moment in Times Sq and The Queensland Art Gallery, Australia. In 2013, she published her first limited edition artist book Include Amplified Toilet Water with publisher Bartleby and Co, Brussels.
