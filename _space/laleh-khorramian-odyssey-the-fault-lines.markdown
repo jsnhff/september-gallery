@@ -10,7 +10,7 @@ artist_links:
   Laleh Khorramian: http://www.lalehkhorramian.com/
 ---
 
-SEPTEMBER is pleased to present Laleh Khorramian: *Unearth*, a solo exhibition of new work spanning two locations in Hudson, NY: September Gallery and Elizabeth Moore Fine Art. A commissioned essay by Media Farzin accompanies the exhibition. 
+We are pleased to present Laleh Khorramian: *Unearth*, a solo exhibition of new work spanning two locations in Hudson, NY: September Gallery and Elizabeth Moore Fine Art. A commissioned essay by Media Farzin accompanies the exhibition. 
 
 Khorramian is an Iranian-American artist, born in Tehran, and raised in Orlando, FL, the epicenter of America’s synthetic world of storytelling. Her work merges painting, printmaking, collage, animation, textile, drawing, and installation to tell the story of an alternate universe that has been conjured and revealed via the course of Khorramian’s own exhibition history. Her current revelation of the fictional and futuristic civilization of Golis (a microbic landing point in the cosmos) exists in two locations. Khorramian invites the viewer to physically navigate the respective sensorial installations, to travel on foot from one location to the other, and to exercise memory to inhabit the space in between. 
 
