@@ -1,7 +1,7 @@
 ---
 title: 'Laleh Khorramian: Unearth'
 date: 2019-02-15 15:54:00 -05:00
-key_image: "/uploads/odyssey%20449-105.jpg"
+key_image: "/uploads/odyssey%20postcard%20A%20sm.jpg"
 start_date: 2019-04-13 18:00:00 -04:00
 end_date: 2019-05-26 18:00:00 -04:00
 opening_start_time_and_date: 2019-04-13 18:00:00 -04:00
@@ -19,3 +19,7 @@ At SEPTEMBER, Khorramian has built a large-scale skeleton of a structure that on
 At Elizabeth Moore Fine Art, the viewer enters into a domestic setting thickly installed with a forest of kimonos suspended at human height: a crowd of ghost figures gently swaying as passing visitors shift the air in the room. In her essay, Farzin writes, “The textiles’ printed and painted designs are distinctly space-age, resembling planetary constellations, secret codes, or blueprints for mechanical assemblages.” In Khorramian’s universe, the kimonos are ceremonial uniforms worn by the inhabitants of the Rola people that reflect their role in society. Are the uniforms bearing messages to be received in the future, which is potentially now? To the right is a den with a brick fireplace lit by the glow of Khorramian’s video, Correspondence, a poetic, typed communication between universes. Down the hall, past the stairway, a grid of drawings penned in colorful ink fill the eye. Are these calligraphic landscapes transmissions of the imagination, or are they evocations of unnamed places that may have existed?
 
 Khorramian is inviting us to enter her imaginative, alternate universe, to sort through the artifacts and experience the unknown. Taking the exhibition as a whole, we find orchestrated fragmentation: traces, remnants and afterimages, successive sheets of overlay that coalesce into a world as strange as it is eerily familiar. Khorramian is unearthing our subconscious, journeying us through a realm that is, perhaps generously, not of this earth. 
+
+Born in Tehran, Iran, Laleh Khorramian lives and works in upstate New York. She studied at the Rhode Island School of Design, received her undergraduate degree at The School of The Art Institute of Chicago, and her MFA at Columbia University. She has exhibited internationally in a wide variety of media, including solo shows in New York, Vienna, and Dubai, and group shows at the Guggenheim Abu Dhabi, Art Basel Statements, MASS MoCA, and Ballroom Marfa. Her work has been selected for the 2010 SITE Santa Fe Biennial, the 2010 Sundance Film Festival, and the 2005 edition of MoMA PS1's Greater New York Quinquennial.
+
+Image: Natives (detail), 2019, ink on polypropylene, 26 x 42 inches
