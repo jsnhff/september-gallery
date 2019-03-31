@@ -8,7 +8,7 @@ key_image_credit: 'Odessa Straub, Slipping Soup, 2017, acrylic, tempera, latex o
 '
 is_always: true
 is_sometimes: false
-first_letter_of_last_name: s
+first_letter_of_last_name: a
 images:
 - "/uploads/OS14-DeadHandSpillingCisternontheSwallowed-Web.jpg"
 - "/uploads/OS28-PosseOrbit-web-3.jpg"
