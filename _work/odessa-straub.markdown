@@ -2,8 +2,8 @@
 title: Odessa Straub
 date: 2016-07-19 19:03:00 -04:00
 key_image: "/uploads/Odessa-Shroud%20Reveals%20to%20Void%20Vase.jpg"
-key_image_credit: 'Odessa Straub, Slipping Soup, 2017, acrylic, tempera, latex on
-  panel, 58 x 64 inches
+key_image_credit: 'Odessa Straub, Shroud reveals to Void Vase, 2017, acrylic, dye,
+  felt, leather, 70 x 84 inches
 
 '
 is_always: true
