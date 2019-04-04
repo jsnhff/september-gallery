@@ -1,10 +1,14 @@
 ---
 title: Kate Newby
 date: 2019-04-04 16:12:00 -04:00
+key_image: "/uploads/IMG_5873.jpg"
 is_sometimes: true
 first_letter_of_last_name: n
 exhibition_links:
   Still Life: http://septembergallery.com/space/still-life.html
+images:
+- "/uploads/KN1002-YouMightFeel-Install-WebRes-2.jpg"
+- "/uploads/newby%20roof%20rear.jpg"
 research_links:
   Artist's Website: http://www.katenewby.com/
   Frieze: https://frieze.com/article/focus-kate-newby
