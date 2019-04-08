@@ -7,8 +7,21 @@ first_letter_of_last_name: b
 exhibition_links:
   NADA: http://septembergallery.com/space/annie-bielski-at-nada-ny.html
   Post-Election: 
+images_with_captions:
+- image: "/uploads/KDodge_ABielski_03-03-18_53_8292_sRGB_WebRes_670.jpg"
+  caption: "Annie Bielski, Sway Bar Blues (after Bernadette), 2017, acrylic, wax,
+    graphite, cotton thread, canvas, 65 x 60 inches\n\n"
+- image: "/uploads/clearance%20shirt%20green.JPG"
+  caption: 'Annie Bielski, CLEARANCE cargo shirt #6, August 18, 2018'
+- image: "/uploads/KDodge_ABielski_03-03-18_53_8314_sRGB_WebRes_670.jpg"
+  caption: Annie Bielski, Ice cream licker (after Nancy), 2018, metal brochure rack,
+    silk, extension cord, cotton thread, acrylic, canvas, 54.5 x 18 x 14 inches
+- image: "/uploads/KDodge_ABielski_03-03-18_53_8328_sRGB_WebRes_670.jpg"
+  caption: Annie Bielski, Hot Spring,  2017, acrylic, graphite, latex on Arches cold
+    pressed paper, 12 x 16 inches
 research_links:
   Artist's Website: http://anniebielski.com/
+  CLEARANCE: https://everythingmustgo.biz/
 ---
 
-ANNIE BIELSKI (b. 1990) is an artist, writer, and performer. Bielski’s paintings, sculpture, and video have been exhibited at NADA (New York), Burning in Water (NYC), Paris London Hong Kong (Chicago), High Tide (Philadelphia), Motel (Brooklyn), Lodos Gallery (Mexico City), The Portland Institute of Contemporary Art (Portland), and Jeffrey Stark (NYC, forthcoming),  among other places.Bielski has performed at SEPTEMBER, Basilica Hudson, The Spotty Dog, The Museum of Modern Art, Coustof Waxman, Allen & Eldridge NYC, Rachel Uffner Gallery, CANADA, and elsewhere. She has collaborated with musician Jenny Hval and performed across the US and Europe. Her work and performances have been covered by Art News, Hyperallergic, MTV, The New York Times, among others. She received a BFA with an emphasis in Painting and Drawing from The School of the Art Institute of Chicago. She is an MFA candidate at University at Buffalo (SUNY) where she also teaches. Bielski lives and works in Hudson, NY and Buffalo, NY. 
+ANNIE BIELSKI (b. 1990) is an artist, writer, and performer. Bielski’s paintings, sculpture, and video have been exhibited at NADA (New York), Burning in Water (NYC), Paris London Hong Kong (Chicago), High Tide (Philadelphia), Motel (Brooklyn), Lodos Gallery (Mexico City), The Portland Institute of Contemporary Art (Portland), and Jeffrey Stark (NYC, forthcoming),  among other places. Bielski has performed at SEPTEMBER, Basilica Hudson, The Spotty Dog, The Museum of Modern Art, Coustof Waxman, Allen & Eldridge NYC, Rachel Uffner Gallery, CANADA, and elsewhere. She has collaborated with musician Jenny Hval and performed across the US and Europe. Her work and performances have been covered by Art News, Hyperallergic, MTV, The New York Times, among others. She received a BFA with an emphasis in Painting and Drawing from The School of the Art Institute of Chicago. She is an MFA candidate at University at Buffalo (SUNY) where she also teaches. Bielski lives and works in Hudson, NY and Buffalo, NY. 
