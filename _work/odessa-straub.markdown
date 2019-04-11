@@ -37,7 +37,6 @@ images_with_captions:
     acrylic, charcoal and latex on canvas,
     44 x 37 inches
 research_links:
-  Artist's Website: http://www.odessastraub.com/
   New Puss Technolgies: http://septembergallery.com/space/real-puss-technologies.html
   NADA, NY: https://574b47f47eb98c7c7067b67c.preview.siteleaf.com/space/nada.html
   Post-Election: http://septembergallery.com/space/post-election-show.html
