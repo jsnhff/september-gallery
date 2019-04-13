@@ -62,7 +62,7 @@ defaults:
     catalog_link:
       Catalog: ''
 gallery_hours: 'Gallery Hours: Thursday-Sunday 12-6pm and by appointment.'
-is_closed: 
+is_closed: false
 why_youre_closed: Closed for installation.
 email: kristen@septembergallery.com
 description: |-
