@@ -61,10 +61,7 @@ defaults:
       Link One: ''
     catalog_link:
       Catalog: ''
-gallery_hours: |-
-  The gallery will be closed for the winter and re-opening on Saturday, April 13, 2019.
-
-  Regular Hours: Thursday-Sunday 12-6pm and by appointment.
+gallery_hours: 'Gallery Hours: Thursday-Sunday 12-6pm and by appointment.'
 is_closed: 
 why_youre_closed: Closed for installation.
 email: kristen@septembergallery.com
