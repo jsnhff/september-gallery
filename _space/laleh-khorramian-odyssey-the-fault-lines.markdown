@@ -8,6 +8,16 @@ opening_start_time_and_date: 2019-04-13 18:00:00 -04:00
 opening_end_time_and_date: 2019-04-13 20:00:00 -04:00
 artist_links:
   Laleh Khorramian: http://www.lalehkhorramian.com/
+images:
+- "/uploads/LKhorramian_04-27-19_D4_1503_sRGB_WebRes.jpg"
+- "/uploads/LKhorramian_04-27-19_D4_1504_sRGB_WebRes.jpg"
+- "/uploads/LKhorramian_04-27-19_D4_1497_sRGB_WebRes.jpg"
+- "/uploads/LKhorramian_04-27-19_D4_1515_sRGB_WebRes.jpg"
+- "/uploads/LKhorramian_04-27-19_D4_1521_sRGB_WebRes.jpg"
+- "/uploads/LKhorramian_04-27-19_D4_1528_sRGB_WebRes.jpg"
+- "/uploads/LKhorramian_04-27-19_D4_1540_sRGB_WebRes.jpg"
+- "/uploads/LKhorramian_04-27-19_D4_1560_sRGB_WebRes.jpg"
+- "/uploads/LKhorramian_04-27-19_D4_1559_sRGB_WebRes.jpg"
 ---
 
 We are pleased to present Laleh Khorramian: Unearth, a solo exhibition of new work spanning two locations in Hudson, NY: SEPTEMBER, 449 Warren Street, and Elizabeth Moore Fine Art, 105 Warren Street. A commissioned essay by Media Farzin accompanies the exhibition. This is Khorramian's first solo show with SEPTEMBER, and marks her representation with the gallery.
