@@ -5,7 +5,7 @@ key_image: "/uploads/LK%20unearth%20SEPT%20install%20WebRes-15.jpg"
 key_image_credit: Laleh Khorramian, Unearth Installation View, SEPTEMBER
 is_always: true
 is_sometimes: false
-first_letter_of_last_name: b
+first_letter_of_last_name: a
 images_with_captions:
 - image: "/uploads/Stephen%20O_Malley_s%20Un%20Vide%20Dans%20Le%20Ciel%20-%20performed%20by%20The%20Orchestra%20Now_0300%20web.jpg"
   caption: Laleh Khorramian, installation at Basilica SoundScape 2018
