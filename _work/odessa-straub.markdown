@@ -1,11 +1,9 @@
 ---
 title: Odessa Straub
 date: 2016-07-19 19:03:00 -04:00
-key_image: "/uploads/Odessa-Shroud%20Reveals%20to%20Void%20Vase.jpg"
-key_image_credit: 'Odessa Straub, Shroud reveals to Void Vase, 2017, acrylic, dye,
-  felt, leather, 70 x 84 inches
-
-'
+key_image: "/uploads/OS58-FLoweroftheMissingKnife-WebRes.jpg"
+key_image_credit: Odessa Straub, Flower of the missing knife, 2017, acrylic, hair
+  calf, patent leather on panel, 48 x 36 inches
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: a
