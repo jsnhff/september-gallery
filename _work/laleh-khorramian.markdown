@@ -1,8 +1,8 @@
 ---
 title: Laleh Khorramian
 date: 2018-06-16 17:24:00 -04:00
-key_image: "/uploads/untitled-14Laleh%20Drawings7%20web.jpg"
-key_image_credit: Laleh Khorramian, Peaks 7, 2019, ink on paper, 12.5 x 12.5 inches
+key_image: "/uploads/LK%20unearth%20SEPT%20install%20WebRes-15.jpg"
+key_image_credit: Laleh Khorramian, Unearth Installation View, SEPTEMBER
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: b
