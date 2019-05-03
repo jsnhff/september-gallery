@@ -6,6 +6,8 @@ key_image_credit: Laleh Khorramian, Unearth, Installation View, SEPTEMBER
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: a
+exhibition_links:
+  Unearth: http://septembergallery.com/space/laleh-khorramian-odyssey-the-fault-lines.html
 images_with_captions:
 - image: "/uploads/LK%20unearth%20SEPT%20install%20WebRes-36.jpg"
   caption: Laleh Khorramian, Unearth, Installation View, SEPTEMBER
