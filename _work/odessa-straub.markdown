@@ -12,7 +12,6 @@ exhibition_links:
   NADA, NY: https://574b47f47eb98c7c7067b67c.preview.siteleaf.com/space/nada.html
   Post-Election: http://septembergallery.com/space/post-election-show.html
   Blue Jean Baby: http://septembergallery.com/space/blue-jean-baby.html
-  Key: 
 images:
 - "/uploads/OS14-DeadHandSpillingCisternontheSwallowed-Web.jpg"
 - "/uploads/OS28-PosseOrbit-web-3.jpg"
