@@ -6,7 +6,7 @@ key_image_credit: Odessa Straub, Flower of the missing knife, 2017, acrylic, hai
   calf, patent leather on panel, 48 x 36 inches
 is_always: true
 is_sometimes: false
-first_letter_of_last_name: a
+first_letter_of_last_name: b
 exhibition_links:
   New Puss Technolgies: http://septembergallery.com/space/real-puss-technologies.html
   NADA, NY: https://574b47f47eb98c7c7067b67c.preview.siteleaf.com/space/nada.html
