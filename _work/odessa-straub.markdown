@@ -11,6 +11,10 @@ is_sometimes: false
 first_letter_of_last_name: a
 exhibition_links:
   New Puss Technolgies: http://septembergallery.com/space/real-puss-technologies.html
+  NADA, NY: https://574b47f47eb98c7c7067b67c.preview.siteleaf.com/space/nada.html
+  Post-Election: http://septembergallery.com/space/post-election-show.html
+  Blue Jean Baby: http://septembergallery.com/space/blue-jean-baby.html
+  Key: 
 images:
 - "/uploads/OS14-DeadHandSpillingCisternontheSwallowed-Web.jpg"
 - "/uploads/OS28-PosseOrbit-web-3.jpg"
@@ -39,11 +43,9 @@ images_with_captions:
     acrylic, charcoal and latex on canvas,
     44 x 37 inches
 research_links:
-  test: 
-  NADA, NY: https://574b47f47eb98c7c7067b67c.preview.siteleaf.com/space/nada.html
-  Post-Election: http://septembergallery.com/space/post-election-show.html
-  Blue Jean Baby: http://septembergallery.com/space/blue-jean-baby.html
+  A Woman's Thing: https://awomensthing.org/blog/art-age-instagram-odessa-straub/
   BURNAWAY: https://burnaway.org/inflatable-dolls-womens-history-museum-at-springsteen-gallery/
+  Innen: http://www.innenzines.com/index.php?/odessa-straub/
 ---
 
 Odessa Straub (b. 1989, Brooklyn, NY) graduated with a BFA from The Cooper Union (2013). Odessa’s solo exhibitions include, Tennis Elbow, The Journal Gallery, Brooklyn, NY (2017); Real Puss Technologies, SEPTEMBER, Hudson, NY (2017); Tears in Housebreaking Letting the Gold, Acappella, Napoli, Italy (2016); Necrotizing Woos, Jeffrey Stark, New York, NY (2016); Seasonings on Precipice Perception, Mier Gallery, Los Angeles, CA (2015); Odessa Straub, NADA, NY (2017). Two-person exhibitions include, Viewing Room: Agathe Snow and Odessa Straub, Marlborough Contemporary, Chelsea, NY (2017). Recent group exhibitions include, That’s The Neighbor, Always Dressing These Boulders In The Yard, The Suzanne Geiss Company, New York, NY (2014); Present Conditional, Mier, Los Angeles, CA (2015); Perfect Present: Three Generations of Painting, Jeffrey Stark, New York, NY (2015); Fresh Cuts, Eric Firestone, Hamptons, NY (2016); Blue Jean Baby, SEPTEMBER, Hudson, NY (2016); Summerfest, Max Hetzler, Berlin, Germany (2017); Inman Gallery, Houston, Texas (2018); LA KAJAE, Brooklyn, New York (2018). Odessa Straub lives and works in Brooklyn, NY.
