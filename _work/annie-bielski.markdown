@@ -26,6 +26,10 @@ research_links:
   MTV: http://www.mtv.com/news/2939074/jenny-hval-blood-bitch-live/
   Hyperallergic: https://hyperallergic.com/286351/bushwick-gets-lit-with-a-show-of-sculptural-lamps/
   ARTnews: http://www.artnews.com/tag/annie-bielski/
+  The Creative Independent: https://thecreativeindependent.com/people/how-to-organize-and-host-a-small-budget-event/
+  The Collaborative: https://collaborativemagazine.org/2019/04/22/inside-the-performance-annie-bielski-and-zia-anger/
+  The Spectrum: https://www.ubspectrum.com/article/2019/05/fabrics-artifacts-and-nostalgia
+  BICA: https://www.thebica.org/bica-blog/2019/4/21/review-annie-bielski-at-buffalo-arts-studio
 ---
 
 Annie Bielski (b. 1990) is an artist, writer, and performer. Bielski’s paintings, sculpture, and video have been exhibited at NADA (New York), Burning in Water (NYC), Paris London Hong Kong (Chicago), High Tide (Philadelphia), Motel (Brooklyn), Lodos Gallery (Mexico City), The Portland Institute of Contemporary Art (Portland), and Jeffrey Stark (NYC, forthcoming),  among other places. Bielski has performed at SEPTEMBER, Basilica Hudson, The Spotty Dog, The Museum of Modern Art, Coustof Waxman, Allen & Eldridge NYC, Rachel Uffner Gallery, CANADA, and elsewhere. She has collaborated with musician Jenny Hval and performed across the US and Europe. Her work and performances have been covered by Art News, Hyperallergic, MTV, The New York Times, among others. She received a BFA with an emphasis in Painting and Drawing from The School of the Art Institute of Chicago. She is an MFA candidate at University at Buffalo (SUNY) where she also teaches. Bielski lives and works in Hudson, NY and Buffalo, NY. 
