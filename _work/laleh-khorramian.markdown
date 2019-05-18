@@ -30,6 +30,7 @@ research_links:
   Saturn's Neckless: https://static1.squarespace.com/static/52e1ee1ee4b08f2c8ab7cd44/t/5ba8fea2ec212d77001c5d4c/1537801890973/Saturns+Necklace+-+Margarida+Mendes.pdf
   Open Waters: https://static1.squarespace.com/static/52e1ee1ee4b08f2c8ab7cd44/t/5ba8fe06c830250c0ff122fd/1537801735915/Open+Waters+-+Murtaza+Vali.pdf
   Synecdoche: https://static1.squarespace.com/static/52e1ee1ee4b08f2c8ab7cd44/t/5ba8ff97e5e5f04d185ba747/1537802140555/PROFILE+LALEH+KHORRAMIAN.pdf
+  Hyperallergic: https://hyperallergic.com/500826/a-universe-of-mazes-and-meta-pictures/
 ---
 
 Born in Tehran, Iran, Khorramian lives and works in upstate New York. She studied at the Rhode Island School of Design and received her undergraduate degree at The School of The Art Institute of Chicago, and her MFA at Columbia University, New York. Khorramian has exhibited internationally, including shows in MASS MOCA, U.S.A; Victoria and Albert Museum, London; Art Basel Statements, Switzerland; Ballroom Marfa, Texas; Istanbul Museum of Art, Istanbul; The Sundance Film festival; The Midnight Moment in Times Sq and The Queensland Art Gallery, Australia. In 2013, she published her first limited edition artist book Include Amplified Toilet Water with publisher Bartleby and Co, Brussels.
