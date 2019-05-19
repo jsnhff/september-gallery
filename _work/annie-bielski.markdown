@@ -19,6 +19,8 @@ images_with_captions:
 - image: "/uploads/KDodge_ABielski_03-03-18_53_8328_sRGB_WebRes_670.jpg"
   caption: Annie Bielski, Hot Spring,  2017, acrylic, graphite, latex on Arches cold
     pressed paper, 12 x 16 inches
+- image: "/uploads/BIELSKI-County%20Waste.jpg"
+  caption: 
 research_links:
   Artist's Website: http://anniebielski.com/
   CLEARANCE: https://everythingmustgo.biz/
