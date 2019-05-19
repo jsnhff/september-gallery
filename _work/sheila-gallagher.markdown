@@ -1,7 +1,7 @@
 ---
 title: Sheila Gallagher
 date: 2016-07-24 11:09:00 -04:00
-key_image: "/uploads/Sheila%20Gallagher-Pneuma%20Hostis-2013-gold%20leaf%20and%20cigarette%20butts-20%20inch%20diameter.jpg"
+key_image: "/uploads/SH%20Under%20the%20Influence%20Figure%20Eight%206x4.jpg"
 key_image_credit: Sheila Gallagher, Pneuma Hostis (Halo), 2013, gold leaf and cigarette
   butts, 20 inch diameter
 is_always: true
