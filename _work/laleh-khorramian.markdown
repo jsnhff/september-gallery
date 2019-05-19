@@ -1,7 +1,7 @@
 ---
 title: Laleh Khorramian
 date: 2018-06-16 17:24:00 -04:00
-key_image: "/uploads/LK%20unearth%20SEPT%20install%20WebRes-15.jpg"
+key_image: "/uploads/LK12%20Egg%20Rig%202019%2070x89%20_1000px.jpg"
 key_image_credit: Laleh Khorramian, Unearth, Installation View, SEPTEMBER
 is_always: true
 is_sometimes: false
@@ -9,7 +9,7 @@ first_letter_of_last_name: a
 exhibition_links:
   Unearth: http://septembergallery.com/space/laleh-khorramian-odyssey-the-fault-lines.html
 images_with_captions:
-- image: "/uploads/LK%20unearth%20SEPT%20install%20WebRes-36.jpg"
+- image: "/uploads/LK%20unearth%20SEPT%20install%20WebRes-15-6aa34e.jpg"
   caption: Laleh Khorramian, Unearth, Installation View, SEPTEMBER
 - image: "/uploads/Orb-Moon%20_2000px.jpg"
   caption: Laleh Khorramian, Orb ~ Moon 3, 2019, oil on polypropylene, 43 x 29 inches
