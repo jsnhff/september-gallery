@@ -11,7 +11,7 @@ images_with_captions:
 - image: "/uploads/KDodge_ABielski_03-03-18_53_8292_sRGB_WebRes_670.jpg"
   caption: "Annie Bielski, Sway Bar Blues (after Bernadette), 2017, acrylic, wax,
     graphite, cotton thread, canvas, 65 x 60 inches\n\n"
-- image: "/uploads/clearance%20shirt%20green.JPG"
+- image: "/uploads/Clearance.jpeg"
   caption: 'Annie Bielski, CLEARANCE cargo shirt #6, August 18, 2018'
 - image: "/uploads/KDodge_ABielski_03-03-18_53_8314_sRGB_WebRes_670.jpg"
   caption: Annie Bielski, Ice cream licker (after Nancy), 2018, metal brochure rack,
@@ -19,8 +19,8 @@ images_with_captions:
 - image: "/uploads/KDodge_ABielski_03-03-18_53_8328_sRGB_WebRes_670.jpg"
   caption: Annie Bielski, Hot Spring,  2017, acrylic, graphite, latex on Arches cold
     pressed paper, 12 x 16 inches
-- image: "/uploads/BIELSKI-County%20Waste.jpg"
-  caption: 
+- caption: 
+  image: "/uploads/Eyelash-sm.jpg"
 research_links:
   Artist's Website: http://anniebielski.com/
   CLEARANCE: https://everythingmustgo.biz/
