@@ -1,7 +1,7 @@
 ---
 title: Xaviera Simmons
 date: 2016-07-19 19:00:00 -04:00
-position: 3
+position: 2
 key_image: "/uploads/SIMMONS.jpg"
 is_sometimes: true
 first_letter_of_last_name: s

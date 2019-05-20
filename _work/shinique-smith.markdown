@@ -1,7 +1,7 @@
 ---
 title: Shinique Smith
 date: 2016-07-19 19:02:00 -04:00
-position: 5
+position: 4
 key_image: "/uploads/SMITH.jpg"
 is_sometimes: true
 first_letter_of_last_name: s

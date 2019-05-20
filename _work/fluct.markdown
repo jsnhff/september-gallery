@@ -1,7 +1,7 @@
 ---
 title: FlucT
 date: 2016-07-20 06:32:00 -04:00
-position: 7
+position: 6
 key_image: "/uploads/FlucT.jpg"
 is_sometimes: true
 first_letter_of_last_name: f

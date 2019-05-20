@@ -1,7 +1,7 @@
 ---
 title: Nancy Shaver
 date: 2016-07-19 19:01:00 -04:00
-position: 4
+position: 3
 key_image: "/uploads/SHAVER%20To%20Richie%20Rich%202.jpg"
 is_sometimes: true
 first_letter_of_last_name: s
