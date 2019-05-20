@@ -1,7 +1,7 @@
 ---
 title: Carrie Schneider
 date: 2019-05-20 15:49:00 -04:00
-position: 15
+position: 2
 key_image: "/uploads/SCHNEIDER-Rena-ZadieSmith.jpg"
 key_image_credit: Carrie Schneider, Rena reading Zadie Smith (White Teeth, 2000),
   Reading Women, 2012 – 2014, c-print, 36 x 30 inches

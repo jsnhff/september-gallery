@@ -1,7 +1,7 @@
 ---
 title: Kate Newby
 date: 2019-04-04 16:12:00 -04:00
-position: 29
+position: 25
 key_image: "/uploads/IMG_5873.jpg"
 is_sometimes: true
 first_letter_of_last_name: n

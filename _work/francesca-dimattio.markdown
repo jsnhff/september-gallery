@@ -1,7 +1,7 @@
 ---
 title: Francesca DiMattio
 date: 2018-06-16 16:33:00 -04:00
-position: 24
+position: 20
 key_image: "/uploads/DiMattio_artbaseimage.jpg"
 key_image_credit: |-
   Boucherouite III,

@@ -1,7 +1,7 @@
 ---
 title: Kate Gilmore
 date: 2018-06-16 16:10:00 -04:00
-position: 23
+position: 19
 key_image: "/uploads/IMG_2115-029b8a.jpg"
 key_image_credit: |-
   Bend Motherfucker,
