@@ -1,7 +1,7 @@
 ---
 title: Taylor Davis
 date: 2016-07-03 18:06:00 -04:00
-position: 17
+position: 16
 key_image: "/uploads/11_04_16_September_08v1-SM.jpg"
 key_image_credit: |-
   Taylor Davis,

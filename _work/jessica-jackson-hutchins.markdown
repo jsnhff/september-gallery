@@ -1,7 +1,7 @@
 ---
 title: Jessica Jackson Hutchins
 date: 2018-06-16 16:57:00 -04:00
-position: 21
+position: 20
 key_image: "/uploads/JJH.13803.jpg"
 key_image_credit: |-
   Jessica Jackson Hutchins,

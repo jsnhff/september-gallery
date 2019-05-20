@@ -1,7 +1,7 @@
 ---
 title: Odessa Straub
 date: 2016-07-19 19:03:00 -04:00
-position: 27
+position: 26
 key_image: "/uploads/OS58-FLoweroftheMissingKnife-WebRes.jpg"
 key_image_credit: Odessa Straub, Flower of the missing knife, 2017, acrylic, hair
   calf, patent leather on panel, 48 x 36 inches
