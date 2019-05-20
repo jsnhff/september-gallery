@@ -1,6 +1,7 @@
 ---
 title: Rosy Keyser
 date: 2017-05-21 17:16:00 -04:00
+position: 0
 key_image: "/uploads/Keyser_8229.jpg"
 key_image_credit: |-
   Rosy Keyser,

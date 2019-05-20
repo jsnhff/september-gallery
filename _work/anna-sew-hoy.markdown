@@ -1,6 +1,7 @@
 ---
 title: Anna Sew Hoy
 date: 2016-07-19 18:57:00 -04:00
+position: 1
 key_image: "/uploads/HOY.jpg"
 is_sometimes: true
 first_letter_of_last_name: s

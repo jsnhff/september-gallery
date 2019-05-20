@@ -1,6 +1,7 @@
 ---
 title: Anna Betbeze
 date: 2017-05-21 17:27:00 -04:00
+position: 19
 key_image: "/uploads/IMG_6890.JPG"
 key_image_credit: |-
   Anna Betbeze,

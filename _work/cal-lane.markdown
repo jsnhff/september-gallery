@@ -1,6 +1,7 @@
 ---
 title: Cal Lane
 date: 2016-11-05 14:14:00 -04:00
+position: 22
 key_image: "/uploads/Cal%20Lane.jpg"
 first_letter_of_last_name: l
 research_links:

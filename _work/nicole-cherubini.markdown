@@ -1,6 +1,7 @@
 ---
 title: Nicole Cherubini
 date: 2016-07-24 10:42:00 -04:00
+position: 21
 key_image: "/uploads/Nicole_Cherubini_F-Print%203%20(there%20is%20a%20fountain)_2019_press_GMG%20copy.jpg"
 key_image_credit: |-
   Nicole Cherubini,

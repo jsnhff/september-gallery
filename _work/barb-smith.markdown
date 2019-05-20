@@ -1,6 +1,7 @@
 ---
 title: Barb Smith
 date: 2016-07-19 19:01:00 -04:00
+position: 16
 key_image: "/uploads/BARB%20SMITH.jpg"
 is_sometimes: true
 first_letter_of_last_name: s

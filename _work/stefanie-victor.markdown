@@ -1,6 +1,7 @@
 ---
 title: Stefanie Victor
 date: 2016-08-14 12:06:00 -04:00
+position: 8
 key_image: "/uploads/Stefanie%20Victor.jpg"
 is_sometimes: true
 first_letter_of_last_name: v

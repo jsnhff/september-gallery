@@ -1,6 +1,7 @@
 ---
 title: Kianja Strobert
 date: 2018-06-22 17:44:00 -04:00
+position: 17
 key_image: "/uploads/Purple%20Heart.jpg"
 is_sometimes: true
 first_letter_of_last_name: s
