@@ -19,6 +19,9 @@ images:
 - "/uploads/LKhorramian_04-27-19_D4_1560_sRGB_WebRes.jpg"
 - "/uploads/LKhorramian_04-27-19_D4_1559_sRGB_WebRes.jpg"
 - "/uploads/LKhorramian_04-27-19_D4_1526_sRGB_WebRes.jpg"
+research_links:
+  Hyperallergic: https://hyperallergic.com/tag/laleh-khorramian/
+  Times Union: https://www.timesunion.com/entertainment/article/In-Hudson-taste-of-big-city-arts-scene-13891660.php
 ---
 
 We are pleased to present Laleh Khorramian: Unearth, a solo exhibition of new work spanning two locations in Hudson, NY: SEPTEMBER, 449 Warren Street, and Elizabeth Moore Fine Art, 105 Warren Street. A commissioned essay by Media Farzin accompanies the exhibition. This is Khorramian's first solo show with SEPTEMBER, and marks her representation with the gallery.
