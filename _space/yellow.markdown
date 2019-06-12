@@ -1,5 +1,5 @@
 ---
-title: YELLOW
+title: Yellow
 date: 2019-05-26 15:51:00 -04:00
 key_image: "/uploads/MSE1001.jpg"
 key_image_credit: Michelle Segre, Driftloaf (Yellow on Slag), 2015, Slag, bread, paint,
