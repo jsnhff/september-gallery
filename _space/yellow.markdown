@@ -8,24 +8,14 @@ start_date: 2019-06-22 18:00:00 -04:00
 end_date: 2019-08-04 18:00:00 -04:00
 opening_start_time_and_date: 2019-06-22 18:00:00 -04:00
 opening_end_time_and_date: 2019-06-22 20:00:00 -04:00
-artist_links:
-  Annie Bielski: https://anniebielski.com/
-  Ashley Garrett: https://www.ashleygarrett.com/
-  Brenda Goodman: https://www.brendagoodman.com/
-  Anne Lindberg: http://www.annelindberg.com/
-  Donna Moylan: http://donnamoylan.com/
-  Michelle Segre: http://michellesegre.com/
-  Jackie Saccoccio: https://www.jackiesaccoccio.com
-  Sun You: http://sunyou.us/index.html
-  Nicole Wittenberg: http://nicolewittenberg.com/
 images:
 - "/uploads/KDodge_07-13-19_D4_4301_sRGB_WebRes.jpg"
-- "/uploads/KDodge_07-13-19_D4_4304_sRGB_WebRes.jpg"
 - "/uploads/KDodge_07-13-19_D4_4307_sRGB_WebRes.jpg"
 - "/uploads/KDodge_07-13-19_D4_4311_sRGB_WebRes.jpg"
 - "/uploads/KDodge_07-13-19_D4_4314_sRGB_WebRes.jpg"
 - "/uploads/KDodge_07-13-19_D4_4316_sRGB_WebRes.jpg"
 - "/uploads/KDodge_07-13-19_D4_4319_sRGB_WebRes.jpg"
+- "/uploads/KDodge_07-13-19_D4_4304_sRGB_WebRes.jpg"
 ---
 
 Katherine Bauer
