@@ -8,8 +8,6 @@ start_date: 2019-06-22 18:00:00 -04:00
 end_date: 2019-08-04 18:00:00 -04:00
 opening_start_time_and_date: 2019-06-22 18:00:00 -04:00
 opening_end_time_and_date: 2019-06-22 20:00:00 -04:00
-artist_links:
-  Key: 
 images:
 - "/uploads/KDodge_07-13-19_D4_4301_sRGB_WebRes.jpg"
 - "/uploads/KDodge_07-13-19_D4_4307_sRGB_WebRes.jpg"
@@ -21,19 +19,19 @@ images:
 ---
 
 KATHERINE BAUER 
- Annie Bielski
-Ashley Garrett
-Brenda Goodman
-Anne Lindberg
-Lauren Luloff
-Donna Moylan
-Michelle Segre
-Jackie Saccoccio
-Odessa Straub
-Kianja Strobert
-Amanda Valdez
-Sun You
-Nicole Wittenberg
+ANNIE BIELSKI
+ASHLEY GARRETT
+BRENDA GOODMAN
+ANNE LINDBERG
+LAUREN LULOFF
+DONNA MOYLAN
+MICHELLE SEGRE
+JACKIE SACCOCCIO
+ODESSA STRAUB
+KIANJA STROBERT
+AMANDA VALDEZ
+SUN YOU
+NICOLE WITTENBERG
 
 SEPTEMBER is pleased to present Yellow, a group exhibition of 14 artists working with the color yellow in subtle or startling ways. Regardless of the surface area occupied, the color yellow plays a significant role in each work selected for the exhibition.
 
