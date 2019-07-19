@@ -32,7 +32,7 @@ KIANJA STROBERT
 AMANDA VALDEZ
 SUN YOU
 NICOLE WITTENBERG
-
+-
 September is pleased to present Yellow, a group exhibition of 14 artists working with the color yellow in subtle or startling ways. Regardless of the surface area occupied, the color yellow plays a significant role in each work selected for the exhibition.
 
 “His dizziness increased; he fixed his gaze, like a child upon a yellow butterfly that it wants to catch, on the precious patch of wall. ‘That's how I ought to have written,’ he said. ‘My last books are too dry, I ought to have gone over them with a few layers of colour, made my language precious in itself, like this little patch of yellow wall.’ Meanwhile he was not unconscious of the gravity of his condition. In a celestial pair of scales there appeared to him, weighing down one of the pans, his own life, while the other contained the little patch of wall so beautifully painted in yellow. He felt that he had rashly sacrificed the former for the latter.” -Marcel Proust, The Captive
