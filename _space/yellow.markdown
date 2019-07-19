@@ -17,8 +17,15 @@ images:
 - "/uploads/KDodge_07-13-19_D4_4316_sRGB_WebRes.jpg"
 - "/uploads/KDodge_07-13-19_D4_4319_sRGB_WebRes.jpg"
 research_links:
-  Link One: https://anniebielski.com/
-  Key: http://nicolewittenberg.com/
+  Annie Bielski: https://anniebielski.com/
+  Ashley Garrett: https://www.ashleygarrett.com/
+  Brenda Goodman: https://www.brendagoodman.com/
+  Anne Lindberg: http://www.annelindberg.com/
+  Donna Moylan: http://donnamoylan.com/
+  Michelle Segre: http://michellesegre.com/
+  Jackie Saccoccio: https://www.jackiesaccoccio.com
+  Sun You: http://sunyou.us/index.html
+  Nicole Wittenberg: http://nicolewittenberg.com/
 ---
 
 Katherine Bauer
