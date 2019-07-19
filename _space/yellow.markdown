@@ -16,6 +16,9 @@ images:
 - "/uploads/KDodge_07-13-19_D4_4314_sRGB_WebRes.jpg"
 - "/uploads/KDodge_07-13-19_D4_4316_sRGB_WebRes.jpg"
 - "/uploads/KDodge_07-13-19_D4_4319_sRGB_WebRes.jpg"
+research_links:
+  Link One: https://anniebielski.com/
+  Key: http://nicolewittenberg.com/
 ---
 
 Katherine Bauer
