@@ -26,8 +26,8 @@ images:
 - "/uploads/IMG_8871.jpg"
 - "/uploads/BR-16-001_VIEW1.jpg"
 research_links:
-  Brie Ruais - Artists Website: http://brieruais.com
-  Letha Wilson - Artists Website: http://www.lethaprojects.com/findme.php
+  Brie Ruais: http://brieruais.com
+  Letha Wilson: http://www.lethaprojects.com/findme.php
   Publication Available at Printed Matter: https://www.printedmatter.org/catalog/48665/
 ---
 
