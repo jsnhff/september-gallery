@@ -29,7 +29,7 @@ research_links:
 
 SARAH BRAMAN   JANE BUSTIN  NICOLE CHERUBINI  LIZ COLLINS   FRANCESCA DIMATTIO  DEVON DIKEOU   BARBARA GALLUCCI   KATE GILMORE   MARY HEILMANN   JESSICA JACKSON HUTCHINS  LALEH KHORRAMIAN  HANNAH LEVY  LAUREL NAKADATE  SARA GREENBERGER RAFFERTY  JESSI REAVES  NANCY SHAVER  AGATHE SNOW  KIANJA STROBERT 
 
-Opening Saturday, April 7 at SEPTEMBER: Sit-In, a collective look at the shifting function of a familiar form. 
+September is pleased to present *Sit-In*, a collective look at the shifting function of a familiar form. 
 
 In an interrogation room, two chairs face each other across a desk. At a birthday party, the guest of honor sits at the head of the table. In a museum, bench seating is placed at regular intervals in the center of a room. At a principal's office, the student is instructed to “sit down.” On a stage, a comedian stands beside an empty stool. At an auction, everyone sits, save the auctioneer. 
 
@@ -39,6 +39,6 @@ When the functionality of the form is prioritized, a chair is more or less self-
 
 However when aesthetics and composition reign, a new function is served. The grandeur and adornment of a throne purposes to reflect the power of the sitter, the elegance and recline of the Eames proposes to embody a comfortable lifestyle. Here, the chair becomes a status symbol, the position of power or the privilege of leisure. 
 
-For the exhibition Sit-In, a cacophonous individuality arises. Vastly distinctive seats have been created, deconstructed, reconfigured and repurposed. Positioned in rows and facing a unified direction, a collective stance arises. Draped curtains provide the suggestion of a backdrop- a gesture of substantiation or revelation of artifice. Sit-in is a theatre of subversion and a revision of what we know. 
+For the exhibition *Sit-In*, a cacophonous individuality arises. Vastly distinctive seats have been created, deconstructed, reconfigured and repurposed. Positioned in rows and facing a unified direction, a collective stance arises. Draped curtains provide the suggestion of a backdrop- a gesture of substantiation or revelation of artifice. Sit-in is a theatre of subversion and a revision of what we know. 
 
 For more information, please visit the gallery, our website septembergallery.com, or contact kristen@septembergallery.com. 
