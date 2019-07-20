@@ -6,11 +6,10 @@ key_image: "/uploads/BIELSKI_Loveland_Still-811687.jpg"
 key_image_credit: ANNIE BIELSKI-Loveland-Video still
 start_date: 2018-03-08 12:00:00 -05:00
 end_date: 2018-03-11 18:00:00 -04:00
-artist_links:
-  Artist Website: http://anniebielski.com
-  Post-Election: http://septembergallery.com/space/post-election-show.html
 research_links:
   Artsy: https://www.artsy.net/article/artsy-editorial-nada-helps-young-galleries-hard-times
+  Annie Bielski: https://anniebielski.com/
+  Post-election: http://septembergallery.com/space/post-election-show.html
 ---
 
 NADA New York
