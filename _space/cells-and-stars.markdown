@@ -45,4 +45,6 @@ VICTORIA FU
 CARRIE MOYER  
 
 
+September is pleased to present *Stars and Cells*. 
+
 Eyes blink from a dream. Lack of oxygen. A sudden intake of breath. An urgent action, a neutral habit. And then you are here, exactly located. Head, hands, gut. Images interloping, partially recorded in a memory space that bridges a dream to now. Stars burst and sprinkle in your line of sight. Oxygen returns. Focus in on the puddle of red from a spilt bucket or bowl. Dripping from your fingers. Images, shards that tether back to something whole. Collecting parts, arranged by touch. A turbulence builds in front and behind, all sides coercing. Our bodies are floating out of the atmosphere. 
