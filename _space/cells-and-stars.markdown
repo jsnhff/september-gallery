@@ -9,10 +9,6 @@ start_date: 2018-06-02 00:00:00 -04:00
 end_date: 2018-07-15 00:00:00 -04:00
 opening_start_time_and_date: 2018-06-02 00:00:00 -04:00
 opening_end_time_and_date: 2018-06-02 00:00:00 -04:00
-artist_links:
-  Nicole Cherubini: Nicole Cherubini
-  Victoria Fu: Victoria Fu
-  Carrie Moyer: Carrie Moyer
 images_with_captions:
 - image: "/uploads/KDodge_05-30-18_D4_0007_sRGB_WebRes.jpg"
   caption: NICOLE CHERUBINI- future perfect and past participle- 2018- earthenware,
@@ -39,5 +35,10 @@ images_with_captions:
   caption: 
   Key: 
 ---
+
+NICOLE CHERUBINI . 
+VICTORIA FU . 
+CARRIE MOYER . 
+
 
 Eyes blink from a dream. Lack of oxygen. A sudden intake of breath. An urgent action, a neutral habit. And then you are here, exactly located. Head, hands, gut. Images interloping, partially recorded in a memory space that bridges a dream to now. Stars burst and sprinkle in your line of sight. Oxygen returns. Focus in on the puddle of red from a spilt bucket or bowl. Dripping from your fingers. Images, shards that tether back to something whole. Collecting parts, arranged by touch. A turbulence builds in front and behind, all sides coercing. Our bodies are floating out of the atmosphere. 
