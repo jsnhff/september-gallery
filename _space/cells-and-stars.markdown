@@ -34,6 +34,10 @@ images_with_captions:
 - image: "/uploads/KDodge_06-01-18_D4_0068_sRGB_WebRes.jpg"
   caption: 
   Key: 
+research_links:
+  Nicole Cherubini: https://www.nicolecherubini.com/
+  Victoria Fu: https://www.victoriafu.com/
+  Carrie Moyer: http://www.carriemoyer.com/
 ---
 
 NICOLE CHERUBINI  
