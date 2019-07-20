@@ -18,7 +18,7 @@ images:
 - "/uploads/SEPTEMBER_ALAC18_013.jpg"
 - "/uploads/SEPTEMBER_ALAC18_023.jpg"
 research_links:
-  Artists Website: http://cargocollective.com/odessastraub
+  Artist's Website: http://cargocollective.com/odessastraub
   ALAC: https://artlosangelesfair.com/
   A Women's Thing: https://awomensthing.org/blog/art-age-instagram-odessa-straub/
 ---
@@ -27,7 +27,7 @@ ART LOS ANGELES CONTEMPORARY
 THE BARKER HANGER
 BOOTH B5
 
-SEPTEMBER presents Migrating Contents, new works by Brooklyn-based artist Odessa Straub at ALAC, 2018. Odessa’s solo presentation will include mixed media paintings, freestanding sculptures, and an installation of works on paper. Bold materials including leather, velvet, fur, rope, and vinyl, play significant roles in her practice.  
+September is pleased to present *Migrating Contents*, new works by Brooklyn-based artist Odessa Straub at ALAC, 2018. Odessa’s solo presentation will include mixed media paintings, freestanding sculptures, and an installation of works on paper. Bold materials including leather, velvet, fur, rope, and vinyl, play significant roles in her practice.  
 
 At first take, Odessa's works look wildly different. Each has a distinctive palette, specific textures, and particular arrangements. Yet as her body of work is viewed as a whole, similar shape-shifting forms traverse compositions, relational exchanges shadow one another, and their mysteriousness is matched.  
 
