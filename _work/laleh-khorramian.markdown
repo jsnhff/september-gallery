@@ -23,7 +23,7 @@ images_with_captions:
   caption: Laleh Khorramian, Guardian Pink, 2016, ink, oil, paper on polypropelene,
     66 x 54 inches
 research_links:
-  Artists Website: http://www.lalehkhorramian.com/
+  Artist's Website: http://www.lalehkhorramian.com/
   Art21: https://art21.org/watch/new-york-close-up/laleh-khorramians-epic-animations/
   Artsy: https://www.artsy.net/article/editorial-laleh-khorramians-sci-fi-universe-complete-with-a-portal
   ArtSlant: https://www.artslant.com/ny/articles/show/29580-binterview-with-laleh-khorramianb
