@@ -22,8 +22,6 @@ research_links:
   Artist's Website: http://shegallagher.com
 ---
 
-Artist Talk and Workshop: Saturday, December 2, 4pm at SEPTEMBER
-
 > `        A woman who adored her mother, and had mourned her death every day for years now, came
 across some postcards in a store that sold antiques and other bric-a-brac. The postcards were of unexceptional scenes, but she was drawn to them and purchased several of wild beaches and forests roads. When she got home, she experienced an overwhelming need to send a card to her mother.
 	What she wrote was not important. It was the need that was important.
@@ -47,3 +45,5 @@ SHEILA GALLAGHER (b. Morristown, New Jersey) received her BA from Connecticut Co
 She has had numerous exhibitions at galleries, museums, and universities in the U.S. and internationally, including the Moving Image Festival, London, The Institute of Contemporary Art, Boston, MA, The Museum of Fine Arts, Boston, MA, Crystal Bridges Museum, Arkansas, Mint Museum, Charlotte, NC,  The Telfair Museums in  Savannah Georgia, Art in Embassies Program,  and Dodge Gallery in NYC. Gallagher was the recipient of the Buttenweizer Scholarship, Young American Scholar,  and fellowships from Thomas J. Watson Foundation,  Mass Cultural Council, and the SMFA. She was a finalist for the Institute of Contemporary Art/Boston Foster Prize, St. Botolph Foundation Distinguished Artist Award, and the Museum of Fine Arts, Boston Maud Morgan Prize. Gallagher’s work has been reviewed in Art in America, Hyperallergic, Bloomberg, The Boston Globe, and the Irish Times, among others. Her work is included in the collections of Crystal Bridges Museum, deCordova Sculpture Park and Museum, Fidelity Investments, the Philadelphia Eagles, and Wellington Management.
 
 Gallagher lectures widely and has taught at Art institute Boston, Wellesley College and Boston College where she is an associate professor of Studio Art. Gallagher is a Trustee of Saint Gaudens National Historic Site in Cornish, NH where she serves on the contemporary exhibitions committee. She  co-directs The Becker Archive, the largest private collection of Civil War drawings, and curated First Hand, which is currently touring the United States to commemorate the nation’s sesquicentennial. She is co-director of the Guestbook Project with Richard Kearney, a creative peace-building initiative for youths to exchange stories in divided communities. Gallagher is also co-creator of Twinsome Minds, an interdisciplinary performance which she and Kearney have performed internationally from Dublin, to Paris, to Stockholm, to Lisbon, to NYC. Gallagher lives and works in Jamaica Plain, MA.
+
+Artist Talk and Workshop: Saturday, December 2, 4pm at SEPTEMBER
