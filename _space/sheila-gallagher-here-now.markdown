@@ -19,7 +19,7 @@ images:
 - "/uploads/KDodge_12-03-17_MG_8930_sRGB_WebRes.jpg"
 - "/uploads/Votives%20Image.jpg"
 research_links:
-  Artists Website: http://shegallagher.com
+  Artist's Website: http://shegallagher.com
 ---
 
 Artist Talk and Workshop: Saturday, December 2, 4pm at SEPTEMBER
@@ -34,7 +34,7 @@ across some postcards in a store that sold antiques and other bric-a-brac. The p
 POSTCARD by Joy Williams`
 
 
-SEPTEMBER is pleased to present, GONE HERE, a solo exhibition of Sheila Gallagher’s newest work.
+SEPTEMBER is pleased to present *GONE HERE* a solo exhibition of Sheila Gallagher’s newest work.
 
 A meditation on healing and haunting, things that go away and come back – the recipe for concrete, the stories of the dead, crafts and cures- Gallagher draws upon diverse sources including Shaker gift drawings, Aesclipion temples of ancient Greece, and recent archeological findings of mass graves at Irish orphanages, to create an installation of dedicatory phenomenon, petition and remembrance. 
 
