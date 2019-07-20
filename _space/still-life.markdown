@@ -38,9 +38,9 @@ NORI PAO
 CARRIE SCHNEIDER
 LETHA WILSON
 
-September is pleased to present a group exhibition entitled Still Life, co-curated with Candice Madey, including works by Theodora Allen, Julia Bland, Jamie Israelow, Anne Lindberg, Kate Newby, Jenny Perlin, Nori Pao, Carrie Schneider, and Letha Wilson.
+September is pleased to present *Still Life*, co-curated with Candice Madey, including works by Theodora Allen, Julia Bland, Jamie Israelow, Anne Lindberg, Kate Newby, Jenny Perlin, Nori Pao, Carrie Schneider, and Letha Wilson.
 
-Still Life refers to the transcendalist notion that we must look for a long time before we see, and that slowness is essential to science, philosophy, poetry, and by extension, a deeper understanding our world. 
+*Still Life* refers to the transcendalist notion that we must look for a long time before we see, and that slowness is essential to science, philosophy, poetry, and by extension, a deeper understanding our world. 
 
 Traditionally an arrangement of perishable objects, such as fruits, flowers, wine, meats and cheeses, the still life is immortalized by the artist’s hand before the flowers wilt, fruits brown, wine turns, and foods sour. Intent observation and delicate execution, informed by years of study, apprenticeship, and experience bring the image close to life. 
 
