@@ -24,7 +24,7 @@ research_links:
   Times Union: https://www.timesunion.com/entertainment/article/In-Hudson-taste-of-big-city-arts-scene-13891660.php
 ---
 
-September is pleased to present Laleh Khorramian: Unearth, a solo exhibition of new work spanning two locations in Hudson, NY: SEPTEMBER, 449 Warren Street, and Elizabeth Moore Fine Art, 105 Warren Street. A commissioned essay by Media Farzin accompanies the exhibition. This is Khorramian's first solo show with SEPTEMBER, and marks her representation with the gallery.
+September is pleased to present *Laleh Khorramian: Unearth*, a solo exhibition of new work spanning two locations in Hudson, NY: SEPTEMBER, 449 Warren Street, and Elizabeth Moore Fine Art, 105 Warren Street. A commissioned essay by Media Farzin accompanies the exhibition. This is Khorramian's first solo show with SEPTEMBER, and marks her representation with the gallery.
 
 Khorramian is an Iranian-American artist, born in Tehran, and raised in Orlando, FL, the epicenter of America’s synthetic world of storytelling. Her work merges painting, printmaking, collage, animation, textiles, drawing, and installation to tell the story of an alternate universe that has been conjured and revealed via the course of Khorramian’s own exhibition history. Her current revelation of the fictional and futuristic civilization of Golis (a microbic landing point in the cosmos) exists in two locations. Khorramian invites the viewer to physically navigate the respective sensorial installations, to travel on foot from one location to the other, and to exercise memory to inhabit the space in between.
 
