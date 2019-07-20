@@ -18,7 +18,7 @@ images_with_captions:
   caption: Carrie Schneider, Broken Flag, No, Negative 6, 2019, unique chromogenic
     print made in camera,  14 x 11 inches
 research_links:
-  Artist Website: http://carrieschneider.net/index.html
+  Artist's Website: http://carrieschneider.net/index.html
   Interview with Olga Dekalo: https://www.albany.edu/sites/default/files/2019-04/UAM_Spring_2019_Carrie_Schneider_web_0.pdf
   Art 21: http://magazine.art21.org/2013/02/22/carrie-schneider-adds-a-finnish-touch/#.XOMOEZNKgmI
 catalog_link:
