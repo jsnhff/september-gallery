@@ -8,7 +8,7 @@ end_date: 2017-08-20 18:00:00 -04:00
 opening_start_time_and_date: 2017-07-15 18:00:00 -04:00
 opening_end_time_and_date: 2017-07-15 20:00:00 -04:00
 artist_links:
-  Artist Website: http://cargocollective.com/odessastraub
+  Odessa Straub: http://septembergallery.com/work/odessa-straub.html
 images:
 - "/uploads/OdessaStraub-RealPussInstall-web-3.jpg"
 - "/uploads/OdessaStraub-RealPussInstall-web-2.jpg"
@@ -17,6 +17,8 @@ images:
 - "/uploads/OdessaStraub-RealPussInstall-web-7.jpg"
 - "/uploads/OdessaStraub-RealPussInstall-web-12.jpg"
 - "/uploads/OdessaStraub-RealPussInstall-web-15.jpg"
+research_links:
+  Artist's Website: http://cargocollective.com/odessastraub
 ---
 
 Slipping in Swallow Bondage
@@ -43,7 +45,7 @@ Rawed out Bedtime
 
 Power takes all the chunks and rearranges them- There’s a cistern, a column and a cresent. The Column Cracks, the Moon Crescents, the Cistern Spills. The Cistern spills the Column Cracks and the Moon Crescents. The Moon removes its shroud, the Cistern Spills and the Column Cracks. “Baby if you give it to me / I’ll give it to you / I know what you want / You know I got it” (1). If they abide by laws of matter.
 
-Real Puss Technologies (patent pending) A jumpsuit that has replicated vaginal flesh sewn in patches along any fuckable crease in the body. Get fucked anywhere everywhere. Fuck the air you breath before it enters your body (douse with vaseline prior to use).
+*Real Puss Technologies* (patent pending) A jumpsuit that has replicated vaginal flesh sewn in patches along any fuckable crease in the body. Get fucked anywhere everywhere. Fuck the air you breath before it enters your body (douse with vaseline prior to use).
 
 "Bump slide into the gorgeous busty neighbor who you follow at the super market or watch at the gym." (2)
 
