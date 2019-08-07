@@ -1,7 +1,6 @@
 ---
 title: Nowhere and Everywhere
 date: 2019-08-06 16:02:00 -04:00
-published: false
 key_image: "/uploads/of%20equal%20measure.jpg"
 key_image_credit: Anne Lindberg, of equal measure, 2019, graphite and colored pencil
   on mat board, 59 x 34 inches
