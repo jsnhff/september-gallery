@@ -15,3 +15,6 @@ research_links:
 
 SARAH BRAMAN . TAYLOR DAVIS . ANNE LINDBERG . MARY ELLEN STROM
 
+For more information, please visit the gallery, our website, or contact kristen@septembergallery.com.
+
+
