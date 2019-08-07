@@ -13,8 +13,5 @@ research_links:
   Mary Ellen Strom: https://www.maryellenstrom.com/
 ---
 
-SARAH BRAMAN
-TAYLOR DAVIS
-ANNE LINDBERG
-MARY ELLEN STROM
+SARAH BRAMAN . TAYLOR DAVIS . ANNE LINDBERG . MARY ELLEN STROM
 
