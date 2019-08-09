@@ -18,9 +18,9 @@ SARAH BRAMAN
 ANNE LINDBERG
 MARY ELLEN STROM
 
-Nowhere and Everywhere is an exhibition of three major works; Sarah Braman’s glass, steel and wood sculpture, July Dinner, occupies the northeast corner of the gallery, Anne Lindberg multi-paneled drawing, I begin with the river, spans the west wall, and Mary Ellen Strom’s photographic installation, TREE LINES, stretches floor to ceiling on the south wall. 
+SEPTEMBER is pleased to present *Nowhere and Everywhere*. *Nowhere and Everywhere* is an exhibition of three major works; Sarah Braman’s glass, steel and wood sculpture, *July Dinner*, occupies the northeast corner of the gallery, Anne Lindberg multi-paneled drawing, *I begin with the river*, spans the west wall, and Mary Ellen Strom’s photographic installation, *TREE LINES*, stretches floor to ceiling on the south wall. 
 
-Nowhere and Everywhere is an exhibition about depicting the unseen—the memory of an orphaned object, the energy of a flooding river, the life of a dying forest. It is about disjuncture and continuity. The table is anyone’s, the river is no one’s, and the trees are every, single, one. Patterning, mirroring, doubling, repeating.
+*Nowhere and Everywhere* is an exhibition about depicting the unseen—the memory of an orphaned object, the energy of a flooding river, the life of a dying forest. It is about disjuncture and continuity. The table is anyone’s, the river is no one’s, and the trees are every, single, one. Patterning, mirroring, doubling, repeating.
 
 
 
