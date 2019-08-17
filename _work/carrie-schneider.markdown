@@ -6,7 +6,7 @@ key_image: "/uploads/SCHNEIDER-Rena-ZadieSmith%20copy.jpg"
 key_image_credit: Carrie Schneider, Rena reading Zadie Smith (White Teeth, 2000),
   Reading Women, 2012 – 2014, c-print, 36 x 30 inches
 is_sometimes: true
-first_letter_of_last_name: S
+first_letter_of_last_name: s
 images_with_captions:
 - image: "/uploads/CS5-MoonDrawing245-Sm-e18843.jpg"
   caption: 'Carrie Schneider, Moon Drawing #245, 2015, Unique gelatin silver print
