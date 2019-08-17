@@ -6,7 +6,7 @@ key_image_credit: |-
   Anne Lindberg, Walking East, 2019
   Graphite and colored pencil on mat board 24 x 36 inches
 is_sometimes: true
-first_letter_of_last_name: L
+first_letter_of_last_name: l
 exhibition_links:
   Nowhere and Everywhere: http://septembergallery.com/space/nowhere-and-everywhere.html
   Yellow: http://septembergallery.com/space/yellow.html
