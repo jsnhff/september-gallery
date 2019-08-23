@@ -14,10 +14,6 @@ research_links:
   Mary Ellen Strom: https://www.maryellenstrom.com/
 ---
 
-SARAH BRAMAN
-ANNE LINDBERG
-MARY ELLEN STROM
-
 SEPTEMBER is pleased to present *Nowhere and Everywhere* featuring the work of Sarah Braman, Anne Lindberg, and Mary Ellen Strom.
 
 *Nowhere and Everywhere* is an exhibition of three major works; Sarah Braman’s glass, steel and wood sculpture, *July Dinner*, occupies the northeast corner of the gallery, Anne Lindberg’s multi-paneled drawing, *I begin with the river*, spans the west wall, and Mary Ellen Strom’s photographic installation, *TREE LINES*, stretches floor to ceiling on the south wall. 
