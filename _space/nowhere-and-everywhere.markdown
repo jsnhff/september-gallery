@@ -8,6 +8,9 @@ start_date: 2019-08-16 00:00:00 -04:00
 end_date: 2019-09-29 00:00:00 -04:00
 opening_start_time_and_date: 2019-08-24 18:00:00 -04:00
 opening_end_time_and_date: 2019-08-24 20:00:00 -04:00
+images_with_captions:
+- image: "/uploads/Nowhere%20and%20Everywere_install_SEPT_WebRes_2.jpg"
+  caption: Nowhere and Everywhere installation view - photo by Pete Mauney
 research_links:
   Sarah Braman: https://www.canadanewyork.com/artists/sarah-braman/
   Anne Lindberg: http://www.annelindberg.com/
