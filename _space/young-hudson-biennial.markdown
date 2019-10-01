@@ -36,8 +36,8 @@ Nine artists have been selected to represent the inaugural Young Hudson Biennial
 
 Demonstrating the steadily growing creative force in Hudson, the artists in YHB as well as those considered for the show, actively support each other's practices. They pull from, and give back energy to the spirit of community, building a steadying, collective intention to uncertain times.
 
-SEPTEMBER would like to thank all of the artists who welcomed us into their studios and shared their practices with us over recent months. 
-
 Lil' Deb's Oasis' installation will feature pieces by Objects-in-the-Round, Body Language Shop, Like-Minded Objects, Becca Van K, and Goodfight Herb Company.
+
+SEPTEMBER would like to thank all of the artists who welcomed us into their studios and shared their practices with us over recent months. 
 
 For further information please visit the gallery at 449 Warren Street, Hudson, NY, visit our website at septembergallery.com, or contact Kristen Dodge at kristen@septembergallery.com.
