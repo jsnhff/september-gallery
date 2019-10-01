@@ -1,6 +1,7 @@
 ---
 title: Young Hudson Biennial
 date: 2019-10-01 12:58:00 -04:00
+position: 1
 key_image: "/uploads/yule_002_01_X1_0696-bf7013.jpg"
 key_image_credit: Christine Pfister, Ghoul Log (detail), 2018, Stop motion animation
 start_date: 2019-10-05 00:00:00 -04:00
