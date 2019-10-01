@@ -38,4 +38,6 @@ Demonstrating the steadily growing creative force in Hudson, the artists in YHB 
 
 SEPTEMBER would like to thank all of the artists who welcomed us into their studios and shared their practices with us over recent months. 
 
+Lil' Deb's Oasis' installation will feature pieces by Objects-in-the-Round, Body Language Shop, Like-Minded Objects, Becca Van K, and Goodfight Herb Company.
+
 For further information please visit the gallery at 449 Warren Street, Hudson, NY, visit our website at septembergallery.com, or contact Kristen Dodge at kristen@septembergallery.com.
