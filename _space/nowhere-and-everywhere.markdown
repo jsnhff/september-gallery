@@ -11,6 +11,14 @@ opening_end_time_and_date: 2019-08-24 20:00:00 -04:00
 images_with_captions:
 - image: "/uploads/Nowhere%20and%20Everywere_install_SEPT_WebRes_2.jpg"
   caption: Nowhere and Everywhere installation view - photo by Pete Mauney
+- image: "/uploads/Nowhere%20and%20Everywere_install_SEPT_WebRes_6.jpg"
+  caption: Nowhere and Everywhere installation view - photo by Pete Mauney
+- image: "/uploads/Nowhere%20and%20Everywere_Anne%20Lindberg_SEPT_WebRes.jpg"
+  caption: Anne Lindberg, I begin with the river, 2019, graphite and colored pencil
+    on mat board, 108 x 300 inches - photo by Pete Mauney
+- image: "/uploads/Nowhere%20and%20Everywere_Sarah%20Braman%202_SEPT_WebRes.jpg"
+  caption: Sarah Braman, July Dinner, 2015, glass, stainless steel, dining table,
+    fabric, wood dye, 60 x 36 inches - photo by Pete Mauney
 research_links:
   Sarah Braman: https://www.canadanewyork.com/artists/sarah-braman/
   Anne Lindberg: http://www.annelindberg.com/
