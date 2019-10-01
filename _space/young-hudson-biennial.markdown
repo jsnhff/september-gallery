@@ -10,25 +10,25 @@ opening_start_time_and_date: 2019-10-05 18:00:00 -04:00
 opening_end_time_and_date: 2019-10-05 20:00:00 -04:00
 ---
 
-Conor Backman
-Ále Campos
-Flo Honnet
-Hannah Black & Carla Perez-Gallardo of Lil' Deb's Oasis
-Christine Pfister
-Tomm Roeschlein
-Padma Rajendran
-Aaron Skolnick
-Louise Cooper Smith
+CONOR BACKMAN
+ÁLE CAMPOS
+FLO HONNET
+HANNAH BLACK & CARLA PEREZ-GALLARDO of LIL' DEB'S OASIS
+CHRISTINE PFISTER
+TOMM ROESCHLEIN
+PADMA RAJENDRAN
+AARON SKOLNICK
+LOUISE COOPER SMITH
 
+Performance night: October 31, 2019, 7PM
 Performances by:
-Zia Anger 
-Billie Bello
-Hannah Black & Carla Perez-Gallardo of Lil' Deb's Oasis
-Celeste 
-Davon
-Khloraform Kardashian 
-Emily Ritz
-and more
+ZIA ANGER
+BILLIE BELLO
+HANNAH BLACK & CARLA PEREZ-GALLARDO of LIL' DEB'S OASIS
+CELESTE 
+DAVON
+KHLORAFORM KARDASHIAN
+EMILY RITZ
 
 September is pleased to present the inaugural Young Hudson Biennial, opening Saturday, October 5, 2019. Over 30 studio visits were conducted, and over 40 artists under the age of 35 were considered for this exhibition. All of these artists live within the immediate radius of Hudson, NY, and all have been living and working in the area for at least a year, many for several years.
 
