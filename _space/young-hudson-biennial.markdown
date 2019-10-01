@@ -5,12 +5,9 @@ key_image: "/uploads/yule_002_01_X1_0696-bf7013.jpg"
 key_image_credit: Christine Pfister, Ghoul Log (detail), 2018, Stop motion animation
 start_date: 2019-10-05 00:00:00 -04:00
 end_date: 2019-11-10 00:00:00 -05:00
-opening_start_time_and_date: 2019-10-05 00:00:00 -04:00
+opening_start_time_and_date: 2019-10-05 18:00:00 -04:00
+opening_end_time_and_date: 2019-10-05 20:00:00 -04:00
 ---
-
-October 5 - November 10, 2019
-Opening Reception: Saturday, October 5, 6-8 PM
-Performance Night: Thursday, October 31, 7 PM
 
 Conor Backman
 Ále Campos
