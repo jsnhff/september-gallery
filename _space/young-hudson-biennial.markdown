@@ -8,7 +8,7 @@ start_date: 2019-10-05 00:00:00 -04:00
 end_date: 2019-11-10 00:00:00 -05:00
 opening_start_time_and_date: 2019-10-05 18:00:00 -04:00
 opening_end_time_and_date: 2019-10-05 20:00:00 -04:00
-artist_links:
+research_links:
   Conor Backman: http://conorbackman.com/areflectiveeyeball.html
   Ále Campos: http://alecampos.virb.com/
   Floryn Honnet: http://florynhon.net/
