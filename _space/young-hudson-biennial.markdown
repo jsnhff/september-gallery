@@ -14,9 +14,13 @@ research_links:
   Floryn Honnet: http://florynhon.net/
   Lil' Deb's Oasis: https://www.lildebsoasis.com/oasis
   Christine Pfister: http://www.christinepfister.com
+  Good Fight Herb Co.: http://www.goodfightherbco.com/
+  Elise McMahon: https://www.likemindedobjects.com/
   Padma Rajendran: https://padmarajendran.com
   Aaron Skolnick: https://www.aaronskolnick.com
   Louise Cooper Smith: http://www.louisecoopersmith.com
+  Becca Van K: http://www.beccavank.com/
+  Jackie Zdrojeski: https://www.bodylanguageshop.com
 ---
 
 CONOR BACKMAN
