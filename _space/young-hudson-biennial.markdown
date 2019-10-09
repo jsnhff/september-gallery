@@ -11,11 +11,12 @@ opening_end_time_and_date: 2019-10-05 20:00:00 -04:00
 research_links:
   Conor Backman: http://conorbackman.com/areflectiveeyeball.html
   Ále Campos: http://alecampos.virb.com/
+  Sonia Corina: http://soniacorina.com
+  Good Fight Herb Co.: http://www.goodfightherbco.com/
   Floryn Honnet: http://florynhon.net/
   Lil' Deb's Oasis: https://www.lildebsoasis.com/oasis
-  Christine Pfister: http://www.christinepfister.com
-  Good Fight Herb Co.: http://www.goodfightherbco.com/
   Elise McMahon: https://www.likemindedobjects.com/
+  Christine Pfister: http://www.christinepfister.com
   Padma Rajendran: https://padmarajendran.com
   Aaron Skolnick: https://www.aaronskolnick.com
   Louise Cooper Smith: http://www.louisecoopersmith.com
