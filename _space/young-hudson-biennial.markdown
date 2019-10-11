@@ -8,6 +8,19 @@ start_date: 2019-10-05 00:00:00 -04:00
 end_date: 2019-11-10 00:00:00 -05:00
 opening_start_time_and_date: 2019-10-05 18:00:00 -04:00
 opening_end_time_and_date: 2019-10-05 20:00:00 -04:00
+images_with_captions:
+- image: "/uploads/Young%20Hudson%20Biennial_SEPTEMBER_Floryn%20Honnet2_WebRes.jpg"
+  caption: '"Thank You (Adult Nightmare)" by Floryn Honnet - photo by Pete Mauney'
+- image: "/uploads/Young%20Hudson%20Biennial_SEPTEMBER_install2_WebRes.jpg"
+  caption: Young Hudson Biennial installation view - photo by Pete Mauney
+- image: "/uploads/Young%20Hudson%20Biennial_SEPTEMBER_install1_WebRes.jpg"
+  caption: Young Hudson Biennial installation view - photo by Pete Mauney
+- image: "/uploads/Young%20Hudson%20Biennial_SEPTEMBER_Christine%20Pfister2_WebRes.jpg"
+  caption: '"Ghoul Log" by Christine Pfister - photo by Pete Mauney'
+- image: "/uploads/Young%20Hudson%20Biennial_SEPTEMBER_install6_WebRes.jpg"
+  caption: Young Hudson Biennial installation view - photo by Pete Mauney
+- image: "/uploads/Young%20Hudson%20Biennial_SEPTEMBER_Floryn%20Honnet_thank%20you_WebRes.jpg"
+  caption: '"Thank You (Adult Nightmare)" by Floryn Honnet - photo by Pete Mauney'
 research_links:
   Conor Backman: http://conorbackman.com/areflectiveeyeball.html
   Ále Campos: http://alecampos.virb.com/
