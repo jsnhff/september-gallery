@@ -1,5 +1,5 @@
 ---
-title: ODESSA STRAUB
+title: 'Odessa Straub: There''s my chair I put it there'
 date: 2019-11-02 14:46:00 -04:00
 key_image: "/uploads/CC_Odessa%20Straub_2019_Previous%20Precautionary%20Practice%20copy.jpg"
 key_image_credit: ODESSA STRAUB-Pervious Precautionary Practice-2019-acrylic, dye,
