@@ -6,8 +6,8 @@ key_image_credit: ODESSA STRAUB-Pervious Precautionary Practice-2019-acrylic, dy
   leather, patent leather, on canvas-55 x 42 inches-139.7 x 106.68 cm
 start_date: 2019-11-23 00:00:00 -05:00
 end_date: 2020-01-12 00:00:00 -05:00
-opening_start_time_and_date: 2019-11-23 00:00:00 -05:00
-opening_end_time_and_date: 2019-11-23 00:00:00 -05:00
+opening_start_time_and_date: 2019-11-23 18:00:00 -05:00
+opening_end_time_and_date: 2019-11-23 20:00:00 -05:00
 ---
 
 SEPTEMBER is pleased to present Odessa Straub’s second solo exhibition with the gallery, There’s my chair I put it there, opening Saturday, November 23, 2019, running through January 12, 2020. The exhibition is a culmination of mixed media paintings and sculptures created within the last year. 
