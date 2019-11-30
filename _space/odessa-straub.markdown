@@ -6,6 +6,21 @@ start_date: 2019-11-23 00:00:00 -05:00
 end_date: 2020-01-12 00:00:00 -05:00
 opening_start_time_and_date: 2019-11-23 18:00:00 -05:00
 opening_end_time_and_date: 2019-11-23 20:00:00 -05:00
+images_with_captions:
+- image: "/uploads/KDodge_11-23-19_D4_8793_sRGB_WebRes.jpg"
+  caption: 
+- image: "/uploads/KDodge_11-23-19_D4_8796_sRGB_WebRes.jpg"
+  caption: 
+- image: "/uploads/KDodge_11-23-19_D4_8804_sRGB_WebRes.jpg"
+  caption: 
+- image: "/uploads/KDodge_11-23-19_D4_8807_sRGB_WebRes.jpg"
+  caption: 
+- image: "/uploads/KDodge_11-23-19_D4_8811_sRGB_WebRes.jpg"
+  caption: 
+- image: "/uploads/KDodge_11-23-19_D4_8809_sRGB_WebRes.jpg"
+  caption: 
+- image: "/uploads/ODESSA%20STRAUB-Fostering%20Freedom%20Filth-2.jpg"
+  caption: 
 ---
 
 SEPTEMBER is pleased to present Odessa Straub’s second solo exhibition with the gallery, There’s my chair I put it there, opening Saturday, November 23, 2019, running through January 12, 2020. The exhibition is a culmination of mixed media paintings and sculptures created within the last year. 
