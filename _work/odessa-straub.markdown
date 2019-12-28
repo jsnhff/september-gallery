@@ -9,6 +9,7 @@ is_always: true
 is_sometimes: false
 first_letter_of_last_name: b
 exhibition_links:
+  There's my chair I put it there: http://septembergallery.com/space/odessa-straub.html
   New Puss Technolgies: http://septembergallery.com/space/real-puss-technologies.html
   NADA, NY: https://574b47f47eb98c7c7067b67c.preview.siteleaf.com/space/nada.html
   Post-Election: http://septembergallery.com/space/post-election-show.html
