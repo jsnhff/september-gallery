@@ -8,22 +8,22 @@ end_date: 2016-10-16 18:00:00 -04:00
 opening_start_time_and_date: 2016-08-06 18:00:00 -04:00
 opening_end_time_and_date: 2016-08-06 20:00:00 -04:00
 artist_links:
-  Jennifer Paige Cohen: 
-  Taylor Davis: 
-  Davis, Cherubini: 
-  Rachel Foullon: 
-  Kim Gordon: 
-  Anna Sew Hoy: 
-  Sofia Hultén: 
-  Laurel Nakadate: 
-  Sara Greenberger Rafferty: 
-  Brie Ruais: 
-  Xaviera Simmons: 
-  Nancy Shaver: 
-  Barb Smith: 
-  Shinique Smith: 
-  Agathe Snow: 
-  Odessa Straub: 
+  Nicole Cherubini: http://septembergallery.com/work/nicole-cherubini.html
+  Jennifer Paige Cohen: https://nicellebeauchene.com/artists/jennifer-paige-cohen/
+  Taylor Davis: http://septembergallery.com/work/taylor-davis.html
+  Rachel Foullon: https://rachelfoullon.com/
+  Kim Gordon: https://www.303gallery.com/artists/kim-gordon
+  Anna Sew Hoy: http://annasewhoy.info/
+  Sofia Hultén: http://www.sofiahulten.de/
+  Laurel Nakadate: https://laurelnakadate.weebly.com/
+  Sara Greenberger Rafferty: https://www.sgrstudio.info/
+  Brie Ruais: http://septembergallery.com/work/brie-ruais.html
+  Xaviera Simmons: https://davidcastillogallery.com/artists/xaviera-simmons/
+  Nancy Shaver: https://www.nancyshaverartist.com/
+  Barb Smith: http://www.barbarasmithart.com/
+  Shinique Smith: https://shiniquesmith.com/
+  Agathe Snow: https://www.guggenheim.org/artwork/artist/agathe-snow
+  Odessa Straub: http://septembergallery.com/work/odessa-straub.html
 images:
 - "/uploads/Blue%20Jean%20Baby%20Install%20I.jpg"
 - "/uploads/Blue%20Jean%20Baby%20Install%20II.jpg"
