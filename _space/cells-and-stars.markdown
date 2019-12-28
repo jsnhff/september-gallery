@@ -40,10 +40,7 @@ research_links:
   Carrie Moyer: http://www.carriemoyer.com/
 ---
 
-NICOLE CHERUBINI  
-VICTORIA FU  
-CARRIE MOYER  
-
+Nicole Cherubini, Victoria Fu, Carrie Moyer
 
 September is pleased to present *Stars and Cells*. 
 
