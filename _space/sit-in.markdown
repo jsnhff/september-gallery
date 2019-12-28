@@ -27,7 +27,7 @@ research_links:
   imby: https://imby.com/hudson/article/art-and-about-more-or-less-or-both/
 ---
 
-SARAH BRAMAN   JANE BUSTIN  NICOLE CHERUBINI  LIZ COLLINS   FRANCESCA DIMATTIO  DEVON DIKEOU   BARBARA GALLUCCI   KATE GILMORE   MARY HEILMANN   JESSICA JACKSON HUTCHINS  LALEH KHORRAMIAN  HANNAH LEVY  LAUREL NAKADATE  SARA GREENBERGER RAFFERTY  JESSI REAVES  NANCY SHAVER  AGATHE SNOW  KIANJA STROBERT 
+Sarah Braman, Jane Bustin, Nicole Cherubini, Liz Collins, Francesca DiMattio, Devon Dikeou, Barbara Gallucci, Kate Gilmore, Mary Heilmann, Jessica Jackson Hutchins, Laleh Khorramian, Hannah Levy, Laurel Nakadate, Sara Greenberger Rafferty, Jessi Reaves, Nancy Shaver, Agathe Snow, Kianja Strobert
 
 September is pleased to present *Sit-In*, a collective look at the shifting function of a familiar form. 
 
