@@ -19,7 +19,7 @@ images:
 - "/uploads/KDodge_07-13-19_D4_4304_sRGB_WebRes.jpg"
 ---
 
-KATHERINE BAUER   ANNIE BIELSKI   ASHLEY GARRETT  BRENDA GOODMAN   ANNE LINDBERG   LAUREN LULOFF   DONNA MOYLAN   MICHELLE SEGRE   JACKIE SACCOCCIO   ODESSA STRAUB   KIANJA STROBERT   AMANDA VALDEZ   SUN YOU   NICOLE WITTENBERG
+Katherine Bauer, Annie Bielski, Ashley Garrett, Brenda Goodman, Anne Lindberg, Lauren Luloff, Donna Moylan, Michelle Segre, Jackie Saccoccio, Odessa Straub, Kianja Strobert, Amanda Valdez, Sun You, Nicole Wittenberg
 
 September is pleased to present *Yellow*, a group exhibition of 14 artists working with the color yellow in subtle or startling ways. Regardless of the surface area occupied, the color yellow plays a significant role in each work selected for the exhibition.
 
