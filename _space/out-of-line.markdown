@@ -16,7 +16,7 @@ images:
 - "/uploads/Out%20of%20Line%20Installation%204-dbaccb.jpg"
 ---
 
-ANNE BERESFORD   JUDITH BRAUN   LUKAZA BRANFMAN-VERISSIMO   CYNTHIA DAIGNAULT   TAYLOR DAVIS   KIM FALER   ROCHELLE FEINSTEIN   FERNANDA FRAGATEIRO   DANA FRANKFORT   TAMARA GAYER   MEG HITCHCOCK   KATHERINE HUBBARD   JOYEUX JANSON   ANNA K.E.   SUSAN LIPPER   NYEEMA MORGAN   KAY ROSEN   AMANDA ROSS-HO   CARRIE SCHNEIDER   ALLYSON STRAFELLA
+Anne Beresford, Judith Braun, Luka Branfman-Verissimo, Cynthia Daignault, Taylor Davis, Kim Faler, Rochelle Feinstein, Fernanda Fragateiro, Dana Frankfort, Tamara Gayer, Meg Hitchcock, Katherine Hubbard, Joyeux Janson, Anna K.E., Susan Lipper, Nyeema Morgan, Kay Rosen, Amanda Ross-Ho, Carrie Schneider, Allyson Strafella
 
 September is pleased to present *Out of Line*.  
 
