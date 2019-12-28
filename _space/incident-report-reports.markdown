@@ -27,18 +27,7 @@ research_links:
   WAMC: http://wamc.org/post/rogovoy-report-9117
 ---
 
-NANCY SHAVER
-ALLYSON STRAFELLA
-MAXIMILIAN GOLDFARB
-TYLER ROWLAND
-CARLA HERRERA-PRATS
-TAYLOR DAVID
-BRUCE DOW
-JOAN LINDER
-NICK TOBIER
-EDNA ARLOWEEN
-CHRIS LEE
-HELEN MIRRA
+Nancy Shaver, Allyson Strafella, Maximilian Goldfarb, Tyler Rowland, Carla Herrera-Prats, Taylor Davis, Bruce Dow, Joan Linder, Nick Tobier, Edna Arloween, Chris Lee, Helen Mirra
 
 SEPTEMBER is pleased to present *Incident Report: Reports*. 
 
