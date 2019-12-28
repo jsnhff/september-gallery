@@ -17,6 +17,23 @@ images:
 - "/uploads/KDodge_07-13-19_D4_4316_sRGB_WebRes.jpg"
 - "/uploads/KDodge_07-13-19_D4_4319_sRGB_WebRes.jpg"
 - "/uploads/KDodge_07-13-19_D4_4304_sRGB_WebRes.jpg"
+images_with_captions:
+- Katherine Bauer: https://microscopegallery.com/katherine-bauer-art/
+  Annie Bielski: http://septembergallery.com/work/annie-bielski.html
+  Ashley Garrett: https://www.ashleygarrett.com/
+  Brenda Goodman: http://septembergallery.com/work/brenda-goodman.html
+  Anne Lindberg: http://septembergallery.com/work/anne-lindberg.html
+  Lauren Luloff: http://www.halseymckay.com/lauren-luloff-3
+  Donna Moylan: http://donnamoylan.com/
+  Michelle Segre: http://michellesegre.com/
+  Jackie Saccoccio: https://www.jackiesaccoccio.com/
+  Odessa Straub: http://septembergallery.com/work/odessa-straub.html
+  Kianja Strobert: http://septembergallery.com/work/kianja-strobert.html
+  Amanda Valdez: https://amandavaldez.com/
+  Sun You: http://septembergallery.com/work/sun-you.html
+  Nicole Wittenberg: http://nicolewittenberg.com/
+research_links:
+  Key: 
 ---
 
 Katherine Bauer, Annie Bielski, Ashley Garrett, Brenda Goodman, Anne Lindberg, Lauren Luloff, Donna Moylan, Michelle Segre, Jackie Saccoccio, Odessa Straub, Kianja Strobert, Amanda Valdez, Sun You, Nicole Wittenberg
