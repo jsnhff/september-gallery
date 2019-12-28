@@ -28,15 +28,7 @@ images_with_captions:
   caption: 
 ---
 
-THEODORA ALLEN
-JULIA BLAND
-JAMIE ISRAELOW
-ANNE LINDBERG
-KATE NEWBY
-JENNY PERLIN
-NORI PAO
-CARRIE SCHNEIDER
-LETHA WILSON
+Theodora Allen, Julia Bland, Jamie Israelow, Anne Lindberg, Kate Newby, Jenny Perlin, Nori Pao, Carrie Schneider, Letha Wilson
 
 September is pleased to present *Still Life*, co-curated with Candice Madey, including works by Theodora Allen, Julia Bland, Jamie Israelow, Anne Lindberg, Kate Newby, Jenny Perlin, Nori Pao, Carrie Schneider, and Letha Wilson.
 
