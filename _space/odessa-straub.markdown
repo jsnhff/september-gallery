@@ -21,6 +21,9 @@ images_with_captions:
   caption: 
 - image: "/uploads/ODESSA%20STRAUB-Fostering%20Freedom%20Filth-2.jpg"
   caption: 
+research_links:
+  The Brooklyn Rail: https://brooklynrail.org/2019/12/artseen/Odessa-StraubTheres-my-chair-I-put-it-there
+  Artforum: https://www.artforum.com/picks/odessa-straub-81679
 ---
 
 SEPTEMBER is pleased to present Odessa Straub’s second solo exhibition with the gallery, There’s my chair I put it there, opening Saturday, November 23, 2019, running through January 12, 2020. The exhibition is a culmination of mixed media paintings and sculptures created within the last year. 
