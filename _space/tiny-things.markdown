@@ -18,7 +18,7 @@ research_links:
   Stefanie Victor: http://s-c-v.net/
 ---
 
-SEPTEMBER presents *Tiny Things*, an exhibition of sculpture and photography, opening Saturday, February 1, 2020. Artists included are Sue Collis, Nina Katchadourian, Kate Newby, Liliana Porter, Zoë Sheehan Saldaña, Barb Smith, Julianne Swartz, and Stefanie Victor.
+SEPTEMBER presents *Tiny Things*, an exhibition of sculpture and photography, opening Saturday, February 1, 2020. Artists included are Susan Collis, Nina Katchadourian, Kate Newby, Liliana Porter, Zoë Sheehan Saldaña, Barb Smith, Julianne Swartz, and Stefanie Victor.
 
 The overall impact of Tiny Things will be a slow reveal, rewarding close attention and quiet engagement. Many of the works will not be discernible, or even visible from afar, requiring a close approach to achieve focus, or to discover their presence at all: a miniature figurine, a loose matchstick, a solitary screw. Things that hide in plain sight.
 
