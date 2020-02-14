@@ -7,6 +7,21 @@ start_date: 2020-02-01 18:00:00 -05:00
 end_date: 2020-03-15 18:00:00 -04:00
 opening_start_time_and_date: 2020-02-01 18:00:00 -05:00
 opening_end_time_and_date: 2020-02-01 20:00:00 -05:00
+images_with_captions:
+- image: "/uploads/KDodge_01-31-20_D4_1682_sRGB_WebRes.jpg"
+  caption: 
+- image: "/uploads/KDodge_01-31-20_D4_1693_sRGB_WebRes.jpg"
+  caption: 
+- image: "/uploads/KDodge_01-31-20_D4_1685_sRGB_WebRes.jpg"
+  caption: 
+- image: "/uploads/KDodge_01-31-20_D4_1694_sRGB_WebRes.jpg"
+  caption: 
+- image: "/uploads/KDodge_01-31-20_D4_1697_sRGB_WebRes.jpg"
+  caption: 
+- image: "/uploads/KDodge_01-31-20_D4_1703_sRGB_WebRes.jpg"
+  caption: 
+- image: "/uploads/KDodge_01-31-20_D4_1707_sRGB_WebRes.jpg"
+  caption: Installation photography by Pete Mauney
 research_links:
   Susan Collis: http://www.seventeengallery.com/artists/susan-collis/
   Nina Katchadourian: http://www.ninakatchadourian.com/
