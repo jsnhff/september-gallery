@@ -1,5 +1,5 @@
 ---
-title: Aegis
+title: 'Ashley Garrett: Aegis'
 date: 2020-02-28 15:22:00 -05:00
 key_image: "/uploads/Garrett_Splendor_2019.jpg"
 start_date: 2020-03-21 00:00:00 -04:00
