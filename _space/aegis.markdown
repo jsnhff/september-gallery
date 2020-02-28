@@ -1,7 +1,7 @@
 ---
 title: 'Ashley Garrett: Aegis'
 date: 2020-02-28 15:22:00 -05:00
-key_image: "/uploads/Garrett_Emptyrealm_2019.jpg"
+key_image: "/uploads/Ashley-Garrett_Empty-Realm-2019.jpg"
 start_date: 2020-03-21 00:00:00 -04:00
 end_date: 2020-05-03 00:00:00 -04:00
 artist_links:
