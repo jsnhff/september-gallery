@@ -7,6 +7,8 @@ start_date: 2020-02-01 18:00:00 -05:00
 end_date: 2020-03-15 18:00:00 -04:00
 opening_start_time_and_date: 2020-02-01 18:00:00 -05:00
 opening_end_time_and_date: 2020-02-01 20:00:00 -05:00
+artist_links:
+  '"Perfect Match" by Axel Bishop': http://septembergallery.com/uploads/perfectMatch.pdf
 images_with_captions:
 - image: "/uploads/KDodge_01-31-20_D4_1682_sRGB_WebRes.jpg"
   caption: 
