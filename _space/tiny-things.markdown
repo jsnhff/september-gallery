@@ -31,7 +31,7 @@ research_links:
   Barb Smith: http://www.barbarasmithart.com/
   Julianne Swartz: http://www.julianneswartz.com/
   Stefanie Victor: http://s-c-v.net/
-  A Perfect Match: http://septembergallery.com/uploads/perfectMatch.pdf
+  '"Tiny Things" -Axel Bishop, 2020': http://septembergallery.com/uploads/perfectMatch.pdf
 ---
 
 SEPTEMBER presents *Tiny Things*, an exhibition of sculpture and photography, opening Saturday, February 1, 2020. Artists included are Susan Collis, Nina Katchadourian, Kate Newby, Liliana Porter, Zoë Sheehan Saldaña, Barb Smith, Julianne Swartz, and Stefanie Victor.
