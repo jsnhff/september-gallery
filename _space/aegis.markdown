@@ -19,6 +19,7 @@ Garrett writes, “We are here now, at a moment to look backwards and forwards a
 
 
 All I could see from where I stood 
+
 Was three long mountains and a wood;
 I turned and looked another way,
 And saw three islands in a bay.
