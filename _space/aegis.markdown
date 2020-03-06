@@ -19,6 +19,7 @@ Garrett writes, “We are here now, at a moment to look backwards and forwards a
 
 
 All I could see from where I stood 
+
 Was three long mountains and a wood;
 
 I turned and looked another way,
@@ -30,14 +31,23 @@ So with my eyes I traced the line
 Of the horizon, thin and fine,
 
 Straight around till I was come
+
 Back to where I started from;
+
 And all I saw from where I stood
+
 Was three long mountains and a wood.
+
 Over these things I could not see;
+
 These things were the things that bounded me;
+
 And I could not touch them with my hand,
+
 Almost, I thought, from where I stand.
+
 And all at once things seemed so small
+
 My Breath came short, and scarce at all.
 
 -Edna St. Vincent Millay
