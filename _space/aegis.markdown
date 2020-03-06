@@ -38,7 +38,6 @@ My Breath came short, and scarce at all.
 -Edna St. Vincent Millay
 Renascence
 
-
 However, Garrett’s landscapes are not versions of landscapes; they are states of being made visually manifest through the suggestion of a natural space opening and closing. The movement of her brushwork imbues her compositions with liquid energy and freedom from stasis, or definition. 
 
 The title of Garrett’s show, Aegis, is itself unfixed. Historians disagree over the origins and specifics of this shifting symbol in Greek mythology. It is a shield, an animal skin, a roaring sound. It is both Zeus' violent windstorm and protection for gods and mortals. Its nature is uncertain, however, its purpose is to safeguard. 
