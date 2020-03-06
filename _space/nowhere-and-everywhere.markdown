@@ -1,7 +1,7 @@
 ---
 title: Nowhere and Everywhere
 date: 2019-08-06 16:02:00 -04:00
-position: 2
+position: 5
 key_image: "/uploads/Mary%20Ellen%20Strom-TREE%20LINES%20J1-2013-digital%20print%20with%20frame-20x30%20inches-MS100.1121.1.jpg"
 key_image_credit: Mary Ellen Strom- TREE LINES, Detail- 2013- c-print- 30 x 20 inches
 start_date: 2019-08-16 00:00:00 -04:00

@@ -1,7 +1,7 @@
 ---
 title: 'Odessa Straub: Real Puss Technologies'
 date: 2017-06-18 13:02:00 -04:00
-position: 13
+position: 16
 key_image: "/uploads/Straub%206.jpg"
 start_date: 2017-07-15 18:00:00 -04:00
 end_date: 2017-08-20 18:00:00 -04:00
