@@ -19,12 +19,16 @@ Garrett writes, “We are here now, at a moment to look backwards and forwards a
 
 
 All I could see from where I stood 
-
 Was three long mountains and a wood;
+
 I turned and looked another way,
+
 And saw three islands in a bay.
+
 So with my eyes I traced the line
+
 Of the horizon, thin and fine,
+
 Straight around till I was come
 Back to where I started from;
 And all I saw from where I stood
