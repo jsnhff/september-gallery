@@ -5,6 +5,8 @@ position: 1
 key_image: "/uploads/Ashley-Garrett_Empty-Realm-2019.jpg"
 start_date: 2020-03-28 00:00:00 -04:00
 end_date: 2020-05-10 00:00:00 -04:00
+opening_start_time_and_date: 2020-03-28 00:00:00 -04:00
+opening_end_time_and_date: 2020-03-28 00:00:00 -04:00
 artist_links:
   Ashley Garrett: https://www.ashleygarrett.com/
 ---
