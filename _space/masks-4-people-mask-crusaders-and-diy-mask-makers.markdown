@@ -9,7 +9,7 @@ start_date: 2020-03-22 00:00:00 -04:00
 
 With a team of local artists and makers lead by Laleh Khorramian, we are producing hundreds of washable and reusable face masks for front line hospital workers who are risking their lives to care for those in need. The availability of protective gear at hospitals is rapidly dwindling, if it has not already been depleted. We need to respond quickly to their urgent need.
 
-Our output is limited by available resources and localized. In an effort to encourage the production of masks in other communities, we will be sharing a digital pattern, material specs, and an instructional video. 
+Our output is limited by available resources and localized. In an effort to encourage the production of masks in other communities, we will be sharing a digital pattern, material specs, and an instructional video soon. 
 
 There are many other makers and organizers who are responding to the growing crisis around us.
 
