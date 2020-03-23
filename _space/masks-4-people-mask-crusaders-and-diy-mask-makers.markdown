@@ -13,8 +13,11 @@ With a team of local artists and makers lead by Laleh Khorramian, we are produci
 If you have any of the following items, please email us at masks4people@gmail.com. 
 
 1/4 inch elastic band spools, or any amount
+
 18 gauge aluminum wire, or any wire that will not rust
+
 non-fusibile, non-woven interfacing
+
 tightly woven 100% cotton fabric
 
 THANK YOU!
