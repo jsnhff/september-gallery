@@ -10,7 +10,7 @@ end_date: 2020-05-16 00:00:00 -04:00
 
 With a team of local artists and makers lead by Laleh Khorramian, we are producing hundreds of washable and reusable face masks for front line hospital workers who are risking their lives to care for those in need. The availability of protective gear at hospitals is rapidly dwindling. We are working to respond quickly.
 
-We are running out of supplies. If you have any of the following items, please email us at masks4people@gmail.com. 
+If you have any of the following items, please email us at masks4people@gmail.com. 
 
 1/4 inch elastic band spools, or any amount
 
