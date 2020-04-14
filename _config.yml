@@ -61,7 +61,8 @@ defaults:
       Link One: ''
     catalog_link:
       Catalog: ''
-gallery_hours: 'Gallery Hours! Friday-Sunday: 12pm - 6pm and by appointment.'
+gallery_hours: 'Due to the COVID-19 crisis and the NYS guidelines for non-essential
+  businesses, our doors are currently closed. '
 is_closed: false
 why_youre_closed: Closed for installation.
 email: kristen@septembergallery.com
