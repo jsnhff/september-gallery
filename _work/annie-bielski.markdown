@@ -3,7 +3,8 @@ title: Annie Bielski
 date: 2016-07-20 06:32:00 -04:00
 position: 27
 key_image: "/uploads/BIELSKI-Demonstration.jpg"
-is_sometimes: true
+is_always: true
+is_sometimes: false
 first_letter_of_last_name: b
 exhibition_links:
   NADA: http://septembergallery.com/space/annie-bielski-at-nada-ny.html
