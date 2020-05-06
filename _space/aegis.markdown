@@ -3,6 +3,15 @@ title: 'Ashley Garrett: Aegis'
 date: 2020-02-28 15:22:00 -05:00
 position: 1
 key_image: "/uploads/Ashley-Garrett_Empty-Realm-2019.jpg"
+key_image_credit: |-
+  Ashley Garrett
+  Emptyrealm
+  2019
+  oil on gessoed paper
+  4 x 6 inches
+  10.16 x 15.24 cm
+  (AGA1025)
+  sold
 start_date: 2020-03-28 00:00:00 -04:00
 end_date: 2020-05-10 00:00:00 -04:00
 opening_start_time_and_date: 2020-03-28 00:00:00 -04:00
