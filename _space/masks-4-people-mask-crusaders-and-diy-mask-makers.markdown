@@ -20,6 +20,6 @@ Columbia Memorial Hospital, Harlem Hospital (NYC), Jacobi Medical Center (Bronx)
 Hudson (NY), Camphill Ghent (NY), Barrier Free Living (Bronx), Commonwealth Veterans Residence (NYC), Sanctuary for Families (NYC), Community Action of Greene County (NY), Palatine Manor Germantown (NY), Columbia Children's Center (NY), COARC (NY), Center for Urban Community Services (Bronx), Kaiser Permanente Women's Health 
 Department (CA), Vernon C Bain Center (Bronx), Columbia County Office for the Aging (NY), Dyckman Senior Center (NYC), No Woman left Behind (NYC), Lakeland Regional Health (FL), Whispering Pines Nursing Home and Rehab Center (NC), Meals on Wheels (NY), and others including food pantries, the homeless, and low income housing tenants. 
 
-masks4people.net
-masks4people@gmail.com 
-Insta: @masks_4_people
+masks4people.net  
+masks4people@gmail.com   
+Insta: @masks_4_people  
