@@ -5,7 +5,7 @@ key_image: "/uploads/NADA_galleryrelieffund_instagram_post_01.jpg"
 start_date: 2020-05-06 00:00:00 -04:00
 end_date: 2020-06-01 00:00:00 -04:00
 artist_links:
-  DONATE TO THE NADA GALLERY RELIEF FUND: https://www.paypal.com/donate/?token=yiBSQsFIcwWqZXA0fcBxnTqqF1RpC84rXMlc90VLaVqULr8RuPlp35I3zUsqXJCqrEgeeG&country.x=US&locale.x=US
+  Donate to NADA GALLERY RELIEF FUND: https://www.paypal.com/donate/?token=yiBSQsFIcwWqZXA0fcBxnTqqF1RpC84rXMlc90VLaVqULr8RuPlp35I3zUsqXJCqrEgeeG&country.x=US&locale.x=US
 ---
 
 The NADA team has been working from home since March 11th, and in that time many of our member galleries have closed their doors to the public. For many the business of art has largely been placed on pause – with exhibitions postponed or cancelled – resulting in uncertainty about how to continue covering the expenses of rent for their spaces and salaries for their staff.
