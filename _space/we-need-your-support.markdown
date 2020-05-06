@@ -1,5 +1,5 @@
 ---
-title: We need your support!
+title: Galleries need your support!
 date: 2020-05-06 14:17:00 -04:00
 key_image: "/uploads/NADA_galleryrelieffund_instagram_post_01.jpg"
 start_date: 2020-05-06 00:00:00 -04:00
