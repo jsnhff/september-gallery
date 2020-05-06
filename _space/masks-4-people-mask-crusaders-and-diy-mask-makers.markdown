@@ -12,7 +12,7 @@ Our mission at MASKS4PEOPLE is to make and distribute face masks to hospitals, h
 
 As of March 5, we have produced and distributed over 4,500 masks to over 150 different groups. The majority of our mask recipients are based in New York City where COVID-19 has been most rampant and destructive, and Upstate New York where our operations are located. However we have also served organizations in California, Florida, North Carolina, Oregon, Utah and others. 
 
-MASKS DESCRIPTION Our masks are not surgical-grade masks, nor are they N95 masks. They are three-layer masks: the outer layers are tightly woven cotton and the inner layer is non-fusible, non- woven interfacing. A bendable aluminum wire fits over the nose, tapered sides fit the face, and elastic bands hold the mask around the ears or behind the head. Our masks are machine washable and reusable. 
+Our M4P masks are not surgical-grade masks, nor are they N95 masks. They are three-layer masks: the outer layers are tightly woven cotton and the inner layer is non-fusible, non- woven interfacing. A bendable aluminum wire fits over the nose, tapered sides fit the face, and elastic bands hold the mask around the ears or behind the head. Our masks are machine washable and reusable. 
 
 masks4people.net
 masks4people@gmail.com 
