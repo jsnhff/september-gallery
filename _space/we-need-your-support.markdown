@@ -3,7 +3,7 @@ title: Galleries need your support!
 date: 2020-05-06 14:17:00 -04:00
 key_image: "/uploads/NADA_galleryrelieffund_instagram_post_01.jpg"
 start_date: 2020-05-06 00:00:00 -04:00
-end_date: 2020-06-01 00:00:00 -04:00
+end_date: 2020-05-18 00:00:00 -04:00
 artist_links:
   Donate to NADA GALLERY RELIEF FUND: https://www.paypal.com/donate/?token=yiBSQsFIcwWqZXA0fcBxnTqqF1RpC84rXMlc90VLaVqULr8RuPlp35I3zUsqXJCqrEgeeG&country.x=US&locale.x=US
 ---
