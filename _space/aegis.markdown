@@ -12,7 +12,7 @@ key_image_credit: |-
   10.16 x 15.24 cm
   (AGA1025)
   sold
-start_date: 2020-06-06 00:00:00 -04:00
+start_date: 2020-06-26 12:00:00 -04:00
 end_date: 2020-08-09 17:00:00 -04:00
 opening_start_time_and_date: 2020-03-28 00:00:00 -04:00
 opening_end_time_and_date: 2020-03-28 00:00:00 -04:00
