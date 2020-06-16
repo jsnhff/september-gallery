@@ -14,8 +14,6 @@ key_image_credit: |-
   sold
 start_date: 2020-06-26 12:00:00 -04:00
 end_date: 2020-08-09 17:00:00 -04:00
-artist_links:
-  Key: 
 ---
 
 SEPTEMBER is pleased to present, Aegis, a solo exhibition with Ashley Garrett. To view images and receive information about available works, please email kristen@septembergallery.com. 
