@@ -16,7 +16,7 @@ start_date: 2020-06-26 12:00:00 -04:00
 end_date: 2020-08-09 17:00:00 -04:00
 ---
 
-SEPTEMBER presents Aegis, Ashley Garrett's first solo exhibition with the gallery. After several delayed starts, we are thrilled to share a body of work that has been waiting for eyes since mid-March. We would like to express our gratitude to Ashley who has been extraordinary in her patience and perseverance, pivoting with us along the way. There has been nothing static about the experience of putting on this show, and we are aware of what time has offered us, allowing shifts both subtle and significant. 
+SEPTEMBER presents *Aegis*, Ashley Garrett's first solo exhibition with the gallery. After several delayed starts, we are thrilled to share a body of work that has been waiting for eyes since mid-March. We would like to express our gratitude to Ashley who has been extraordinary in her patience and perseverance, pivoting with us along the way. There has been nothing static about the experience of putting on this show, and we are aware of what time has offered us, allowing shifts both subtle and significant. 
 
 Aegis includes 16 of Garrett's smallest oil paintings at 4 x 6 inches, and one of her largest works at a towering 94 x 57 inches. Garrett's two scales mark the physical extremity of her practice, demonstrating the adjustments of perception that she exercises in her process. The installation itself requires proximity and distance. Garrett's small works occupy the majority of the exhibition, while a singular large work embraces an unobtrusive, initially unseen space. To confront and absorb the marvel of each piece, movement is required.
  
