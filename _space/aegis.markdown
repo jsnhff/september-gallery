@@ -14,6 +14,17 @@ key_image_credit: |-
   sold
 start_date: 2020-06-26 12:00:00 -04:00
 end_date: 2020-08-09 17:00:00 -04:00
+images_with_captions:
+- image: "/uploads/SEPTEMBER-ASHLEY%20GARRETT-INSTALLATION%201.jpg"
+  caption: 
+- image: "/uploads/SEPTEMBER-ASHLEY%20GARRETT-INSTALLATION%203.jpg"
+  caption: 
+- image: "/uploads/SEPTEMBER-ASHLEY%20GARRETT-INSTALLATION%204.jpg"
+  caption: 
+- image: "/uploads/SEPTEMBER-ASHLEY%20GARRETT-INSTALLATION%205.jpg"
+  caption: 
+- image: "/uploads/SEPTEMBER-ASHLEY%20GARRETT-INSTALLATION%202.jpg"
+  caption: 
 ---
 
 SEPTEMBER presents *Aegis*, Ashley Garrett's first solo exhibition with the gallery. After several delayed starts, we are thrilled to share a body of work that has been waiting for eyes since mid-March. We would like to express our gratitude to Ashley who has been extraordinary in her patience and perseverance, pivoting with us along the way. There has been nothing static about the experience of putting on this show, and we are aware of what time has offered us, allowing shifts both subtle and significant. 
