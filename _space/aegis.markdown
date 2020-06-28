@@ -38,23 +38,40 @@ Garrett’s works are often deeply spatial and connected to landscape. However t
 Garrett's works deflect stasis and fractures unmoving perspectives. We are both near and far, here and there. The ground is underfoot and the horizon is at a distance. We are both physical and temporal, grand and insignificant. Trees stand on composted forest. Garrett writes, “We are here now, at a moment to look backwards and forwards at the same time and everything is close and altered and time is rushing forward.” Garrett’s paintings are a conscious exploration of simultaneity.
 
 All I could see from where I stood 
+
 Was three long mountains and a wood;
+
 I turned and looked another way,
+
 And saw three islands in a bay.
+
 So with my eyes I traced the line
+
 Of the horizon, thin and fine,
+
 Straight around till I was come
+
 Back to where I started from;
+
 And all I saw from where I stood
+
 Was three long mountains and a wood.
+
 Over these things I could not see;
+
 These things were the things that bounded me;
+
 And I could not touch them with my hand,
+
 Almost, I thought, from where I stand.
+
 And all at once things seemed so small
+
 My breath came short, and scarce at all.
+
  
 -Edna St. Vincent Millay, "Renascence," 1912
+
 
 The title of Garrett’s show, Aegis, is also unfixed. Historians disagree over the origins and specifics of this shifting symbol in Greek mythology. It is a shield, an animal skin, a roaring sound. It is both Zeus' violent windstorm and protection for gods and mortals. Its nature is uncertain, however its purpose is to safeguard.
 
