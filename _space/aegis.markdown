@@ -37,6 +37,7 @@ Garrett’s works are often deeply spatial and connected to landscape. However t
 
 Garrett's works deflect stasis and fractures unmoving perspectives. We are both near and far, here and there. The ground is underfoot and the horizon is at a distance. We are both physical and temporal, grand and insignificant. Trees stand on composted forest. Garrett writes, “We are here now, at a moment to look backwards and forwards at the same time and everything is close and altered and time is rushing forward.” Garrett’s paintings are a conscious exploration of simultaneity.
 
+
 All I could see from where I stood 
 
 Was three long mountains and a wood;
@@ -69,7 +70,7 @@ And all at once things seemed so small
 
 My breath came short, and scarce at all.
 
- 
+
 -Edna St. Vincent Millay, "Renascence," 1912
 
 
