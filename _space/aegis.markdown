@@ -54,8 +54,7 @@ Almost, I thought, from where I stand.
 And all at once things seemed so small
 My breath came short, and scarce at all.
  
--Edna St. Vincent Millay
-"Renascence," 1912
+-Edna St. Vincent Millay, "Renascence," 1912
 
 The title of Garrett’s show, Aegis, is also unfixed. Historians disagree over the origins and specifics of this shifting symbol in Greek mythology. It is a shield, an animal skin, a roaring sound. It is both Zeus' violent windstorm and protection for gods and mortals. Its nature is uncertain, however its purpose is to safeguard.
 
