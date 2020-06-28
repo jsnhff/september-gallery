@@ -13,7 +13,7 @@ key_image_credit: |-
   (AGA1025)
   sold
 start_date: 2020-06-26 12:00:00 -04:00
-end_date: 2020-08-09 17:00:00 -04:00
+end_date: 2020-08-16 17:00:00 -04:00
 images_with_captions:
 - image: "/uploads/SEPTEMBER-ASHLEY%20GARRETT-INSTALLATION%201.jpg"
   caption: 
