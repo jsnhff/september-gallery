@@ -2,8 +2,9 @@
 title: Laleh Khorramian
 date: 2018-06-16 17:24:00 -04:00
 position: 25
-key_image: "/uploads/LK12%20Egg%20Rig%202019%2070x89%20_1000px.jpg"
-key_image_credit: Laleh Khorramian, Unearth, Installation View, SEPTEMBER
+key_image: "/uploads/LKhorramian_04-27-19_D4_1468_sRGB_WebRes.jpg"
+key_image_credit: LALEH KHORRAMIAN-Data Portrait-2019-gold leaf, oil, varnish on wood-12
+  x 10 inches
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: a
