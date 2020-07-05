@@ -2,13 +2,9 @@
 title: Nicole Cherubini
 date: 2016-07-24 10:42:00 -04:00
 position: 17
-key_image: "/uploads/Nicole_Cherubini_F-Print%203%20(there%20is%20a%20fountain)_2019_press_GMG%20copy.jpg"
-key_image_credit: |-
-  Nicole Cherubini,
-  746,932,514.549713826,
-  2018,
-  earthenware, terracotta, black clay, glaze, underglaze, aluminum, steel bolts, wood, magic-sculpt, PC-11,
-  68 x 21 x 20 inches
+key_image: "/uploads/NCherubini_IceAge%20copy.tiff"
+key_image_credit: NICOLE CHERUBINI-Ice Age-2020-earthenware, glaze, underglaze, magic
+  sculpt, PC-11
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: c
