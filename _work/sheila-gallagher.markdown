@@ -2,9 +2,9 @@
 title: Sheila Gallagher
 date: 2016-07-24 11:09:00 -04:00
 position: 12
-key_image: "/uploads/SH%20Under%20the%20Influence%20Figure%20Eight%206x4.jpg"
-key_image_credit: Sheila Gallagher, Pneuma Hostis (Halo), 2013, gold leaf and cigarette
-  butts, 20 inch diameter
+key_image: "/uploads/SG1072-There%20is%20Beauty%20Yet%20Raging-HiRes%20copy.jpg"
+key_image_credit: SHEILA GALLAGHER-There is Beauty Yet Raging-2017-melted plastic
+  mounted on armature-63 x 63 inches
 is_always: true
 is_sometimes: true
 first_letter_of_last_name: g
