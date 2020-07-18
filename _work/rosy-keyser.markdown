@@ -2,13 +2,9 @@
 title: Rosy Keyser
 date: 2017-05-21 17:16:00 -04:00
 position: 0
-key_image: "/uploads/Keyser_8229.jpg"
-key_image_credit: |-
-  Rosy Keyser,
-  Turkey Cock,
-  2017,
-  oil, horsehair on canvas,
-  16 x 12 inches
+key_image: "/uploads/RK001-TerrestralMime-HiRes%20copy.jpg"
+key_image_credit: Rosy Keyser’s- Terrestrial Mime-2015-String, oil, dye, acrylic enamel,
+  furnace wick, cord, bamboo, brush, and board-100 x 80 inches
 is_sometimes: true
 first_letter_of_last_name: k
 exhibition_links:
