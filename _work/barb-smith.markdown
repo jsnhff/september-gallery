@@ -2,7 +2,10 @@
 title: Barb Smith
 date: 2016-07-19 19:01:00 -04:00
 position: 13
-key_image: "/uploads/BARB%20SMITH.jpg"
+key_image: "/uploads/Barb%20Smith-Untitled%20(Family)-2018-mixed%20media-16x8.75x2%20inches-web%20res.jpg"
+key_image_credit: Barb Smith-Untitled (Family)-2018-Ceramic, bronze, extracted pencil
+  eraser, bubble wand, stolen pool chalk, air dry clay, Aqua Resin, terracotta, mask
+  making latex, cooking twine, baby powder-16 x 8.75 x 2 inches
 is_sometimes: true
 first_letter_of_last_name: s
 research_links:
