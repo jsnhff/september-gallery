@@ -2,7 +2,7 @@
 title: Odessa Straub
 date: 2016-07-19 19:03:00 -04:00
 position: 26
-key_image: "/uploads/STRAUB-b43320.jpg"
+key_image: "/uploads/STRAUB%20copy.jpg"
 key_image_credit: ODESSA STRAUB-Spilled cistern and the swallowed breaking through-2019-acrylic,
   chili powder, and latex on canvas-53 x 60 inches
 is_always: true
