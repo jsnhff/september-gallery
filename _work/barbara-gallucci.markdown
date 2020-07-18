@@ -10,7 +10,7 @@ key_image_credit: |-
   44 x 44 x 32 inches,
   111.76 x 111.76 x 81.28 cm,
   Edition 14 of 20
-is_sometimes: true
+is_sometimes: false
 first_letter_of_last_name: g
 exhibition_links:
   Sit-In: http://septembergallery.com/space/sit-in.html
