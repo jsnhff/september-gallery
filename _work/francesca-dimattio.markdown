@@ -2,13 +2,9 @@
 title: Francesca DiMattio
 date: 2018-06-16 16:33:00 -04:00
 position: 19
-key_image: "/uploads/DiMattio_artbaseimage.jpg"
-key_image_credit: |-
-  Boucherouite III,
-  2017,
-  glaze, luster on porcelain and stoneware, enamel, acrylic paint and wood,
-  64 x 43 x 24 inches,
-  162.6 x 109.2 x 61 cm
+key_image: "/uploads/francesca-dimattio-chandelabra-ii-2015-glaze-and-luster-on-porcelain-and-stoneware-epoxy-steel-frame.jpg"
+key_image_credit: Francesca DiMattio-Chandelabra II-2015-glaze and luster on porcelain
+  and stoneware, epoxy, steel frame
 is_sometimes: true
 first_letter_of_last_name: d
 exhibition_links:
