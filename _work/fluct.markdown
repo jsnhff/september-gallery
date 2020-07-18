@@ -2,7 +2,8 @@
 title: FlucT
 date: 2016-07-20 06:32:00 -04:00
 position: 6
-key_image: "/uploads/FlucT.jpg"
+key_image: "/uploads/_DSC3132%20copy.jpg"
+key_image_credit: 'FLucT- Performance at SEPTEMBER, July 2016- photo: Tomm Roeschlein'
 is_sometimes: true
 first_letter_of_last_name: f
 research_links:
