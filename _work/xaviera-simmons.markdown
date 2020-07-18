@@ -2,7 +2,9 @@
 title: Xaviera Simmons
 date: 2016-07-19 19:00:00 -04:00
 position: 2
-key_image: "/uploads/SIMMONS.jpg"
+key_image: "/uploads/Simmons-Sundown-Number-Twenty-2019.jpg"
+key_image_credit: Xaviera Simmons- Sundown (Number 20)-2019-chromogenic color print-60
+  x 45 inches
 is_sometimes: true
 first_letter_of_last_name: s
 ---
