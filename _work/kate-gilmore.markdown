@@ -2,13 +2,8 @@
 title: Kate Gilmore
 date: 2018-06-16 16:10:00 -04:00
 position: 18
-key_image: "/uploads/IMG_2115-029b8a.jpg"
-key_image_credit: |-
-  Bend Motherfucker,
-  2017,
-  steel, enamel, audience participation,
-  18 x 43 x 23 inches,
-  45.7 x 109.2 x 58.4 cm
+key_image: "/uploads/Gilmore_Mind_The_Square%20copy.jpg"
+key_image_credit: Kate Gilmore-Mind the Square-2014-Performance, ICA Portland, ME
 is_always: false
 is_sometimes: true
 first_letter_of_last_name: g
