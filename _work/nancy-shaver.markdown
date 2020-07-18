@@ -2,7 +2,10 @@
 title: Nancy Shaver
 date: 2016-07-19 19:01:00 -04:00
 position: 3
-key_image: "/uploads/SHAVER%20To%20Richie%20Rich%202.jpg"
+key_image: "/uploads/Screen%20Shot%202020-07-18%20at%203.09.01%20PM%20copy.jpg"
+key_image_credit: Nancy Shaver-Red flame, golden grid, a large spacer-2020-canvas
+  panels, camouflage fabric, cotton tapestry fabric, fabric from Senegal, paper, Flasche
+  acrylic-29 x 32. 2 inches
 is_sometimes: true
 first_letter_of_last_name: s
 exhibition_links:
