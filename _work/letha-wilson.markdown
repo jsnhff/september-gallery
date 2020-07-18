@@ -2,9 +2,9 @@
 title: Letha Wilson
 date: 2017-05-21 15:27:00 -04:00
 position: 10
-key_image: "/uploads/Letha%20Wilson-Utah%20Canyons%20Concrete%20Bend%20.jpg"
-key_image_credit: Letha Wilson, Utah Canyons Concrete Bend, 2014, C-prints, emulsion
-  transfer, concrete, aluminum frame, 60 1/2 x 45 1/2 x 2 inches
+key_image: "/uploads/CaliforniaSunset.jpg"
+key_image_credit: Letha Wilson-California Sunset-2019-Edition 7 of 8, with 2AP-archival
+  ink jet print-13.5 x 11 inches
 is_sometimes: true
 first_letter_of_last_name: w
 exhibition_links:
