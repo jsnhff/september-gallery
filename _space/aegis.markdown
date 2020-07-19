@@ -35,7 +35,7 @@ From one painting to the next, Garrett’s brushwork maintains a reverent attent
 
 Garrett’s works are often deeply spatial and connected to landscape. However they are not derived from nature (though the outdoors deeply impacts Garrett and literally surrounds her studio), but from both an emotive and spiritual space. Garrett writes, “There’s such a challenge in that continual flattening and deepening that rotates around us when we’re outside, and that’s what I’m interested in discovering through painting space. Not a literal depiction of land but a quality of feeling held by it as it spins around you in time and light.” Nature is a conduit for Garrett.
 
-Garrett's works deflect stasis and fractures unmoving perspectives. We are both near and far, here and there. The ground is underfoot and the horizon is at a distance. We are both physical and temporal, grand and insignificant. Trees stand on composted forest. Garrett writes, “We are here now, at a moment to look backwards and forwards at the same time and everything is close and altered and time is rushing forward.” Garrett’s paintings are a conscious exploration of simultaneity.
+Garrett's works deflect stasis and fracture unmoving perspectives. We are both near and far, here and there. The ground is underfoot and the horizon is at a distance. We are both physical and temporal, grand and insignificant. Trees stand on composted forest. Garrett writes, “We are here now, at a moment to look backwards and forwards at the same time and everything is close and altered and time is rushing forward.” Garrett’s paintings are a conscious exploration of simultaneity.
 
 
 All I could see from where I stood 
