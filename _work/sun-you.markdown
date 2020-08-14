@@ -12,3 +12,4 @@ research_links:
   Artist's Website: http://sunyou.us/index.html
 ---
 
+Sun You (b. Seoul) received her BFA in Studio Art from the College for Creative Studies, and her MFA in Painting from Wayne State University. You has exhibited her work in galleries and museums internationally. Recent exhibition venues include The Anderson Gallery, Virginia Commonwealth University, Richmond, VA , Queens Museum, New York, The Korean Cultural Center, New York, Scotty Enterprises, Berlin,  Kunstlerhaus Schloss Balmoral, Bad Ems, Seoul Arts Center, Seoul, SARDINE, New York and The Suburban, Chicago. You was an artist in residence at The Sharpe-Walentas Studio Program, Marble House Project,  Atlantic Center for the Arts, Triangle Arts Association, and Künstlerhaus Schloss Balmoral in Bad Ems, Germany. She was also selected as  Artists to Watch in 2016 by WIDEWALLS and 18 Artists to Watch, by Modern Painters, 2015. She lives and works in New York.
