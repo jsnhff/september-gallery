@@ -15,3 +15,4 @@ research_links:
   Artnews: http://www.artnews.com/2014/03/24/rosy-keyser-sculptural-stories-that-never-end/
 ---
 
+Rosy Keyser (b. 1974 in Baltimore, Maryland, United States) is an American contemporary painter, known for working in large-scale gestural, tactile abstraction. Keyser received her BFA from Cornell University and received her MFA from the Art Institute of Chicago. She is represented by CFA Berlin and Maccarone Gallery in New York. She lives and works in Brooklyn and Medusa, New York.
