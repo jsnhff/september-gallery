@@ -14,3 +14,8 @@ research_links:
   Brooklyn Rail: https://brooklynrail.org/2018/03/artseen/LAUREL-SPARKS-Geomantria
 ---
 
+Laurel Sparks (b. 1972 in Phoenix, AZ) received her BFA from the School of the Museum of Fine Arts and Tufts University in Boston, MA (1995), and her MFA from Milton Avery Graduate School of Art at Bard College in Annandale-on-Hudson, NY (2004). Sparks has held solo exhibitions at Kate Werble Gallery (New York, NY); Barbara Walters Gallery (Bronxville, NY); Esoterico Collective (Brooklyn, NY); Montserrat College of Art (Beverly, MA), and more. Sparks has exhibited at venues including Cheim & Read (New York, NY); Franklin Street Works (Stamford, CT); The Museum of Fine Arts (Boston, MA); The Hessel Museum of Art (Annandale-on-Hudson, NY), and more. She has received grants and fellowships including the Elaine DeKooning Fellowship, SMFA Traveling Fellowship, Massachusetts Cultural Council Grant, Berkshire Taconic Fellowship, and a Boston Cultural Council Grant. She currently lives and works in Brooklyn, NY.
+
+
+
+
