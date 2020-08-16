@@ -11,9 +11,8 @@ key_image_credit: |-
   4 x 6 inches
   10.16 x 15.24 cm
   (AGA1025)
-  sold
 start_date: 2020-06-26 12:00:00 -04:00
-end_date: 2020-08-16 17:00:00 -04:00
+end_date: 2020-08-30 17:00:00 -04:00
 images_with_captions:
 - image: "/uploads/SEPTEMBER-ASHLEY%20GARRETT-INSTALLATION%201.jpg"
   caption: 
