@@ -1,7 +1,7 @@
 ---
 title: Out of Line
 date: 2018-07-05 15:06:00 -04:00
-position: 9
+position: 12
 key_image: "/uploads/Rosen-IOU(painting)-29957.jpg"
 key_image_credit: Kay Rosen "IOU",  2017, flash paint and acrylic gouache on canvas,
   8 x 10 inches

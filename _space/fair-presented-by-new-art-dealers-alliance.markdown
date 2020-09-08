@@ -1,6 +1,7 @@
 ---
 title: FAIR presented by New Art Dealers Alliance
 date: 2020-05-19 12:34:00 -04:00
+position: 2
 key_image: "/uploads/NADA%20FAIR%20Image.jpg"
 start_date: 2020-05-19 00:00:00 -04:00
 end_date: 2020-06-21 00:00:00 -04:00
