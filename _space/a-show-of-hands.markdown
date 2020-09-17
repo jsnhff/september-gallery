@@ -9,6 +9,8 @@ start_date: 2020-09-18 12:00:00 -04:00
 end_date: 2020-11-01 17:00:00 -05:00
 opening_start_time_and_date: 2020-09-18 12:00:00 -04:00
 opening_end_time_and_date: 2020-09-18 17:00:00 -04:00
+research_links:
+  The Rogovoy Report: http://rogovoyreport.com/2020/09/12/a-show-of-hands-exhibit-at-september-gallery/
 ---
 
 KATHERINE BRADFORD LUKAZA BRANFMAN-VERISSIMO NELL BROOKFIELD
