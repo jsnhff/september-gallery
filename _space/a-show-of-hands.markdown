@@ -13,8 +13,11 @@ research_links:
   The Rogovoy Report: http://rogovoyreport.com/2020/09/12/a-show-of-hands-exhibit-at-september-gallery/
 ---
 
-KATHERINE BRADFORD LUKAZA BRANFMAN-VERISSIMO NELL BROOKFIELD
-ASHLEY NORWOOD COOPER KAREN DANA
+KATHERINE BRADFORD 
+LUKAZA BRANFMAN-VERISSIMO 
+NELL BROOKFIELD
+ASHLEY NORWOOD COOPER 
+KAREN DANA
 CARLA DORTIC
 FLUCT + RITA MINISSI
 SHEREE HOVSEPIAN
@@ -24,18 +27,20 @@ EMILY LACOUR
 TAHNEE LONSDALE
 AMY PLEASANT
 EMILY RITZ
-KATHY RUTTENBERG GIORDANNE SALLEY
+KATHY RUTTENBERG 
+GIORDANNE SALLEY
 CARRIE SCHNEIDER
 SHAKERS
 AARON SKOLNICK
 ELENI SMOLEN
-ALLYSON MELLBERG TAYLOR BRITTANY TUCKER
+ALLYSON MELLBERG TAYLOR 
+BRITTANY TUCKER
 CHARLES YUEN
 YULIA ZINSHTEIN
 
 SEPTEMBER is pleased to present a group exhibition with 25 artists, A Show of Hands. 
 
-Our hands have become the unwitting focus of our attention. We are warned to refrain from touching our own faces and encouraged to wash our hands frequently. We are cautioned to avoid making contact with public surfaces like doorknobs, gas pumps, and pens. We are frequently reminded to socially distance, to not only avoid human contact, but also proximity. Many jobs have transitioned to operating remotely, decreasing our likelihood of being in the same vicinity as others.
+Our hands have become the unwitting focus of our attention this year. We are warned to refrain from touching our own faces and encouraged to wash our hands frequently. We are cautioned to avoid making contact with public surfaces like doorknobs, gas pumps, and pens. We are frequently reminded to socially distance, to not only avoid human contact, but also proximity. Many jobs have transitioned to operating remotely, decreasing our likelihood of being in the same vicinity as others.
 
 Before the pandemic, feeling isolated had been an increasingly common, global condition reaching an all-time high according to the American Psychological Association.  The U.K. even appointed a Minister of Loneliness in 2018.  This was pre-lock down, quarantine, social distancing, and hands-off navigation of the outside world. In the New Yorker’s “The History of Loneliness,” Jill Lepore writes, “You can live alone without being lonely, and you can be lonely without living alone, but the two are closely tied together, which makes lockdowns, sheltering in place, that much harder to bear.” 
 
