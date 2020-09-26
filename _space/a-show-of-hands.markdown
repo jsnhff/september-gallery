@@ -9,6 +9,20 @@ start_date: 2020-09-18 12:00:00 -04:00
 end_date: 2020-11-01 17:00:00 -05:00
 opening_start_time_and_date: 2020-09-18 12:00:00 -04:00
 opening_end_time_and_date: 2020-09-18 17:00:00 -04:00
+images:
+- "/uploads/KDodge_09-18-20_A4_1613_sRGB_WebRes_V2.jpg"
+- "/uploads/KDodge_09-18-20_A4_1611_sRGB_WebRes_V2.jpg"
+- "/uploads/KDodge_09-18-20_A4_1616_sRGB_WebRes_V2-8e797f.jpg"
+- "/uploads/KDodge_09-18-20_A4_1617_sRGB_WebRes_V2-d84876.jpg"
+- "/uploads/KDodge_09-18-20_A4_1636_sRGB_WebRes_V2-a3d3ee.jpg"
+- "/uploads/KDodge_09-18-20_A4_1639_sRGB_WebRes_V2-c5bd65.jpg"
+- "/uploads/KDodge_09-18-20_A4_1640_sRGB_WebRes_V2-95b967.jpg"
+- "/uploads/KDodge_09-18-20_A4_1621_sRGB_WebRes_V2-7b74d7.jpg"
+- "/uploads/KDodge_09-18-20_A4_1618_sRGB_WebRes_V2-6fc279.jpg"
+- "/uploads/KDodge_09-18-20_A4_1627_sRGB_WebRes_V2-ff3b41.jpg"
+- "/uploads/KDodge_09-18-20_A4_1644_sRGB_WebRes_V2-92092c.jpg"
+- "/uploads/KDodge_09-18-20_A4_1668_sRGB_WebRes_V2-a8bf2e.jpg"
+- "/uploads/KDodge_09-18-20_A4_1700_sRGB_WebRes_V2.jpg"
 research_links:
   The Rogovoy Report: http://rogovoyreport.com/2020/09/12/a-show-of-hands-exhibit-at-september-gallery/
 ---
