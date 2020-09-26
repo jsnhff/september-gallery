@@ -23,6 +23,7 @@ images:
 - "/uploads/KDodge_09-18-20_A4_1644_sRGB_WebRes_V2-92092c.jpg"
 - "/uploads/KDodge_09-18-20_A4_1668_sRGB_WebRes_V2-a8bf2e.jpg"
 - "/uploads/KDodge_09-18-20_A4_1700_sRGB_WebRes_V2.jpg"
+- "/uploads/KDodge_09-18-20_A4_1704_sRGB_WebRes_V2.jpg"
 research_links:
   The Rogovoy Report: http://rogovoyreport.com/2020/09/12/a-show-of-hands-exhibit-at-september-gallery/
 ---
