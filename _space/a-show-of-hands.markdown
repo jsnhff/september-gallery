@@ -6,7 +6,7 @@ key_image: "/uploads/Brittany%20Tucker-Hand%20Story.jpg"
 key_image_credit: Brittany Tucker-Hand Story-2020-pastel on paper-8.25 x 5.5 inches-20.96
   x 13.96 cm
 start_date: 2020-09-18 12:00:00 -04:00
-end_date: 2020-11-01 17:00:00 -05:00
+end_date: 2020-11-08 17:00:00 -05:00
 opening_start_time_and_date: 2020-09-18 12:00:00 -04:00
 opening_end_time_and_date: 2020-09-18 17:00:00 -04:00
 images:
@@ -65,7 +65,7 @@ Health issues are not the only negative outcome of loneliness. Former Surgeon Ge
 
 A consequence of the times, most of the works in the exhibition were selected at a distance, not via studio visits, but through the annexes of social media and online research. The subject of isolation and connectedness is expressed through images of human hands lacking, seeking, or achieving contact. The title of the exhibition, A Show of Hands is a demonstration of our shared circumstance, our differing experiences, and our mutual need for connection. 
 
-For further information please contact kristen@septembergallery.com. Gallery hours are currently Friday-Sunday, 12-5pm, and by appointment. Masks are required, thank you.
+10% of all sales are being donated to [Kite's Nest](https://www.kitesnest.org/). For further information please contact kristen@septembergallery.com. Gallery hours are currently Friday-Sunday, 12-5pm, and by appointment. Masks are required, thank you.
 
   Novotney, Amy, The risks of social isolation: May 2019, Vol 50, No. 5, American Psychological Association.
 
