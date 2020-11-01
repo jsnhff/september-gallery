@@ -4,7 +4,7 @@ date: 2016-07-03 18:06:00 -04:00
 position: 16
 key_image: "/uploads/WOP_3%20copy%202.jpg"
 key_image_credit: Taylor Davis, Untitled, 2020, watercolor and gouache on paper, 22.5
-  x 30 inches
+  x 30 inches, 57 x 76.2 cm
 is_always: true
 is_sometimes: true
 first_letter_of_last_name: d
@@ -28,25 +28,29 @@ images_with_captions:
     BECAUSE I,
     2012,
     oil paint and Wacky Wood,
-    45 x 27 x 27 inches
+    45 x 27 x 27 inches,
+    114 x 68.6 x 68.6 cm
 - image: "/uploads/Taylor%20Davis-Untitled-FarmTek%20%231%20WebRes%20copy.jpg"
   caption: |-
     Untitled (FarmTek #1),
     2014,
     copic marker and collage on sized canvas,
-    approx 44 x 67 x 1.5 inches
+    approx. 44 x 67 x 1.5 inches,
+    111.8 x 170.2 x 3.8 cm
 - image: "/uploads/Taylor%20Davis_jonesing_2009_cherry%20plywood,%20cherry%20veneer,%20and%20wood_35x32x30_1.jpg"
   caption: |-
     jonesing,
     2009,
     cherry plywood, cherry veneer, and wood,
-    35 x 32 x 30 inches
+    35 x 32 x 30 inches,
+    88.9 x 81.3, 76.2 cm
 - image: "/uploads/Taylor%20Davis-this%20pictr-2012-watercolor%20on%20paper-18.375x14.5.jpg"
   caption: |-
     this pictur,
     2012,
     watercolor on paper,
-    18.375 x 14.5 inches
+    18.375 x 14.5 inches,
+    46.9 x 36.8 cm
 - image: "/uploads/CARD.%20COLOR%20no.%202%20WebRes.jpg"
   caption: |-
     cardinal colors #2,
