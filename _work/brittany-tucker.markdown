@@ -2,6 +2,9 @@
 title: Brittany Tucker
 date: 2020-11-01 12:45:00 -05:00
 published: false
+key_image: "/uploads/IMG_5275%20copy.jpg"
+key_image_credit: Brittany Tucker, Frontal, 2020, watercolor on paper, 39.5 x 27.5
+  inches
 is_sometimes: true
 first_letter_of_last_name: t
 ---
