@@ -5,7 +5,7 @@ key_image: "/uploads/Allison%20Schulnik-Moth%20copy.jpg"
 start_date: 2020-11-21 12:00:00 -05:00
 end_date: 2020-12-20 17:00:00 -05:00
 artist_links:
-  Artist's Website: https://www.allisonschulnik.me/
+  Artist's Website: www.allisonschulnik.me
 ---
 
 SEPTEMBER is thrilled to present *Moth*, a single-channel animation by Allison Schulnik that will be projected onto the main wall of the gallery. *Moth* is a culmination of hundreds of gouache paintings created over the course of 14 months by Schulnik in her desert California studio. The immersive visual and auditory experience is enthralling and all too brief. 
