@@ -15,3 +15,7 @@ Schulnik's animation is a rich study of transformation with subjects mutating fo
 We are living in a time of significant change, navigating sociopolitical rifts, and an unfolding pandemic. The only constant seems to be change. While it has always been true, it has become acutely apparent that adaptation is necessary in order to survive. 
 
 *Moth* is a mesmerizing distillation of impermanence, a rolling illustration of the symbiotic relationship of life and death. The flickering and fleeting nature of Schulnik's animation is a poignant meditation on the temporality of all existence.
+
+For further information, please contact kristen@septembergallery.com
+
+Image courtesy of P.P.O.W.
