@@ -16,6 +16,6 @@ We are living in a time of significant change, navigating sociopolitical rifts, 
 
 *Moth* is a mesmerizing distillation of impermanence, a rolling illustration of the symbiotic relationship of life and death. The flickering and fleeting nature of Schulnik's animation is a poignant meditation on the temporality of all existence.
 
-For further information, please contact kristen@septembergallery.com
+For further information, please contact kristen@septembergallery.com, or visit the gallery!
 
 Image courtesy of P.P.O.W.
