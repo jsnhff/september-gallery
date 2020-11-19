@@ -7,7 +7,7 @@ start_date: 2020-11-21 12:00:00 -05:00
 end_date: 2020-12-20 17:00:00 -05:00
 ---
 
-SEPTEMBER is thrilled to inaugurate our Front Hall Gallery, dedicated to local artists, with Moving in like black ships, featuring new paintings by Aaron Skolnick. The artist will be presenting seven oil on paper works, and a single oil on linen piece, shown above.
+SEPTEMBER is thrilled to inaugurate our Front Hall Gallery, dedicated to local artists, with *Moving in like black ships*, featuring new paintings by Aaron Skolnick. The artist will be presenting seven oil on paper works, and a single oil on linen piece, shown above.
 
 Skolnick’s vibrant work interlaces personal narrative and direct observation. His paintings navigate an internal and external world, often depicting intimate moments that feel both deeply individual and relatedly universal. Skolnick imbues his compositions with a sensitivity that speaks through his careful mark-making. By adding and removing thin layers of saturated color, he sifts his images into place, applying agile marks that appear like flints of light to the final layer. His subjects emerge partially articulated, akin to degraded memories, or the experience of observation in lieu of participation.
 
@@ -15,4 +15,4 @@ The absence of neutrality is apparent in both Skolnick's manner of painting and 
 
 Moving in like black ships will be open to the public beginning Saturday, November 21, 12-5pm. There will be no opening reception due to safety measures. Gallery hours are currently Friday-Sunday, 12-5pm, and by appointment. Masks are required, thank you.
 
-The show title, Moving in like black ships, is from Birdland, by Patti Smith.
+The show title, *Moving in like black ships*, is from Birdland, by Patti Smith.
