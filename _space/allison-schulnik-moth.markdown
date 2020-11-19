@@ -16,6 +16,8 @@ We are living in a time of significant change, navigating sociopolitical rifts, 
 
 *Moth* is a mesmerizing distillation of impermanence, a rolling illustration of the symbiotic relationship of life and death. The flickering and fleeting nature of Schulnik's animation is a poignant meditation on the temporality of all existence.
 
+Exhibited with the animation will be five small oil paintings of landscapes, insects and other natural subjects rendered in thick paint. Shaping her compositions both as image and object, Schulnik applies dense layers of paint that push into the cavity of an empty room, and for as long as we are present, become part of our world.
+
 For further information, please contact kristen@septembergallery.com, or visit the gallery!
 
 Image courtesy of P.P.O.W.
