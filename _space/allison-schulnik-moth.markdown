@@ -4,6 +4,16 @@ date: 2020-11-07 15:48:00 -05:00
 key_image: "/uploads/Allison%20Schulnik-Moth%20copy.jpg"
 start_date: 2020-11-21 12:00:00 -05:00
 end_date: 2020-12-20 17:00:00 -05:00
+images_with_captions:
+- image: "/uploads/2019_Shell%20with%20Dead%20Studio%20Guys_8%20x%2010%20inches%20copy-3f9bcb.jpg"
+  caption: Shell with Dead Studio Guys, 2019, oil on canvas stretched over panel,
+    8 x 10 inches, 20.32 x 25.4 cm
+- image: "/uploads/2019_Sky%20Valley%20Moon_10%20x%208%20inches%20copy.jpg"
+  caption: Sky Valley Moon, 2019, oil on canvas stretched over panel, 10 x 8 inches,
+    25.4 x 20.32 cm
+- image: "/uploads/2019_Indio%20Mountains,%20April%202019_18%20x%2018%20inches%20copy.jpg"
+  caption: Indio Mountains, 2019, oil on canvas stretched over panel 18 x 18 inches,
+    45.72 x 45.72 cm
 ---
 
 SEPTEMBER is thrilled to present *Moth*, a single-channel animation by Allison Schulnik that will be projected onto the main wall of the gallery. *Moth* is a culmination of hundreds of gouache paintings created over the course of 14 months by Schulnik in her desert California studio. The immersive visual and auditory experience is enthralling and all too brief. 
@@ -18,4 +28,4 @@ Exhibited with the animation will be five small oil paintings of landscapes, ins
 
 For further information, please contact kristen@septembergallery.com, or visit the gallery!
 
-Image courtesy of P.P.O.W.
+Images courtesy of the artist and P.P.O.W.
