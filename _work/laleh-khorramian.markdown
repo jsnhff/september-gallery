@@ -25,6 +25,7 @@ images_with_captions:
     66 x 54 inches
 research_links:
   Artist's Website: http://www.lalehkhorramian.com/
+  MASKS4PEOPLE: http://septembergallery.com/space/masks-4-people-mask-crusaders-and-diy-mask-makers.html
   Art21: https://art21.org/watch/new-york-close-up/laleh-khorramians-epic-animations/
   Artsy: https://www.artsy.net/article/editorial-laleh-khorramians-sci-fi-universe-complete-with-a-portal
   ArtSlant: https://www.artslant.com/ny/articles/show/29580-binterview-with-laleh-khorramianb
