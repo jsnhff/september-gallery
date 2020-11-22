@@ -9,6 +9,7 @@ is_sometimes: true
 first_letter_of_last_name: s
 exhibition_links:
   A Show of Hands: http://septembergallery.com/space/a-show-of-hands.html
+  Recognize you when she sees you, Give you the things she has for you.: http://septembergallery.com/space/recognize-you-when-she-sees-you-give-you-the-thing-she-has-for-you.html
 images_with_captions:
 - image: "/uploads/CS5-MoonDrawing245-Sm-e18843.jpg"
   caption: 'Carrie Schneider, Moon Drawing #245, 2015, Unique gelatin silver print
