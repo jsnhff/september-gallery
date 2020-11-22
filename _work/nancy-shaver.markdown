@@ -9,6 +9,7 @@ key_image_credit: Nancy Shaver-Red flame, golden grid, a large spacer-2020-canva
 is_sometimes: true
 first_letter_of_last_name: s
 exhibition_links:
+  Recognize you when she sees you, Give you the things she has for you.: http://septembergallery.com/space/recognize-you-when-she-sees-you-give-you-the-thing-she-has-for-you.html
   Blue Jean Baby, SEPTEMBER: http://septembergallery.com/space/blue-jean-baby.html
   Greater New York, MoMA PS1: http://momaps1.org/exhibitions/view/403
   Robert Gober, MoMA: http://www.moma.org/calendar/exhibitions/1452?locale=en
