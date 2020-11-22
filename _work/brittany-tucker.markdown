@@ -8,6 +8,7 @@ is_sometimes: true
 first_letter_of_last_name: t
 exhibition_links:
   A Show of Hands: http://septembergallery.com/space/a-show-of-hands.html
+  Recognize you when she sees you, Give you the things she has for you.: http://septembergallery.com/space/recognize-you-when-she-sees-you-give-you-the-thing-she-has-for-you.html
 research_links:
   Artist's Website: https://www.brittanytucker.net/
   Medium: https://medium.com/@curate.LA/artist-brittany-tucker-on-what-comes-after-representation-44f3ce6328d5
