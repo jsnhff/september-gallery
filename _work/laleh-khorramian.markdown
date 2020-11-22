@@ -10,6 +10,8 @@ is_sometimes: false
 first_letter_of_last_name: a
 exhibition_links:
   Unearth: http://septembergallery.com/space/laleh-khorramian-odyssey-the-fault-lines.html
+  MASKS4PEOPLE: http://septembergallery.com/space/masks-4-people-mask-crusaders-and-diy-mask-makers.html
+  Recognize you when she sees you, Give you the things she has for you.: http://septembergallery.com/space/recognize-you-when-she-sees-you-give-you-the-thing-she-has-for-you.html
 images_with_captions:
 - image: "/uploads/LK%20unearth%20SEPT%20install%20WebRes-15-6aa34e.jpg"
   caption: Laleh Khorramian, Unearth, Installation View, SEPTEMBER
@@ -25,7 +27,6 @@ images_with_captions:
     66 x 54 inches
 research_links:
   Artist's Website: http://www.lalehkhorramian.com/
-  MASKS4PEOPLE: http://septembergallery.com/space/masks-4-people-mask-crusaders-and-diy-mask-makers.html
   Art21: https://art21.org/watch/new-york-close-up/laleh-khorramians-epic-animations/
   Artsy: https://www.artsy.net/article/editorial-laleh-khorramians-sci-fi-universe-complete-with-a-portal
   ArtSlant: https://www.artslant.com/ny/articles/show/29580-binterview-with-laleh-khorramianb
