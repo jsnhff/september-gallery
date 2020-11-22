@@ -7,6 +7,7 @@ key_image_credit: Sun You-Table Sculpture-mixed media-2020
 is_sometimes: true
 first_letter_of_last_name: y
 exhibition_links:
+  Recognize you when she sees you, Give you the things she has for you.: http://septembergallery.com/space/recognize-you-when-she-sees-you-give-you-the-thing-she-has-for-you.html
   POST-ELECTION: https://574b47f47eb98c7c7067b67c.preview.siteleaf.com/space/post-election-show.html
 research_links:
   Artist's Website: http://sunyou.us/index.html
