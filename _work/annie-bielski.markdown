@@ -10,8 +10,9 @@ is_always: true
 is_sometimes: false
 first_letter_of_last_name: b
 exhibition_links:
+  Recognize you when she sees you, Give you the things she has for you.: http://septembergallery.com/space/recognize-you-when-she-sees-you-give-you-the-thing-she-has-for-you.html
   NADA: http://septembergallery.com/space/annie-bielski-at-nada-ny.html
-  Post-Election: 
+  Post-Election: http://septembergallery.com/space/post-election-show.html
 images_with_captions:
 - image: "/uploads/KDodge_ABielski_03-03-18_53_8292_sRGB_WebRes_670.jpg"
   caption: "Annie Bielski, Sway Bar Blues (after Bernadette), 2017, acrylic, wax,
