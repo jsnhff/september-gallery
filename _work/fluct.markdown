@@ -6,6 +6,8 @@ key_image: "/uploads/DSC3132%20copy.jpg"
 key_image_credit: 'FLucT- Performance at SEPTEMBER, July 2016- photo: Tomm Roeschlein'
 is_sometimes: true
 first_letter_of_last_name: f
+exhibition_links:
+  A Show of Hands: http://septembergallery.com/space/a-show-of-hands.html
 research_links:
   Artist's Website: http://fluct.tumblr.com/
 ---
