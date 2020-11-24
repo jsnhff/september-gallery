@@ -1,7 +1,7 @@
 ---
 title: Kianja Strobert
 date: 2018-06-22 17:44:00 -04:00
-position: 14
+position: 17
 key_image: "/uploads/kianja-strobert-golgotha-800x800.jpg"
 key_image_credit: Kianja Strobert- Golgotha-2016-Oil, acrylic, ink, graphite, paper,
   metal lathe, paper-mâché, pumice, and plaster on canvas-18 x 18 x 4 inches

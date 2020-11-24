@@ -1,7 +1,7 @@
 ---
 title: Kate Gilmore
 date: 2018-06-16 16:10:00 -04:00
-position: 18
+position: 21
 key_image: "/uploads/Gilmore_Mind_The_Square%20copy.jpg"
 key_image_credit: Kate Gilmore-Mind the Square-2014-Performance, ICA Portland, ME
 is_always: false
