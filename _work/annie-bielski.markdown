@@ -1,6 +1,6 @@
 ---
 title: Annie Bielski
-date: 2016-07-20 06:32:00 -04:00
+date: 2020-11-23 06:32:00 -05:00
 position: 30
 key_image: "/uploads/Annie%20Bielski-Flower%20Bench%20II-4%20copy.jpg"
 key_image_credit: ANNIE BIELSKI-Flower Bench II-2020-wood, recycled polyester batting,
