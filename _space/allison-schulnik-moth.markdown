@@ -1,12 +1,13 @@
 ---
 title: 'Allison Schulnik: Moth'
-date: 2020-11-07 15:48:00 -05:00
+date: 2020-11-22 15:48:00 -05:00
 position: 0
 key_image: "/uploads/Allison%20Schulnik-Moth%20copy.jpg"
 start_date: 2020-11-21 12:00:00 -05:00
 end_date: 2020-12-20 17:00:00 -05:00
 images_with_captions:
 - image: "/uploads/2019_Shell%20with%20Dead%20Studio%20Guys_8%20x%2010%20inches%20copy-c1f4b8.jpg"
+  caption: 
 - image: "/uploads/2019_Shell%20with%20Dead%20Studio%20Guys_8%20x%2010%20inches_side%20copy-cd47ab.jpg"
   caption: Shell with Dead Studio Guys, 2019, oil on canvas stretched over panel,
     8 x 10 inches, 20.32 x 25.4 cm
