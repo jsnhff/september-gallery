@@ -1,7 +1,7 @@
 ---
 title: Sun You
 date: 2017-05-21 12:19:00 -04:00
-position: 15
+position: 16
 key_image: "/uploads/2016_6_27_Sun_You_0001.jpg"
 key_image_credit: Sun You-Table Sculpture-mixed media-2020
 is_sometimes: true
