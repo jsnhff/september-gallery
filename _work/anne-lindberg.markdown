@@ -1,7 +1,7 @@
 ---
 title: Anne Lindberg
 date: 2019-08-17 12:37:00 -04:00
-position: 2
+position: 3
 key_image: "/uploads/Anne%20Lindberg.jpg"
 key_image_credit: |-
   Anne Lindberg, Walking East, 2019

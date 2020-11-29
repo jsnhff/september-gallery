@@ -1,7 +1,7 @@
 ---
 title: Sheila Gallagher
 date: 2016-07-24 11:09:00 -04:00
-position: 16
+position: 1
 key_image: "/uploads/SG1072-There%20is%20Beauty%20Yet%20Raging-HiRes%20copy-45ac96.jpg"
 key_image_credit: SHEILA GALLAGHER-There is Beauty Yet Raging-2017-melted plastic
   mounted on armature-63 x 63 inches

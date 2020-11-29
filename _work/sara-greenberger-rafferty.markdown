@@ -1,7 +1,7 @@
 ---
 title: Sara Greenberger Rafferty
 date: 2016-07-19 18:58:00 -04:00
-position: 5
+position: 6
 key_image: "/uploads/RAFFERTY-dc4b1a.jpeg"
 is_sometimes: true
 first_letter_of_last_name: r
