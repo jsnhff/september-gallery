@@ -1,7 +1,7 @@
 ---
 title: Marianne Vitale
 date: 2017-05-21 17:21:00 -04:00
-position: 10
+position: 11
 key_image: "/uploads/VeryFineGander_02web.jpg"
 is_sometimes: true
 first_letter_of_last_name: v
