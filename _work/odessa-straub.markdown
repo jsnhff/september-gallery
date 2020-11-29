@@ -1,6 +1,6 @@
 ---
 title: Odessa Straub
-date: 2016-07-19 19:03:00 -04:00
+date: 2020-08-01 19:03:00 -04:00
 position: 29
 key_image: "/uploads/STRAUB%20copy.jpg"
 key_image_credit: ODESSA STRAUB-Spilled cistern and the swallowed breaking through-2019-acrylic,
