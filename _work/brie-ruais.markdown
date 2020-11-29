@@ -1,7 +1,7 @@
 ---
 title: Brie Ruais
 date: 2016-07-19 18:59:00 -04:00
-position: 14
+position: 15
 key_image: "/uploads/CC_Brie_Ruais_2017_Red_Pushes_1_2_and_3_130lbs_each-2-1024x894.jpg"
 key_image_credit: Brie Ruais-Red Pushes 1, 2, and 3 (130lbs each), 20170-Glazed ceramic
   and unfired clay-3 parts each-76 x 20 x 15 inches

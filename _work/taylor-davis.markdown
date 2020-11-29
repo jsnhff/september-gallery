@@ -1,7 +1,7 @@
 ---
 title: Taylor Davis
 date: 2020-07-01 18:06:00 -04:00
-position: 20
+position: 21
 key_image: "/uploads/WOP_3%20copy%202.jpg"
 key_image_credit: Taylor Davis, Untitled, 2020, watercolor and gouache on paper, 22.5
   x 30 inches, 57 x 76.2 cm
