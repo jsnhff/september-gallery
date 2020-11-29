@@ -1,7 +1,7 @@
 ---
 title: Ashley Garrett
 date: 2020-07-05 16:48:00 -04:00
-position: 3
+position: 4
 key_image: "/uploads/Ashley-Garrett_A-Day-for-Fred-2016-oil-on-canvas-16x10.jpg"
 key_image_credit: ASHLEY GARRETT-A Day for Fred- 2016-oil on gessoed paper-16 x 10
   inches

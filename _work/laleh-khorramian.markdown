@@ -1,7 +1,7 @@
 ---
 title: Laleh Khorramian
 date: 2010-06-01 18:24:00 -04:00
-position: 29
+position: 30
 key_image: "/uploads/LKhorramian_04-27-19_D4_1468_sRGB_WebRes.jpg"
 key_image_credit: LALEH KHORRAMIAN-Data Portrait-2019-gold leaf, oil, varnish on wood-12
   x 10 inches

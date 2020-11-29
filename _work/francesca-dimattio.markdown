@@ -1,7 +1,7 @@
 ---
 title: Francesca DiMattio
 date: 2018-06-16 16:33:00 -04:00
-position: 23
+position: 24
 key_image: "/uploads/francesca-dimattio-chandelabra-ii-2015-glaze-and-luster-on-porcelain-and-stoneware-epoxy-steel-frame.jpg"
 key_image_credit: Francesca DiMattio-Chandelabra II-2015-glaze and luster on porcelain
   and stoneware, epoxy, steel frame
