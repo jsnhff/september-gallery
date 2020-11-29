@@ -1,7 +1,7 @@
 ---
 title: Rosy Keyser
 date: 2017-05-21 17:16:00 -04:00
-position: 8
+position: 9
 key_image: "/uploads/RK001-TerrestralMime-HiRes%20copy.jpg"
 key_image_credit: Rosy Keyser’s- Terrestrial Mime-2015-String, oil, dye, acrylic enamel,
   furnace wick, cord, bamboo, brush, and board-100 x 80 inches

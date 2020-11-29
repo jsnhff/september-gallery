@@ -1,7 +1,7 @@
 ---
 title: Kate Newby
 date: 2019-04-04 16:12:00 -04:00
-position: 29
+position: 30
 key_image: "/uploads/KN1002-YouMightFeel-Install-WebRes-2%20copy.jpg"
 key_image_credit: 'Kate Newby-You might feel as though nothing happened: in fact you
   may feel as though you missed it.-2018-high fired ceramics, glass (5 pieces)-dimensions

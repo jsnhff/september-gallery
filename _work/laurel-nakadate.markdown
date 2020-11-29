@@ -1,7 +1,7 @@
 ---
 title: Laurel Nakadate
 date: 2016-07-19 18:58:00 -04:00
-position: 26
+position: 27
 key_image: "/uploads/L.Nakadate.jpg"
 key_image_credit: |-
   Laurel Nakadate,
