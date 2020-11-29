@@ -1,6 +1,6 @@
 ---
 title: Taylor Davis
-date: 2020-07-01 18:06:00 -04:00
+date: 2020-11-01 18:06:00 -05:00
 position: 0
 key_image: "/uploads/WOP_3%20copy%202.jpg"
 key_image_credit: Taylor Davis, Untitled, 2020, watercolor and gouache on paper, 22.5
