@@ -5,7 +5,7 @@ key_image: "/uploads/TOUCH6%20copy.png"
 key_image_credit: Lukaza Branfman-Verissimo, TOUCH (still), 2020, single-channel video
   (3 minutes, 3 seconds)
 is_sometimes: true
-first_letter_of_last_name: B
+first_letter_of_last_name: b
 exhibition_links:
   A Show of Hands: http://septembergallery.com/space/a-show-of-hands.html
   Out of Line: http://septembergallery.com/space/out-of-line.html
