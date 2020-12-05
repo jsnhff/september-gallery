@@ -1,14 +1,18 @@
 ---
 title: Lukaza Branfman-Verissimo
 date: 2020-11-29 14:55:00 -05:00
-key_image: "/uploads/TOUCH6%20copy.png"
-key_image_credit: Lukaza Branfman-Verissimo, TOUCH (still), 2020, single-channel video
-  (3 minutes, 3 seconds)
+key_image: "/uploads/LB-AsBrightastheComplexitiesofBlackness-HiRes.jpg"
+key_image_credit: Lukaza Branfman-Verissimo, As Bright As the Complexities of Blackness,
+  2018, acrylic gouache on illustration board, 40 x 32 inches
 is_sometimes: true
 first_letter_of_last_name: b
 exhibition_links:
   A Show of Hands: http://septembergallery.com/space/a-show-of-hands.html
   Out of Line: http://septembergallery.com/space/out-of-line.html
+images_with_captions:
+- image: "/uploads/TOUCH6%20copy.png"
+  caption: Lukaza Branfman-Verissimo, TOUCH (still), 2020, single-channel video (3
+    minutes, 3 seconds)
 research_links:
   Artist's Website: http://www.lukazabranfman-verissimo.com/
   The Creative Independent: https://thecreativeindependent.com/people/visual-artist-lukaza-branfman-verissimo-on-taking-notes-on-life/
