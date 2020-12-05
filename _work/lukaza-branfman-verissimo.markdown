@@ -1,7 +1,6 @@
 ---
 title: Lukaza Branfman-Verissimo
 date: 2020-11-29 14:55:00 -05:00
-published: false
 key_image: "/uploads/TOUCH6%20copy.png"
 key_image_credit: Lukaza Branfman-Verissimo, TOUCH (still), 2020, single-channel video
   (3 minutes, 3 seconds)
