@@ -21,7 +21,7 @@ images_with_captions:
     45.72 x 45.72 cm
 ---
 
-SEPTEMBER is thrilled to present *Moth*, a single-channel animation by Allison Schulnik that will be projected onto the main wall of the gallery. *Moth* is a culmination of hundreds of gouache paintings created over the course of 14 months by Schulnik in her desert California studio. The immersive visual and auditory experience is enthralling and all too brief. 
+SEPTEMBER is thrilled to present *Moth*, a single-channel animation by Allison Schulnik that will be projected onto the main wall of the gallery. *Moth* is a culmination of hundreds of gouache paintings created over the course of 14 months by Schulnik in her desert California studio. The animation is set to “Gnossienne No. 1,” written by Erik Satie and performed by Los Angeles-based musician Nedelle Torrisi. The immersive visual and auditory experience is enthralling and all too brief. 
 
 Schulnik's animation is a rich study of transformation with subjects mutating forms that are never stationary, ever transient. Schulnik gives humans, animals, insects, and landscapes equal significance, making each a central subject for a brief time. Each animated character evolves rapidly and then develops into a new, temporary form. 
 
