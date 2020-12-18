@@ -62,8 +62,9 @@ defaults:
     catalog_link:
       Catalog: ''
 gallery_hours: Friday-Sunday, 12-5pm
-is_closed: false
-why_youre_closed: 
+is_closed: true
+why_youre_closed: 'We are temporarily closed for safety measures until after the new
+  year. '
 email: kristen@septembergallery.com
 description: |-
   SEPTEMBER is an evolving platform for artists of diverse disciplines. The gallery is committed to prioritizing the work of women-identified and LGBTQIA+ artists. SEPTEMBER supports the surrounding community, and exhibits artists predominantly from Upstate New York, Brooklyn, and Boston. Along with visual artists, SEPTEMBER works with performers, activists, poets, chefs, dancers, writers, and other creatives for both exhibition and event programming. SEPTEMBER has worked with over 250 artists since opening four years ago.
