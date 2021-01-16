@@ -6,7 +6,7 @@ key_image: "/uploads/night%20field%20copy.jpg"
 key_image_credit: Aaron Skolnick, Night Field, 2020, oil on linen, 16 x 12 inches,
   40.84 x 30.48 cm
 start_date: 2020-11-21 12:00:00 -05:00
-end_date: 2020-12-20 17:00:00 -05:00
+end_date: 2021-01-31 17:00:00 -05:00
 images_with_captions:
 - image: "/uploads/Aaron%20Skolnick_Snake_2020_Oil%20on%20arches%20paper_12%20x%209%20inches%20snake.jpg"
   caption: Snake, 2020, oil on arches paper, 12 x 9 inches, 30.48 x 22.86 cm
