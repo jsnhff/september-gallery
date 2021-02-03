@@ -1,6 +1,6 @@
 ---
 title: Lukaza Branfman-Verissimo
-date: 2021-01-16 12:36:00 -05:00
+date: 2021-02-03 12:36:00 -05:00
 key_image: "/uploads/Let%E2%80%99s%20re-name%20our%20city,%20one%20block%20at%20a%20time(sideA)%20copy.jpg"
 key_image_credit: Lukaza Branfman-Verissimo, Let’s re-name our city, one block at
   a time, 2020, black gesso, acrylic, colored pencil on plywood, hardware, 48 x 24
