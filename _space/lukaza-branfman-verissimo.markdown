@@ -16,7 +16,8 @@ Lukaza Branfman-Verissimo’s work is bold in pigment and text; bright yellow pr
 Branfman-Verissimo writes,
 
 What does it feel like in your body when reading a story that tells your story? I ask the viewer to stop and look closer, to examine how the obscured letters and forms challenge the way the story is told. The process of gathering the narratives of people and communities that surround me is on equal ground with the artistic craft of telling these stories. What is the role of the contemporary story collector within today’s society? How does preserving and prioritizing Black and Brown, queer, trans, gender non-conforming, lived experiences, work, activism and opinions, re-imagine our role in the future?
- 
+
+
 Through performance and interdisciplinary processes, I strive to re-create and re-tell my personal tales and those of the people that surround me. These process-based mediums reflect the multi-layered complexities of the voices echoed in the work. Through interacting with my art, I invite the viewer to recall and share their own lived narratives, offering power and weight to the creation of a larger dialogue around the telling of B.I.Q.T.P.O.C. stories.
 
 SEPTEMBER is open Friday-Sunday: noon-5pm, and by appointment. There will be no opening reception due to safety precautions, and masks are required in the gallery. For further information, please visit the gallery or email kristen@septembergallery.com.
