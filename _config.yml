@@ -87,6 +87,6 @@ facebook_username: septembergallery
 instagram_username: septembergallery
 baseurl: "/"
 markdown: kramdown
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
