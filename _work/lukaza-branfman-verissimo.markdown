@@ -4,7 +4,7 @@ date: 2020-11-29 14:55:00 -05:00
 key_image: "/uploads/September_02-19-21_B4_5500_sRGB_1800px_V1.jpg"
 key_image_credit: Lukaza Branfman-Verissimo, Let’s re-name our city, one block at
   a time, 2020, black gesso, acrylic, colored pencil on plywood, hardware, 48 x 24
-  x variable inches
+  x variable inches.
 is_sometimes: true
 first_letter_of_last_name: b
 exhibition_links:
@@ -15,6 +15,9 @@ images_with_captions:
 - image: "/uploads/TOUCH6%20copy.png"
   caption: Lukaza Branfman-Verissimo, TOUCH (still), 2020, single-channel video (3
     minutes, 3 seconds)
+- image: "/uploads/LB-AsBrightastheComplexitiesofBlackness-HiRes-d2167b.jpg"
+  caption: Lukaza Branfman-Verissimo, As Bright As the Complexities of Blackness,
+    acrylic gouache on illustration board, 40 x 32 inches.
 research_links:
   Artist's Website: http://www.lukazabranfman-verissimo.com/
   The Creative Independent: https://thecreativeindependent.com/people/visual-artist-lukaza-branfman-verissimo-on-taking-notes-on-life/
