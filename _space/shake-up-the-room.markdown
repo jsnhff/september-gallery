@@ -11,21 +11,21 @@ end_date: 2021-05-30 17:00:00 -04:00
 
 SEPTEMBER is thrilled to present, *Shake Up the Room*, featuring work by Reginald Madison, Sahana Ramakrishnan, Razan Al Sarraf, Marcus Leslie Singleton, and Brittany Tucker, curated with Michael Mosby. The exhibiting artists intermix autobiographical elements with external references, creating compositions that are both familiar and imagined. The impact of their work is immediately arresting, evoking something uncompromising at stake in both manner and message. Stories are being told here.
 
-Reginald Madison (He/Him) will present a highly textured, large-scale black on black painting that pushes on the viewer’s will to find forms of recognition while dissolving into abstraction and holding space for unfinished narratives.
+**Reginald Madison **(He/Him) will present a highly textured, large-scale black on black painting that pushes on the viewer’s will to find forms of recognition while dissolving into abstraction and holding space for unfinished narratives.
 
-Sahana Ramakrishnan (She/Her) will present two major large-scale works that explore the duality of self and other, human and animal, mythology and humanity; opposites fiercely interconnect and consume each other. The poetic directive here is to merge or combust. 
+**Sahana Ramakrishnan **(She/Her) will present two major large-scale works that explore the duality of self and other, human and animal, mythology and humanity; opposites fiercely interconnect and consume each other. The poetic directive here is to merge or combust. 
 
-Razan Al Sarraf (She/Her) will debut a new video work that depicts women preparing for an Islamic marriage and recontextualizes the ritual into spaces unbound by time or resolution. Al Sarraf will also present a group of monochromatic ink drawings from her "Sheikh" series depicting men in positions of power.
+**Razan Al Sarraf **(She/Her) will debut a new video work that depicts women preparing for an Islamic marriage and recontextualizes the ritual into spaces unbound by time or resolution. Al Sarraf will also present a group of monochromatic ink drawings from her "Sheikh" series depicting men in positions of power.
 
-Marcus Leslie Singleton (He/Him) will exhibit two paintings that capture and commit observations in rich, bold brushstrokes. Often depicting social exchanges, his figurative works isolate snapshots from everyday life that linger in the mind or unexpectedly resurface from memory.
+**Marcus Leslie Singleton **(He/Him) will exhibit two paintings that capture and commit observations in rich, bold brushstrokes. Often depicting social exchanges, his figurative works isolate snapshots from everyday life that linger in the mind or unexpectedly resurface from memory.
 
-Brittany Tucker (She/Her), who often incorporates wall murals into her work, will contribute black and white self-portraits positioned in seemingly friendly exchanges with a cartoon-rendered figure that disconcertingly appears to be friend and foe, part of oneself and a projection of other. 
+**Brittany Tucker **(She/Her), who often incorporates wall murals into her work, will contribute black and white self-portraits positioned in seemingly friendly exchanges with a cartoon-rendered figure that disconcertingly appears to be friend and foe, part of oneself and a projection of other. 
 
 The artists in *Shake up the Room* harness inherited and chosen histories to create new stories through their work. The show title is a command to change things up, to disrupt the status quo, to reject complacency, and to script unwritten futures. 
 
 The exhibition is curated with Michael Mosby. Since our inaugural opening in July 2016, Mosby has attended nearly every exhibition and performance at the gallery. During the first six months of the pandemic when many were turning inward, Mosby turned outward, looking to deepen connections within our community. He approached us with an idea for an exhibition and together we selected an international group of artists in addition to a long-term working artist in Hudson.
 
-BIOS
+**BIOS**
 
 Michael Mosby (b.1987, Bronx, New York) lives and works in Hudson, NY. He is a multidisciplinary performer and DJ professionally known as FULATHELA. He has performed both in the United States and abroad, most notably at AFROPUNK Paris in Paris, France. Mosby co-founded Free Range with Shanekia McIntosh and Tschabalala Self, a performance series that has been presented at Art Omi, Ghent, NY (2019), The Halfmoon, Hudson, NY (2019), and at Art Week, Downtown Miami, FL (2018). Featured performers have included Abdu Ali, Ms. Boogie, Xhosa, and Young Wavy Fox. Mosby is the curator of the (current) exhibition, i.de.al.is.tic, at The Museum at the University of Albany, supported by The Andy Warhol Foundation for the Visual Arts, including the work of Anthony Olubunmi Akinbola, Sean Desiree, and Marcus Leslie Singleton. Mosby’s performance series and exhibitions have been featured in the New York Times, Cultured Magazine, Artnet News, and Times Union.
 
