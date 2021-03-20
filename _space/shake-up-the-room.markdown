@@ -25,36 +25,13 @@ The artists in *Shake up the Room* harness inherited and chosen histories to cre
 
 The exhibition is curated with Michael Mosby. Since our inaugural opening in July 2016, Mosby has attended nearly every exhibition and performance at the gallery. During the first six months of the pandemic when many were turning inward, Mosby turned outward, looking to deepen connections within our community. He approached us with an idea for an exhibition and together we selected an international group of artists in addition to a long-term working artist in Hudson.
 
-
-For further information, please contact kristen@septembergallery.com, or come visit us.
-
-
-
-
-
-
-
-
-
-
-SEPTEMBER 449 Warren Street #3, Hudson, NY 12534  septembergallery.com @septembergallery
-
-
-
-
-
+BIOS
 
 Michael Mosby (b.1987, Bronx, New York) lives and works in Hudson, NY. He is a multidisciplinary performer and DJ professionally known as FULATHELA. He has performed both in the United States and abroad, most notably at AFROPUNK Paris in Paris, France. Mosby co-founded Free Range with Shanekia McIntosh and Tschabalala Self, a performance series that has been presented at Art Omi, Ghent, NY (2019), The Halfmoon, Hudson, NY (2019), and at Art Week, Downtown Miami, FL (2018). Featured performers have included Abdu Ali, Ms. Boogie, Xhosa, and Young Wavy Fox. Mosby is the curator of the (current) exhibition, i.de.al.is.tic, at The Museum at the University of Albany, supported by The Andy Warhol Foundation for the Visual Arts, including the work of Anthony Olubunmi Akinbola, Sean Desiree, and Marcus Leslie Singleton. Mosby’s performance series and exhibitions have been featured in the New York Times, Cultured Magazine, Artnet News, and Times Union.
 
 Reginald Madison (b. 1941, Chicago, IL) was greatly influenced by his parents’ love of jazz and the stories they told of seeing Sun-Ra at the legendary Club DeLisa on Chicago’s south side, and by the family’s frequent trips to the Art Institute of Chicago and the Museum of Contemporary Art Chicago. In 1970, Madison was invited to participate in an art show that helped to establish him in the emerging arts scene in Chicago, and he went on to travel and study art independently in Paris, Venice, and Copenhagen. His work has been exhibited at the Art Institute of Chicago, Historic Hudson Hall, the Ace Hotel Chicago, and CR10 Arts, among others. Madison currently lives and works in Hudson, NY.
 
-Marcus Leslie Singleton (b. 1990, Seattle, Washington) lives and works in Brooklyn,
-New York. Solo exhibitions include Steve Turner Gallery, Los Angeles, California
-(2020); The Journal Gallery, New York, New York (2020); TURN Gallery, New York,
-New York (2019); and Medium Tings, Brooklyn, New York (2018). Singleton's work
-has been included in exhibitions at SUNY Albany University Art Museum, Albany, NY
-(2021); Frieze Los Angeles, Los Angeles, California (2020); and SPRING/BREAK Art
-Show, New York, New York (2020).
+Marcus Leslie Singleton (b. 1990, Seattle, Washington) lives and works in Brooklyn, New York. Solo exhibitions include Steve Turner Gallery, Los Angeles, California (2020); The Journal Gallery, New York, New York (2020); TURN Gallery, New York, New York (2019); and Medium Tings, Brooklyn, New York (2018). Singleton's work has been included in exhibitions at SUNY Albany University Art Museum, Albany, NY (2021); Frieze Los Angeles, Los Angeles, California (2020); and SPRING/BREAK Art Show, New York, New York (2020).
 
 Sahana Ramakrishnan (b. 1993, Mumbai, India and raised in Singapore) received her BFA in Painting at RISD. Ramakrishnan’s work has been exhibited internationally and nationally in Fridman Gallery, Arsenal contemporary Gallery, The Rubin Museum, Wadstrom Tonnheim Gallery, the NARS Foundation, Field Projects, Gateway Project Spaces, Elizabeth Foundation of the Arts, A.I.R. Gallery, Front Art Space, and more. Ramakrishnan has been an artist in residence at Yaddo, Saratoga Springs, NY, a recipient of the SIP fellowship at the Robert Blackburn Printmaking workshop, the Feminist-in-Residence program at Gateway Project Spaces, the Yale/Norfolk Summer program, and the Florence Lief grant from RISD. Ramakrishnan currently lives and works in New Jersey City, NJ.
 
