@@ -1,12 +1,14 @@
 ---
 title: Lukaza Branfman-Verissimo
 date: 2020-11-29 14:55:00 -05:00
-key_image: "/uploads/LB-AsBrightastheComplexitiesofBlackness-HiRes.jpg"
-key_image_credit: Lukaza Branfman-Verissimo, As Bright As the Complexities of Blackness,
-  2018, acrylic gouache on illustration board, 40 x 32 inches
+key_image: "/uploads/September_02-19-21_B4_5500_sRGB_1800px_V1.jpg"
+key_image_credit: Lukaza Branfman-Verissimo, Let’s re-name our city, one block at
+  a time, 2020, black gesso, acrylic, colored pencil on plywood, hardware, 48 x 24
+  x variable inches
 is_sometimes: true
 first_letter_of_last_name: b
 exhibition_links:
+  Let's rename our city: http://septembergallery.com/space/lukaza-branfman-verissimo.html
   A Show of Hands: http://septembergallery.com/space/a-show-of-hands.html
   Out of Line: http://septembergallery.com/space/out-of-line.html
 images_with_captions:
