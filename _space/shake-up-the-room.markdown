@@ -2,9 +2,14 @@
 title: Shake Up the Room
 date: 2021-03-20 12:27:00 -04:00
 published: false
+key_image: "/uploads/Marcus%20Leslie%20Singleton-Healthy-2021.jpeg"
+key_image_credit: Marcus Leslie Singleton, Healthy, 2021, oil and spray paint on canvas,
+  48 x 48 inches.
+start_date: 2021-04-17 12:00:00 -04:00
+end_date: 2021-05-30 17:00:00 -04:00
 ---
 
-SEPTEMBER is thrilled to present, Shake Up the Room, featuring work by Reginald Madison, Sahana Ramakrishnan, Razan Al Sarraf, Marcus Leslie Singleton, and Brittany Tucker, curated with Michael Mosby. The exhibiting artists intermix autobiographical elements with external references, creating compositions that are both familiar and imagined. The impact of their work is immediately arresting, evoking something uncompromising at stake in both manner and message. Stories are being told here.
+SEPTEMBER is thrilled to present, *Shake Up the Room*, featuring work by Reginald Madison, Sahana Ramakrishnan, Razan Al Sarraf, Marcus Leslie Singleton, and Brittany Tucker, curated with Michael Mosby. The exhibiting artists intermix autobiographical elements with external references, creating compositions that are both familiar and imagined. The impact of their work is immediately arresting, evoking something uncompromising at stake in both manner and message. Stories are being told here.
 
 Reginald Madison (He/Him) will present a highly textured, large-scale black on black painting that pushes on the viewer’s will to find forms of recognition while dissolving into abstraction and holding space for unfinished narratives.
 
@@ -16,7 +21,7 @@ Marcus Leslie Singleton (He/Him) will exhibit two paintings that capture and com
 
 Brittany Tucker (She/Her), who often incorporates wall murals into her work, will contribute black and white self-portraits positioned in seemingly friendly exchanges with a cartoon-rendered figure that disconcertingly appears to be friend and foe, part of oneself and a projection of other. 
 
-The artists in Shake up the Room harness inherited and chosen histories to create new stories through their work. The show title is a command to change things up, to disrupt the status quo, to reject complacency, and to script unwritten futures. 
+The artists in *Shake up the Room* harness inherited and chosen histories to create new stories through their work. The show title is a command to change things up, to disrupt the status quo, to reject complacency, and to script unwritten futures. 
 
 The exhibition is curated with Michael Mosby. Since our inaugural opening in July 2016, Mosby has attended nearly every exhibition and performance at the gallery. During the first six months of the pandemic when many were turning inward, Mosby turned outward, looking to deepen connections within our community. He approached us with an idea for an exhibition and together we selected an international group of artists in addition to a long-term working artist in Hudson.
 
