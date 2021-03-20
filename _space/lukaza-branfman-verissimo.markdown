@@ -6,7 +6,7 @@ key_image_credit: Lukaza Branfman-Verissimo, Let’s re-name our city, one bloc
   a time, 2020, black gesso, acrylic, colored pencil on plywood, hardware, 48 x 24
   x variable dimensions.
 start_date: 2021-02-20 12:00:00 -05:00
-end_date: 2021-03-28 18:00:00 -04:00
+end_date: 2021-04-03 17:00:00 -04:00
 artist_links:
   Best Shows to see in Upstate New York: https://www.frieze.com/article/best-shows-to-see-in-upstate-new-york
 images:
