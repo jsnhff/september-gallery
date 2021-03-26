@@ -1,7 +1,6 @@
 ---
 title: Shake Up the Room
 date: 2021-03-20 12:27:00 -04:00
-published: false
 key_image: "/uploads/Marcus%20Leslie%20Singleton-Healthy-2021.jpeg"
 key_image_credit: Marcus Leslie Singleton, Healthy, 2021, oil and spray paint on canvas,
   48 x 48 inches.
