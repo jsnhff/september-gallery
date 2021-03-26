@@ -6,6 +6,15 @@ key_image_credit: Marcus Leslie Singleton, Healthy, 2021, oil and spray paint 
   48 x 48 inches.
 start_date: 2021-04-17 12:00:00 -04:00
 end_date: 2021-05-30 17:00:00 -04:00
+images_with_captions:
+- image: "/uploads/Brittany%20Tucker.jpg"
+  caption: Brittany Tucket
+- image: "/uploads/Film%20Still%202.jpg"
+  caption: Razan Al Sarraf
+- image: "/uploads/Sahana%20Ramakrishnan.jpg"
+  caption: Sahana Ramakrishnan
+- image: "/uploads/Marcus%20Leslie%20Singleton.JPG"
+  caption: Marcus Leslie Singleton
 ---
 
 SEPTEMBER is thrilled to present, *Shake Up the Room*, curated with Michael Mosby, featuring work by Reginald Madison, Sahana Ramakrishnan, Razan Al Sarraf, Marcus Leslie Singleton, and Brittany Tucker. The exhibiting artists interweave autobiographical histories with external references and observations. They fuse lived moments with learned narratives, shaping new perspectives. The impact of their work is arresting in both manner and message. Stories are being told here. 
