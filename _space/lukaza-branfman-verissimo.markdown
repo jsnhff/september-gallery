@@ -14,6 +14,8 @@ images:
 - "/uploads/September_02-19-21_B4_5448_sRGB_1800px_V1%20copy.jpg"
 - "/uploads/September_02-19-21_B4_5462_sRGB_1800px_V1%20copy.jpg"
 - "/uploads/September_02-19-21_B4_5464_sRGB_1800px_V1%20copy.jpg"
+research_links:
+  Lukaza Branfman-Verissimo walk-through of 'Let's re-name our city': https://vimeo.com/530021775
 ---
 
 SEPTEMBER is excited and grateful to be opening *Let’s rename our city*, an exhibition with Lukaza Branfman-Verissimo, February 20 – March 28, 2021 (now extended through April 3). This is the artist’s third exhibition and first solo show with the gallery. Included are five paintings from their 2020 show at Yerba Buena Arts Center (San Francisco, CA) that were never on view to the public due to Covid disruptions and restrictions. Also on view are recent painted collages and free-standing works from their new studio. Branfman-Verissimo is temporarily living and working in Richmond, Virginia where they are investigating unseen and re-claimed histories including land, monuments, and black queer voices of the current moment. For their exhibition, Branfman-Verissimo is installing site-specific murals that engage the dual private/public space of the gallery windows facing the street, disrupt the white space of the interior walls, and re-route the path of the viewer. The artist is also providing printed takeaways in the form of visual and written language that will be available for and to the public.
