@@ -7,13 +7,13 @@ key_image_credit: Marcus Leslie Singleton, Healthy, 2021, oil and spray paint 
 start_date: 2021-04-17 12:00:00 -04:00
 end_date: 2021-05-30 17:00:00 -04:00
 images_with_captions:
-- image: "/uploads/Film%20Still%203.jpg"
+- image: "/uploads/Film%20Still%2013%20copy.jpg"
   caption: Razan Al Sarraf
-- image: "/uploads/Sahana%20Ramakrishnan.jpg"
+- image: "/uploads/Sahana%20Ramakrishnan-Bison%20Emerges-2021-Oil%20on%20canvas-20x13%20inches%20copy.jpg"
   caption: Sahana Ramakrishnan
 - image: "/uploads/Marcus%20Leslie%20Singleton.JPG"
   caption: Marcus Leslie Singleton
-- image: "/uploads/Brittany%20Tucker.jpg"
+- image: "/uploads/Brittany%20Tucker-Double%20Take-2020-acrylic%20and%20acrylic%20yarn%20on%20canvas-9x12%20inches.jpeg"
   caption: Brittany Tucker
 ---
 
