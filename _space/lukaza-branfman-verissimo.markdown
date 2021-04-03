@@ -7,8 +7,6 @@ key_image_credit: Lukaza Branfman-Verissimo, Let’s re-name our city, one bloc
   x variable dimensions.
 start_date: 2021-02-20 12:00:00 -05:00
 end_date: 2021-04-03 17:00:00 -04:00
-artist_links:
-  Key: 
 images:
 - "/uploads/September_02-19-21_B4_5457_sRGB_1800px_V1%20copy.jpg"
 - "/uploads/September_02-19-21_B4_5448_sRGB_1800px_V1%20copy.jpg"
