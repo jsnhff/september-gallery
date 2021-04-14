@@ -19,7 +19,7 @@ images_with_captions:
 
 SEPTEMBER is thrilled to present, *Shake Up the Room*, curated with Michael Mosby, featuring work by Reginald Madison, Sahana Ramakrishnan, Razan Al Sarraf, Marcus Leslie Singleton, and Brittany Tucker. The exhibiting artists interweave autobiographical histories with external references and observations. They fuse lived moments with learned narratives, shaping new perspectives. The impact of their work is arresting in both manner and message. Stories are being told here. 
 
-*Reginald Madison* (He/Him) will present a mixed media, large-scale work that engages the viewer’s will to find forms of recognition while dissolving into improvisational abstraction. Deeply influenced by jazz, Madison's work is both practiced and instinctive, diverse materials holding equal part, together sounding a collective narrative.
+*Reginald Madison* (He/Him) will present large-scale oil paintings that tempt the viewer’s will to identify forms, perhaps narratives, while scattering into improvisational mark-making. Deeply influenced by jazz, Madison is moved by process, driven by instinct. His practice covers a range of approaches that together comprise a life's work.
 
 *Sahana Ramakrishnan* (She/Her) will present two major large-scale works that explore the duality of self and other, human and animal, humanity and mythology; opposites fiercely interconnect and consume one another. Working with Buddhist and Hindu imagery, Ramakrishnan enlists timeless symbolism to depict connections between strain and revelation. The poetic directive here is to merge or combust.
 
