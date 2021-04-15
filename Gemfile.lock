@@ -266,7 +266,7 @@ DEPENDENCIES
   jekyll (>= 3.6.3)
   jekyll-sitemap
   json (>= 2.3.0)
-  kramdown (>= 2.3.0)
+  kramdown (>= 2.3.1)
   nokogiri (>= 1.11.0)
   redcarpet (>= 3.5.1)
 
