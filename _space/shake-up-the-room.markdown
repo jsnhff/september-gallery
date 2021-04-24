@@ -8,16 +8,16 @@ start_date: 2021-04-17 12:00:00 -04:00
 end_date: 2021-05-30 17:00:00 -04:00
 images_with_captions:
 - image: "/uploads/September_04-16-21_A4_6167_sRGB_1800px_V2%20copy.jpg"
-  caption: Reginald Madison, *Poem for Bird*, 1994, oil on linen, 52 x 72 inches.
+  caption: Reginald Madison, Poem for Bird, 1994, oil on linen, 52 x 72 inches.
 - image: "/uploads/September_04-16-21_A4_6187_sRGB_1800px_V2%20copy.jpg"
-  caption: Sahana Ramakrishnan, *Bison Emerges*, 2021, oil on canvas, 20 x 13 inches.
+  caption: Sahana Ramakrishnan, Bison Emerges, 2021, oil on canvas, 20 x 13 inches.
 - image: "/uploads/Film%20Still%2013%20copy.jpg"
-  caption: Razan Al Sarraf, *Seeds After Black Gold* (still), 2021, two-channel video
+  caption: Razan Al Sarraf, Seeds After Black Gold (still), 2021, two-channel video
     (8:32).
 - image: "/uploads/September_04-16-21_A4_6162_sRGB_1800px_V2%20copy.jpg"
-  caption: Marcus Leslie Singleton, *Doctores*, 2021, oil on wood panel, 14 x 11 inches.
+  caption: Marcus Leslie Singleton, Doctores, 2021, oil on wood panel, 14 x 11 inches.
 - image: "/uploads/September_04-16-21_A4_6164_sRGB_1800px_V2%20copy.jpg"
-  caption: Brittany Tucker, *Double Take*, 2020, acrylic and acrylic yarn on canvas.
+  caption: Brittany Tucker, Double Take, 2020, acrylic and acrylic yarn on canvas.
 ---
 
 SEPTEMBER is thrilled to present, *Shake Up the Room*, curated with Michael Mosby, featuring work by Reginald Madison, Sahana Ramakrishnan, Razan Al Sarraf, Marcus Leslie Singleton, and Brittany Tucker. The exhibiting artists interweave autobiographical histories with external references and observations. They fuse lived moments with learned narratives, shaping new perspectives. The impact of their work is arresting in both manner and message. Stories are being told here. 
