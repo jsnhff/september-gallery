@@ -38,6 +38,8 @@ images_with_captions:
   caption: 
 - image: "/uploads/September_04-16-21_A4_6146_sRGB_1800px_V2-d8b7e3.jpg"
   caption: 
+- image: "/uploads/September_04-16-21_A4_6180_sRGB_1800px_V2.jpg"
+  caption: 
 ---
 
 SEPTEMBER is thrilled to present, *Shake Up the Room*, curated with Michael Mosby, featuring work by Reginald Madison, Sahana Ramakrishnan, Razan Al Sarraf, Marcus Leslie Singleton, and Brittany Tucker. The exhibiting artists interweave autobiographical histories with external references and observations. They fuse lived moments with learned narratives, shaping new perspectives. The impact of their work is arresting in both manner and message. Stories are being told here. 
