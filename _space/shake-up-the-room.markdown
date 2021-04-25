@@ -6,6 +6,10 @@ key_image_credit: Marcus Leslie Singleton, Healthy, 2021, oil and spray paint 
   48 x 48 inches.
 start_date: 2021-04-17 12:00:00 -04:00
 end_date: 2021-05-30 17:00:00 -04:00
+images:
+- 
+- 
+- 
 images_with_captions:
 - image: "/uploads/September_04-16-21_A4_6167_sRGB_1800px_V2%20copy.jpg"
   caption: Reginald Madison, Poem for Bird, 1994, oil on linen, 52 x 72 inches.
@@ -18,6 +22,22 @@ images_with_captions:
   caption: Marcus Leslie Singleton, Doctores, 2021, oil on wood panel, 14 x 11 inches.
 - image: "/uploads/September_04-16-21_A4_6164_sRGB_1800px_V2%20copy.jpg"
   caption: Brittany Tucker, Double Take, 2020, acrylic and acrylic yarn on canvas.
+- image: "/uploads/September_04-16-21_A4_6145_sRGB_1800px_V2.jpg"
+  caption: 
+- image: "/uploads/September_04-16-21_A4_6147_sRGB_1800px_V2-969409.jpg"
+  caption: 
+- image: "/uploads/September_04-16-21_A4_6152_sRGB_1800px_V2-91929c.jpg"
+  caption: 
+- image: "/uploads/September_04-16-21_A4_6151_sRGB_1800px_V2-d63ca9.jpg"
+  caption: 
+- image: "/uploads/September_04-16-21_A4_6156_sRGB_1800px_V2-1d478d.jpg"
+  caption: 
+- image: "/uploads/September_04-16-21_A4_6154_sRGB_1800px_V2-cd7c96.jpg"
+  caption: 
+- image: "/uploads/September_04-16-21_A4_6158_sRGB_1800px_V2-60a671.jpg"
+  caption: 
+- image: "/uploads/September_04-16-21_A4_6146_sRGB_1800px_V2-d8b7e3.jpg"
+  caption: 
 ---
 
 SEPTEMBER is thrilled to present, *Shake Up the Room*, curated with Michael Mosby, featuring work by Reginald Madison, Sahana Ramakrishnan, Razan Al Sarraf, Marcus Leslie Singleton, and Brittany Tucker. The exhibiting artists interweave autobiographical histories with external references and observations. They fuse lived moments with learned narratives, shaping new perspectives. The impact of their work is arresting in both manner and message. Stories are being told here. 
