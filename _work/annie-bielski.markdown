@@ -3,13 +3,14 @@ title: Annie Bielski
 date: 2020-11-23 06:32:00 -05:00
 position: 4
 key_image: "/uploads/Annie%20Bielski-Flower%20Bench%20II-4%20copy.jpg"
-key_image_credit: ANNIE BIELSKI-Flower Bench II-2020-wood, recycled polyester batting,
-  ABS plastic, canvas, cotton, thread, acrylic, latex, paracord, hardware-14.5 x 47
-  x 50 inches
+key_image_credit: Annie Bielski, Flower Bench II, 2020, wood, recycled polyester batting,
+  ABS plastic, canvas, cotton, thread, acrylic, latex, paracord, hardware, 14.5 x
+  47 x 50 inches
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: b
 exhibition_links:
+  Strong Winds May Exist: http://septembergallery.com/space/annie-bielski-strong-winds-may-exist.html
   Recognize you when she sees you, Give you the things she has for you.: http://septembergallery.com/space/recognize-you-when-she-sees-you-give-you-the-thing-she-has-for-you.html
   NADA: http://septembergallery.com/space/annie-bielski-at-nada-ny.html
   Post-Election: http://septembergallery.com/space/post-election-show.html
