@@ -3,15 +3,16 @@ title: Ashley Garrett
 date: 2020-07-05 16:48:00 -04:00
 position: 6
 key_image: "/uploads/Ashley-Garrett_A-Day-for-Fred-2016-oil-on-canvas-16x10.jpg"
-key_image_credit: ASHLEY GARRETT-A Day for Fred- 2016-oil on gessoed paper-16 x 10
-  inches
+key_image_credit: Ashley Garrett, A Day for Fred, 2016, oil on gessoed paper, 16 x
+  10 inches
 is_sometimes: true
 first_letter_of_last_name: G
 exhibition_links:
   'Ashley Garrett: Aegis': http://septembergallery.com/space/aegis.html
 images_with_captions:
 - image: "/uploads/Ashley-Garrett_Empty-Realm-2019-61f125.jpg"
-  caption: Empty Realm, 2019, oil on gessoed paper, 4 x 6 inches, 10.16 x 15.24 cm
+  caption: Ashley Garrett, Empty Realm, 2019, oil on gessoed paper, 4 x 6 inches,
+    10.16 x 15.24 cm
 research_links:
   Artist's Website: https://www.ashleygarrett.com/
 ---
