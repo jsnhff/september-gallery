@@ -18,25 +18,25 @@ The myriad possibilities that Bielski connects to arrive at a finished painting 
 
 *A road sign said <b>STRONG WINDS MAY EXIST</b>*
 
-*An angel came to me with a most holy order to stop everything and rearrange the room again*\\
-*When I move the couch for the fourth time I feel at peace knowing that I am making a large drawing, exercising, avoiding my deadline, my death, and staying out of hell all at once*
+*An angel came to me with a most holy order to stop everything and rearrange the room again*
+<br>*When I move the couch for the fourth time I feel at peace knowing that I am making a large drawing, exercising, avoiding my deadline, my death, and staying out of hell all at once*
 
-*I'm good*\\
-*I stand at a distance to look at what I have done* 
+*I'm good*
+<br>*I stand at a distance to look at what I have done* 
 
-*In my studio I stand too close so that I can't see much of anything,*\\
-*like the surface of the painting is the  surface of my face* 
+*In my studio I stand too close so that I can't see much of anything,*
+<br>*like the surface of the painting is the  surface of my face* 
 
-*When X says Y knows more about Z than Z knows about Z*\\
-*X means that Y has observed Z from angles Z will never know*\\
-*Z feels sad when she remembers she can't see the back of her own head like X, Y, and the others can*\\
-*Z feels vulnerable and exposed*
+*When X says Y knows more about Z than Z knows about Z*
+<br>*X means that Y has observed Z from angles Z will never know*
+<br>*Z feels sad when she remembers she can't see the back of her own head like X, Y, and the others can*
+<br>*Z feels vulnerable and exposed*
 
-*I attached a piece of rope to a piece of canvas with sewing pins, and spent time rearranging on the surface*\\
-*It could still move*
+*I attached a piece of rope to a piece of canvas with sewing pins, and spent time rearranging on the surface*
+<br>*It could still move*
 
-*The weather man, my father, closes forecast emails with*\\
-Subject To Change, Without Warning, For No Apparent Reason 
+*The weather man, my father, closes forecast emails with*
+<br>Subject To Change, Without Warning, For No Apparent Reason 
 
 
 Annie Bielski (b. 1990, Toledo, OH) received her BFA from School of the Art Institute of Chicago, and her MFA from University at Buffalo (SUNY). Bielski is an artist, writer, and performer. Bielski’s paintings, sculpture, and video have been exhibited at NADA (New York), Burning in Water (NYC), Paris London Hong Kong (Chicago), High Tide (Philadelphia), Motel (Brooklyn), Lodos Gallery (Mexico City), The Portland Institute of Contemporary Art (Portland), and the University at Buffalo, among others. Bielski has performed at SEPTEMBER, Basilica Hudson, The Spotty Dog, The Museum of Modern Art, Coustof Waxman, Allen & Eldridge NYC, Rachel Uffner Gallery, CANADA, and elsewhere. She has collaborated with musician Jenny Hval and performed across the US and Europe. Her work and performances have been covered by Art News, Hyperallergic, MTV, The New York Times, among others. Bielski writes for the Creative Independent, and has done special projects with Virginia Commonwealth University, University at Buffalo and Fort Makers. Bielski lives and works in Albuquerque, New Mexico.
