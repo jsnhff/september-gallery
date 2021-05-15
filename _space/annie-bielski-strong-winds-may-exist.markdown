@@ -19,23 +19,30 @@ The myriad possibilities that Bielski connects to arrive at a finished painting 
 *A road sign said STRONG WINDS MAY EXIST*
 
 *An angel came to me with a most holy order to stop everything and rearrange the room again*
+
 *When I move the couch for the fourth time I feel at peace knowing that I am making a large drawing, exercising, avoiding my deadline, my death, and staying out of hell all at once*
 
 *I'm good*
+
 *I stand at a distance to look at what I have done* 
 
 *In my studio I stand too close so that I can't see much of anything,*
+
 *like the surface of the painting is the  surface of my face* 
 
 *When X says Y knows more about Z than Z knows about Z
 X means that Y has observed Z from angles Z will never know*
+
 *Z feels sad when she remembers she can't see the back of her own head like X, Y, and the others can*
+
 *Z feels vulnerable and exposed*
 
 *I attached a piece of rope to a piece of canvas with sewing pins, and spent time rearranging on the surface*
+
 *It could still move*
 
 *The weather man, my father, closes forecast emails with*
+
 Subject To Change, Without Warning, For No Apparent Reason 
 
 
