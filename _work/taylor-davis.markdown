@@ -9,7 +9,7 @@ is_always: true
 is_sometimes: true
 first_letter_of_last_name: d
 exhibition_links:
-  Aldrich Museum: 
+  Aldrich Museum: https://thealdrich.org/exhibitions/taylor-davis-if-you-steal-a-horse-and-let-him-go-hell-take-you-to-the-barn-you-stole-him-from
   Whitney Biennial: http://whitney.org/www/2004biennial/flash/main.swf
   Tang Museum: https://tang.skidmore.edu/exhibitions/36-i-was-a-double
   DeCordova Museum and Sculpture Park: http://www.decordova.org/taylor-davis
