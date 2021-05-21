@@ -65,7 +65,7 @@ gallery_hours: "Friday-Sunday, 12-5pm\nNo appointments necessary.\nFollowing the
   guidelines, we no longer require masks for anyone who is vaccinated. However, we
   have masks available and are more than happy to accommodate any visitor by wearing
   one. "
-is_closed: true
+is_closed: false
 why_youre_closed: 
 email: kristen@septembergallery.com
 description: "SEPTEMBER is a gallery, a room, a practice. We exhibit and support contemporary
