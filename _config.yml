@@ -61,10 +61,7 @@ defaults:
       Link One: ''
     catalog_link:
       Catalog: ''
-gallery_hours: "Friday-Sunday, 12-5pm\nNo appointments necessary.\nFollowing the CDC
-  guidelines, we no longer require masks for anyone who is vaccinated. However, we
-  have masks available and are more than happy to accommodate any visitor by wearing
-  one. "
+gallery_hours: Friday-Sunday, 12-5pm
 is_closed: false
 why_youre_closed: 
 email: kristen@septembergallery.com
@@ -74,20 +71,20 @@ description: "SEPTEMBER is a gallery, a room, a practice. We exhibit and support
   centered with care because of their inherited, chosen or perceived identity. We
   engage our local community while exhibiting artists from other cities and countries.
   We concentrate on visual artists, and collaborate with curators, performers, activists,
-  poets, chefs, writers and other creatives. We opened in 2016 in Hudson, NY.\n\nGallery
-  Hours: Friday-Sunday, 12-5pm. No appointments necessary.\nFollowing the CDC guidelines,
-  we no longer require masks for anyone who is vaccinated. However, we have masks
-  available and are more than happy to accommodate any visitor by wearing one. "
+  poets, chefs, writers and other creatives. We opened in 2016 in Hudson, NY.\n\nNo
+  appointments necessary. Following the CDC guidelines, we no longer require masks
+  for anyone who is vaccinated. However, we have masks available and are more than
+  happy to accommodate any visitor by wearing one. "
 writing: "SEPTEMBER is a gallery, a room, a practice. We exhibit and support contemporary
   artists. We believe that being receptive to change is essential for the creative
   process. We provide a platform for exceptional individuals who have not been historically
   centered with care because of their inherited, chosen or perceived identity. We
   engage our local community while exhibiting artists from other cities and countries.
   We concentrate on visual artists, and collaborate with curators, performers, activists,
-  poets, chefs, writers and other creatives. We opened in 2016 in Hudson, NY.\n\nGallery
-  Hours: Friday-Sunday, 12-5pm. No appointments necessary.\nFollowing the CDC guidelines,
-  we no longer require masks for anyone who is vaccinated. However, we have masks
-  available and are more than happy to accommodate any visitor by wearing one. "
+  poets, chefs, writers and other creatives. We opened in 2016 in Hudson, NY.\n\nNo
+  appointments necessary. Following the CDC guidelines, we no longer require masks
+  for anyone who is vaccinated. However, we have masks available and are more than
+  happy to accommodate any visitor by wearing one. "
 physical_address: '449 Warren Street #3, Hudson, NY 12534'
 url: http://septembergallery.com
 facebook_username: septembergallery
