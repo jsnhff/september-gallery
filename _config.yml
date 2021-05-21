@@ -61,7 +61,10 @@ defaults:
       Link One: ''
     catalog_link:
       Catalog: ''
-gallery_hours: Friday-Sunday, 12-5pm
+gallery_hours: "Friday-Sunday, 12-5pm\nAppointments are not needed.\nFollowing the
+  DCD guidelines, we no longer require masks for anyone who is vaccinated. However,
+  we have masks available and are more than happy to accommodate any visitor by wearing
+  one. "
 is_closed: true
 why_youre_closed: 
 email: kristen@septembergallery.com
