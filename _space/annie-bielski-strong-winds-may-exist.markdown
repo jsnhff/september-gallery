@@ -10,7 +10,7 @@ images_with_captions:
     on sewn canvas, silk, and polyester, 60 x 65 x 3 inches
 ---
 
-SEPTEMBER is excited to present *Strong Winds May Exist*, Annie Bielski’s first solo exhibition at the gallery. The opening reception is June 12, 2021 from 5 PM - sunset, and the exhibition is on view until July 25. SEPTEMBER has included Bielski’s work in several group shows, presented a solo booth at NADA NY together, and in early 2020, invited her to be in our program as an ALWAYS artist. Bielski’s upcoming exhibition includes large-scale mixed media paintings, works on paper, paintings that function as furniture for sitting, and a curtain that operates as a drawing. 
+SEPTEMBER is excited to present *Strong Winds May Exist*, Annie Bielski’s first solo exhibition at the gallery. The opening reception is June 12, 2021 from 5 PM until sunset. SEPTEMBER has included Bielski’s work in several group shows, presented a solo booth at NADA NY together, and in early 2020, invited her to be in our program as an ALWAYS artist. Bielski’s upcoming exhibition includes large-scale mixed media paintings, works on paper, paintings that function as furniture for sitting, and a curtain that operates as a drawing. 
 
 If the work of Annie Bielski could speak, it might ask, *What If? What if it was made without thread? What if the balloon was never lost? What if it snowed in the desert?*  
 
