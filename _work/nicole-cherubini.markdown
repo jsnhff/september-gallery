@@ -8,13 +8,16 @@ is_always: true
 is_sometimes: false
 first_letter_of_last_name: c
 exhibition_links:
-  Stars and Cells: http://septembergallery.com/space/cells-and-stars.html
-  OMI: http://artomi.org/page.php?Nicole-Cherubini-239
-  Pérez Museum: http://www.pamm.org/exhibitions/project-gallery-nicole-cherubini
-  Tang Museum: https://tang.skidmore.edu/collection/27-g-pot-medallion-1
-  MFA, Boston: http://www.mfa.org/exhibitions/surface-matters
+  'Tang Museum: Shaking The Trees': https://tang.skidmore.edu/exhibitions/271-nicole-cherubini-shaking-the-trees
+  'University at Albany Art Museum: we are here.': https://www.albany.edu/university-art-museum/exhibitions/we-are-here-nicole-cherubini
+  'SEPTEMBER: Stars and Cells': http://septembergallery.com/space/cells-and-stars.html
+  'OMI: there is a road...': http://artomi.org/page.php?Nicole-Cherubini-239
+  Pérez Art Museum: http://www.pamm.org/exhibitions/project-gallery-nicole-cherubini
+  'Museum of Fine Arts Boston: Surface Matters': http://www.mfa.org/exhibitions/surface-matters
   Santa Monica Museum of Art: https://smmoa.org/programs-and-exhibitions/nicole-cherubini/
-  RETROSPECTIVE: http://retrospectivegallery.com/exhibitions/past/Nicole-Cherubini/Exhibition-Images/
+  'RETROSPECTIVE: Nicole Cherubini': http://retrospectivegallery.com/exhibitions/past/Nicole-Cherubini/Exhibition-Images/
+  'Marisa Newman: Stacked': http://www.marisanewman.com/new-gallery-5
+  Art In Buildings: https://teiartinbuildings.com/collaborators/nicole_cherubini
 images_with_captions:
 - image: "/uploads/CHERUBINI-Verdant%20Empress%201%20copy.jpg"
   caption: |-
@@ -56,7 +59,9 @@ images_with_captions:
     Earthenware, brown earthenware, glaze, grog, pc-11, magic sculpt,!pine, hardware,
     29 x 29 x 62 inches
 research_links:
-  Artist's Website: http://www.nicolecherubini.com/
+  Artforum: https://www.artforum.com/print/reviews/202002/nicole-cherubini-81992
+  Art Viewer: https://artviewer.org/nicole-cherubini-at-derek-eller-gallery/
+  Art Net: https://news.artnet.com/art-world/editors-picks-december-9-2019-1701351
   BOMB Interview with Sarah Braman: http://bombmagazine.org/article/10114/nicole-cherubini
   NY Times, Roberta Smith: http://www.nytimes.com/2010/07/16/arts/design/16galleries-001.html
   Art in America: http://www.artinamericamagazine.com/reviews/nicole-cherubini/
