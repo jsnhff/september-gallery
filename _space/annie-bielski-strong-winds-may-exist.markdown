@@ -8,6 +8,16 @@ images_with_captions:
 - image: "/uploads/Annie%20Bielski-Moonflower-2021-acrylic,%20oil%20stick,%20and%20cotton%20thread%20on%20sewn%20canvas,%20silk,%20and%20polyester-60%20x%2065%20x%203%20inches%20.jpg"
   caption: Annie Bielski, Moonflower, 2021, acrylic, oil stick, and cotton thread
     on sewn canvas, silk, and polyester, 65 x 60 x 3 inches
+- image: "/uploads/September_06-11-21_A4_1974_V1.jpg"
+  caption: 
+- image: "/uploads/September_06-11-21_A4_1997_V1.jpg"
+  caption: 
+- image: "/uploads/September_06-11-21_A4_2009_V1.jpg"
+  caption: 
+- image: "/uploads/September_06-11-21_A4_2034_V1.jpg"
+  caption: 
+- image: "/uploads/September_06-11-21_A4_2088_V1.jpg"
+  caption: 
 ---
 
 SEPTEMBER is excited to present *Strong Winds May Exist*, Annie Bielski’s first solo exhibition at the gallery. The opening reception is June 12, 2021 from 5 PM until sunset. SEPTEMBER has included Bielski’s work in several group shows, presented a solo booth at NADA NY together, and in early 2020, invited her to be in our program as an ALWAYS artist. Bielski’s upcoming exhibition includes large-scale mixed media paintings, works on paper, paintings that function as furniture for sitting, and artist drawing displays.
