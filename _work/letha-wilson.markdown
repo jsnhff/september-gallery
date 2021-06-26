@@ -1,7 +1,7 @@
 ---
 title: Letha Wilson
 date: 2017-05-21 15:27:00 -04:00
-position: 19
+position: 21
 key_image: "/uploads/CaliforniaSunset.jpg"
 key_image_credit: Letha Wilson-California Sunset-2019-Edition 7 of 8, with 2AP-archival
   ink jet print-13.5 x 11 inches

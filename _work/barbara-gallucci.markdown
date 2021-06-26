@@ -2,7 +2,7 @@
 title: Barbara Gallucci
 date: 2018-06-16 17:43:00 -04:00
 published: false
-position: 28
+position: 30
 key_image: "/uploads/GALLUCCI%20Crop.jpg"
 key_image_credit: |-
   Topia Chair,

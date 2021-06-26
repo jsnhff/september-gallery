@@ -1,6 +1,7 @@
 ---
 title: Nell Brookfield
 date: 2021-06-26 13:57:00 -04:00
+position: 13
 key_image: "/uploads/Nell%20Brookfield%20Recent%20Work%201.jpg"
 key_image_credit: Nell Brookfield, Wish You Were Here, 2020, pigment on paper, 15
   x 11 inches, 38.6 x 28.2 cm.

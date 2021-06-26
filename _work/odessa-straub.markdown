@@ -1,7 +1,7 @@
 ---
 title: Odessa Straub
 date: 2020-08-01 19:03:00 -04:00
-position: 2
+position: 3
 key_image: "/uploads/earthly_install-14%20copy.jpg"
 key_image_credit: ODESSA STRAUB-Odessa Straub-How do we care...-2020-found objects,
   vinyl tubing, gold enamel, live plant (Marimo moss ball)-30 x 16 x 7 inches
