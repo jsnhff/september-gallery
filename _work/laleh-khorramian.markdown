@@ -1,6 +1,6 @@
 ---
 title: Laleh Khorramian
-date: 2010-06-01 20:24:00 -04:00
+date: 2010-06-01 21:24:00 -04:00
 position: 5
 key_image: "/uploads/IMG_9948.jpg"
 key_image_credit: LALEH KHORRAMIAN-The Setting-2021-wax pencil, ink, graphite, on
@@ -9,6 +9,7 @@ is_always: true
 is_sometimes: false
 first_letter_of_last_name: a
 exhibition_links:
+  'Alexander Gray: Subliminal Horizons': https://www.alexandergray.com/germantown/subliminal-horizons
   Liverpool Biennial 2021: https://liverpoolbiennial2021.com/programme/the-refracted-body/
   Earthly: https://www.strose.edu/calendar/earthly/
   'Center for Human Rights: A Bridge Between You and Everything': https://www.iranhumanrights.org/2019/10/iranian-women-artists-showcased-in-upcoming-exhibit-curated-by-shirin-neshat/
@@ -52,6 +53,6 @@ research_links:
   Columbia Magazine: https://magazine.columbia.edu/article/without-walls
 ---
 
-Born in Tehran, Iran, Khorramian lives and works in upstate New York. She studied at the Rhode Island School of Design and received her undergraduate degree at The School of The Art Institute of Chicago, and her MFA at Columbia University, New York. Khorramian has exhibited internationally, including shows in MASS MOCA, U.S.A; Victoria and Albert Museum, London; Art Basel Statements, Switzerland; Ballroom Marfa, Texas; Istanbul Museum of Art, Istanbul; The Sundance Film festival; The Midnight Moment in Times Sq and The Queensland Art Gallery, Australia. In 2013, she published her first limited edition artist book Include Amplified Toilet Water with publisher Bartleby and Co, Brussels. Khorramian is the recipient of the Baltic Artists' Award 2021. She is also the recipient of the Foundation for Contemporary Arts Emergency Grant 2020.
+Laleh Khorramian (b. 1974 Tehran, Iran) studied at the Rhode Island School of Design (Providence, RI), received her undergraduate degree at The School of The Art Institute of Chicago (Chicago, IL), and her MFA at Columbia University (New York, NY). She has exhibited internationally, with solo shows including Saturns Neckless, The Third Line (Dubai, United Arab Emirates), Midnight Moment: Laleh Khorramian, Times Square (New York, NY), Water Panics in the Sea, St. Louis Art Museum (St. Louis, MO), Scene 9, Water Panics in the Sea, Galerie Krinzinger (Vienna, Austria), and I Without End, Salon 94 Freemans, (New York, NY). She has participated in numerous group exhibitions, including Subliminal Horizons, Alexander Gray Associates (Germantown, NY), The Creative Act: Performance, Process, Presence, Guggenheim (Abu Dhabi, United Arab Emirates), Statements, Art Basel (Basel, Switzerland), Making Room: The Space Between Two- and Three- Dimensions, MASS MoCA (North Adams, MA), Immaterial, Ballroom Marfa (Marfa, TX), The Dissolve, Site Santa Fe Biennale (Santa Fe, NM), New Frontier Shorts, Sundance Film Festival (Park City, UT), RAAD O BARGH, Thaddaeus Ropac Gallery (Salzburg, Austria), Unveiled, Saatchi Gallery (London, United Kingdom), and Greater NY 2005, MoMA P.S.1 Museum (Long Island, NY). In 2012, she published Include Amplified Toilet Water (artist book, edition of 33, Bartleby and Co. Publishers, Brussels, Belgium), and it is housed in the collections of MoMA (New York, NY) Centre Pompidou (Paris, France), Columbia University (New York, NY), and the Royal Library of Belgium (Brussels, Belgium). Select awards include the BALTIC Artists’ Award, the Pollock Krasner Foundation Grant, the Pat Hearn and Colin Deland Foundation Grant, and the Agnes Martin Award. Select press includes features in Art21, The New York Times T Magazine, Hyperallergic, and The Creative Independent. Laleh Khorramian lives and works in upstate New York.
 
-In her art practice Khorramian uses animation, digital media and sampled audio supplements with collages, monotypes and drawing. Khorramian approaches her work as a series of experiments with the process of chance as a starting point for discovering possibilities of the unknown, whose details and outcomes she then investigates and repositions. In a vacillating process between macro and micro views of painted landscapes and incidental spaces, Khorramian integrates fiction with spectacle and theater to explore the transience of living matter and beings and it's cycles of depletion and plenitude.
+In her art practice, Khorramian uses animation, digital media, and sampled audio supplements with collages, monotypes, and drawing. Khorramian approaches her work as a series of experiments with the process of chance as a starting point for discovering possibilities of the unknown, whose details and outcomes she then investigates and repositions. In a vacillating process between macro and micro views of painted landscapes and incidental spaces, Khorramian integrates fiction with spectacle and theater to explore the transience of living matter and beings and its cycles of depletion and plenitude.
