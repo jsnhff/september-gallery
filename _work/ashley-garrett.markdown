@@ -5,7 +5,8 @@ position: 6
 key_image: "/uploads/Ashley-Garrett_A-Day-for-Fred-2016-oil-on-canvas-16x10.jpg"
 key_image_credit: Ashley Garrett, A Day for Fred, 2016, oil on gessoed paper, 16 x
   10 inches
-is_sometimes: true
+is_always: true
+is_sometimes: false
 first_letter_of_last_name: G
 exhibition_links:
   'Ashley Garrett: Aegis': http://septembergallery.com/space/aegis.html
