@@ -9,7 +9,7 @@ is_sometimes: true
 first_letter_of_last_name: G
 exhibition_links:
   'Ashley Garrett: Aegis': http://septembergallery.com/space/aegis.html
-  'Gold Montclair: Meadow': https://www.goldmontclair.com/ashley-garrett-meadow
+  'Gold/scopophilia*: Meadow': https://www.goldmontclair.com/ashley-garrett-meadow
 images_with_captions:
 - image: "/uploads/Ashley-Garrett_Empty-Realm-2019-61f125.jpg"
   caption: Ashley Garrett, Empty Realm, 2019, oil on gessoed paper, 4 x 6 inches,
