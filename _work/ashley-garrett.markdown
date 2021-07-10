@@ -11,6 +11,7 @@ first_letter_of_last_name: G
 exhibition_links:
   'Ashley Garrett: Aegis': http://septembergallery.com/space/aegis.html
   'Gold/scopophilia*: Meadow': https://www.goldmontclair.com/ashley-garrett-meadow
+  Chromatic Vigils / Low Tides: http://www.thesphinxnyc.com/chromatic-vigils/
 images_with_captions:
 - image: "/uploads/Ashley-Garrett_Empty-Realm-2019-61f125.jpg"
   caption: Ashley Garrett, Empty Realm, 2019, oil on gessoed paper, 4 x 6 inches,
