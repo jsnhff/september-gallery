@@ -53,8 +53,10 @@ Annie Bielski (b. 1990, Toledo, OH) received her BFA from School of the Art Inst
 
 
 
-Strange Weather
-*Annie Bielski: Strong Winds May Exist* at September Gallery 
+
+
+<b>Strange Weather
+*Annie Bielski: Strong Winds May Exist* at September Gallery</b>
 
 “It was an idle thought; there could be no possibility of distinguishing a faded flower from a fresh one, at so great a distance.” -Rappaccini’s Daughter, Nathaniel Hawthorn 
 
