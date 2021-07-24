@@ -60,7 +60,7 @@ Annie Bielski (b. 1990, Toledo, OH) received her BFA from School of the Art Inst
 <b>Strange Weather
 *Annie Bielski: Strong Winds May Exist* at September Gallery</b>
 
-“It was an idle thought; there could be no possibility of distinguishing a faded flower from a fresh one, at so great a distance.” -*Rappaccini’s Daughter*, Nathaniel Hawthorn 
+“It was an idle thought; there could be no possibility of distinguishing a faded flower from a fresh one, at so great a distance.” -*Rappaccini’s Daughter*, Nathaniel Hawthorne
 
 In the exhibition *Strong Winds May Exist,* Annie Bielski seems fascinated by the balance between stable conditions and states of impermanence and vicissitude expressed through paintings in a variety of scales and including some surprising materials, in elusive depictions of figural and flower-like forms. Changes alternately slight and dramatic emerge like shifting weather patterns, becoming the basis of the surfaces that shape into what we see as painterly composition. 
 
