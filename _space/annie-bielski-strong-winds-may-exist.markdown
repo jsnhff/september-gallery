@@ -53,7 +53,9 @@ Annie Bielski (b. 1990, Toledo, OH) received her BFA from School of the Art Inst
 
 
 
-
+<br>
+<br>
+<br>
 
 <b>Strange Weather
 *Annie Bielski: Strong Winds May Exist* at September Gallery</b>
