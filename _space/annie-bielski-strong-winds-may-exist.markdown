@@ -3,7 +3,7 @@ title: 'Annie Bielski: Strong Winds May Exist'
 date: 2021-04-25 16:05:00 -04:00
 key_image: "/uploads/IMG_3755%20copy.jpg"
 start_date: 2021-06-12 12:00:00 -04:00
-end_date: 2021-07-25 18:00:00 -04:00
+end_date: 2021-07-31 17:00:00 -04:00
 images_with_captions:
 - image: "/uploads/Annie%20Bielski-Moonflower-2021-acrylic,%20oil%20stick,%20and%20cotton%20thread%20on%20sewn%20canvas,%20silk,%20and%20polyester-60%20x%2065%20x%203%20inches%20.jpg"
   caption: Annie Bielski, Moonflower, 2021, acrylic, oil stick, and cotton thread
