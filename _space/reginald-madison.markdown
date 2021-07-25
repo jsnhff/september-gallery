@@ -6,6 +6,8 @@ start_date: 2021-08-27 11:00:00 -04:00
 end_date: 2021-10-03 18:00:00 -04:00
 artist_links:
   Reginald Madison: septembergallery.com/work/reginald-madison.html edit
+research_links:
+  The Hudson Eye: https://www.thehudsoneye.com/
 ---
 
 In partnership with The Hudson Eye, SEPTEMBER will present works by Reginald Madison, on view at the gallery throughout the duration of the festival from August 27-September 6, with an extended viewing through October 3. The Hudson Eye is an artist-driven 10-day annual public program and urban showcase, with a focus on dance, music, performance, film, and visual art. This program aims to celebrate the arts community in Hudson and help stimulate creativity and connectivity. 
