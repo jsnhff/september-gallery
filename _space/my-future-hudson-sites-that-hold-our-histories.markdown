@@ -1,0 +1,9 @@
+---
+title: 'My Future Hudson: sites that hold our histories'
+date: 2021-07-25 16:08:00 -04:00
+published: false
+---
+
+For Upstate Art Weekend 2021, artist and activist Lukaza Branfman-Verissimo and local youth group Perfect Ten will be presenting, conversing, and storytelling with the public at different selected locations around Hudson, each marked with collaboratively made sandwich boards bearing language around shared histories and imagined futures.     
+
+<b>Lukaza Branfman-Verissimo</b> (she/her/they/them, b. 1993, Munsee Lenapa & Wappinger Lan [New York City, NY]) is a queer, black, artist, activist, educator, storyteller & curator who lives and works between Ohlone Land (Oakland, CA) and Powhatan Land (Richmond, VA). Their work has been included in exhibitions and performances at EFA Project Space (New York City, NY), Leslie Lohman Museum for Gay & Lesbian Art (New York City, NY), Konsthall C (Stockholm,Sweden), STNDRD (Steuben, WI), Yerba Buena Center for the Arts (San Francisco, CA) and Berkeley Art Museum and Pacific Film Archive (Berkeley, CA), among others. Lukaza has been awarded residencies and fellowships at Kala Art Center (Berkeley, CA), ACRE Residency (Steuben, WI), Vermont Studio Center (Johnson, VT) and CENTER (Grand Rapids, MI). For five years, Lukaza was the Lead Curator/Director at Nook Gallery, collaborating with over 80+ artists, in a gallery located in their Oakland apartment kitchen. In the Fall of 2020 their newest artist book, We are all speaking at the same time, was released with Endless Editions (New York City, NY). They got their BFA at California College of the Arts in Oakland, CA and are currently getting their MFA from Virginia Commonwealth University in Richmond, VA.
