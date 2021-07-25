@@ -1,7 +1,7 @@
 ---
 title: 'Odessa Straub: There''s my chair I put it there'
 date: 2019-11-02 14:46:00 -04:00
-position: 7
+position: 10
 key_image: "/uploads/IMG_3669%20copy.jpg"
 start_date: 2019-11-23 00:00:00 -05:00
 end_date: 2020-01-12 00:00:00 -05:00

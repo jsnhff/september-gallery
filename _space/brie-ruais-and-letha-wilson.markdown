@@ -1,7 +1,7 @@
 ---
 title: "Paper Covers Rock:                                 \n\nBrie Ruais, Letha Wilson"
 date: 2017-04-14 15:50:00 -04:00
-position: 22
+position: 25
 key_image: "/uploads/RUAIS%20WILSON.jpg"
 key_image_credit: 'Image: Brie Ruais, Non Zero Sum Game, 2017, Letha Wilson, Goblin
   Valley State Park, Utah, December 2016'
