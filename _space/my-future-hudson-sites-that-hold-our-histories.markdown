@@ -2,6 +2,17 @@
 title: 'My Future Hudson: sites that hold our histories'
 date: 2021-07-25 16:08:00 -04:00
 published: false
+key_image: "/uploads/September_02-19-21_B4_5500_sRGB_1800px_V1.jpg"
+key_image_credit: Lukaza Branfman-Verissimo, Let’s re-name our city, one block at
+  a time, 2020, black gesso, acrylic, colored pencil on plywood, hardware, 48 x 24
+  x variable inches.
+start_date: 2021-08-27 11:00:00 -04:00
+end_date: 2021-08-29 18:00:00 -04:00
+artist_links:
+  Lukaza Branfman-Verissimo: http://septembergallery.com/work/lukaza-branfman-verissimo.html
+research_links:
+  Upstate Art Weekend: https://www.upstateartweekend.org/
+  Perfect Ten: https://perfecttenhudson.org/
 ---
 
 For Upstate Art Weekend 2021, artist and activist Lukaza Branfman-Verissimo and local youth group Perfect Ten will be presenting, conversing, and storytelling with the public at different selected locations around Hudson, each marked with collaboratively made sandwich boards bearing language around shared histories and imagined futures.     
