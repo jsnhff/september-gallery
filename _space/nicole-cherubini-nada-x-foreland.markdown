@@ -1,0 +1,16 @@
+---
+title: Nicole Cherubini NADA x Foreland
+date: 2021-07-25 16:17:00 -04:00
+published: false
+key_image: "/uploads/IMG_1175.jpg"
+start_date: 2021-08-28 11:00:00 -04:00
+end_date: 2021-08-29 20:00:00 -04:00
+artist_links:
+  Nicole Cherubini: http://septembergallery.com/work/nicole-cherubini.html
+research_links:
+  NADA x Foreland: https://www.newartdealers.org/programs/nada-x-foreland/introduction
+---
+
+SEPTEMBER is thrilled to participate in NADA x Foreland, featuring works by Nicole Cherubini. NADA x Foreland is a collaborative weekend exhibition from August 28-29 at Foreland, a new arts campus in the center of Catskill. In partnership with Upstate Art Weekend and co-organized with NADA Member Jesse Greenberg of JAG Projects, the exhibition will highlight artworks from the community of NADA galleries, non-profits, and artists with a focus on artists working in the region of Upstate New York, featuring 81 exhibiting galleries, non-profits, and artist-run spaces presenting over 100 artists.
+
+<b>Nicole Cherubini</b> received her BFA from the Rhode Island School of Design (Providence, RI), and MFA from New York University (New York, NY). Her work has been featured in solo exhibitions at institutions including the Institute of Contemporary Art (Philadelphia, PA), the Jersey City Museum (Jersey City, NJ), the Nassau County Museum of Art (Roslyn Harbor, NY), the Pérez Art Museum Miami (Miami, FL), the Santa Monica Museum of Art (Los Angeles, CA), The Tang Teaching Museum and Art Gallery (Saratoga, NY) and University Art Museum (Albany, NY). She has participated in numerous group exhibitions at institutions including the Cranbrook Art Museum (Bloomfield Hills, MI), the Institute of Contemporary Art/Boston (Boston, MA), the Kemper Museum of Contemporary Art (Kansas City, MO), MoMA PS1 (Long Island City, NY), Museo de Arte Raúl Anguiano (Guadalajara, México), the Museum of Fine Arts (Boston, MA), the Rhode Island School of Design Museum (Providence, RI), the Rose Art Museum (Waltham, MA), Sculpture Center (Long Island City, NY), the Studio Museum in Harlem (New York, NY), the Tang Teaching Museum and Art Gallery (Saratoga, NY), The University of Arkansas Museum (Fayetteville, AR), the Walker Art Center (Minneapolis, MN), Forthcoming: Massachusetts Museum of Contemporary Art (North Adams, MA), and Permanenten: The West Norway Museum of Decorative Art (Bergen, Norway). Her work is held in numerous private and public collections, such as the Cranbrook Art Museum (Bloomfield Hills, MI), the Massachusetts Institute of Technology (Cambridge, MA), the Museum of Fine Arts (Boston, MA), the Institute of Contemporary Art/Boston (Boston, MA), the Museum of Arts and Design (New York, NY), the Pérez Art Museum Miami (Miami, FL), the Tang Teaching Museum and Art Gallery (Saratoga, NY), the Progressive Collection (Mayfield Village, OH), Tishman Speyer Collection (New York, NY), and University Art Museum (Albany, NY). In 2019, Cherubini was an artist in residence at the Isabella Stewart Gardner Museum (Boston, MA). Cherubini lives and works in Hudson, NY.
