@@ -5,6 +5,7 @@ key_image: "/uploads/September_04-16-21_A4_6167_sRGB_1800px_V2.jpg"
 key_image_credit: Reginald Madison, Poem for Bird, 1994, oil on linen, 52 x 72 inches.
 is_always: false
 is_sometimes: true
+first_letter_of_last_name: M
 exhibition_links:
   Shake Up the Room: http://septembergallery.com/space/shake-up-the-room.html
   Art & Soul: https://hudsonhall.org/event/art-soul/
