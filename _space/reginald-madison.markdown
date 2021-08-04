@@ -9,9 +9,11 @@ end_date: 2021-10-10 17:00:00 -04:00
 opening_start_time_and_date: 2021-08-27 17:00:00 -04:00
 opening_end_time_and_date: 2021-08-27 19:00:00 -04:00
 artist_links:
+  Shake Up The Room: http://septembergallery.com/space/shake-up-the-room.html
   Reginald Madison: septembergallery.com/work/reginald-madison.html edit
 research_links:
   The Hudson Eye: https://www.thehudsoneye.com/
+  Basilica Hudson: https://basilicahudson.org/
 ---
 
 In partnership with The Hudson Eye and Basilica Hudson, SEPTEMBER will present works by Reginald Madison, on view at the gallery August 27- October 10, 2021.
