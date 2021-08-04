@@ -1,7 +1,6 @@
 ---
 title: Reginald Madison
 date: 2021-07-25 15:37:00 -04:00
-published: false
 start_date: 2021-08-27 11:00:00 -04:00
 end_date: 2021-10-03 18:00:00 -04:00
 artist_links:
