@@ -3,7 +3,8 @@ title: Ashley Garrett
 date: 2020-07-05 16:48:00 -04:00
 position: 7
 key_image: "/uploads/8.5x11.875.jpg"
-key_image_credit: 'Ashley Garrett, 2021, oil on gessoed paper, 11.875 x 8.5 inches, '
+key_image_credit: 'Ashley Garrett, Treasure Thrower, 2021, oil on gessoed paper, 11.875
+  x 8.5 inches, '
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: G
