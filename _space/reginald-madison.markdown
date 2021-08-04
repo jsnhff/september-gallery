@@ -4,8 +4,10 @@ date: 2021-07-25 15:37:00 -04:00
 key_image: "/uploads/IMG_1231%20copy.jpg"
 key_image_credit: Reginald Madison- Harlem River Red- 2012- acrylic on board- 39.5
   x 32.25 inches
-start_date: 2021-08-27 11:00:00 -04:00
-end_date: 2021-10-03 18:00:00 -04:00
+start_date: 2021-08-27 17:00:00 -04:00
+end_date: 2021-10-10 17:00:00 -04:00
+opening_start_time_and_date: 2021-08-27 17:00:00 -04:00
+opening_end_time_and_date: 2021-08-27 19:00:00 -04:00
 artist_links:
   Reginald Madison: septembergallery.com/work/reginald-madison.html edit
 research_links:
