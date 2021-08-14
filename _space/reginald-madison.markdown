@@ -1,5 +1,5 @@
 ---
-title: Reginald Madison
+title: 'Reginald Madison: Home Grown'
 date: 2021-07-25 15:37:00 -04:00
 key_image: "/uploads/IMG_1231%20copy.jpg"
 key_image_credit: Reginald Madison- Harlem River Red- 2012- acrylic on board- 39.5
@@ -18,9 +18,9 @@ research_links:
 
 In partnership with The Hudson Eye and Basilica Hudson, SEPTEMBER will present works by Reginald Madison, on view at the gallery August 27- October 10, 2021.
 
-The Hudson Eye, August 27- September 6, is an artist-driven 10-day annual public program and urban showcase, with a focus on dance, music, performance, film, and visual art. This program aims to celebrate the arts community in Hudson and help stimulate creativity and connectivity. 
+The Hudson Eye, August 27 - September 6, is an artist-driven 10-day annual public program and urban showcase, with a focus on dance, music, performance, film, and visual art. This program aims to celebrate the arts community in Hudson and help stimulate creativity and connectivity. 
 
-Basilica Hudson, a nonprofit multidisciplinary art center located in Hudson NY, welcomes over 20,000 visitors each season to genre-pushing music festivals, large scale marketplace events, regular film screenings, an artist in residency program, public installations and other community gatherings. The majority of its programs are free or sliding scale.
+Basilica Hudson, a nonprofit multidisciplinary art center located in Hudson NY, welcomes over 20,000 visitors each season to genre-pushing music festivals, large-scale marketplace events, regular film screenings, an artist in residency program, public installations and other community gatherings. The majority of its programs are free or sliding scale.
 
 Through its programs, Basilica Hudson supports the creation, production and presentation of independent arts and culture, and strives to forge experiences that aspire to the scale, grit and beauty of its surroundings. It draws inspiration for its mission and programming from the City of Hudson’s epic history, as well as the region’s artistic legacy and environmental advocacy.
 
