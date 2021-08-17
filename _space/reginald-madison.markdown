@@ -14,16 +14,16 @@ artist_links:
 research_links:
   The Hudson Eye: https://www.thehudsoneye.com/
   Basilica Hudson: https://basilicahudson.org/
+  National Endowment for the Arts: https://www.arts.gov/
 ---
 
-In partnership with The Hudson Eye and Basilica Hudson, SEPTEMBER will present works by Reginald Madison, on view at the gallery August 27- October 10, 2021.
+In partnership with The Hudson Eye, Basilica Hudson, and the National Endowment for the Arts, SEPTEMBER will present *Home Grown*, a solo exhibition with Reginald Madison, on view at the gallery August 27- October 10, 2021.
 
-The Hudson Eye, August 27 - September 6, is an artist-driven 10-day annual public program and urban showcase, with a focus on dance, music, performance, film, and visual art. This program aims to celebrate the arts community in Hudson and help stimulate creativity and connectivity. 
+The Hudson Eye, August 27 - September 6, is an artist-driven 10-day annual public program and urban showcase, with a focus on dance, music, performance, film, and visual art. This program aims to celebrate the arts community in Hudson and help stimulate creativity and connectivity. SEPTEMBER will be featuring Madison's work during The Hudson Eye, 2021.
 
-Basilica Hudson, a nonprofit multidisciplinary art center located in Hudson NY, welcomes over 20,000 visitors each season to genre-pushing music festivals, large-scale marketplace events, regular film screenings, an artist in residency program, public installations and other community gatherings. The majority of its programs are free or sliding scale.
+Basilica Hudson is a nonprofit multidisciplinary art center. Through its programs, Basilica Hudson supports the creation, production and presentation of independent arts and culture. Madison is the 2021 Artist in Residence at Basilica Hudson's Back Gallery.
 
-Through its programs, Basilica Hudson supports the creation, production and presentation of independent arts and culture, and strives to forge experiences that aspire to the scale, grit and beauty of its surroundings. It draws inspiration for its mission and programming from the City of Hudson’s epic history, as well as the region’s artistic legacy and environmental advocacy.
-
+The National Endowment for the Arts supports exemplary arts projects in communities nationwide. Madison is a recipient of the NEA grant for his residency at Basilica, Hudson.
 
 <b>Reginald Madison</b> (b. 1941, Chicago, IL) is a painter and sculptor. In his early years, Madison was greatly influenced by his parents’ love of jazz and the stories they told of seeing Sun-Ra at the legendary Club DeLisa on Chicago’s south side, and by the family’s frequent trips to the Art Institute of Chicago and the Museum of Contemporary Art Chicago. In 1970, Madison was invited to participate in an art show that established him in the emerging arts scene in Chicago, and he went on to travel and study art independently in Paris, Venice, and Copenhagen. He was represented by Phyllis Kind Gallery, NYC after moving to Western Massachusetts in the 1970s.
 
