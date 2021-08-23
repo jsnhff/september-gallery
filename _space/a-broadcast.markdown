@@ -15,7 +15,7 @@ images_with_captions:
 - image: "/uploads/Broadcast%201.png"
 research_links:
   Upstate Art Weekend: https://www.upstateartweekend.org/
-  Perfect Ten: https://perfecttenhudson.org/
+  Key: 
 ---
 
 For Upstate Art Weekend on Saturday, August 28, artist and activist Lukaza Branfman-Verissimo will be Broadcasting sounds, protest chants and stories of resistance in downtown Hudson.
