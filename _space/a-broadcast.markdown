@@ -2,7 +2,7 @@
 title: |-
   Roots and webs and nets and branches and bulletin boards and
   banners and newsletters and mutual aid text threads: A Broadcast
-date: 2021-07-25 16:08:00 -04:00
+date: 2021-08-28 11:00:00 -04:00
 key_image: "/uploads/September_02-19-21_B4_5500_sRGB_1800px_V1.jpg"
 key_image_credit: Lukaza Branfman-Verissimo, Let’s re-name our city, one block at
   a time, 2020, black gesso, acrylic, colored pencil on plywood, hardware, 48 x 24
