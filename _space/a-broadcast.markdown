@@ -13,6 +13,7 @@ artist_links:
   Lukaza Branfman-Verissimo: http://septembergallery.com/work/lukaza-branfman-verissimo.html
 images_with_captions:
 - image: "/uploads/Broadcast%201.png"
+- image: "/uploads/Broadcast%202.png"
 research_links:
   Upstate Art Weekend: https://www.upstateartweekend.org/
 ---
