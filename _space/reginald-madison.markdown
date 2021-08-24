@@ -1,7 +1,7 @@
 ---
 title: 'Reginald Madison: Home Grown'
 date: 2021-07-25 15:37:00 -04:00
-key_image: "/uploads/IMG_1231%20copy.jpg"
+key_image: "/uploads/September_08-17-21_A4_1777_sRGB_1800px%20copy.jpg"
 key_image_credit: Reginald Madison- Harlem River Red- 2012- acrylic on board- 39.5
   x 32.25 inches
 start_date: 2021-08-27 17:00:00 -04:00
