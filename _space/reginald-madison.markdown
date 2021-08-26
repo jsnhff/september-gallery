@@ -1,6 +1,6 @@
 ---
 title: 'Reginald Madison: Home Grown'
-date: 2021-12-01 15:37:00 -05:00
+date: 2021-08-25 15:37:00 -04:00
 key_image: "/uploads/September_08-17-21_A4_1777_sRGB_1800px%20copy.jpg"
 key_image_credit: Reginald Madison- Harlem River Red- 2012- acrylic on board- 39.5
   x 32.25 inches
@@ -17,9 +17,9 @@ research_links:
   National Endowment for the Arts: https://www.arts.gov/
 ---
 
-In partnership with The Hudson Eye, Basilica Hudson, and the National Endowment for the Arts, SEPTEMBER will present *Home Grown*, a solo exhibition with Reginald Madison, on view August 27- October 10, 2021.
+In partnership with The Hudson Eye, Basilica Hudson, and the National Endowment for the Arts, SEPTEMBER will present *Home Grown*, a solo exhibition with Reginald Madison, opening Friday, August 27, 5-7pm, and on view August 27- October 10, 2021. The exhibition will include works from the past three decades, focusing on Madison's paintings.
 
-<b>Please join us for the opening reception Friday, August 27, 5-7pm.</b>
+The following evening, on Saturday, August 28, at 6pm, *Melodious Thunk* will present an evening of music at Pocket Park, featuring Tanni Tabor Trio, Joe McPhee, and others. This event is free and open to the public.
 
 The Hudson Eye, August 27 - September 6, is an artist-driven 10-day annual public program and urban showcase, with a focus on dance, music, performance, film, and visual art. This program aims to celebrate the arts community in Hudson and help stimulate creativity and connectivity. SEPTEMBER will be featuring Madison's work during The Hudson Eye, 2021.
 
