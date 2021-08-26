@@ -17,7 +17,9 @@ research_links:
   National Endowment for the Arts: https://www.arts.gov/
 ---
 
-In partnership with The Hudson Eye, Basilica Hudson, and the National Endowment for the Arts, SEPTEMBER will present *Home Grown*, a solo exhibition with Reginald Madison, opening Friday, August 27, 5-7pm, and on view August 27- October 10, 2021.
+In partnership with The Hudson Eye, Basilica Hudson, and the National Endowment for the Arts, SEPTEMBER will present *Home Grown*, a solo exhibition with Reginald Madison, on view August 27- October 10, 2021.
+
+<b>Please join us for the opening reception Friday, August 27, 5-7pm.</b>
 
 The Hudson Eye, August 27 - September 6, is an artist-driven 10-day annual public program and urban showcase, with a focus on dance, music, performance, film, and visual art. This program aims to celebrate the arts community in Hudson and help stimulate creativity and connectivity. SEPTEMBER will be featuring Madison's work during The Hudson Eye, 2021.
 
