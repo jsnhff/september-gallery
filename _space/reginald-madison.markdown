@@ -1,6 +1,6 @@
 ---
 title: 'Reginald Madison: Home Grown'
-date: 2021-08-25 15:37:00 -04:00
+date: 2021-09-01 15:37:00 -04:00
 key_image: "/uploads/September_08-17-21_A4_1777_sRGB_1800px%20copy.jpg"
 key_image_credit: Reginald Madison- Harlem River Red- 2012- acrylic on board- 39.5
   x 32.25 inches
@@ -15,6 +15,7 @@ research_links:
   The Hudson Eye: https://www.thehudsoneye.com/
   Basilica Hudson: https://basilicahudson.org/
   National Endowment for the Arts: https://www.arts.gov/
+  Times Union: https://www.timesunion.com/theater/article/Reginald-Madison-at-September-Gallery-in-Hudson-16387443.php
 ---
 
 In partnership with The Hudson Eye, Basilica Hudson, and the National Endowment for the Arts, SEPTEMBER will present *Home Grown*, a solo exhibition with Reginald Madison, opening Friday, August 27, 5-7pm, and on view August 27- October 10, 2021. The exhibition will include works from the past three decades, focusing on Madison's paintings.
