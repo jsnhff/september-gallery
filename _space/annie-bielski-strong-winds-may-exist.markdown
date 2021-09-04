@@ -19,6 +19,8 @@ images_with_captions:
   caption: 
 - image: "/uploads/September_06-11-21_A4_2088_V1.jpg"
   caption: 
+research_links:
+  Whitehot Magazine: https://whitehotmagazine.com/articles/may-exist-at-september-gallery/5126
 ---
 
 SEPTEMBER is excited to present *Strong Winds May Exist*, Annie Bielski’s first solo exhibition at the gallery. The opening reception is June 12, 2021 from 5 PM until sunset. SEPTEMBER has included Bielski’s work in several group shows, presented a solo booth at NADA NY together, and in early 2020, invited her to be in our program as an ALWAYS artist. Bielski’s upcoming exhibition includes large-scale mixed media paintings, works on paper, paintings that function as furniture for sitting, and artist drawing displays.
