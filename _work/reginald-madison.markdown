@@ -7,6 +7,7 @@ is_always: false
 is_sometimes: true
 first_letter_of_last_name: M
 exhibition_links:
+  Home Grown: http://septembergallery.com/space/reginald-madison.html
   Shake Up the Room: http://septembergallery.com/space/shake-up-the-room.html
   Art & Soul: https://hudsonhall.org/event/art-soul/
 images_with_captions:
