@@ -10,7 +10,7 @@ is_sometimes: false
 first_letter_of_last_name: b
 exhibition_links:
   'SEPTEMBER: There''s my chair I put it there': http://septembergallery.com/space/odessa-straub.html
-  'University at Albany Art Museum: Well/Being': https://www.albany.edu/university-art-museum/exhibitions/wellbeing
+  'University at Albany Art Museum: Well/Being': https://www.albany.edu/museum/wellbeing/straub.html
   'Cooper Cole: Puss Palace Panic Room': https://coopercolegallery.com/exhibition/2019-odessa-straub-puss-palace-panic-room/
   'SEPTEMBER: New Puss Technolgies': http://septembergallery.com/space/real-puss-technologies.html
   Eighteen Gallery: http://eighteen.gallery/2019/04/25/1900/
