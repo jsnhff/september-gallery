@@ -16,19 +16,26 @@ exhibition_links:
   NADA: http://septembergallery.com/space/annie-bielski-at-nada-ny.html
   Post-Election: http://septembergallery.com/space/post-election-show.html
 images_with_captions:
-- image: "/uploads/KDodge_ABielski_03-03-18_53_8292_sRGB_WebRes_670.jpg"
-  caption: "Annie Bielski, Sway Bar Blues (after Bernadette), 2017, acrylic, wax,
-    graphite, cotton thread, canvas, 65 x 60 inches\n\n"
+- image: "/uploads/Annie%20Bielski-Moonflower-2021-acrylic,%20oil%20stick,%20and%20cotton%20thread%20on%20sewn%20canvas,%20silk,%20and%20polyester-60%20x%2065%20x%203%20inches%20.jpg"
+  caption: Annie Bielski, Moonflower, 2021, acrylic, oil stick, and cotton thread
+    on sewn canvas, silk, and polyester, 65 x 60 x 3 inches
+- image: "/uploads/September_06-11-21_A4_2096_sRGB_1800px%20copy.jpg"
+  caption: Annie Bielski, Stars in pocket, 2021, acrylic, marker on Arches cotton
+    paper, 16 x 12 inches
+- image: "/uploads/September_06-11-21_A4_2084_sRGB_1800px%20copy.jpg"
+  caption: Annie Bielski, Pile of riches, 2020, cotton bedsheet, bleach, acrylic,
+    spray paint, wax crayon, thread on sewn canvas, 65 x 60 inches
 - image: "/uploads/Clearance.jpeg"
   caption: 'Annie Bielski, CLEARANCE cargo shirt #6, August 18, 2018'
 - image: "/uploads/KDodge_ABielski_03-03-18_53_8314_sRGB_WebRes_670.jpg"
   caption: Annie Bielski, Ice cream licker (after Nancy), 2018, metal brochure rack,
     silk, extension cord, cotton thread, acrylic, canvas, 54.5 x 18 x 14 inches
+- image: "/uploads/KDodge_ABielski_03-03-18_53_8292_sRGB_WebRes_670.jpg"
+  caption: "Annie Bielski, Sway Bar Blues (after Bernadette), 2017, acrylic, wax,
+    graphite, cotton thread, canvas, 65 x 60 inches\n\n"
 - image: "/uploads/KDodge_ABielski_03-03-18_53_8328_sRGB_WebRes_670.jpg"
   caption: Annie Bielski, Hot Spring,  2017, acrylic, graphite, latex on Arches cold
     pressed paper, 12 x 16 inches
-- caption: 
-  image: "/uploads/Eyelash-sm.jpg"
 research_links:
   Artist's Website: http://anniebielski.com/
   CLEARANCE: https://everythingmustgo.biz/
