@@ -12,6 +12,10 @@ exhibition_links:
 images_with_captions:
 - image: "/uploads/September_04-16-21_A4_6160_sRGB_1800px_V2.jpg"
   caption: Reginald Madison, Hands down, 2009, oil on panel, 48 x 48 inches.
+- image: "/uploads/Reginald%20Madison-Sight%20of%20Land-1993-oil%20on%20canvas-60%20x%2073%20inches.jpg"
+  caption: Reginald Madison, Sight of Land, 1993, oil on canvas, 60 x 73 inches.
+- image: "/uploads/September_08-27-21_A4_2099_sRGB_1800px-eb4c3d.jpg"
+  caption: Reginald Madison, Fish Tale, 1997, oil on panel, 8.25 x 8.25 inches.
 research_links:
   Wavefarm: https://wavefarm.org/wf/archive/xj94s6
   Reggie's House: http://caroldiehl.com/art-vent/tags/reggie-madison
