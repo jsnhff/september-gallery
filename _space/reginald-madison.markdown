@@ -15,6 +15,7 @@ images:
 - "/uploads/September_08-27-21_A4_2053_sRGB_1800px-e08b96.jpg"
 - "/uploads/September_08-27-21_A4_2054_sRGB_1800px.jpg"
 - "/uploads/September_08-27-21_A4_2073_sRGB_1800px.jpg"
+- "/uploads/Reginald%20Madison-The%20Kings%20Equipment-2000-74%20x%2053%20inches.jpg"
 - "/uploads/September_08-27-21_A4_2099_sRGB_1800px.jpg"
 research_links:
   The Hudson Eye: https://www.thehudsoneye.com/
