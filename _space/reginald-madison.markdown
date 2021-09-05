@@ -11,6 +11,11 @@ opening_end_time_and_date: 2021-08-27 19:00:00 -04:00
 artist_links:
   Shake Up The Room: http://septembergallery.com/space/shake-up-the-room.html
   Reginald Madison: septembergallery.com/work/reginald-madison.html edit
+images:
+- "/uploads/September_08-27-21_A4_2053_sRGB_1800px-e08b96.jpg"
+- "/uploads/September_08-27-21_A4_2054_sRGB_1800px.jpg"
+- "/uploads/September_08-27-21_A4_2073_sRGB_1800px.jpg"
+- "/uploads/September_08-27-21_A4_2099_sRGB_1800px.jpg"
 research_links:
   The Hudson Eye: https://www.thehudsoneye.com/
   Basilica Hudson: https://basilicahudson.org/
