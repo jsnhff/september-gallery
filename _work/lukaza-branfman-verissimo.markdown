@@ -9,10 +9,14 @@ key_image_credit: Lukaza Branfman-Verissimo, Let’s re-name our city, one block
 is_sometimes: true
 first_letter_of_last_name: b
 exhibition_links:
+  A Broadcast: http://septembergallery.com/space/a-broadcast.html
   Let's rename our city: http://septembergallery.com/space/lukaza-branfman-verissimo.html
   A Show of Hands: http://septembergallery.com/space/a-show-of-hands.html
   Out of Line: http://septembergallery.com/space/out-of-line.html
 images_with_captions:
+- image: "/uploads/September_02-19-21_B4_5482_sRGB_1800px_V2-copy.jpg"
+  caption: Lukaza Branfman-Verissimo, Our hands keep our stories, 2020, acrylic and
+    colored pencil on digital print, 48 x 31 inches
 - image: "/uploads/TOUCH6%20copy.png"
   caption: Lukaza Branfman-Verissimo, TOUCH (still), 2020, single-channel video (3
     minutes, 3 seconds)
