@@ -21,6 +21,7 @@ research_links:
   The Hudson Eye: https://www.thehudsoneye.com/
   Basilica Hudson: https://basilicahudson.org/
   National Endowment for the Arts: https://www.arts.gov/
+  Space is the Place: https://www.forelandcatskill.com/happenings/space-is-the-place
   Times Union: https://www.timesunion.com/theater/article/Reginald-Madison-at-September-Gallery-in-Hudson-16387443.php
 ---
 
