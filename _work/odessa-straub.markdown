@@ -24,6 +24,9 @@ exhibition_links:
   'Mier Gallery: Seasonings on Precipice Perception': https://www.miergallery.com/exhibitions/odessa-straub2
   'Marlborough Gallery: Agathe Snow and Odessa Straub': https://viewingroom.xyz/exhibitions/agathe-snow-and-odessa-straub/
 images_with_captions:
+- image: "/uploads/WellBeing_Straub_install_009.jpg"
+  caption: Odessa Straub, Speaking kind of repetitively, 2021, wood, felt, silk velvet,
+    glass vase, cotton, rope, live plants, 46 x 36 x 24 inches
 - image: "/uploads/ODESSA%20STRAUB-Supplemental%20Soul%20Suppository.jpg"
   caption: Odessa Straub, Supplemental Soul Suppository, 2019, wood, mohair, silk
     velvet, rope, canvas, upholstery foam, thong, glass cloche, aquarium substrate,
