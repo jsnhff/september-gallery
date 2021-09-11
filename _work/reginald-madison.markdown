@@ -22,7 +22,8 @@ images_with_captions:
 research_links:
   Wavefarm: https://wavefarm.org/wf/archive/xj94s6
   Reggie's House: http://caroldiehl.com/art-vent/tags/reggie-madison
-  Rogoyvoy Report: https://rogovoyreport.com/2015/06/03/reggie-madison-sun-ra-cr10/
+  OBSzine: https://a0b71bd0-2c5f-466b-968b-1c63c3000cc9.filesusr.com/ugd/5930b5_8466314308a14027a5289771ad92e32f.pdf
+  Rogovoy Report: https://rogovoyreport.com/2015/06/03/reggie-madison-sun-ra-cr10/
 ---
 
 Reginald Madison (b. 1941, Chicago, IL) is a painter and sculptor. In his early years, Madison was greatly influenced by his parents’ love of jazz and the stories they told of seeing Sun-Ra at the legendary Club DeLisa on Chicago’s south side, and by the family’s frequent trips to the Art Institute of Chicago and the Museum of Contemporary Art Chicago. In 1970, Madison was invited to participate in an art show that established him in the emerging arts scene in Chicago, and he went on to travel and study art independently in Paris, Venice, and Copenhagen. He was represented by Phyllis Kind Gallery, NYC after moving to Western Massachusetts in the 1970s.
