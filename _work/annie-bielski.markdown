@@ -40,6 +40,7 @@ research_links:
   Artist's Website: http://anniebielski.com/
   CLEARANCE: https://everythingmustgo.biz/
   Whitehot Magazine: https://whitehotmagazine.com/articles/may-exist-at-september-gallery/5126
+  Gorky's Granddaughter: http://www.gorkysgranddaughter.com/2021/07/annie-bielski-at-september-july-2021.html
   The New York Times: https://www.nytimes.com/2015/09/14/arts/music/basilica-soundscape-a-festival-of-pop-punk-and-so-much-else.html
   MTV: http://www.mtv.com/news/2939074/jenny-hval-blood-bitch-live/
   Hyperallergic: https://hyperallergic.com/286351/bushwick-gets-lit-with-a-show-of-sculptural-lamps/
