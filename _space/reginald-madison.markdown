@@ -27,6 +27,7 @@ research_links:
   Space is the Place: https://www.forelandcatskill.com/happenings/space-is-the-place
   Times Union: https://www.timesunion.com/theater/article/Reginald-Madison-at-September-Gallery-in-Hudson-16387443.php
   Whitehot Magazine: https://whitehotmagazine.com/articles/art-weekend-2021-bigger-better/5132
+  Chronogram: https://www.chronogram.com/hudsonvalley/hudson-off-warren-street/Slideshow/13729560/13731637
 ---
 
 In partnership with The Hudson Eye, Basilica Hudson, and the National Endowment for the Arts, SEPTEMBER will present *Home Grown*, a solo exhibition with Reginald Madison, opening Friday, August 27, 5-7pm, and on view August 27- October 10, 2021. The exhibition will include works from the past three decades, focusing on Madison's paintings.
