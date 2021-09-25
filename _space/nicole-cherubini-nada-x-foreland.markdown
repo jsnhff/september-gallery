@@ -1,7 +1,7 @@
 ---
 title: Nicole Cherubini NADA x Foreland
 date: 2021-08-28 11:00:00 -04:00
-position: 1
+position: 2
 key_image: "/uploads/IMG-5428%20copy.jpg"
 start_date: 2021-08-28 11:00:00 -04:00
 end_date: 2021-08-29 20:00:00 -04:00
