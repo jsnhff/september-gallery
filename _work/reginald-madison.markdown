@@ -4,7 +4,7 @@ date: 2021-07-25 14:42:00 -04:00
 key_image: "/uploads/September_04-16-21_A4_6167_sRGB_1800px_V2.jpg"
 key_image_credit: Reginald Madison, Poem for Bird, 1994, oil on linen, 52 x 72 inches.
 is_always: true
-is_sometimes: false
+is_sometimes: true
 first_letter_of_last_name: M
 exhibition_links:
   Home Grown: http://septembergallery.com/space/reginald-madison.html
