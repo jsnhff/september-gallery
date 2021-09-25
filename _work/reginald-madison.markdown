@@ -1,8 +1,8 @@
 ---
 title: Reginald Madison
 date: 2021-07-25 14:42:00 -04:00
-key_image: "/uploads/September_04-16-21_A4_6167_sRGB_1800px_V2.jpg"
-key_image_credit: Reginald Madison, Poem for Bird, 1994, oil on linen, 52 x 72 inches.
+key_image: "/uploads/Reginald%20Madison-Sight%20of%20Land-1993-oil%20on%20canvas-60%20x%2073%20inches.jpg"
+key_image_credit: Reginald Madison, Sight of Land, 1993, oil on canvas, 60 x 73 inches.
 is_always: true
 is_sometimes: true
 first_letter_of_last_name: M
@@ -15,10 +15,16 @@ exhibition_links:
 images_with_captions:
 - image: "/uploads/September_04-16-21_A4_6160_sRGB_1800px_V2.jpg"
   caption: Reginald Madison, Hands down, 2009, oil on panel, 48 x 48 inches.
-- image: "/uploads/Reginald%20Madison-Sight%20of%20Land-1993-oil%20on%20canvas-60%20x%2073%20inches.jpg"
-  caption: Reginald Madison, Sight of Land, 1993, oil on canvas, 60 x 73 inches.
+- image: "/uploads/September_08-17-21_A4_1777_sRGB_1800px%20copy.jpg"
+  caption: Reginald Madison, Harlem River Red, High Wind, Blue Sea, 2021, acrylic
+    on board, 40 x 32.35 inches.
 - image: "/uploads/September_08-27-21_A4_2099_sRGB_1800px-eb4c3d.jpg"
   caption: Reginald Madison, Fish Tale, 1997, oil on panel, 8.25 x 8.25 inches.
+- image: "/uploads/Reginald%20Madison-Poem%20for%20Bird-1994-oil%20on%20linen-52x72in.jpg"
+  caption: Reginald Madison, Poem for Bird, 1994, oil on linen, 52 x 72 inches.
+- image: "/uploads/Reginald%20Madison%20-%20Toy%20Dance%20-%202013%20-%20oil,%20reclaimed%20wood,%20glue,%20hardware,%20acrylic%20-%2042%20x%2061%20x%204.25%20inches.jpg"
+  caption: Reginald Madison, Toy Dance, 2013, reclaimed wood, oil, glue, hardware,
+    acrylic, 42 x 61 x 4.25 inches.
 research_links:
   Wavefarm: https://wavefarm.org/wf/archive/xj94s6
   Reggie's House: http://caroldiehl.com/art-vent/tags/reggie-madison
