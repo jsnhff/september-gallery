@@ -26,6 +26,7 @@ research_links:
   Basilica Hudson: https://basilicahudson.org/
   National Endowment for the Arts: https://www.arts.gov/
   Space is the Place: https://www.forelandcatskill.com/happenings/space-is-the-place
+  Medium: https://medium.com/@sfokamura09/home-grown-3-decades-of-visual-improvisation-by-reginald-madison-5f7a4284a23a
   Times Union: https://www.timesunion.com/theater/article/Reginald-Madison-at-September-Gallery-in-Hudson-16387443.php
   Whitehot Magazine: https://whitehotmagazine.com/articles/art-weekend-2021-bigger-better/5132
   Chronogram: https://www.chronogram.com/hudsonvalley/hudson-off-warren-street/Slideshow/13729560/13731637
