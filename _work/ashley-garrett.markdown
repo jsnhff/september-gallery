@@ -18,6 +18,7 @@ images_with_captions:
     10.16 x 15.24 cm
 research_links:
   Artist's Website: https://www.ashleygarrett.com/
+  Gorky's Granddaughter: https://vimeo.com/587943756
   Two Coats of Paint: https://www.twocoatsofpaint.com/2021/06/ashley-garretts-dynamic-pastoral.html
   Caesura: https://caesuramag.org/visual-art/ashley-garrett-jack-coyne
 ---
