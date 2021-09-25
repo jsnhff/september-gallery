@@ -23,7 +23,8 @@ research_links:
 
 Excerpt #54 in​ <i>Bluets</i>​ by Maggie Nelson:
 
-54. Long before either wave or particle, some (Pythagoras, Euclid, Hipparchus) thought that our eyes emitted some kind of substance that illuminated, or “felt”, what we saw. (Aristotle pointed out that this hypothesis runs into trouble at night, as objects become invisible despite the eyes’ purported power.) Others, like Epicurus, proposed the inverse—that objects themselves project a kind of ray that reaches out toward the eye, as if they were looking at us (and surely come of them are). Plato split the difference, and postulated that a “visual fire” burns between our eyes and that which they behold. This still seems fair enough.
+
+54 Long before either wave or particle, some (Pythagoras, Euclid, Hipparchus) thought that our eyes emitted some kind of substance that illuminated, or “felt”, what we saw. (Aristotle pointed out that this hypothesis runs into trouble at night, as objects become invisible despite the eyes’ purported power.) Others, like Epicurus, proposed the inverse—that objects themselves project a kind of ray that reaches out toward the eye, as if they were looking at us (and surely come of them are). Plato split the difference, and postulated that a “visual fire” burns between our eyes and that which they behold. This still seems fair enough.
 
 <i>Wild Geese​</i> by Mary Oliver:
 You do not have to be good.
