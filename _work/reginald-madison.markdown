@@ -27,9 +27,9 @@ images_with_captions:
     acrylic, 42 x 61 x 4.25 inches.
 research_links:
   Medium: https://medium.com/@sfokamura09/home-grown-3-decades-of-visual-improvisation-by-reginald-madison-5f7a4284a23a
+  OBSzine: https://a0b71bd0-2c5f-466b-968b-1c63c3000cc9.filesusr.com/ugd/5930b5_8466314308a14027a5289771ad92e32f.pdf
   Wavefarm: https://wavefarm.org/wf/archive/xj94s6
   Reggie's House: http://caroldiehl.com/art-vent/tags/reggie-madison
-  OBSzine: https://a0b71bd0-2c5f-466b-968b-1c63c3000cc9.filesusr.com/ugd/5930b5_8466314308a14027a5289771ad92e32f.pdf
   Rogovoy Report: https://rogovoyreport.com/2015/06/03/reggie-madison-sun-ra-cr10/
 ---
 
