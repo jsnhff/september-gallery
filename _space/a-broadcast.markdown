@@ -3,17 +3,16 @@ title: |-
   Roots and webs and nets and branches and bulletin boards and
   banners and newsletters and mutual aid text threads: A Broadcast
 date: 2021-08-28 11:00:00 -04:00
-key_image: "/uploads/September_02-19-21_B4_5500_sRGB_1800px_V1.jpg"
-key_image_credit: Lukaza Branfman-Verissimo, Let’s re-name our city, one block at
-  a time, 2020, black gesso, acrylic, colored pencil on plywood, hardware, 48 x 24
-  x variable inches.
+key_image: "/uploads/IMG_8802%20copy.jpg"
 start_date: 2021-08-28 11:00:00 -04:00
 end_date: 2021-08-28 16:00:00 -04:00
 artist_links:
   Lukaza Branfman-Verissimo: http://septembergallery.com/work/lukaza-branfman-verissimo.html
 images_with_captions:
-- image: "/uploads/Broadcast%201.png"
-- image: "/uploads/Broadcast%202.png"
+- image: "/uploads/IMG_2789%20copy.jpg"
+- image: "/uploads/IMG_2821%20copy.jpg"
+- image: "/uploads/IMG_8806%20copy.jpg"
+  caption: 
 research_links:
   Upstate Art Weekend: https://www.upstateartweekend.org/
 ---
