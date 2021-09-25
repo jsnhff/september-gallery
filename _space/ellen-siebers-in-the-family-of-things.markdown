@@ -22,10 +22,10 @@ research_links:
 ---
 
 Excerpt #54 in​ <i>Bluets</i>​ by Maggie Nelson:
-
 <br>
-54. Long before either wave or particle, some (Pythagoras, Euclid, Hipparchus) thought that our eyes emitted some kind of substance that illuminated, or “felt”, what we saw. (Aristotle pointed out that this hypothesis runs into trouble at night, as objects become invisible despite the eyes’ purported power.) Others, like Epicurus, proposed the inverse—that objects themselves project a kind of ray that reaches out toward the eye, as if they were looking at us (and surely come of them are). Plato split the difference, and postulated that a “visual fire” burns between our eyes and that which they behold. This still seems fair enough.
-
+<br>Long before either wave or particle, some (Pythagoras, Euclid, Hipparchus) thought that our eyes emitted some kind of substance that illuminated, or “felt”, what we saw. (Aristotle pointed out that this hypothesis runs into trouble at night, as objects become invisible despite the eyes’ purported power.) Others, like Epicurus, proposed the inverse—that objects themselves project a kind of ray that reaches out toward the eye, as if they were looking at us (and surely come of them are). Plato split the difference, and postulated that a “visual fire” burns between our eyes and that which they behold. This still seems fair enough.
+<br>
+<br>
 <i>Wild Geese​</i> by Mary Oliver:
 <br>
 <br>You do not have to be good.
@@ -42,7 +42,8 @@ Excerpt #54 in​ <i>Bluets</i>​ by Maggie Nelson:
 <br>the world offers itself to your imagination,
 <br>calls to you like the wild geese, harsh and exciting - over and <br>over announcing your place
 <br>in the family of things.
-
+<br>
+<br>
 Excerpt from <i>T​he Summer Day</i>​ by Mary Oliver:
 <br>
 <br>I do know how to pay attention, how to fall down into the grass, <br>how to kneel in the grass,
