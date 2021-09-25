@@ -1,7 +1,7 @@
 ---
 title: Odessa Straub ALAC
 date: 2018-01-25 15:24:00 -05:00
-position: 21
+position: 25
 key_image: "/uploads/Straub.3-web.jpg"
 key_image_credit: " ODESSA STRAUB, Devil Shade Back, 2017, acrylic on panel, 48 x
   36 inches (122 x 91.5 cm)"

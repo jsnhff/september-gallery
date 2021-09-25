@@ -1,7 +1,7 @@
 ---
 title: 'Allison Schulnik: Moth'
 date: 2020-11-22 15:48:00 -05:00
-position: 3
+position: 7
 key_image: "/uploads/Allison%20Schulnik-Moth%20copy.jpg"
 start_date: 2020-11-21 12:00:00 -05:00
 end_date: 2021-01-31 17:00:00 -05:00

@@ -1,7 +1,7 @@
 ---
 title: A Show of Hands
 date: 2020-09-08 12:48:00 -04:00
-position: 5
+position: 9
 key_image: "/uploads/Brittany%20Tucker-Hand%20Story.jpg"
 key_image_credit: Brittany Tucker-Hand Story-2020-pastel on paper-8.25 x 5.5 inches-20.96
   x 13.96 cm

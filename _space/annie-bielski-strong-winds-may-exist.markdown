@@ -1,7 +1,7 @@
 ---
 title: 'Annie Bielski: Strong Winds May Exist'
 date: 2021-04-25 16:05:00 -04:00
-position: 0
+position: 3
 key_image: "/uploads/IMG_3755%20copy.jpg"
 start_date: 2021-06-12 12:00:00 -04:00
 end_date: 2021-07-31 17:00:00 -04:00

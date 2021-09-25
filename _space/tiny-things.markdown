@@ -1,7 +1,7 @@
 ---
 title: Tiny Things
 date: 2019-12-22 13:40:00 -05:00
-position: 9
+position: 13
 key_image: "/uploads/unnamed.jpg"
 key_image_credit: Julianne Swartz- Placement (Family)- 2007- c-print- 18 x 28 inches
 start_date: 2020-02-01 18:00:00 -05:00

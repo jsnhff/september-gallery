@@ -1,7 +1,7 @@
 ---
 title: MASKS4PEOPLE
 date: 2020-02-24 13:56:00 -05:00
-position: 8
+position: 12
 key_image: "/uploads/M4P_Social_Cards_1%20copy-0afa47.jpg"
 start_date: 2020-03-22 00:00:00 -04:00
 end_date: 2020-05-16 00:00:00 -04:00

@@ -1,7 +1,7 @@
 ---
 title: Sit-In
 date: 2018-04-07 16:27:00 -04:00
-position: 19
+position: 23
 key_image: "/uploads/20180215-_LC10016.jpg"
 key_image_credit: Liz Collins (with Harry Allen), Chain Chair Pair, 2017, steel frame
   with violet jersey fabric, 36.5  x 116 x 21 inches
