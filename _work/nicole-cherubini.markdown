@@ -8,6 +8,7 @@ is_always: true
 is_sometimes: false
 first_letter_of_last_name: c
 exhibition_links:
+  Mass MoCA: https://massmoca.org/event/ceramics-in-the-expanded-field/
   'Tang Museum: Shaking The Trees': https://tang.skidmore.edu/exhibitions/271-nicole-cherubini-shaking-the-trees
   'R & Company: Objects USA': https://objectsusa.r-and-company.com/nicole-cherubini
   Crystal Bridges Museum: https://crystalbridges.org/blog/what-is-craft-an-introduction-to-crafting-america/
