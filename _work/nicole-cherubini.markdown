@@ -64,17 +64,17 @@ images_with_captions:
     29 x 29 x 62 inches
 research_links:
   Artforum: https://www.artforum.com/print/reviews/202002/nicole-cherubini-81992
+  Artspace: http://www.artspace.com/magazine/art_101/book_report/8-contemporary-ceramists-to-add-to-your-collection-55020
+  Art in America: http://www.artinamericamagazine.com/reviews/nicole-cherubini/
   Art Viewer: https://artviewer.org/nicole-cherubini-at-derek-eller-gallery/
   Art Net: https://news.artnet.com/art-world/editors-picks-december-9-2019-1701351
-  MAD Museum Interview: https://madmuseum.org/events/conversation-nicole-cherubini-and-glenn-adamson
-  BOMB Interview with Sarah Braman: http://bombmagazine.org/article/10114/nicole-cherubini
-  NY Times, Roberta Smith: http://www.nytimes.com/2010/07/16/arts/design/16galleries-001.html
-  Art in America: http://www.artinamericamagazine.com/reviews/nicole-cherubini/
-  LA Weekly: http://www.laweekly.com/arts/nicole-cherubini-at-santa-monica-museum-of-art-2162052
-  Daily Serving: http://dailyserving.com/2015/12/nicole-cherubini-golden-specific-at-samson-projects/
-  Hyperallergic: http://hyperallergic.com/267325/fragile-monuments-to-the-jars-ancient-form/
   Big Red & Shiny: http://bigredandshiny.org/21738/review-nicole-cherubini-golden-specific/
-  Artspace: http://www.artspace.com/magazine/art_101/book_report/8-contemporary-ceramists-to-add-to-your-collection-55020
+  BOMB Interview with Sarah Braman: http://bombmagazine.org/article/10114/nicole-cherubini
+  Daily Serving: http://dailyserving.com/2015/12/nicole-cherubini-golden-specific-at-samson-projects/
+  Gorky's Granddaughter: https://vimeo.com/248942580
+  Hyperallergic: http://hyperallergic.com/267325/fragile-monuments-to-the-jars-ancient-form/
+  LA Weekly: http://www.laweekly.com/arts/nicole-cherubini-at-santa-monica-museum-of-art-2162052
+  NY Times, Roberta Smith: http://www.nytimes.com/2010/07/16/arts/design/16galleries-001.html
 catalog_link:
   Catalog: https://cfileonline.org/cfile-library-learn-how-nicole-cherubini-balances-opulence-and-minimalism/
 ---
