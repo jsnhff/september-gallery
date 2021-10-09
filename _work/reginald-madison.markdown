@@ -7,11 +7,11 @@ is_always: true
 is_sometimes: true
 first_letter_of_last_name: M
 exhibition_links:
-  Home Grown: http://septembergallery.com/space/reginald-madison.html
-  Shake Up the Room: http://septembergallery.com/space/shake-up-the-room.html
-  Space is the Place: https://www.forelandcatskill.com/happenings/space-is-the-place
-  Art & Soul: https://hudsonhall.org/event/art-soul/
-  The Time Is Now!: https://smartmuseum.uchicago.edu/exhibitions/the-time-is-now-art-worlds-of-chicagos-south-side/
+  'SEPTEMBER: Home Grown': http://septembergallery.com/space/reginald-madison.html
+  'SEPTEMBER: Shake Up the Room': http://septembergallery.com/space/shake-up-the-room.html
+  'Foreland: Space is the Place': https://www.forelandcatskill.com/happenings/space-is-the-place
+  'Hudson Hall: Art & Soul': https://hudsonhall.org/event/art-soul/
+  'Smart Museum: The Time Is Now!': https://smartmuseum.uchicago.edu/exhibitions/the-time-is-now-art-worlds-of-chicagos-south-side/
 images_with_captions:
 - image: "/uploads/September_04-16-21_A4_6160_sRGB_1800px_V2.jpg"
   caption: Reginald Madison, Hands down, 2009, oil on panel, 48 x 48 inches.
