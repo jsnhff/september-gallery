@@ -1,6 +1,6 @@
 ---
 title: Laleh Khorramian
-date: 2010-06-01 22:24:00 -04:00
+date: 2010-06-01 23:24:00 -04:00
 position: 6
 key_image: "/uploads/IMG_9948.jpg"
 key_image_credit: LALEH KHORRAMIAN-The Setting-2021-wax pencil, ink, graphite, on
@@ -10,6 +10,7 @@ is_sometimes: false
 first_letter_of_last_name: a
 exhibition_links:
   'Alexander Gray: Subliminal Horizons': https://www.alexandergray.com/germantown/subliminal-horizons
+  BALTIC Artists' Award: https://baltic.art/whats-on/exhibitions/baltic-artists-award-2022
   Liverpool Biennial 2021: https://liverpoolbiennial2021.com/programme/the-refracted-body/
   Earthly: https://www.strose.edu/calendar/earthly/
   'Center for Human Rights: A Bridge Between You and Everything': https://www.iranhumanrights.org/2019/10/iranian-women-artists-showcased-in-upcoming-exhibit-curated-by-shirin-neshat/
@@ -37,7 +38,6 @@ images_with_captions:
 research_links:
   Artist's Website: http://www.lalehkhorramian.com/
   The New York Times: https://www.nytimes.com/2021/06/14/t-magazine/new-artists-to-know.html
-  Baltic Artist' Award: https://baltic.art/whats-on/exhibitions/baltic-artists-award-2022
   The Creative Independent: https://thecreativeindependent.com/people/visual-artist-laleh-khorramian-on-knowing-when-to-take-a-break/
   Earthly Interview: https://www.youtube.com/watch?v=mt3PLtq0GVI
   Bartleby & Co. Artist Book: https://www.bartlebyand.co/publication/include-amplified-toilet-water/
