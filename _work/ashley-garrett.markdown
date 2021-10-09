@@ -17,6 +17,9 @@ images_with_captions:
 - image: "/uploads/Ashley-Garrett_Empty-Realm-2019-61f125.jpg"
   caption: Ashley Garrett, Empty Realm, 2019, oil on gessoed paper, 4 x 6 inches,
     10.16 x 15.24 cm
+- image: "/uploads/Ashley%20Garrett-Mortal-2021-oil%20on%20canvas-21%20x%2016%20inches%20copy.jpg"
+  caption: Ashley Garrett, Mortal, 2021, oil on canvas, 21 x 16 inches, 53.34 x 40.64
+    cm
 research_links:
   Artist's Website: https://www.ashleygarrett.com/
   Gorky's Granddaughter: https://vimeo.com/587943756
