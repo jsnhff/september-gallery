@@ -24,7 +24,7 @@ images_with_captions:
   caption: Lukaza Branfman-Verissimo, As Bright As the Complexities of Blackness,
     acrylic gouache on illustration board, 40 x 32 inches.
 research_links:
-  Artist's Website: http://www.lukazabranfman-verissimo.com/
+  Artist's Website: https://lukazabranfmanverissimo.com/
   The Creative Independent: https://thecreativeindependent.com/people/visual-artist-lukaza-branfman-verissimo-on-taking-notes-on-life/
 ---
 
