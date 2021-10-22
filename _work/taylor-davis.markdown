@@ -73,7 +73,7 @@ research_links:
   NY Arts Magazine: http://www.nyartsmagazine.com/?p=10956
 ---
 
-Taylor Davis earned her Diploma of Fine Arts from the School of the Museum of Fine Arts, a BS of Education from Tufts University, and her MFA from Milton Avery Graduate School of the Arts at Bard College. She has received numerous awards and grants including The Rauschenberg Residency, Radcliffe Fellowship, Anonymous was a Woman Grant, Association of International Art Critics Award, Institute of Contemporary Art Boston Artist Prize, and St. Botolph Foundation Grant, and Traveling Scholarship, Museum of Fine Arts, Boston.
+Taylor Davis earned her Diploma of Fine Arts from the School of the Museum of Fine Arts, a BS of Education from Tufts University, and her MFA from Milton Avery Graduate School of the Arts at Bard College. She has received numerous awards and grants including The Rauschenberg Residency, Radcliffe Fellowship, Anonymous was a Woman Grant, Association of International Art Critics Award, Institute of Contemporary Art Boston Artist Prize, and St. Botolph Foundation Grant, and Traveling Scholarship, Museum of Fine Arts, Boston. 
 
 Davis has exhibited at institutions including the Austin Museum of Art (Austin, TX), Institute of Contemporary Art (Boston, MA); The Whitney Museum of American Art (New York, NY); The Tang Teaching Museum (Saratoga Springs, NY); The Aldrich Museum (Ridgefield, CT); the deCordova Sculpture Park and Museum Biennial (Lincoln, MA); Rhode Island School of Design (Providence, RI); and LA MOCA (Los Angeles, CA). 
 
