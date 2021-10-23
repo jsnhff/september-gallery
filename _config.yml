@@ -61,11 +61,9 @@ defaults:
       Link One: ''
     catalog_link:
       Catalog: ''
-gallery_hours: |-
-  Open by Appointment in Hudson through November 1.
-  We are moving to Kinderhook!
-is_closed: false
-why_youre_closed: 
+gallery_hours: Open by Appointment in Hudson through November 1.
+is_closed: true
+why_youre_closed: We are moving to Kinderhook!
 email: kristen@septembergallery.com
 description: SEPTEMBER is an art gallery, an open space, and an on-going practice.
   We exhibit and support contemporary artists who are committed to their practice
