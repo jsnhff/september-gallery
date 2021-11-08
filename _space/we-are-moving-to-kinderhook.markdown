@@ -8,7 +8,7 @@ end_date: 2022-02-01 00:00:00 -05:00
 
 Dear All,
 
-Thank you, Hudson, for 5 beautiful years together. We will miss you. And we are very excited for our big move to a 4,000 sq/ft space in Kinderhook at the Knitting Mill. Our new space will be accessible via a staircase and an elevator. Please stay tuned for opening info. In the meantime, we are planning programming for 2022 and renovating!
+Thank you, Hudson, for 5 beautiful years together. We will miss you. And we are very excited for our big move to the old Knitting Mill in Kinderhook. Our new space will be accessible via a staircase and an elevator. Please stay tuned for opening info. In the meantime, we are planning programming for 2022 and renovating!
 
 Love,
 SEPTEMBER
