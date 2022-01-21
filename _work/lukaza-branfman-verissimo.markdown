@@ -6,7 +6,8 @@ key_image: "/uploads/September_02-19-21_B4_5500_sRGB_1800px_V1.jpg"
 key_image_credit: Lukaza Branfman-Verissimo, Let’s re-name our city, one block at
   a time, 2020, black gesso, acrylic, colored pencil on plywood, hardware, 48 x 24
   x variable inches.
-is_sometimes: true
+is_always: true
+is_sometimes: false
 first_letter_of_last_name: b
 exhibition_links:
   A Broadcast: http://septembergallery.com/space/a-broadcast.html
