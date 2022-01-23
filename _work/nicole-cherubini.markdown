@@ -1,7 +1,7 @@
 ---
 title: Nicole Cherubini
 date: 2016-07-24 10:42:00 -04:00
-position: 1
+position: 2
 key_image: "/uploads/Tang-Cherubini%20copy.jpg"
 key_image_credit: Nicole Cherubini-Shaking the Trees, Tang Teaching Museum-2020
 is_always: true

@@ -1,7 +1,7 @@
 ---
 title: Reginald Madison
 date: 2021-07-25 14:42:00 -04:00
-position: 4
+position: 6
 key_image: "/uploads/Reginald%20Madison%20-%20Amistad%20-%201999%20-%20oil,%20oil%20stick%20on%20paper%20-%2026%20x%2032%20inches.jpg"
 key_image_credit: Reginald Madison, Amistad, 1999, oil, oil stick on paper, 40 x 51.5  inches
 is_always: true
