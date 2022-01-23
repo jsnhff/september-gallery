@@ -9,6 +9,7 @@ images:
 - "/uploads/IMG_3705%20copy.jpg"
 - "/uploads/IMG_3019%20copy.jpg"
 - "/uploads/IMG_3703%20copy.jpg"
+- "/uploads/IMG_2844%20copy.jpg"
 ---
 
 SEPTEMBER will be re-opening at The Knitting Mill in Kinderhook, NY, Summer 2022!
