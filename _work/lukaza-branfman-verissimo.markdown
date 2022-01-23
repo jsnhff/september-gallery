@@ -8,7 +8,7 @@ key_image_credit: Lukaza Branfman-Verissimo, Let’s re-name our city, one block
   x variable inches.
 is_always: true
 is_sometimes: false
-first_letter_of_last_name: b
+first_letter_of_last_name: B
 exhibition_links:
   A Broadcast: http://septembergallery.com/space/a-broadcast.html
   Let's rename our city: http://septembergallery.com/space/lukaza-branfman-verissimo.html
