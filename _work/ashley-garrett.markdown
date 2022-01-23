@@ -7,12 +7,19 @@ key_image_credit: 'Ashley Garrett, Treasure Thrower, 2021, oil on gessoed paper,
   x 8.5 inches, '
 is_always: true
 is_sometimes: false
-first_letter_of_last_name: G
+first_letter_of_last_name: g
 exhibition_links:
   'Ashley Garrett: Aegis': http://septembergallery.com/space/aegis.html
   'Love Apple Farm: Transfer-mations': https://teiartinbuildings.com/exhibitions/group/144
   'Gold/scopophilia*: Meadow': https://www.goldmontclair.com/ashley-garrett-meadow
   Chromatic Vigils / Low Tides: http://www.thesphinxnyc.com/chromatic-vigils/
+images_with_captions:
+- image: "/uploads/Ashley%20Garrett%20-%20Lamplighter%20-%202020%20-%20oil,%20gessoed%20paper%20-%204%20x%206%20inches.jpg"
+  caption: Ashley Garrett, Lamplighter, 2020, oil on gessoed paper, 4 x 6 inches
+- image: "/uploads/Ashley%20Garrett-Corymbus-2017-oil%20on%20paper-6x8-AGA1004.jpg"
+  caption: Ashley Garrett, Corymbus, 2017, oil on gessoed paper, 6 x 8 inches
+- image: "/uploads/Ashley%20Garrett-Sossusvlei%20copy.jpg"
+  caption: Ashley Garrett, Sossusvlei, 2016, oil on canvas, 50 x 54 inches
 research_links:
   Artist's Website: https://www.ashleygarrett.com/
   The Brooklyn Rail: https://brooklynrail.org/2020/09/artseen/Ashley-Garrett-Aegis
