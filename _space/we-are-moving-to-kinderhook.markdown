@@ -1,5 +1,5 @@
 ---
-title: WE ARE MOVING TO KINDERHOOK!
+title: MOVING TO KINDERHOOK, NY
 date: 2021-10-23 16:45:00 -04:00
 key_image: "/uploads/IMG_2734.jpeg"
 start_date: 2021-10-23 00:00:00 -04:00
