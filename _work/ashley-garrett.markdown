@@ -13,19 +13,13 @@ exhibition_links:
   'Love Apple Farm: Transfer-mations': https://teiartinbuildings.com/exhibitions/group/144
   'Gold/scopophilia*: Meadow': https://www.goldmontclair.com/ashley-garrett-meadow
   Chromatic Vigils / Low Tides: http://www.thesphinxnyc.com/chromatic-vigils/
-images_with_captions:
-- image: "/uploads/Ashley-Garrett_Empty-Realm-2019-61f125.jpg"
-  caption: Ashley Garrett, Empty Realm, 2019, oil on gessoed paper, 4 x 6 inches,
-    10.16 x 15.24 cm
-- image: "/uploads/Ashley%20Garrett-Mortal-2021-oil%20on%20canvas-21%20x%2016%20inches%20copy.jpg"
-  caption: Ashley Garrett, Mortal, 2021, oil on canvas, 21 x 16 inches, 53.34 x 40.64
-    cm
 research_links:
   Artist's Website: https://www.ashleygarrett.com/
-  Gorky's Granddaughter: https://vimeo.com/587943756
+  The Brooklyn Rail: https://brooklynrail.org/2020/09/artseen/Ashley-Garrett-Aegis
   Two Coats of Paint: https://www.twocoatsofpaint.com/2021/06/ashley-garretts-dynamic-pastoral.html
+  Gorky's Granddaughter: https://vimeo.com/587943756
   Caesura: https://caesuramag.org/visual-art/ashley-garrett-jack-coyne
-  Selected Paintings from Spring Break: https://www.twocoatsofpaint.com/2021/09/selected-paintings-from-spring-break-nyc-2021.html
+  Spring Break: https://www.twocoatsofpaint.com/2021/09/selected-paintings-from-spring-break-nyc-2021.html
 ---
 
-Ashley Garrett (b. 1984) graduated with a BFA from the School of Visual Arts in 2008. Solo and two-person exhibitions include  Gold/scopophilia* (Montclair, NJ), Hood Gallery (Brooklyn, NY), Chase Gallery (West Hartford, CT), SRO (Brooklyn, NY), Six Depot (West Stockbridge, MA), RISD Memorial Hall Gallery (Providence, RI), and SEPTEMBER (Hudson, NY). She has participated in group exhibitions at Love Apple Farm (Ghent, NY), Katonah Museum (Katonah, NY), Regina Rex (New York, NY), The Painting Center (New York, NY), Planthouse (New York, NY), Orgy Park (Brooklyn, NY), Nurture Art (Brooklyn, NY), Torrance Art Museum (Los Angeles, CA), Geoffrey Young Gallery (Great Barrington, MA), TSA LA (Los Angeles, CA), Cross Contemporary Art (Saugerties, NY), Church of St Paul the Apostle (New York, NY), Every Woman Biennial (New York, NY), Brian Morris Gallery (New York, NY), Novella Gallery (New York, NY), and Schema Projects (Brooklyn, NY). Recent publications include Ashley Garrett: Tarot Images and Co-Configurative Eternities, in which poets read and respond to her paintings, and ArtMaze Magazine’s Issue 10. Garrett has curated shows in New York and Los Angeles and she has interviewed numerous artists including Katherine Bernhardt, Lisa Sanditz, Ann Craven, Judith Linhares, Brenda Goodman, Lori Ellison, and choreographer Melissa Fenley for publications such as Whitehot Magazine, Figure/Ground, and Painting is Dead. Her solo exhibition at Gold/scopophilia* was the subject of a review in Two Coats of Paint. Ashley Garrett lives and works in New York City and East Chatham, NY. 
+Ashley Garrett (b. 1984) graduated with a BFA from the School of Visual Arts in 2008. Solo and two-person exhibitions include  Gold/scopophilia* (Montclair, NJ), Hood Gallery (Brooklyn, NY), Chase Gallery (West Hartford, CT), SRO (Brooklyn, NY), Six Depot (West Stockbridge, MA), RISD Memorial Hall Gallery (Providence, RI), and SEPTEMBER (Hudson, NY). Garrett has been featured in group exhibitions at Woodstock Byrdcliffe Guild (Woodstock, NY), Love Apple Farm (Ghent, NY), Spring Break (New York, NY), Ladies' Room (Los Angeles, CA), Katonah Museum (Katonah, NY), Regina Rex (New York, NY), The Painting Center (New York, NY), Planthouse (New York, NY), Orgy Park (Brooklyn, NY), Nurture Art (Brooklyn, NY), Torrance Art Museum (Los Angeles, CA), Geoffrey Young Gallery (Great Barrington, MA), TSA LA (Los Angeles, CA), Cross Contemporary Art (Saugerties, NY), Church of St Paul the Apostle (New York, NY), Every Woman Biennial (New York, NY), Brian Morris Gallery (New York, NY), Novella Gallery (New York, NY), and Schema Projects (Brooklyn, NY). Recent publications include Ashley Garrett: Tarot Images and Co-Configurative Eternities, in which poets read and respond to her paintings, and ArtMaze Magazine’s Issue 10. Garrett has curated shows in New York and Los Angeles and she has interviewed numerous artists including Katherine Bernhardt, Lisa Sanditz, Ann Craven, Judith Linhares, Brenda Goodman, Lori Ellison, and choreographer Melissa Fenley for publications such as Whitehot Magazine, Figure/Ground, and Painting is Dead. Garrett's work has been reviewed by The Brooklyn Rail and Two Coats of Paint, and the artist has been interviewed by Gorky's Granddaughter, Art Spiel, and The Collaborative. Ashley Garrett lives and works in East Chatham, NY. 
