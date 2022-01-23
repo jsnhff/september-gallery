@@ -15,16 +15,20 @@ exhibition_links:
 images_with_captions:
 - image: "/uploads/September_04-16-21_A4_6160_sRGB_1800px_V2.jpg"
   caption: Reginald Madison, Hands down, 2009, oil on panel, 48 x 48 inches.
-- image: "/uploads/September_08-17-21_A4_1777_sRGB_1800px%20copy.jpg"
-  caption: Reginald Madison, Harlem River Red, High Wind, Blue Sea, 2021, acrylic
-    on board, 40 x 32.35 inches.
-- image: "/uploads/September_08-27-21_A4_2099_sRGB_1800px-eb4c3d.jpg"
-  caption: Reginald Madison, Fish Tale, 1997, oil on panel, 8.25 x 8.25 inches.
+- 
 - image: "/uploads/Reginald%20Madison-Poem%20for%20Bird-1994-oil%20on%20linen-52x72in.jpg"
   caption: Reginald Madison, Poem for Bird, 1994, oil on linen, 52 x 72 inches.
 - image: "/uploads/Reginald%20Madison%20-%20Toy%20Dance%20-%202013%20-%20oil,%20reclaimed%20wood,%20glue,%20hardware,%20acrylic%20-%2042%20x%2061%20x%204.25%20inches.jpg"
   caption: Reginald Madison, Toy Dance, 2013, reclaimed wood, oil, glue, hardware,
     acrylic, 42 x 61 x 4.25 inches.
+- caption: Reginald Madison, The Kings Equipment, 2000, oil on canvas, 6 stretchers,
+    74 x 53 inches
+  image: "/uploads/Reginald%20Madison%20-%20The%20King's%20Equipment%20-%202000%20-%20oil%20on%20canvas,%206%20stretchers%20-%2074%20x%2053%20inches.jpg"
+- caption: Reginald Madison, Brown Betty, 2011, tar on panel, 15 x 14.5  inches
+  image: "/uploads/Reginald%20Madison%20-%20Brown%20Betty%20-%202011%20-%20oil%20on%20panel%20-%2015%20x%2014.5%20inches.jpg"
+- caption: Reginald Madison, The Sage Lee Morgan, 2015, oil on canvas, 75.25 x 55.25
+    inches
+  image: "/uploads/Reginald%20Madison%20-%20The%20Sage%20Lee%20Morgan%20-%202015%20-%20oil%20on%20canvas%20-%2075.25%20x%2055.25%20inches.jpg"
 research_links:
   Medium: https://medium.com/@sfokamura09/home-grown-3-decades-of-visual-improvisation-by-reginald-madison-5f7a4284a23a
   OBSzine: https://a0b71bd0-2c5f-466b-968b-1c63c3000cc9.filesusr.com/ugd/5930b5_8466314308a14027a5289771ad92e32f.pdf
