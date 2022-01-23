@@ -1,7 +1,7 @@
 ---
 title: Anne Lindberg
 date: 2019-08-17 12:37:00 -04:00
-position: 8
+position: 9
 key_image: "/uploads/Anne%20Lindberg.jpg"
 key_image_credit: Anne Lindberg, Walking East, 2019, graphite and colored pencil on
   mat board, 24 x 36 inches

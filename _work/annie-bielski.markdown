@@ -1,7 +1,7 @@
 ---
 title: Annie Bielski
 date: 2020-11-23 06:32:00 -05:00
-position: 5
+position: 6
 key_image: "/uploads/September_06-11-21_A4_2108_sRGB_1800px%20copy.jpg"
 key_image_credit: Annie Bielski, Flower Bench II, 2020, wood, recycled polyester batting,
   ABS plastic, canvas, cotton, thread, acrylic, latex, paracord, hardware, 14.5 x

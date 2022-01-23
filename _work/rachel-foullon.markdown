@@ -1,7 +1,7 @@
 ---
 title: Rachel Foullon
 date: 2016-07-19 18:56:00 -04:00
-position: 22
+position: 23
 key_image: "/uploads/FOULLON.jpg"
 key_image_credit: |-
   Rachel Foullon, Threshold (braid - dishwater),
