@@ -2,8 +2,7 @@
 title: Nicole Cherubini
 date: 2022-01-03 10:42:00 -05:00
 position: 2
-key_image: "/uploads/Tang-Cherubini%20copy.jpg"
-key_image_credit: Nicole Cherubini-Shaking the Trees, Tang Teaching Museum-2020
+key_image: "/uploads/Nicole%20Cherubini%20-%20Bucket%20%231,%20The%20Red%20One%20-%202015%20-%20mixed%20media%20-%2057%20x%2012%20x%2016%20inches%20AB.jpg"
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: c
