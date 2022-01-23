@@ -1,8 +1,8 @@
 ---
 title: Reginald Madison
 date: 2021-07-25 14:42:00 -04:00
-key_image: "/uploads/Reginald%20Madison-Sight%20of%20Land-1993-oil%20on%20canvas-60%20x%2073%20inches.jpg"
-key_image_credit: Reginald Madison, Sight of Land, 1993, oil on canvas, 60 x 73 inches.
+key_image: "/uploads/Reginald%20Madison%20-%20Amistad%20-%201999%20-%20oil,%20oil%20stick%20on%20paper%20-%2026%20x%2032%20inches.jpg"
+key_image_credit: Reginald Madison, Amistad, 1999, oil, oil stick on paper, 40 x 51.5  inches
 is_always: true
 is_sometimes: true
 first_letter_of_last_name: M
