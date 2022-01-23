@@ -1,7 +1,7 @@
 ---
 title: Laleh Khorramian
 date: 2010-06-01 23:24:00 -04:00
-position: 8
+position: 6
 key_image: "/uploads/IMG_9948.jpg"
 key_image_credit: LALEH KHORRAMIAN-The Setting-2021-wax pencil, ink, graphite, on
   polypropylene-16 x 13 inches-40.64 x 33.02 cm-(LK80)
