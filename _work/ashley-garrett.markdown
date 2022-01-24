@@ -20,6 +20,8 @@ images_with_captions:
   caption: Ashley Garrett, Corymbus, 2017, oil on gessoed paper, 6 x 8 inches
 - image: "/uploads/Ashley%20Garrett-Sossusvlei%20copy.jpg"
   caption: Ashley Garrett, Sossusvlei, 2016, oil on canvas, 50 x 54 inches
+- image: "/uploads/test-image-ashley.jpeg"
+  caption: Ashley Garrett, Sossusvlei, 2016, oil on canvas, 50 x 54 inches
 research_links:
   Artist's Website: https://www.ashleygarrett.com/
   The Brooklyn Rail: https://brooklynrail.org/2020/09/artseen/Ashley-Garrett-Aegis
