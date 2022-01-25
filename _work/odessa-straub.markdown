@@ -31,6 +31,13 @@ images_with_captions:
   caption: Odessa Straub, Supplemental Soul Suppository, 2019, wood, mohair, silk
     velvet, rope, canvas, upholstery foam, thong, glass cloche, aquarium substrate,
     Plexiglas, plants, water, 29.5 x 71 x 31 inches
+- image: "/uploads/OS94.jpg"
+  caption: Odessa Straub, Purging Precipice Perspective, 2019, acrylic on canvas,
+    34 x 28 inches
+- image: "/uploads/KDodge_12-13-19_D4_9828_sRGB_FullRes%20copy.jpg"
+  caption: |-
+    Odessa Straub, Fostering Freedom of Filth
+    (thong༄ƃuoɥʇ), 2019, scaffolding wood, acrylic paint, deconstructed purse, leather, canvas, silk, brass chains, grow light, cast iron, nylon rope, glass vase, aquarium substrate, Plexiglas, plants, water, 90 x 40 x 30 inches
 - image: "/uploads/OS14-DeadHandSpillingCisternontheSwallowed-Web.jpg"
   caption: 'Dead Hand Spilling Cistern on the Swallowed, 2017, Acrylic, dye, enamel,
     90 x 108 inches
@@ -40,14 +47,12 @@ images_with_captions:
   caption: Odessa Straub, Posse Orbit, 2017, steel locker, purses, backpack, shoehorn,
     hanger, boxing headgear, machete, wire mesh nest, dog toy, terracotta pigeon,
     lightbulb cage, turtle shells, 36 x 48 x 61.25 inches
+- image: "/uploads/IMG_1867%20copy.jpg"
+  caption: Odessa Straub, Bone Meal For Cherries, 2019, acrylic, velvet and chili
+    powder on canvas, 43 x 33 inches
 - image: "/uploads/OS17-BetweenTheMoontheCisternandtheColumn-lores.jpg"
-  caption: 
-- image: "/uploads/OS17-BetweenTheMoontheCisternandtheColumn-web-detail.jpg"
   caption: Odessa Straub, Between The Moon the Cistern and the Column, 2017, acrylic,
     wool, fur on canvas, 48 x 40 inches
-- image: "/uploads/OS18-BackofNeckWillies-web.jpg"
-  caption: Odessa Straub, Back of Neck Willies, 2017, acrylic, charcoal and latex
-    on canvas, 44 x 37 inches
 research_links:
   'College of St Rose: Earthly Delights: Interview': https://www.youtube.com/watch?v=mt3PLtq0GVI
   Artforum: https://www.artforum.com/picks/odessa-straub-81679
