@@ -18,6 +18,9 @@ images_with_captions:
 - image: "/uploads/September_02-19-21_B4_5482_sRGB_1800px_V2-copy.jpg"
   caption: Lukaza Branfman-Verissimo, Our hands keep our stories, 2020, acrylic and
     colored pencil on digital print, 48 x 31 inches
+- image: "/uploads/LB12.jpg"
+  caption: Lukaza Branfman-Verissimo, What are our poems of today?, 2020, acrylic
+    and colored pencil on digital print, 48 x 31 inches
 - image: "/uploads/TOUCH6%20copy.png"
   caption: Lukaza Branfman-Verissimo, TOUCH (still), 2020, single-channel video (3
     minutes, 3 seconds)
@@ -27,12 +30,17 @@ images_with_captions:
 - image: "/uploads/LB8.jpg"
   caption: Lukaza Branfman-Verissimo, YES, DEMAND, NOW, 2019, black gesso, acrylic,
     spray paint, 35 x 36 inches
+- image: "/uploads/LBV%201.jpeg"
+  caption: Lukaza Branfman-Verissimo, On Whose Shoulders, 2019, public installation
+    of 8 posters,  San Francisco Arts Commission’s Art on Market Street Kiosk Poster
+    Series
+- image: "/uploads/LBV-SayTheirNames_Final%20Edit-184.jpeg"
+  caption: SAY THEIR NAMES, SAY THEIR NAMES LOUD, 2019, is an altar, an atlas, a shrine,
+    a sanctuary, an abode, a refuge, a shelter, a terrain, a haven, a hearth, an invitation...to
+    caring, to commitment, Guerrero Gallery, San Francisco
 - image: "/uploads/LB-AsBrightastheComplexitiesofBlackness-HiRes-d2167b.jpg"
   caption: Lukaza Branfman-Verissimo, As Bright As the Complexities of Blackness,
-    acrylic gouache on illustration board, 40 x 32 inches.
-- image: "/uploads/LB12.jpg"
-  caption: Lukaza Branfman-Verissimo, What are our poems of today?, 2020, acrylic
-    and colored pencil on digital print, 48 x 31 inches
+    2018, acrylic gouache on illustration board, 40 x 32 inches
 research_links:
   Artist's Website: https://lukazabranfmanverissimo.com/
   The Creative Independent: https://thecreativeindependent.com/people/visual-artist-lukaza-branfman-verissimo-on-taking-notes-on-life/
