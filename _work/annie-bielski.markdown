@@ -16,12 +16,13 @@ exhibition_links:
   NADA: http://septembergallery.com/space/annie-bielski-at-nada-ny.html
   Post-Election: http://septembergallery.com/space/post-election-show.html
 images_with_captions:
-- image: "/uploads/Annie%20Bielski-Moonflower-2021-acrylic,%20oil%20stick,%20and%20cotton%20thread%20on%20sewn%20canvas,%20silk,%20and%20polyester-60%20x%2065%20x%203%20inches%20.jpg"
+- image: "/uploads/AB193-ee3bd2.jpg"
   caption: Annie Bielski, Moonflower, 2021, acrylic, oil stick, and cotton thread
     on sewn canvas, silk, and polyester, 65 x 60 x 3 inches
-- image: "/uploads/September_06-11-21_A4_2096_sRGB_1800px%20copy.jpg"
-  caption: Annie Bielski, Stars in pocket, 2021, acrylic, marker on Arches cotton
-    paper, 16 x 12 inches
+- image: "/uploads/AB176.jpg"
+  caption: |-
+    Annie Bielski, The Applause After a Turbulent Flight
+    2021, cotton, polyester, tshirt, spray paint, thread, canvas, 14 x 12 inches
 - image: "/uploads/September_06-11-21_A4_2084_sRGB_1800px%20copy.jpg"
   caption: Annie Bielski, Pile of riches, 2020, cotton bedsheet, bleach, acrylic,
     spray paint, wax crayon, thread on sewn canvas, 65 x 60 inches
@@ -36,6 +37,11 @@ images_with_captions:
 - image: "/uploads/KDodge_ABielski_03-03-18_53_8328_sRGB_WebRes_670.jpg"
   caption: Annie Bielski, Hot Spring,  2017, acrylic, graphite, latex on Arches cold
     pressed paper, 12 x 16 inches
+- image: "/uploads/AB09.jpg"
+  caption: Annie Bielski, Loveland, 2017, HD video, 3:14 runtime, Edition of 5, 2
+    APs
+- image: 
+  caption: 
 research_links:
   Artist's Website: http://anniebielski.com/
   CLEARANCE: https://everythingmustgo.biz/
