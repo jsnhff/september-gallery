@@ -30,9 +30,7 @@ images_with_captions:
   caption: Annie Bielski, Strutting, Fretting, 2019, Velvet, acrylic, cotton, found
     cotton skirts, curtains, antique cotton quilt pieces, thread, fused glass, wood,
     hardware, 91 x 199 x 5 inches
-- image: "/uploads/AB144.jpg"
-  caption: Annie Bielski, Pile of riches, 2020, cotton bedsheet, bleach, acrylic,
-    spray paint, wax crayon, thread on sewn canvas, 65 x 60 inches
+- 
 - image: "/uploads/Clearance.jpeg"
   caption: 'Annie Bielski, CLEARANCE cargo shirt #6, August 18, 2018'
 - image: "/uploads/KDodge_ABielski_03-03-18_53_8314_sRGB_WebRes_670.jpg"
