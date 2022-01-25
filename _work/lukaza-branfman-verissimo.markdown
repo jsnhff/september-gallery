@@ -2,10 +2,10 @@
 title: Lukaza Branfman-Verissimo
 date: 2022-01-01 14:55:00 -05:00
 position: 0
-key_image: "/uploads/September_02-19-21_B4_5500_sRGB_1800px_V1.jpg"
-key_image_credit: Lukaza Branfman-Verissimo, Let’s re-name our city, one block at
-  a time, 2020, black gesso, acrylic, colored pencil on plywood, hardware, 48 x 24
-  x variable inches.
+key_image: "/uploads/LB11.jpg"
+key_image_credit: Lukaza Branfman-Verissimo, Who is gong to begin this new story?,
+  2021, black gesso, acrylic, colored pencil on plywood, hardware, 48 x 24 x variable
+  inches
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: B
