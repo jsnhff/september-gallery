@@ -18,15 +18,15 @@ images_with_captions:
 - image: "/uploads/September_02-19-21_B4_5482_sRGB_1800px_V2-copy.jpg"
   caption: Lukaza Branfman-Verissimo, Our hands keep our stories, 2020, acrylic and
     colored pencil on digital print, 48 x 31 inches
-- image: "/uploads/LB12.jpg"
-  caption: Lukaza Branfman-Verissimo, What are our poems of today?, 2020, acrylic
-    and colored pencil on digital print, 48 x 31 inches
 - image: "/uploads/TOUCH6%20copy.png"
   caption: Lukaza Branfman-Verissimo, TOUCH (still), 2020, single-channel video (3
     minutes, 3 seconds)
 - image: "/uploads/LB9.jpg"
   caption: Lukaza Branfman-Verissimo, As bright as our living bodies, 2019, black
     gesso, acrylic, spray paint, colored pencil, 36 x 36 inches
+- image: "/uploads/LB12.jpg"
+  caption: Lukaza Branfman-Verissimo, What are our poems of today?, 2020, acrylic
+    and colored pencil on digital print, 48 x 31 inches
 - image: "/uploads/LB8.jpg"
   caption: Lukaza Branfman-Verissimo, YES, DEMAND, NOW, 2019, black gesso, acrylic,
     spray paint, 35 x 36 inches
