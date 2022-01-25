@@ -23,7 +23,14 @@ images_with_captions:
   caption: |-
     Annie Bielski, The Applause After a Turbulent Flight
     2021, cotton, polyester, tshirt, spray paint, thread, canvas, 14 x 12 inches
-- image: "/uploads/September_06-11-21_A4_2084_sRGB_1800px%20copy.jpg"
+- image: "/uploads/AB1108.jpg"
+  caption: Annie Bielski, Gala, 2021, acrylic, gouache, graphite, wax crayon, on arches
+    cotton paper, found wooden apple, 16 x 12 inches
+- image: "/uploads/AB165.jpg"
+  caption: Annie Bielski, Strutting, Fretting, 2019, Velvet, acrylic, cotton, found
+    cotton skirts, curtains, antique cotton quilt pieces, thread, fused glass, wood,
+    hardware, 91 x 199 x 5 inches
+- image: "/uploads/AB144.jpg"
   caption: Annie Bielski, Pile of riches, 2020, cotton bedsheet, bleach, acrylic,
     spray paint, wax crayon, thread on sewn canvas, 65 x 60 inches
 - image: "/uploads/Clearance.jpeg"
@@ -40,8 +47,6 @@ images_with_captions:
 - image: "/uploads/AB09.jpg"
   caption: Annie Bielski, Loveland, 2017, HD video, 3:14 runtime, Edition of 5, 2
     APs
-- image: 
-  caption: 
 research_links:
   Artist's Website: http://anniebielski.com/
   CLEARANCE: https://everythingmustgo.biz/
