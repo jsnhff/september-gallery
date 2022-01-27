@@ -24,12 +24,14 @@ exhibition_links:
 images_with_captions:
 - image: "/uploads/CHERUBINI-Verdant%20Empress%201%20copy.jpg"
   caption: |-
+    Nicole Cherubini,
     Verdant Empress,
     2014,
     earthenware, glaze, plywood,
     16 x 12 x 67 inches
 - image: "/uploads/NC107-EarchPot%239,3Fates-Hires%20copy.jpg"
   caption: |-
+    Nicole Cherubini,
     Earth Pot #9, 3 Fates,
     2015,
     earthenware, glaze, bronze, medium-density fiberboard (MDF),
@@ -37,6 +39,7 @@ images_with_captions:
     147 x 63 x 68.6 cm
 - image: "/uploads/NC111-Pot,S.Haze-Hires%20copy.jpg"
   caption: |-
+    Nicole Cherubini,
     Pot, S. Haze,
     2016,
     earthenware, glaze, decals, pc-11, model magic, acrylic, MDF,
@@ -44,6 +47,7 @@ images_with_captions:
     176.53 x 71.12 x 50.8 cm
 - image: "/uploads/NC114-Am-4-ohr-a-Hires%20copy%202.jpg"
   caption: |-
+    Nicole Cherubini,
     Am-4-ohr-a,
     2008,
     Digital c-print, enamel, gouche, ink, wax crayon, graphite on watercolor paper, UV plexiglass, and wood frame,
@@ -51,16 +55,25 @@ images_with_captions:
     63.5 x 127 x 8.9 cm
 - image: "/uploads/NC119-DippedinMoonlight-HiRes%20copy.jpg"
   caption: |-
+    Nicole Cherubini,
     dipped in moonlight,
     2017,
     Earthenware, glaze, grog, pc-11, pine, ronan paint, hardware,
     23.5  x 39 x 10 inches
 - image: "/uploads/NC120-EarthPot%2310-HiRes-1%20copy.jpg"
   caption: |-
+    Nicole Cherubini,
     Earthpot #10,
     2017,
     Earthenware, brown earthenware, glaze, grog, pc-11, magic sculpt,!pine, hardware,
     29 x 29 x 62 inches
+- image: "/uploads/NC145.jpg"
+  caption: |-
+    Nicole Cherubini,
+    Blue with Handle,
+    2006,
+    54 x 40 x 18 inches,
+    ceramic, terracotta, fake gold and sliver jewelery, chain, luster, enamel, blue and green crystal ice, pate de verre, green rabbit fur, steel wire, plywood, pine wood stain
 research_links:
   Artforum: https://www.artforum.com/print/reviews/202002/nicole-cherubini-81992
   Artspace: http://www.artspace.com/magazine/art_101/book_report/8-contemporary-ceramists-to-add-to-your-collection-55020
