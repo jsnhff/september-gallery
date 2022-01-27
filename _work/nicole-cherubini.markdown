@@ -36,13 +36,7 @@ images_with_captions:
     2019,
     earthenware, terracotta, glaze, wood, enamel, pc-11, steel,
     20 x 20 x 5 inches
-- image: "/uploads/NC293.jpg"
-  caption: |-
-    Nicole Cherubini,
-    F-Print 3 (with Fountain),
-    2019,
-    terra-cotta, earthenware, glaze, grog, pc-11, pine, ronan paint, with digital archival print on matte paper with custom frame,
-    54 x 36 x 11 inches
+- 
 - image: "/uploads/NC119-DippedinMoonlight-HiRes%20copy.jpg"
   caption: |-
     Nicole Cherubini,
@@ -50,13 +44,7 @@ images_with_captions:
     2017,
     Earthenware, glaze, grog, pc-11, pine, ronan paint, hardware,
     23.5  x 39 x 10 inches
-- image: "/uploads/NC120-EarthPot%2310-HiRes-1%20copy.jpg"
-  caption: |-
-    Nicole Cherubini,
-    Earthpot #10,
-    2017,
-    Earthenware, brown earthenware, glaze, grog, pc-11, magic sculpt,!pine, hardware,
-    29 x 29 x 62 inches
+- 
 - image: "/uploads/CHERUBINI-Verdant%20Empress%201%20copy.jpg"
   caption: |-
     Nicole Cherubini,
@@ -64,13 +52,7 @@ images_with_captions:
     2014,
     earthenware, glaze, plywood,
     16 x 12 x 67 inches
-- image: "/uploads/NC248.jpg"
-  caption: |-
-    Nicole Cherubini,
-    Little Sussie,
-    2012,
-    Pine, earthenware, terracotta, glaze, MDF, oil paint acrylic,
-    73 x 29 x 14inches
+- 
 - 
 - image: "/uploads/NC114-Am-4-ohr-a-Hires%20copy%202.jpg"
   caption: |-
@@ -93,13 +75,6 @@ images_with_captions:
     Amphora Loustrophoros Nestoris with Apollos Wreath and Painted Flowers,
     2007,
     ceramic, terracotta, porcelain, muskat pellet, luster, yellow and white crystal ice, mdf, plywood, 2x4s, grog, fake gold jewelry
-- image: "/uploads/NC145.jpg"
-  caption: |-
-    Nicole Cherubini,
-    Blue with Handle,
-    2006,
-    54 x 40 x 18 inches,
-    ceramic, terracotta, fake gold and sliver jewelery, chain, luster, enamel, blue and green crystal ice, pate de verre, green rabbit fur, steel wire, plywood, pine wood stain
 research_links:
   Artforum: https://www.artforum.com/print/reviews/202002/nicole-cherubini-81992
   Artspace: http://www.artspace.com/magazine/art_101/book_report/8-contemporary-ceramists-to-add-to-your-collection-55020
