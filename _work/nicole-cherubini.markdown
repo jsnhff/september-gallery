@@ -78,7 +78,7 @@ images_with_captions:
     Amphora Loustrophoros Nestoris with Apollos Wreath and Painted Flowers,
     2007,
     ceramic, terracotta, porcelain, muskat pellet, luster, yellow and white crystal ice, mdf, plywood, 2x4s, grog, fake gold jewelry
-- image: "/uploads/NC163-02350d.jpg"
+- image: "/uploads/NC163-4d44a8.jpg"
   caption: |-
     Nicole Cherubini,
     Amphora Loustrophoros Nestoris with Apollos Wreath and Painted Flowers,
