@@ -7,7 +7,6 @@ end_date: 2022-02-01 00:00:00 -05:00
 images:
 - "/uploads/IMG_3704%20copy.jpg"
 - "/uploads/IMG_3705%20copy.jpg"
-- "/uploads/IMG_3019%20copy.jpg"
 - "/uploads/IMG_3703%20copy.jpg"
 - "/uploads/IMG_2844%20copy.jpg"
 ---
