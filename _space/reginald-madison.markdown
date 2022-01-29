@@ -17,10 +17,7 @@ images:
 - "/uploads/September_08-27-21_A4_2054_sRGB_1800px.jpg"
 - "/uploads/September_08-27-21_A4_2073_sRGB_1800px.jpg"
 - "/uploads/Reginald%20Madison%20-%20Home%20Grown%20Show%20-%202021%20-%20install%20shot%206.jpg"
-- "/uploads/Reginald%20Madison%20-%20Home%20Grown%20Show%20-%202021%20-%20install%20shot%207.jpg"
 - "/uploads/Reginald%20Madison%20-%20Home%20Grown%20Show%20-%202021%20-%20install%20shot%2011.jpg"
-- "/uploads/September_08-27-21_A4_2099_sRGB_1800px.jpg"
-- "/uploads/Reginald%20Madison%20-%20Blue%20Note%20-%202014%20-%20oil%20on%20panel%20-%208%20x%208%20inches.jpg"
 research_links:
   The Hudson Eye: https://www.thehudsoneye.com/
   Basilica Hudson: https://basilicahudson.org/
