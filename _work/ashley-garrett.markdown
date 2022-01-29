@@ -14,6 +14,20 @@ exhibition_links:
   'Gold/scopophilia*: Meadow': https://www.goldmontclair.com/ashley-garrett-meadow
   Chromatic Vigils / Low Tides: http://www.thesphinxnyc.com/chromatic-vigils/
 images_with_captions:
+- image: "/uploads/Ashley-Garrett-Release-2021-oil-on-linen-11x14.jpg"
+  caption: |-
+    Ashley Garrett,
+    Release,
+    2021,
+    oil on linen,
+    11 x 14 inches
+- image: "/uploads/AGA1119.jpg"
+  caption: |-
+    Ashley Garrett,
+    Tendrillar,
+    2021,
+    oil on canvas,
+    10 x 8 inches
 - image: "/uploads/Ashley%20Garrett%20-%20Lamplighter%20-%202020%20-%20oil,%20gessoed%20paper%20-%204%20x%206%20inches.jpg"
   caption: Ashley Garrett, Lamplighter, 2020, oil on gessoed paper, 4 x 6 inches
 - image: "/uploads/Ashley%20Garrett-Corymbus-2017-oil%20on%20paper-6x8-AGA1004.jpg"
