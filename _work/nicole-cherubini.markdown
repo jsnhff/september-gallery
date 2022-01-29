@@ -36,6 +36,13 @@ images_with_captions:
     2019,
     earthenware, terracotta, glaze, wood, enamel, pc-11, steel,
     20 x 20 x 5 inches
+- image: "/uploads/NC137.jpg"
+  caption: |-
+    Nicole Cherubini,
+    746,932,514.549713826
+    2018,
+    earthenware, terracotta, black clay, glaze, underglaze, aluminum, steel bolts, wood, magic-sculpt, PC-11,
+    68 x 21 x 20 inches
 - image: "/uploads/NC119-DippedinMoonlight-HiRes%20copy.jpg"
   caption: |-
     Nicole Cherubini,
@@ -71,8 +78,12 @@ images_with_captions:
     Amphora Loustrophoros Nestoris with Apollos Wreath and Painted Flowers,
     2007,
     ceramic, terracotta, porcelain, muskat pellet, luster, yellow and white crystal ice, mdf, plywood, 2x4s, grog, fake gold jewelry
-- image: 
-  caption: 
+- image: "/uploads/NC163-02350d.jpg"
+  caption: |-
+    Nicole Cherubini,
+    Amphora Loustrophoros Nestoris with Apollos Wreath and Painted Flowers,
+    2007,
+    Detail
 research_links:
   Artforum: https://www.artforum.com/print/reviews/202002/nicole-cherubini-81992
   Artspace: http://www.artspace.com/magazine/art_101/book_report/8-contemporary-ceramists-to-add-to-your-collection-55020
