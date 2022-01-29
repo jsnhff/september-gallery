@@ -1,8 +1,8 @@
 ---
 title: Laleh Khorramian
-date: 2010-06-02 01:24:00 -04:00
+date: 2010-06-02 02:24:00 -04:00
 position: 6
-key_image: "/uploads/LK104.jpg"
+key_image: "/uploads/LK104-a422e8.jpg"
 key_image_credit: |-
   Laleh Khorramian.
   totem of a deity,
