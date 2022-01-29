@@ -53,13 +53,6 @@ images_with_captions:
     2017,
     Earthenware, glaze, grog, pc-11, pine, ronan paint, hardware,
     23.5  x 39 x 10 inches
-- image: "/uploads/CHERUBINI-Verdant%20Empress%201%20copy.jpg"
-  caption: |-
-    Nicole Cherubini,
-    Verdant Empress,
-    2014,
-    earthenware, glaze, plywood,
-    16 x 12 x 67 inches
 - image: "/uploads/NC114-Am-4-ohr-a-Hires%20copy%202.jpg"
   caption: |-
     Nicole Cherubini,
@@ -68,6 +61,13 @@ images_with_captions:
     Digital c-print, enamel, gouche, ink, wax crayon, graphite on watercolor paper, UV plexiglass, and wood frame,
     25 x 50 x 3.5 inches,
     63.5 x 127 x 8.9 cm
+- image: "/uploads/CHERUBINI-Verdant%20Empress%201%20copy.jpg"
+  caption: |-
+    Nicole Cherubini,
+    Verdant Empress,
+    2014,
+    earthenware, glaze, plywood,
+    16 x 12 x 67 inches
 - image: "/uploads/NC184.jpg"
   caption: |-
     Nicole Cherubini,
