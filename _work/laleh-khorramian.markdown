@@ -58,7 +58,7 @@ images_with_captions:
     Laleh Khorramian,
     Black Painting 9,
     2007,
-    oil, ink, colored pencil, crayon on ploypropelene,
+    oil, ink, colored pencil, crayon on polypropylene,
     26 x 40 inches
 research_links:
   Artist's Website: http://www.lalehkhorramian.com/
