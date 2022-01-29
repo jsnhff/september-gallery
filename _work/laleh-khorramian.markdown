@@ -1,10 +1,14 @@
 ---
 title: Laleh Khorramian
-date: 2010-06-02 00:24:00 -04:00
+date: 2010-06-02 01:24:00 -04:00
 position: 6
-key_image: "/uploads/IMG_9948.jpg"
-key_image_credit: Laleh Khorramian, The Setting, 2021, wax pencil, ink, graphite,
-  on polypropylene, 16 x 13 inches
+key_image: "/uploads/LK104.jpg"
+key_image_credit: |-
+  Laleh Khorramian.
+  totem of a deity,
+  2021,
+  acrylic paint, conte, cotton, fleece, silk, spray paint, thread, velvet on canvas, poplar,
+  95 x 62 inches
 is_always: true
 is_sometimes: false
 first_letter_of_last_name: a
