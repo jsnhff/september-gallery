@@ -15,7 +15,7 @@ exhibition_links:
   A Show of Hands: http://septembergallery.com/space/a-show-of-hands.html
   Out of Line: http://septembergallery.com/space/out-of-line.html
 images_with_captions:
-- image: "/uploads/September_02-19-21_B4_5482_sRGB_1800px_V2-copy.jpg"
+- image: "/uploads/LB13.jpg"
   caption: Lukaza Branfman-Verissimo, Our hands keep our stories, 2020, acrylic and
     colored pencil on digital print, 48 x 31 inches
 - image: "/uploads/TOUCH6%20copy.png"
