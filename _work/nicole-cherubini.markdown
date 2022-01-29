@@ -36,7 +36,6 @@ images_with_captions:
     2019,
     earthenware, terracotta, glaze, wood, enamel, pc-11, steel,
     20 x 20 x 5 inches
-- 
 - image: "/uploads/NC119-DippedinMoonlight-HiRes%20copy.jpg"
   caption: |-
     Nicole Cherubini,
@@ -44,7 +43,6 @@ images_with_captions:
     2017,
     Earthenware, glaze, grog, pc-11, pine, ronan paint, hardware,
     23.5  x 39 x 10 inches
-- 
 - image: "/uploads/CHERUBINI-Verdant%20Empress%201%20copy.jpg"
   caption: |-
     Nicole Cherubini,
@@ -52,8 +50,6 @@ images_with_captions:
     2014,
     earthenware, glaze, plywood,
     16 x 12 x 67 inches
-- 
-- 
 - image: "/uploads/NC114-Am-4-ohr-a-Hires%20copy%202.jpg"
   caption: |-
     Nicole Cherubini,
@@ -75,6 +71,8 @@ images_with_captions:
     Amphora Loustrophoros Nestoris with Apollos Wreath and Painted Flowers,
     2007,
     ceramic, terracotta, porcelain, muskat pellet, luster, yellow and white crystal ice, mdf, plywood, 2x4s, grog, fake gold jewelry
+- image: 
+  caption: 
 research_links:
   Artforum: https://www.artforum.com/print/reviews/202002/nicole-cherubini-81992
   Artspace: http://www.artspace.com/magazine/art_101/book_report/8-contemporary-ceramists-to-add-to-your-collection-55020
