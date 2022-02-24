@@ -2,9 +2,9 @@
 title: Nell Brookfield
 date: 2021-06-26 13:57:00 -04:00
 position: 14
-key_image: "/uploads/Nell%20Brookfield%20Recent%20Work%201.jpg"
-key_image_credit: Nell Brookfield, Wish You Were Here, 2020, pigment on paper, 15
-  x 11 inches, 38.6 x 28.2 cm.
+key_image: "/uploads/Nell%20Brookfield-Sisters%20with%20Me-2021%20copy.jpg"
+key_image_credit: "Nell Brookfield, \nSisters With Me, 2021,\nacrylic on canvas,\n15
+  x 20 inches"
 is_sometimes: true
 exhibition_links:
   A Show of Hands: http://septembergallery.com/space/a-show-of-hands.html
