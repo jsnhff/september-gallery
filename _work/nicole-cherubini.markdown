@@ -88,6 +88,7 @@ images_with_captions:
     2007,
     Detail
 research_links:
+  Sculpture Magazine: https://sculpturemagazine.art/ceramics-in-the-expanded-field/?fbclid=IwAR2w9kkaCQpXnw0fZqFP1cxigR-mSqG7WzWdNITkbufKgCMIXFil2ZpDJp8
   Artforum: https://www.artforum.com/print/reviews/202002/nicole-cherubini-81992
   Artspace: http://www.artspace.com/magazine/art_101/book_report/8-contemporary-ceramists-to-add-to-your-collection-55020
   Art in America: http://www.artinamericamagazine.com/reviews/nicole-cherubini/
