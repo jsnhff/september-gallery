@@ -31,6 +31,7 @@ images_with_captions:
   caption: Ashley Garrett, Sossusvlei, 2016, oil on canvas, 50 x 54 inches
 research_links:
   Artist's Website: https://www.ashleygarrett.com/
+  She Performs: https://www.sheperforms.com/sheperforms/ashley-garrett
   The Brooklyn Rail: https://brooklynrail.org/2020/09/artseen/Ashley-Garrett-Aegis
   Two Coats of Paint: https://www.twocoatsofpaint.com/2021/06/ashley-garretts-dynamic-pastoral.html
   Gorky's Granddaughter: https://vimeo.com/587943756
