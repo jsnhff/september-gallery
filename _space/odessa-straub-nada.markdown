@@ -1,16 +1,17 @@
 ---
 title: 'Odessa Straub: NADA'
-date: 2022-02-23 16:05:00 -05:00
-key_image: "/uploads/earthly_install-14%20copy-663878.jpg"
+date: 2022-05-07 17:05:00 -04:00
+key_image: "/uploads/September_05-04-22_A4_4140_sRGB_1800px.jpg"
 key_image_credit: |-
-  Odessa Straub,
-  How do we care...,
-  2020,
-  Faux pearls, fiber glass, steel chain mount, ceramic mug, faux alligator purse, ribbon, vinyl tubing, polyester dye, gold enamel, live plant (Marimo moss ball),
-  30 x 16 x 7 inches
+  Odessa Straub
+  Boob Shoes
+  2022
+  Ceramic mugs, leather boots, Shoe forms, calf weaners, dyed vinyl tubing, water, soil, variable ecosystem with subwassertang
+  28 x 24 x 8 inches
 start_date: 2022-05-05 10:00:00 -04:00
 end_date: 2022-05-08 17:00:00 -04:00
 research_links:
+  Cultured Magazine: https://www.culturedmag.com/article/2022/05/06/politics-take-center-stage-at-new-art-dealers-alliance-in-new-york
   NADA: https://www.newartdealers.org/programs/nada-new-york-2022/introduction
 ---
 
