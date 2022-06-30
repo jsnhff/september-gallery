@@ -1,7 +1,7 @@
 ---
-title: MOVING TO KINDERHOOK, NY
+title: Opening in Kinderhook, NY!
 date: 2021-10-23 16:45:00 -04:00
-key_image: "/uploads/IMG_1957%20copy.jpg"
+key_image: "/uploads/IMG_1989%20copy-368f5f.jpg"
 start_date: 2022-07-23 11:00:00 -04:00
 end_date: 2022-09-04 17:00:00 -04:00
 opening_start_time_and_date: 2022-07-23 17:00:00 -04:00
@@ -9,11 +9,6 @@ opening_end_time_and_date: 2022-07-23 19:00:00 -04:00
 artist_links:
   Reginald Madison: 
   Odessa Straub: 
-images:
-- "/uploads/IMG_3704%20copy.jpg"
-- "/uploads/IMG_3705%20copy.jpg"
-- "/uploads/IMG_3703%20copy.jpg"
-- "/uploads/IMG_2844%20copy.jpg"
 ---
 
 SEPTEMBER is thrilled to be opening our new location in Kinderhook, NY at The Knitting Mill on Saturday, July 23, 2022. Our two inaugural solo exhibitions are My flaws are my pets with Reginald Madison and Real-Puss Molting Center with Odessa Straub. Both exhibitions are a continuation of recent shows by each artist, a gathering of works from different time periods and contexts. The cohabitation of the past and the present, including the materials employed by each artist, reflects a temporal bridge between the programming at our former and new locations, and between the historic and renovated character of our space in Kinderhook.
