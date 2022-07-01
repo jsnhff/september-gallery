@@ -9,6 +9,8 @@ opening_end_time_and_date: 2022-07-23 19:00:00 -04:00
 artist_links:
   Reginald Madison: 
   Odessa Straub: 
+research_links:
+  Link One: https://twocoatsofpaint.com/2022/07/two-coats-selected-gallery-guide-to-the-hudson-valley-july-2022.html
 ---
 
 SEPTEMBER is thrilled to be opening our new location in Kinderhook, NY at The Knitting Mill on Saturday, July 23, 2022. Our two inaugural solo exhibitions are My flaws are my pets with Reginald Madison and Real-Puss Molting Center with Odessa Straub. Both exhibitions are a continuation of recent shows by each artist, a gathering of works from different time periods and contexts. The cohabitation of the past and the present, including the materials employed by each artist, reflects a temporal bridge between the programming at our former and new locations, and between the historic and renovated character of our space in Kinderhook.
@@ -18,3 +20,4 @@ Please join us Saturday, July 23, 2022, 5-7pm for our inaugural opening receptio
 The Kinderhook Knitting Mill is a community-minded space in the heart of Kinderhook that brings together food, art, and design in an 1870s textile mill. 
 
 The Knitting Mill is located on the ancestral homelands of the Muhheconneok.
+
