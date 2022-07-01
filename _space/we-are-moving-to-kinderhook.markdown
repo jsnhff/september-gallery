@@ -10,7 +10,7 @@ artist_links:
   Reginald Madison: 
   Odessa Straub: 
 research_links:
-  Link One: https://twocoatsofpaint.com/2022/07/two-coats-selected-gallery-guide-to-the-hudson-valley-july-2022.html
+  'Two Coats Selected Gallery Guide to the Hudson Valley: July, 2022': https://twocoatsofpaint.com/2022/07/two-coats-selected-gallery-guide-to-the-hudson-valley-july-2022.html
 ---
 
 SEPTEMBER is thrilled to be opening our new location in Kinderhook, NY at The Knitting Mill on Saturday, July 23, 2022. Our two inaugural solo exhibitions are My flaws are my pets with Reginald Madison and Real-Puss Molting Center with Odessa Straub. Both exhibitions are a continuation of recent shows by each artist, a gathering of works from different time periods and contexts. The cohabitation of the past and the present, including the materials employed by each artist, reflects a temporal bridge between the programming at our former and new locations, and between the historic and renovated character of our space in Kinderhook.
