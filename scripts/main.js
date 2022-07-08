@@ -24,8 +24,8 @@ function initPano() {
     if ( $("#js_streetview").length){
     var panorama = new google.maps.StreetViewPanorama(
         document.getElementById('js_streetview'), {
-            position: {lat: 42.2498667, lng: -73.7869834},
-            pov: {heading: 220, pitch: 0},
+            position: {lat: 42.3949987, lng: -73.6979503},
+            pov: {heading: 228, pitch: 4.50},
             zoom: 1,
             addressControlOptions: {
                 position: google.maps.ControlPosition.BOTTOM_CENTER
