@@ -9,7 +9,7 @@ layout: default
         <div id="js_streetview" class="relative bg-silver" style="z-index:-1;">
         <!--
         <div class="streetview">
-            <img class="" src="https://maps.googleapis.com/maps/api/streetview?size=1000x400&location=42.2498667,-73.7869834&heading=220&pitch=-0.06&fov=70&key=AIzaSyCVMendGJiHUon5HW7c35eFf81MU_gAUrI" title="">
+            <img class="" src="https://maps.googleapis.com/maps/api/streetview?size=1000x400&location=42.3949987,-73.6979503&heading=228&pitch=4.50&fov=70&key=AIzaSyCVMendGJiHUon5HW7c35eFf81MU_gAUrI" title="September Gallery is here.">
         </div>
         -->
     </div>
