@@ -83,7 +83,6 @@ layout: default
                     <a class="h3 my0 text-decoration-none navy pl1" title="September Instagram" href="http://www.instagram.com/{{ site.instagram_username }}">September on Instagram</a>
                 </div>
             </div>
-            <p class="h3 mt3">518-822-1333</p>
         </div>
         <div class="sm-hide md-hide lg-hide center">
             <!-- Instagram link -->
@@ -103,7 +102,6 @@ layout: default
             <p class="h3 mt3">
                 <a class="text-decoration-none navy" title="Email for appointments" href="mailto:{{ site.email }}?subject=I'd like to visit {{ current_exhibition }}">Email for appointments</a>
             </p>
-            <p class="h3 mt3">518-822-1333</p>
         </div>
 
     </div>
