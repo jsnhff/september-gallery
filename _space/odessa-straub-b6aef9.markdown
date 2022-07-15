@@ -4,10 +4,10 @@ date: 2022-07-15 16:45:00 -04:00
 position: 1
 key_image: "/uploads/SEPTEMBER-Odessa%20Straub.jpg"
 key_image_credit: |-
-  Odessa Straub
-  'In a time of fragility'
-  2020
-  Found objects, vinyl tubing, calf hair, polymer coating, turmeric, water, soil, variable ecosystem with hornwort
+  Odessa Straub-
+  'In a time of fragility'-
+  2020-
+  Found objects, vinyl tubing, calf hair, polymer coating, turmeric, water, soil, variable ecosystem with hornwort-
   30 x 36 x 6 inches
 is_event: false
 start_date: 2022-07-23 17:00:00 -04:00
