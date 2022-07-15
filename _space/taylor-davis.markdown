@@ -1,7 +1,7 @@
 ---
 title: 'Taylor Davis: redgreenblackwhites'
 date: 2016-08-27 16:19:00 -04:00
-position: 35
+position: 39
 key_image: "/uploads/Taylor%20Davis-%20studio%20shot-32e30c.jpg"
 start_date: 2016-11-05 18:00:00 -04:00
 end_date: 2017-01-12 18:00:00 -05:00

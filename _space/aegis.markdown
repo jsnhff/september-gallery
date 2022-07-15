@@ -1,7 +1,7 @@
 ---
 title: 'Ashley Garrett: Aegis'
 date: 2020-09-01 15:22:00 -04:00
-position: 10
+position: 14
 key_image: "/uploads/Ashley-Garrett_Empty-Realm-2019.jpg"
 key_image_credit: |-
   Ashley Garrett

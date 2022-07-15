@@ -1,6 +1,7 @@
 ---
 title: 'Odessa Straub: Real-Puss Molting Center'
 date: 2022-07-15 16:45:00 -04:00
+position: 1
 key_image: "/uploads/SEPTEMBER-Odessa%20Straub.jpg"
 key_image_credit: |-
   Odessa Straub

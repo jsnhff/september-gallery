@@ -1,6 +1,7 @@
 ---
 title: 'Odessa Straub: NADA'
 date: 2022-05-07 17:05:00 -04:00
+position: 3
 key_image: "/uploads/September_05-04-22_A4_4140_sRGB_1800px.jpg"
 key_image_credit: |-
   Odessa Straub

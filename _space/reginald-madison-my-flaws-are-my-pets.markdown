@@ -1,6 +1,7 @@
 ---
 title: 'Reginald Madison: My flaws are my pets'
 date: 2022-07-15 16:28:00 -04:00
+position: 2
 key_image: "/uploads/Reginald%20Madison,%20The%20Crowning%20Of%20The%20Thorns,%202001,%20Oil%20On%20Canvas,%2048inches%20x%2060inches%20copy.jpg"
 key_image_credit: Reginald Madison, 'The Crowning Of The Thorns,' 2001, Oil On Canvas,
   60 x 48 inches

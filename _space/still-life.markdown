@@ -1,7 +1,7 @@
 ---
 title: Still Life
 date: 2018-09-05 11:31:00 -04:00
-position: 20
+position: 24
 key_image: "/uploads/03_big-rock_0476%20small.jpg"
 start_date: 2018-09-08 18:00:00 -04:00
 end_date: 2018-10-28 00:00:00 -04:00

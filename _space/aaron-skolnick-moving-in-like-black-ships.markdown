@@ -1,7 +1,7 @@
 ---
 title: 'Aaron Skolnick: Moving in like black ships'
 date: 2020-11-05 16:22:00 -05:00
-position: 8
+position: 12
 key_image: "/uploads/night%20field%20copy.jpg"
 key_image_credit: Aaron Skolnick, Night Field, 2020, oil on linen, 16 x 12 inches,
   40.84 x 30.48 cm

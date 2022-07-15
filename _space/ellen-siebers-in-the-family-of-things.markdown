@@ -1,7 +1,7 @@
 ---
 title: 'Ellen Siebers: In The Family of Things'
 date: 2021-02-01 13:34:00 -05:00
-position: 6
+position: 10
 key_image: "/uploads/ESiebers_02-12-21_B4_5417_sRGB_1800px.jpg"
 key_image_credit: Ellen Siebers, White Poppy, 2021, oil on shaped birch panel, 10
   x 10 inches.

@@ -1,6 +1,7 @@
 ---
 title: Opening in Kinderhook, NY!
 date: 2021-10-23 16:45:00 -04:00
+position: 0
 key_image: "/uploads/IMG_1989%20copy-368f5f.jpg"
 start_date: 2022-07-23 11:00:00 -04:00
 end_date: 2022-09-04 17:00:00 -04:00

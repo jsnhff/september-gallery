@@ -3,7 +3,7 @@ title: |-
   Roots and webs and nets and branches and bulletin boards and
   banners and newsletters and mutual aid text threads: A Broadcast
 date: 2021-08-28 11:00:00 -04:00
-position: 1
+position: 5
 key_image: "/uploads/IMG_8802%20copy.jpg"
 start_date: 2021-08-28 11:00:00 -04:00
 end_date: 2021-08-28 16:00:00 -04:00
