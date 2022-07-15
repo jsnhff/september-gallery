@@ -1,6 +1,6 @@
 ---
 title: 'Reginald Madison: My flaws are my pets'
-date: 2022-07-15 16:28:00 -04:00
+date: 2022-07-15 17:30:00 -04:00
 position: 2
 key_image: "/uploads/SEPTEMBER-%20Reginald%20Madison.jpg"
 key_image_credit: |-
