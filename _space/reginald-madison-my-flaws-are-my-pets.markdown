@@ -2,9 +2,13 @@
 title: 'Reginald Madison: My flaws are my pets'
 date: 2022-07-15 16:28:00 -04:00
 position: 2
-key_image: "/uploads/Reginald%20Madison,%20The%20Crowning%20Of%20The%20Thorns,%202001,%20Oil%20On%20Canvas,%2048inches%20x%2060inches%20copy.jpg"
-key_image_credit: Reginald Madison, 'The Crowning Of The Thorns,' 2001, Oil On Canvas,
-  60 x 48 inches
+key_image: "/uploads/SEPTEMBER-%20Reginald%20Madison.jpg"
+key_image_credit: |-
+  Reginald Madison-
+  'I waited for you'-
+  1992-
+  oil on canvas-
+  36 x 28 inches
 start_date: 2022-07-23 17:00:00 -04:00
 end_date: 2022-09-04 17:00:00 -04:00
 opening_start_time_and_date: 2022-07-23 17:00:00 -04:00
