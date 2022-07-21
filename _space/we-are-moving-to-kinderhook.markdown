@@ -14,9 +14,11 @@ research_links:
   'Two Coats Selected Gallery Guide to the Hudson Valley: July, 2022': https://twocoatsofpaint.com/2022/07/two-coats-selected-gallery-guide-to-the-hudson-valley-july-2022.html
 ---
 
-SEPTEMBER is thrilled to be opening our new location in Kinderhook, NY at The Knitting Mill on Saturday, July 23, 2022. Our two inaugural solo exhibitions are 'My flaws are my pets' with Reginald Madison and 'Real-Puss Molting Center' with Odessa Straub. Both exhibitions are a continuation of recent shows by each artist, a gathering of works from different time periods and contexts. The cohabitation of the past and the present, including the materials employed by each artist, reflects a temporal bridge between the programming at our former and new locations, and between the historic and renovated character of our space in Kinderhook.
+SEPTEMBER is thrilled to be opening our new location in Kinderhook, NY at The Knitting Mill on Saturday, July 23, 2022. Our two inaugural solo exhibitions are 'My flaws are my pets' with Reginald Madison and 'Real-Puss Molting Center' with Odessa Straub. Both exhibitions are a continuation of recent shows by each artist, a gathering of works from different time periods and contexts. The cohabitation of the past and the present, including the materials employed by each artist, reflects the temporal bridge between the programming at our former and new location, and between the historic and renovated character of our new space.
 
-Please join us Saturday, July 23, 2022, 5-7pm for our inaugural opening reception on the 3rd floor of The Knitting Mill. There are two ways of accessing the gallery via the stairs or elevator. Temporary signage will be placed to guide you upstairs. Also celebrating their inaugural opening at The Knitting Mill that evening are 2Note, The Cocktail Lounge at the Aviary, and Damsel Garden. In addition, OK Pantry, Morningbird, and The Kinderhook Bottle Shop will be open for the occasion.
+Join us Saturday, July 23, 2022, 4-7pm for our opening reception on the 3rd floor of The Knitting Mill. Please note, access to the gallery is via stairway until the elevator is in operation. Enter The Knitting Mill through The Aviary entrance on the Southeast side of the building. The permanent entrance is not open yet. Temporary signage and helpful people will be available to guide you upstairs. 
+
+Also open at The Knitting Mill that evening are 2Note, The Cocktail Lounge at the Aviary, Damsel Garden, OK Pantry, and The Kinderhook Bottle Shop.
 
 The Kinderhook Knitting Mill is a community-minded space in the heart of Kinderhook that brings together food, art, and design in an 1870s textile mill. 
 
