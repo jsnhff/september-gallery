@@ -16,6 +16,7 @@ opening_start_time_and_date: 2022-07-23 17:00:00 -04:00
 opening_end_time_and_date: 2022-07-23 19:00:00 -04:00
 research_links:
   The Art Newspaper: https://www.theartnewspaper.com/2022/07/22/some-of-the-must-see-exhibitions-during-upstate-art-weekend
+  Get About Columbia: https://getaboutcolumbia.com/some-of-the-must-see-galleries-this-weekend-at-upstate-art-weekend-in-new-york/
 ---
 
 SEPTEMBER is excited to present 'Real-Puss Molting Center,' a solo exhibition with Odessa Straub, opening Saturday, July 23, 5-7pm. Following her solo booth 'Moltings,' at NADA NY and the group exhibition WELL/BEING at University of Albany Museum, Straub will present works from the recent two years of her practice. The exhibition will include floor and wall sculptures fabricated from collected refuse and sourced materials, alongside works on collaged paper and canvas that directly correlate to her sculptures. 
