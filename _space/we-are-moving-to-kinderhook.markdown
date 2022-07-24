@@ -11,6 +11,7 @@ artist_links:
   Reginald Madison: 
   Odessa Straub: 
 research_links:
+  Upstate Art Weekend: https://www.upstateartweekend.org/participants
   'Two Coats Selected Gallery Guide to the Hudson Valley: July, 2022': https://twocoatsofpaint.com/2022/07/two-coats-selected-gallery-guide-to-the-hudson-valley-july-2022.html
 ---
 
