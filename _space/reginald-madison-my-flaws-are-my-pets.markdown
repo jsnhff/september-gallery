@@ -13,6 +13,9 @@ start_date: 2022-07-23 17:00:00 -04:00
 end_date: 2022-09-04 17:00:00 -04:00
 opening_start_time_and_date: 2022-07-23 17:00:00 -04:00
 opening_end_time_and_date: 2022-07-23 19:00:00 -04:00
+research_links:
+  The Art Newspaper: https://www.theartnewspaper.com/2022/07/22/some-of-the-must-see-exhibitions-during-upstate-art-weekend
+  Get About Columbia: https://getaboutcolumbia.com/some-of-the-must-see-galleries-this-weekend-at-upstate-art-weekend-in-new-york/
 ---
 
 SEPTEMBER is thrilled to present 'My flaws are my pets,' a solo exhibition of paintings by Reginald Madison, opening Saturday, July 23, 5-7pm. Connecting to Madison’s first solo exhibition with the gallery in Hudson one year ago, 'My flaws are my pets' is a collection of oil paintings from recent decades. The selection represents Madison’s lifelong interest in working at varying scales from large to handheld, and working on a range of mostly found surfaces, including paper, canvas, and panel.
