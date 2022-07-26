@@ -60,6 +60,7 @@ images_with_captions:
     Edition 2 of 3
 research_links:
   Artist's Website: http://www.shegallagher.com/
+  Art Daily: https://artdaily.com/news/148201/Ackland-Art-Museum-presents-two-new-exhibitions--Alexis-Rockman-and-Art-from-the-Art-Bridges-Art-Collection#.YuA6dezMKYA
   Interview, Smoke Painting: https://www.youtube.com/watch?v=CcG7BY6VU08
   Interview, Plastic Painting: http://stateoftheart.crystalbridges.org/blog/project/sheila-gallagher-painting-in-plastic/
   ICA, Artist Prize: http://archive.boston.com/ae/theater_arts/gallery/foster_online/
