@@ -63,8 +63,11 @@ defaults:
       Catalog: ''
 gallery_hours: |-
   Thursday 11-5
+
   Friday 11-5
+
   Saturday 11-5
+
   Sunday 12-5
 is_closed: false
 why_youre_closed: 
