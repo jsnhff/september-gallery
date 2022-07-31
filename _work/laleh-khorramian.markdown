@@ -1,6 +1,6 @@
 ---
 title: Laleh Khorramian
-date: 2010-06-02 03:24:00 -04:00
+date: 2010-06-02 04:24:00 -04:00
 position: 6
 key_image: "/uploads/LK104-a422e8.jpg"
 key_image_credit: |-
@@ -62,6 +62,9 @@ images_with_captions:
     26 x 40 inches
 research_links:
   Artist's Website: http://www.lalehkhorramian.com/
+  Elephant: https://elephant.art/the-baltic-interviews-every-time-i-come-to-your-studio-its-a-magical-place-18052022/#.YqulZzQX1pU.gmail
+  Baltic Bites: https://vimeo.com/707754518/4d09ccdc8f
+  The Guardian: https://www.theguardian.com/artanddesign/2022/apr/12/the-vasseur-baltic-artists-award-2022-review-well-pickle-my-walnuts#comments
   The New York Times: https://www.nytimes.com/2021/06/14/t-magazine/new-artists-to-know.html
   The Creative Independent: https://thecreativeindependent.com/people/visual-artist-laleh-khorramian-on-knowing-when-to-take-a-break/
   Earthly Interview: https://www.youtube.com/watch?v=mt3PLtq0GVI
