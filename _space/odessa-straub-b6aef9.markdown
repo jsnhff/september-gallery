@@ -15,6 +15,7 @@ end_date: 2022-09-04 17:00:00 -04:00
 opening_start_time_and_date: 2022-07-23 17:00:00 -04:00
 opening_end_time_and_date: 2022-07-23 19:00:00 -04:00
 research_links:
+  Arthur: https://drive.google.com/file/d/1IrTvxgDP5eK4Hh_gj-bsjcjsTipyDi9g/view
   The Art Newspaper: https://www.theartnewspaper.com/2022/07/22/some-of-the-must-see-exhibitions-during-upstate-art-weekend
   Get About Columbia: https://getaboutcolumbia.com/some-of-the-must-see-galleries-this-weekend-at-upstate-art-weekend-in-new-york/
 ---
