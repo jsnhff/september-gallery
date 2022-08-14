@@ -14,6 +14,15 @@ start_date: 2022-07-23 17:00:00 -04:00
 end_date: 2022-09-04 17:00:00 -04:00
 opening_start_time_and_date: 2022-07-23 17:00:00 -04:00
 opening_end_time_and_date: 2022-07-23 19:00:00 -04:00
+images:
+- "/uploads/September_07-22-22_A4_1625_sRGB_FullRes.jpg"
+- "/uploads/September_07-22-22_A4_1635_sRGB_FullRes.jpg"
+- "/uploads/September_07-22-22_A4_1644_sRGB_FullRes.jpg"
+- "/uploads/September_07-22-22_A4_1648_sRGB_FullRes.jpg"
+- "/uploads/September_07-22-22_A4_1653_sRGB_FullRes.jpg"
+- "/uploads/September_07-22-22_A4_1655_sRGB_FullRes.jpg"
+- "/uploads/September_07-22-22_A4_1639_sRGB_FullRes.jpg"
+- "/uploads/September_07-22-22_A4_1666_sRGB_FullRes.jpg"
 research_links:
   Arthur - Eye On Upstate New York: https://drive.google.com/file/d/1IrTvxgDP5eK4Hh_gj-bsjcjsTipyDi9g/view
   The Art Newspaper: https://www.theartnewspaper.com/2022/07/22/some-of-the-must-see-exhibitions-during-upstate-art-weekend
