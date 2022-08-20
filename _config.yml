@@ -62,11 +62,11 @@ defaults:
     catalog_link:
       Catalog: ''
 gallery_hours: |-
-  Friday: 10 - 6
+  Friday: 10- 6
 
   Saturday: 10- 6
 
-  Sunday: 10 - 4
+  Sunday: 10- 4
 
   And By Appointment
 is_closed: false
