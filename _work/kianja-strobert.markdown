@@ -1,6 +1,7 @@
 ---
 title: Kianja Strobert
 date: 2018-06-22 17:44:00 -04:00
+published: false
 position: 25
 key_image: "/uploads/kianja-strobert-golgotha-800x800.jpg"
 key_image_credit: Kianja Strobert, Golgotha, 2016, oil, acrylic, ink, graphite, paper,
