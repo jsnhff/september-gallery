@@ -24,7 +24,7 @@ research_links:
   Get About Columbia: https://getaboutcolumbia.com/some-of-the-must-see-galleries-this-weekend-at-upstate-art-weekend-in-new-york/
 ---
 
-SEPTEMBER is thrilled to present 'My flaws are my pets,' a solo exhibition of paintings by Reginald Madison, opening Saturday, July 23, 5-7pm. Connecting to Madison’s first solo exhibition with the gallery in Hudson one year ago, 'My flaws are my pets' is a collection of oil paintings from recent decades. The selection represents Madison’s lifelong interest in working at varying scales from large to handheld, and working on a range of mostly found surfaces, including paper, canvas, and panel.
+SEPTEMBER is thrilled to present 'My flaws are my pets,' a solo exhibition of paintings by Reginald Madison, opening Saturday, July 23, and running through September 25. Connecting to Madison’s first solo exhibition with the gallery in Hudson one year ago, 'My flaws are my pets' is a collection of oil paintings from recent decades. The selection represents Madison’s lifelong interest in working at varying scales from large to handheld, and working on a range of mostly found surfaces, including paper, canvas, and panel.
 
 
 For Madison, the process of painting is one of courting risk and trusting the unknown. Madison never sets out with a predetermined subject, and allows the painting to reveal
