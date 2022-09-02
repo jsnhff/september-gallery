@@ -13,12 +13,13 @@ start_date: 2022-07-23 17:00:00 -04:00
 end_date: 2022-09-04 17:00:00 -04:00
 opening_start_time_and_date: 2022-07-23 17:00:00 -04:00
 opening_end_time_and_date: 2022-07-23 19:00:00 -04:00
-images:
-- "/uploads/September_07-22-22_A4_1601_sRGB_FullRes.jpg"
-- "/uploads/September_07-22-22_A4_1585_sRGB_FullRes%20copy.jpg"
-- "/uploads/September_07-22-22_A4_1610_sRGB_FullRes.jpg"
-- "/uploads/September_07-22-22_A4_1607_sRGB_FullRes.jpg"
-- "/uploads/September_07-22-22_A4_1606_sRGB_FullRes.jpg"
+images_with_captions:
+- image: "/uploads/September_7196%20copy.jpg"
+  caption: 
+- image: "/uploads/September_7166%20copy.jpg"
+  caption: 
+- image: "/uploads/September_7182crop%20copy.jpg"
+  caption: 
 research_links:
   The Art Newspaper: https://www.theartnewspaper.com/2022/07/22/some-of-the-must-see-exhibitions-during-upstate-art-weekend
   Get About Columbia: https://getaboutcolumbia.com/some-of-the-must-see-galleries-this-weekend-at-upstate-art-weekend-in-new-york/
