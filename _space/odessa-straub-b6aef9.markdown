@@ -14,15 +14,24 @@ start_date: 2022-07-23 17:00:00 -04:00
 end_date: 2022-09-04 17:00:00 -04:00
 opening_start_time_and_date: 2022-07-23 17:00:00 -04:00
 opening_end_time_and_date: 2022-07-23 19:00:00 -04:00
-images:
-- "/uploads/September_07-22-22_A4_1625_sRGB_FullRes.jpg"
-- "/uploads/September_07-22-22_A4_1635_sRGB_FullRes.jpg"
-- "/uploads/September_07-22-22_A4_1644_sRGB_FullRes.jpg"
-- "/uploads/September_07-22-22_A4_1648_sRGB_FullRes.jpg"
-- "/uploads/September_07-22-22_A4_1653_sRGB_FullRes.jpg"
-- "/uploads/September_07-22-22_A4_1655_sRGB_FullRes.jpg"
-- "/uploads/September_07-22-22_A4_1639_sRGB_FullRes.jpg"
-- "/uploads/September_07-22-22_A4_1666_sRGB_FullRes.jpg"
+images_with_captions:
+- image: "/uploads/September_7221%20copy.jpg"
+  caption: 
+- image: "/uploads/September_7235%20copy.jpg"
+  caption: 
+- image: "/uploads/September_7243%20copy.jpg"
+  caption: 
+- image: "/uploads/September_07-22-22_A4_1666_sRGB_1800px%20copy.jpg"
+  caption: Sailor Porn- Odessa Straub- 2022- linen, tulle, silk, cotton, velvet, leather,
+    pleather, duck, curtain, tire tread, wood, aluminum, beeswax- 90 x 119 1/4 inches
+- image: "/uploads/September_07-22-22_A4_1636_sRGB_1800px%20copy.jpg"
+  caption: Odessa Straub- Thong Hole- 2022- Thong, ceramic bedpan, shot glass, vinyl
+    tubing, glass cloche, water, soil, variable ecosystem with microsorum pteropus
+    and subwassertang, 42 x 12 x 9 inches
+- image: "/uploads/September_07-22-22_A4_1635_sRGB_1800px%20copy.jpg"
+  caption: Odessa Straub- Stretching Panties- 2022- Leather, burlap, panties, glass
+    cloche, water, soil, variable ecosystem with subwassertang and dracaena- 40 x
+    18 x 24 inches
 research_links:
   Arthur - Eye On Upstate New York: https://drive.google.com/file/d/1IrTvxgDP5eK4Hh_gj-bsjcjsTipyDi9g/view
   The Art Newspaper: https://www.theartnewspaper.com/2022/07/22/some-of-the-must-see-exhibitions-during-upstate-art-weekend
