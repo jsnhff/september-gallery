@@ -43,12 +43,15 @@ images_with_captions:
     2018, acrylic gouache on illustration board, 40 x 32 inches
 research_links:
   Artist's Website: https://lukazabranfmanverissimo.com/
+  Interview: https://thegreatdiscontent.com/interview/corita-kent/
   Architectural Review: https://www.architectural-review.com/essays/ending-mass-incarceration-out-of-the-body-of-a-jail
   Title TBD: https://titletbd.show/Lukaza-Branfman-Verissimo
   The Creative Independent: https://thecreativeindependent.com/people/visual-artist-lukaza-branfman-verissimo-on-taking-notes-on-life/
   Variable West: https://variablewest.com/2021/04/08/lukaza-branfman-verissimo-interviewed/
   Nat. Brut: https://www.natbrut.com/lukaza-branfman-verissimo
   East Bay Express: https://eastbayexpress.com/best-artist-with-something-to-say-lukaza-branfman-verissimo-2-1/
+catalog_link:
+  Slow Looking Publication: https://store.corita.org/collections/books/products/slow-looking-these-views-are-our-tool
 ---
 
 Lukaza Branfman-Verissimo received their MFA from Virginia Commonwealth University and BFA at California College of the Arts. Branfman-Verissimo’s work is informed by their commitment to craft and community, engagement with society, and interests in storytelling and cultural geography. They have had solo shows at SEPTEMBER Gallery [Kinderhook, NY], Deli Gallery [New York City, NY], Roll Up Projects [Oakland, CA], Guerrero Gallery [San Francisco, CA] and STNDRD Projects [Steuben, WI]. Their work has been included in exhibitions and performances at Konsthall C [Stockholm, Sweden], EFA Project Space [New York City, NY], Leslie Lohman Museum [New York City, NY], Yerba Buena Center for the Arts [San Francisco, CA], Berkeley Art Museum and Pacific Film Archive [Berkeley, CA] and L’Internationale Online, amongst others.  Lukaza was the Lead Curator and Founder at Nook Gallery, 2015-2020, collaborating with over 80+ artists, writers, performers, and musicians, in a gallery located in their home kitchen. They have been awarded residencies and fellowships at Kala Art Center [Berkeley, CA], Women Studio Workshop [Rosendale, NY], ACRE Residency [Steuben, WI], Vermont Studio Center [Johnson, VT], CENTER [Grand Rapids, MI] and Common Field. Lukaza’s artist books and printed editions have been published by Endless Editions, Childish Books, Press Press, Sming Sming and Printed Matter Inc. and is in the permanent collections at The Metropolitan Museum of Art, Cynthia Sears Artist’s Book Collection, California College of the Arts Printmaking Archive, University of California Santa Cruz Library, New York University Special Collections and San Francisco Museum of Art Library. They have been interviewed and covered by publications including Architectural Review, The Creative Independent, Art Journal, Frieze, L’Internationale, Nat. Brut, and Variable West. Branfman-Verissimo lives/works between Ohlone Land [Oakland, CA] and Powhatan Land [Richmond,VA].
