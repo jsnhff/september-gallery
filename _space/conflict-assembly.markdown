@@ -1,6 +1,10 @@
 ---
 title: Conflict Assembly
 date: 2022-09-22 13:33:00 -04:00
+key_image: "/uploads/em%20rooney.jpg"
+key_image_credit: "Em Rooney, Love Smells like Death (3), 2021, ceramic, steel, \naluminum
+  foil, paint, epoxy resin, flowers 16 x 48 x 13 inches.\nImage courtesy of the artist
+  and Derosia, New York."
 start_date: 2014-10-01 00:00:00 -04:00
 end_date: 2015-12-01 00:00:00 -05:00
 opening_start_time_and_date: 2022-10-14 17:00:00 -04:00
