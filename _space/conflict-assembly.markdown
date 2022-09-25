@@ -31,4 +31,4 @@ Sam Vernon works with installation and performance to honor the past while revis
 
 
 
-With special thanks to Callicoon Fine Arts, Candice Madey Gallery, Chart, Derosia, Lauren Marinaro Gallery
+With special thanks to Derosia and Lauren Marinaro Gallery
