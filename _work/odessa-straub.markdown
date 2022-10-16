@@ -9,6 +9,8 @@ is_always: true
 is_sometimes: false
 first_letter_of_last_name: b
 exhibition_links:
+  'SEPTEMBER: Real-Puss: Molting Center': http://septembergallery.com/space/odessa-straub-b6aef9.html
+  'Odessa Straub: NADA': http://septembergallery.com/space/odessa-straub-nada.html
   'SEPTEMBER: There''s my chair I put it there': http://septembergallery.com/space/odessa-straub.html
   'University at Albany Art Museum: Well/Being': https://www.albany.edu/museum/wellbeing/straub.html
   'Cooper Cole: Puss Palace Panic Room': https://coopercolegallery.com/exhibition/2019-odessa-straub-puss-palace-panic-room/
