@@ -30,7 +30,11 @@ images_with_captions:
 - caption: Reginald Madison, The Sage Lee Morgan, 2015, oil on canvas, 75.25 x 55.25
     inches
   image: "/uploads/Reginald%20Madison%20-%20The%20Sage%20Lee%20Morgan%20-%202015%20-%20oil%20on%20canvas%20-%2075.25%20x%2055.25%20inches.jpg"
+- caption: 
+  image: 
 research_links:
+  The Art Newspaper: https://www.theartnewspaper.com/2022/07/22/some-of-the-must-see-exhibitions-during-upstate-art-weekend
+  Get About Columbia: https://getaboutcolumbia.com/some-of-the-must-see-galleries-this-weekend-at-upstate-art-weekend-in-new-york/
   Medium: https://medium.com/@sfokamura09/home-grown-3-decades-of-visual-improvisation-by-reginald-madison-5f7a4284a23a
   OBSzine: https://a0b71bd0-2c5f-466b-968b-1c63c3000cc9.filesusr.com/ugd/5930b5_8466314308a14027a5289771ad92e32f.pdf
   Wavefarm: https://wavefarm.org/wf/archive/xj94s6
