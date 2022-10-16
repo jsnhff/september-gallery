@@ -8,6 +8,7 @@ is_always: true
 is_sometimes: true
 first_letter_of_last_name: M
 exhibition_links:
+  'SEPTEMBER: My flaws are my pets': http://septembergallery.com/space/reginald-madison-my-flaws-are-my-pets.html
   'SEPTEMBER: Home Grown': http://septembergallery.com/space/reginald-madison.html
   'SEPTEMBER: Shake Up the Room': http://septembergallery.com/space/shake-up-the-room.html
   'Foreland: Space is the Place': https://www.forelandcatskill.com/happenings/space-is-the-place
