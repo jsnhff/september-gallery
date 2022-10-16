@@ -54,9 +54,7 @@ images_with_captions:
   caption: Odessa Straub, Between The Moon the Cistern and the Column, 2017, acrylic,
     wool, fur on canvas, 48 x 40 inches
 research_links:
-  Arthur - Eye On Upstate New York: https://drive.google.com/file/d/1IrTvxgDP5eK4Hh_gj-bsjcjsTipyDi9g/view
   The Art Newspaper: https://www.theartnewspaper.com/2022/07/22/some-of-the-must-see-exhibitions-during-upstate-art-weekend
-  Get About Columbia: https://getaboutcolumbia.com/some-of-the-must-see-galleries-this-weekend-at-upstate-art-weekend-in-new-york/
   'College of St Rose: Earthly Delights: Interview': https://www.youtube.com/watch?v=mt3PLtq0GVI
   Artforum: https://www.artforum.com/picks/odessa-straub-81679
   The Brooklyn Rail: https://brooklynrail.org/2019/12/artseen/Odessa-StraubTheres-my-chair-I-put-it-there
