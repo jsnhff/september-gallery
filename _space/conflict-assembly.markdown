@@ -9,6 +9,21 @@ start_date: 2022-10-14 17:00:00 -04:00
 end_date: 2022-12-18 17:00:00 -05:00
 opening_start_time_and_date: 2022-10-14 17:00:00 -04:00
 opening_end_time_and_date: 2022-10-14 19:00:00 -04:00
+images_with_captions:
+- image: "/uploads/001_September_Installation%20copy.jpg"
+  caption: 
+- image: "/uploads/003_September_Installation%20copy.jpg"
+  caption: 
+- image: "/uploads/006_September_Installation%20copy.jpg"
+  caption: 
+- image: "/uploads/010_September_Installation%20copy.jpg"
+  caption: 
+- caption: 
+  image: "/uploads/015_September_Installation%20copy.jpg"
+- caption: 
+  image: "/uploads/017_September_Vernon%20copy.jpg"
+- caption: 
+  image: "/uploads/031_September_Motalebi%20copy.jpg"
 ---
 
 SEPTEMBER is pleased to announce CONFLICT ASSEMBLY, the gallery’s inaugural group show at its new location in Kinderhook, New York. Organized by Olga Dekalo and Kristen Dodge the exhibition is a survey of eight contemporary practices based in the Hudson Valley and Western Massachusetts. A.K. Burns, Liz Magic Laser, Sara Magenheimer, Sahra Motalebi, Em Rooney, Carrie Schneider, Kianja Strobert and Sam Vernon present several through lines including a reclamation of language, rhetorical power, and material friction. 
