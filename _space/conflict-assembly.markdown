@@ -24,6 +24,8 @@ images_with_captions:
   image: "/uploads/017_September_Vernon%20copy.jpg"
 - caption: 
   image: "/uploads/031_September_Motalebi%20copy.jpg"
+- caption: 
+  image: "/uploads/Em%20Rooney-%20Love%20Smells%20Like%20Death%20(1)-%202021-%20ceramic,%20steel,%20aluminum%20foil%20paint,%20cow%20teeth,%20resin,%20flowers-%2012%20x%2044%20x%2016%20inches%20installation%20view%201%20copy-f8df27.jpg"
 ---
 
 SEPTEMBER is pleased to announce CONFLICT ASSEMBLY, the gallery’s inaugural group show at its new location in Kinderhook, New York. Organized by Olga Dekalo and Kristen Dodge the exhibition is a survey of eight contemporary practices based in the Hudson Valley and Western Massachusetts. A.K. Burns, Liz Magic Laser, Sara Magenheimer, Sahra Motalebi, Em Rooney, Carrie Schneider, Kianja Strobert and Sam Vernon present several through lines including a reclamation of language, rhetorical power, and material friction. 
