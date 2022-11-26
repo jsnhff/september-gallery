@@ -3,6 +3,8 @@ title: 'Lukaza Branfman-Verissimo: UNTITLED Miami, Special Project'
 date: 2022-11-26 16:25:00 -05:00
 key_image: "/uploads/Screen%20Shot%202022-05-01%20at%202.53.55%20PM.png"
 key_image_credit: Lukaza Branfman-Verissimo, Viewfinder, image courtesy of artist
+start_date: 2022-11-29 11:00:00 -05:00
+end_date: 2022-12-03 19:00:00 -05:00
 ---
 
 SEPTEMBER is excited to present, 'Viewfinder' with Lukaza Branfman-Verissimo, an interactive project that will span the fairgrounds and the surrounding public context. The project is inspired by, and dedicated to, artist, educator, and activist Corita Kent, and is an invitation to practice a different way of seeing our world. In conjunction with their publication Slow Looking: These Views Are Our Tools, published by Childish Books, Branfman-Verissimo will provide cut a 'views' from a Risograph print they created for the project. Participants are invited to explore the fair though this lens, and bring their viewfinders outside to discover new ways of slow looking and deep investigation of the surrounding area. On the flip side of the viewfinder is a map of landmarks and spaces in Miami that center Black, Queer, Diasporic History. The map is provided as an educational tool and guide for exploration. Self-taken photos of views can be shared online and gathered via the hashtag #slowlookingmiami2022 providing a multi/collective view of this current and historic time and place, offering new perspectives to those who are in attendance in Miami, as well as to those who are virtually visiting from afar. A special and limited edition screenprint titled 'Slow Look' will be on view and available for purchase in conjunction with this project.
