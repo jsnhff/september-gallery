@@ -6,6 +6,11 @@ key_image_credit: Reginald Madison, Saxophonist, 2015, repurposed found wood, ha
   100 x 33 x 29 inches
 start_date: 2022-11-29 11:00:00 -05:00
 end_date: 2022-12-03 19:00:00 -05:00
+images_with_captions:
+- image: "/uploads/Reginald%20Madison%20-%20Saxophonist%20-%202015%20-%20repurposed%20found%20wood,%20hardware%20-%20100%20x%2033%20x%2029%20inches%20-%20detail%201%20copy.jpg"
+  caption: 
+- image: "/uploads/Reginald%20Madison%20-%20Saxophonist%20-%202015%20-%20repurposed%20found%20wood,%20hardware%20-%20100%20x%2033%20x%2029%20inches%20-%20detail%202%20copy.jpg"
+  caption: 
 ---
 
 SEPTEMBER is thrilled to present a solo booth with Reginald Madison, featuring selected works from the last four decades of the artist’s practice. The earliest work, 'Merc', 1992 is an oil on canvas self-portrait of the artist cradled and breastfeeding in his late mother’s lap while she fixes an internal gaze and smoke rises from a lit cigarette. Centrally featured in the booth is, Saxophonist, 2015, an extraordinary work that Madison constructed with scavenged wood scraps from an abandoned chair factory in Hudson, NY. Hundreds of found pieces layer and coalesce, visually animating the oversized figure mid-note. This significant work, along with a handful of others from the same timeframe, were made in honor of the legendary musician, composer, poet and leader, Sun Ra, an artist who has deeply influenced Madison since his early Chicago years. Also on view is a sprawling intersection of sculpture and painting titled Heliocentric, a magnificent and exuberant composition of hundreds of found strips of wood that the artist bent, wove, and connected. Finally, we are excited to announce that Madison is debuting a striking new series of robust tar and oil paintings on panel. Jostling with rounded and linear shapes Madison’s new works invoke familiarity, while landing firmly in abstraction.
